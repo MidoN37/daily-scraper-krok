@@ -37,6 +37,9 @@
         #overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0.8); z-index: 1000; text-align: center; padding-top: 200px; }
         .spinner { border: 8px solid #f3f3f3; border-top: 8px solid #0057b8; border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; margin: 0 auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* Debug Area */
+        #debug-area { display: none; background: #333; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; margin-top: 20px; }
     </style>
 </head>
 <body>
@@ -114,12 +117,17 @@
             <br>
             <button class="btn btn-primary" onclick="saveConfigOnly()">💾 Save Configuration Changes</button>
         </div>
+
+        <!-- DEBUG TOGGLE -->
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="#" onclick="toggleDebug(); return false;" style="color: #666; font-size: 0.8em;">Toggle Debug Info</a>
+        </div>
+        <div id="debug-area"></div>
     </div>
 
 <script>
     // --- STATE ---
     let currentConfigSha = ""; 
-    // Initialize with defaults including the new keys
     let existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "" };
     
     // Auto-fill inputs
@@ -142,6 +150,11 @@
         document.getElementById('overlay').style.display = 'none';
     };
 
+    function toggleDebug() {
+        const el = document.getElementById('debug-area');
+        el.style.display = el.style.display === 'none' ? 'block' : 'none';
+    }
+
     // UTF-8 aware Base64 encoder
     function utf8_to_b64(str) {
         return window.btoa(unescape(encodeURIComponent(str)));
@@ -159,12 +172,11 @@
         showLoading("Fetching config.json...");
 
         try {
-            // Get config.json
-            const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json`;
+            // Added ?t=Date.now() to bypass cache completely
+            const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json?t=${Date.now()}`;
             const res = await fetch(url, { 
                 headers: { 
-                    Authorization: `token ${token}`,
-                    'If-None-Match': '' // Disable caching
+                    Authorization: `token ${token}`
                 } 
             });
             
@@ -179,9 +191,14 @@
                 }).join(''));
                 
                 existingConfig = JSON.parse(jsonString);
+                
+                // SHOW DEBUG INFO
+                document.getElementById('debug-area').innerText = JSON.stringify(existingConfig, null, 2);
+
             } else {
                 console.warn("No config found, starting fresh.");
                 existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "Never" };
+                document.getElementById('debug-area').innerText = "No config found (404)";
             }
 
             // Update UI
@@ -204,12 +221,13 @@
         tbody.innerHTML = '';
 
         if (!existingConfig.files || existingConfig.files.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;">No files found in config.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;">No files found in config.json</td></tr>';
             return;
         }
 
         existingConfig.files.forEach(filename => {
             const tr = document.createElement('tr');
+            // Check passwords object safety
             const pass = (existingConfig.passwords && existingConfig.passwords[filename]) ? existingConfig.passwords[filename] : "";
 
             tr.innerHTML = `
@@ -236,15 +254,8 @@
 
         const { token, owner, repo } = getAuth();
         
-        // --- DETERMINE UPLOAD FOLDER ---
-        // Defaults to 'TXTs' if active_folder is empty to prevent errors, 
-        // but ideally active_folder should be set by the python script.
         let targetFolder = existingConfig.active_folder || "";
-        
-        // Remove leading/trailing slashes for clean path construction
         targetFolder = targetFolder.replace(/^\/|\/$/g, '');
-        
-        // If empty, upload to root, otherwise to folder
         const pathPrefix = targetFolder ? `${targetFolder}/` : "";
 
         const reader = new FileReader();
@@ -258,10 +269,8 @@
             showLoading(`Uploading to ${pathPrefix}${fileName}...`);
 
             try {
-                // Construct API URL based on Active Folder
                 const uploadUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(pathPrefix + fileName)}`;
                 
-                // Check if file exists to get SHA (for overwrite)
                 const checkRes = await fetch(uploadUrl, { headers: { Authorization: `token ${token}` } });
                 let fileSha = null;
                 if(checkRes.ok) {
@@ -283,13 +292,11 @@
 
                 if(!putRes.ok) throw new Error("Failed to upload file to GitHub. Check permissions.");
 
-                // Update Local Config
                 if(!existingConfig.files.includes(fileName)) {
                     existingConfig.files.push(fileName);
                 }
                 existingConfig.passwords[fileName] = passInput.value;
 
-                // Save Config
                 await saveConfigInternal();
 
                 alert("Success! File uploaded and registered.");
@@ -308,13 +315,11 @@
     async function saveConfigOnly() {
         showLoading("Updating configuration...");
         
-        // Rebuild config from UI
         const newFiles = [];
         const newPass = {};
         
         document.querySelectorAll('#file-table-body tr').forEach(tr => {
             const cb = tr.querySelector('.file-active-cb');
-            // Check if element exists (handling the 'No files' row case)
             if (cb) {
                 const inp = tr.querySelector('.file-pass-input');
                 const fname = cb.dataset.fname;
@@ -328,7 +333,6 @@
 
         existingConfig.files = newFiles;
         existingConfig.passwords = newPass;
-        // active_folder and last_updated are preserved in existingConfig
 
         try {
             await saveConfigInternal();
