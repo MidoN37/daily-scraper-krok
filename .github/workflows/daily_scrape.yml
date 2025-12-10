@@ -11,7 +11,7 @@ jobs:
   scrape-and-archive:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Critical: allows the bot to push to the repo
+      contents: write
 
     steps:
       - name: Checkout Code
@@ -32,17 +32,19 @@ jobs:
           KROK_PASSWORD: ${{ secrets.KROK_PASSWORD }}
         run: python daily_scraper.py
 
+      - name: Update Website Configuration
+        run: python update_site.py
+
       - name: Commit and Push Results
         run: |
           git config --global user.name "KrokDailyBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Stage all new files (the script generates a dynamic date folder)
+          # Add all changes:
+          # 1. The new "DD-MM-YYYY" folder (with PDFs and TXTs)
+          # 2. The updated "config.json"
           git add .
           
-          # Commit with current date
           TIMESTAMP=$(date +'%d-%m-%Y')
-          git commit -m "Daily Scrape Results: $TIMESTAMP" || echo "No changes to commit"
-          
-          # Push back to main
+          git commit -m "Daily Scrape & Config Update: $TIMESTAMP" || echo "No changes to commit"
           git push
