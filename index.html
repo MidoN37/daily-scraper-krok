@@ -87,9 +87,6 @@
     <!-- SCREEN 1: LOADING -->
     <div id="screen-loading" class="screen active">
         <h1>Завантаження бази тестів...</h1>
-        <!-- DATE DISPLAY ADDED HERE -->
-        <p id="db-date" style="text-align: center; color: #666; font-size: 0.9em; margin-top: -10px; margin-bottom: 20px;"></p>
-        
         <div class="loader"></div>
         <p style="text-align: center; color: #666;">Зчитування файлів з сервера. Це може зайняти кілька секунд.</p>
     </div>
@@ -97,6 +94,9 @@
     <!-- SCREEN 2: SELECT FILE/QUIZ -->
     <div id="screen-select-file" class="screen">
         <h1>Оберіть базу тестів</h1>
+        <!-- MOVED DATE DISPLAY HERE SO IT STAYS VISIBLE -->
+        <p id="db-date" style="text-align: center; color: #666; font-size: 0.9em; margin-bottom: 20px;"></p>
+        
         <ul id="file-list" class="list-group"></ul>
     </div>
 
@@ -166,7 +166,7 @@
 <script>
     /* 
     ========================================================
-    CONFIGURATION: DYNAMIC
+    CONFIGURATION
     ========================================================
     */
     
@@ -174,7 +174,7 @@
     let FILE_PASSWORDS = {};
     const DEFAULT_PASSWORD = "1234";
     
-    // This will be populated from config.json (e.g., "12-10-2025/TXT/")
+    // Will be populated from config.json (e.g., "12-10-2025/TXT/")
     let ACTIVE_FOLDER_PATH = ""; 
 
     /* ======================================================== */
@@ -193,7 +193,7 @@
     async function initApp() {
         try {
             // 1. Load Configuration from JSON
-            // We append a timestamp to prevent caching old config files
+            // timestamp appended to prevent caching
             const configResponse = await fetch('./config.json?t=' + new Date().getTime());
             if (!configResponse.ok) throw new Error("Could not load config.json. Ensure file exists.");
             
@@ -204,9 +204,8 @@
             document.getElementById('db-date').innerText = `База даних зібрана: ${dateStr}`;
 
             // --- FOLDER SELECTION ---
-            // If active_folder is present in JSON, use it. Otherwise fallback to empty (root) or local logic.
+            // If active_folder is present in JSON, use it. Otherwise fallback to root.
             ACTIVE_FOLDER_PATH = configData.active_folder || ""; 
-            // Ensure trailing slash if folder is set
             if (ACTIVE_FOLDER_PATH && !ACTIVE_FOLDER_PATH.endsWith('/')) ACTIVE_FOLDER_PATH += '/';
 
             // Assign data from JSON
@@ -223,7 +222,7 @@
             let loadedCount = 0;
             const fetchPromises = QUIZ_FILES.map(async (filename) => {
                 try {
-                    // Construct URL: Folder + Filename
+                    // This logic reads directly from the date folder
                     const fullPath = ACTIVE_FOLDER_PATH + encodeURIComponent(filename);
                     
                     const response = await fetch(fullPath);
