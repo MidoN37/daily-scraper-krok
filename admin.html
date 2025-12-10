@@ -21,14 +21,17 @@
         .btn-primary:hover { background: #004494; }
         .btn-success { background: #28a745; }
         .btn-success:hover { background: #218838; }
+        .btn-danger { background: #dc3545; }
         .btn:disabled { background: #ccc; cursor: not-allowed; }
 
         /* Table */
         table { width: 100%; border-collapse: collapse; margin-top: 15px; }
         th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: left; }
         th { background: #eee; }
-        .status-ok { color: green; font-weight: bold; }
-        .status-miss { color: red; }
+        
+        /* Status Bar */
+        .status-bar { background: #e9ecef; padding: 10px; border-radius: 5px; margin-bottom: 20px; display: flex; justify-content: space-between; font-size: 0.9em; border: 1px solid #ccc; }
+        .status-item span { font-weight: bold; color: #0057b8; }
 
         /* Loading Overlay */
         #overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0.8); z-index: 1000; text-align: center; padding-top: 200px; }
@@ -62,14 +65,22 @@
                 <input type="text" id="gh-repo">
             </div>
         </div>
+        <br>
         <button class="btn btn-primary" onclick="loadDashboard()">Connect & Load Data</button>
     </div>
 
     <div id="dashboard" style="display:none;">
         
+        <!-- SYSTEM STATUS -->
+        <div class="status-bar">
+            <div class="status-item">Last Updated: <span id="status-date">Unknown</span></div>
+            <div class="status-item">Active Folder: <span id="status-folder">Unknown</span></div>
+        </div>
+
         <!-- 2. UPLOAD NEW FILE -->
         <div class="card" style="border-left: 5px solid #28a745;">
-            <h2>📤 2. Upload New Quiz</h2>
+            <h2>📤 2. Upload Quiz</h2>
+            <p>Files will be uploaded to the <b>Active Folder</b> shown above.</p>
             <div style="display: flex; gap: 15px; align-items: flex-end;">
                 <div style="flex: 2;">
                     <label>Select TXT File:</label>
@@ -80,7 +91,7 @@
                     <input type="text" id="new-file-pass" placeholder="e.g. 1234">
                 </div>
                 <div style="flex: 0 0 auto; padding-bottom: 15px;">
-                    <button class="btn btn-success" onclick="uploadAndRegister()">Upload & Add to List</button>
+                    <button class="btn btn-success" onclick="uploadAndRegister()">Upload & Add</button>
                 </div>
             </div>
         </div>
@@ -88,7 +99,7 @@
         <!-- 3. MANAGE EXISTING -->
         <div class="card">
             <h2>📋 3. Manage Active Files</h2>
-            <p>Uncheck to remove from app. Edit password text to change it.</p>
+            <p>Uncheck to remove from list. Edit password to change it.</p>
             <table>
                 <thead>
                     <tr>
@@ -108,7 +119,8 @@
 <script>
     // --- STATE ---
     let currentConfigSha = ""; 
-    let existingConfig = { files: [], passwords: {} };
+    // Initialize with defaults including the new keys
+    let existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "" };
     
     // Auto-fill inputs
     if(localStorage.getItem('krok_gh_owner')) document.getElementById('gh-owner').value = localStorage.getItem('krok_gh_owner');
@@ -149,21 +161,32 @@
         try {
             // Get config.json
             const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json`;
-            const res = await fetch(url, { headers: { Authorization: `token ${token}` } });
+            const res = await fetch(url, { 
+                headers: { 
+                    Authorization: `token ${token}`,
+                    'If-None-Match': '' // Disable caching
+                } 
+            });
             
             if(res.ok) {
                 const data = await res.json();
                 currentConfigSha = data.sha;
-                // Decode UTF-8 Base64 content
+                
+                // Decode Content
                 const content = atob(data.content);
                 const jsonString = decodeURIComponent(Array.prototype.map.call(content, function(c) {
                     return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
                 }).join(''));
+                
                 existingConfig = JSON.parse(jsonString);
             } else {
                 console.warn("No config found, starting fresh.");
-                existingConfig = { files: [], passwords: {} };
+                existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "Never" };
             }
+
+            // Update UI
+            document.getElementById('status-date').innerText = existingConfig.last_updated || "N/A";
+            document.getElementById('status-folder').innerText = existingConfig.active_folder || "Root (/)";
 
             renderTable();
             document.getElementById('auth-card').style.display = 'none';
@@ -180,15 +203,20 @@
         const tbody = document.getElementById('file-table-body');
         tbody.innerHTML = '';
 
+        if (!existingConfig.files || existingConfig.files.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;">No files found in config.</td></tr>';
+            return;
+        }
+
         existingConfig.files.forEach(filename => {
             const tr = document.createElement('tr');
-            const pass = existingConfig.passwords[filename] || "";
+            const pass = (existingConfig.passwords && existingConfig.passwords[filename]) ? existingConfig.passwords[filename] : "";
 
             tr.innerHTML = `
                 <td><input type="checkbox" checked class="file-active-cb" data-fname="${filename}"></td>
                 <td>${filename}</td>
                 <td><input type="text" value="${pass}" class="file-pass-input" data-fname="${filename}"></td>
-                <td><button class="btn btn-danger" style="background:#dc3545; padding:5px 10px;" onclick="removeRow(this)">Remove</button></td>
+                <td><button class="btn btn-danger" style="padding:5px 10px;" onclick="removeRow(this)">Remove</button></td>
             `;
             tbody.appendChild(tr);
         });
@@ -208,22 +236,32 @@
 
         const { token, owner, repo } = getAuth();
         
-        // 1. Read File content
+        // --- DETERMINE UPLOAD FOLDER ---
+        // Defaults to 'TXTs' if active_folder is empty to prevent errors, 
+        // but ideally active_folder should be set by the python script.
+        let targetFolder = existingConfig.active_folder || "";
+        
+        // Remove leading/trailing slashes for clean path construction
+        targetFolder = targetFolder.replace(/^\/|\/$/g, '');
+        
+        // If empty, upload to root, otherwise to folder
+        const pathPrefix = targetFolder ? `${targetFolder}/` : "";
+
         const reader = new FileReader();
-        reader.readAsText(file); // Read as text first to handle Cyrillic
+        reader.readAsText(file); 
 
         reader.onload = async function() {
             const fileContent = reader.result;
             const fileName = file.name;
             const contentBase64 = utf8_to_b64(fileContent);
 
-            showLoading(`Uploading ${fileName}...`);
+            showLoading(`Uploading to ${pathPrefix}${fileName}...`);
 
             try {
-                // 2. Upload TXT to TXTs folder
-                const uploadUrl = `https://api.github.com/repos/${owner}/${repo}/contents/TXTs/${encodeURIComponent(fileName)}`;
+                // Construct API URL based on Active Folder
+                const uploadUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(pathPrefix + fileName)}`;
                 
-                // Check if file exists to get SHA (for overwrite) or just PUT
+                // Check if file exists to get SHA (for overwrite)
                 const checkRes = await fetch(uploadUrl, { headers: { Authorization: `token ${token}` } });
                 let fileSha = null;
                 if(checkRes.ok) {
@@ -243,15 +281,15 @@
                     body: JSON.stringify(payload)
                 });
 
-                if(!putRes.ok) throw new Error("Failed to upload file to GitHub");
+                if(!putRes.ok) throw new Error("Failed to upload file to GitHub. Check permissions.");
 
-                // 3. Update Local Config Object
+                // Update Local Config
                 if(!existingConfig.files.includes(fileName)) {
                     existingConfig.files.push(fileName);
                 }
                 existingConfig.passwords[fileName] = passInput.value;
 
-                // 4. Save Config
+                // Save Config
                 await saveConfigInternal();
 
                 alert("Success! File uploaded and registered.");
@@ -276,17 +314,21 @@
         
         document.querySelectorAll('#file-table-body tr').forEach(tr => {
             const cb = tr.querySelector('.file-active-cb');
-            const inp = tr.querySelector('.file-pass-input');
-            const fname = cb.dataset.fname;
+            // Check if element exists (handling the 'No files' row case)
+            if (cb) {
+                const inp = tr.querySelector('.file-pass-input');
+                const fname = cb.dataset.fname;
 
-            if(cb.checked) {
-                newFiles.push(fname);
-                newPass[fname] = inp.value;
+                if(cb.checked) {
+                    newFiles.push(fname);
+                    newPass[fname] = inp.value;
+                }
             }
         });
 
         existingConfig.files = newFiles;
         existingConfig.passwords = newPass;
+        // active_folder and last_updated are preserved in existingConfig
 
         try {
             await saveConfigInternal();
@@ -320,7 +362,7 @@
         if(!res.ok) throw new Error("Failed to update config.json");
         
         const data = await res.json();
-        currentConfigSha = data.content.sha; // Update SHA for subsequent saves
+        currentConfigSha = data.content.sha; 
     }
 
 </script>
