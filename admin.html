@@ -39,7 +39,7 @@
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
 
         /* Debug Area */
-        #debug-area { display: none; background: #333; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; margin-top: 20px; }
+        #debug-area { display: none; background: #333; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; margin-top: 20px; overflow-x: auto; }
     </style>
 </head>
 <body>
@@ -122,7 +122,7 @@
         <div style="text-align: center; margin-top: 20px;">
             <a href="#" onclick="toggleDebug(); return false;" style="color: #666; font-size: 0.8em;">Toggle Debug Info</a>
         </div>
-        <div id="debug-area"></div>
+        <div id="debug-area">No data loaded yet...</div>
     </div>
 
 <script>
@@ -152,7 +152,12 @@
 
     function toggleDebug() {
         const el = document.getElementById('debug-area');
-        el.style.display = el.style.display === 'none' ? 'block' : 'none';
+        // Simple logic: if it's block, hide it. Else show it.
+        if (el.style.display === 'block') {
+            el.style.display = 'none';
+        } else {
+            el.style.display = 'block';
+        }
     }
 
     // UTF-8 aware Base64 encoder
@@ -172,7 +177,7 @@
         showLoading("Fetching config.json...");
 
         try {
-            // Added ?t=Date.now() to bypass cache completely
+            // Force cache bypass
             const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json?t=${Date.now()}`;
             const res = await fetch(url, { 
                 headers: { 
@@ -192,13 +197,13 @@
                 
                 existingConfig = JSON.parse(jsonString);
                 
-                // SHOW DEBUG INFO
+                // Debug Output
                 document.getElementById('debug-area').innerText = JSON.stringify(existingConfig, null, 2);
 
             } else {
                 console.warn("No config found, starting fresh.");
                 existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "Never" };
-                document.getElementById('debug-area').innerText = "No config found (404)";
+                document.getElementById('debug-area').innerText = "Config not found (404)";
             }
 
             // Update UI
@@ -227,7 +232,6 @@
 
         existingConfig.files.forEach(filename => {
             const tr = document.createElement('tr');
-            // Check passwords object safety
             const pass = (existingConfig.passwords && existingConfig.passwords[filename]) ? existingConfig.passwords[filename] : "";
 
             tr.innerHTML = `
