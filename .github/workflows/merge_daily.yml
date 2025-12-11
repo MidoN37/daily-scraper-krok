@@ -1,18 +1,18 @@
-name: Merge & Deduplicate Data
+name: Merge & Update Config
 
 on:
-  # Trigger automatically after the Scraper workflow completes
+  # Run automatically after the Scraper finishes
   workflow_run:
     workflows: ["Daily Krok Scraper"]
     types:
       - completed
   
-  # Allow manual trigger
+  # Allow manual run
   workflow_dispatch:
 
 jobs:
   merge-data:
-    # Only run if the scraper succeeded
+    # Only run if scraper succeeded (or if run manually)
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     permissions:
@@ -32,15 +32,17 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Merger Script
+        # This script merges TXTs, makes PDFs, and updates config.json
         run: python merge_all.py
 
-      - name: Commit and Push Merged Data
+      - name: Commit Merged Data & Config
         run: |
           git config --global user.name "KrokMergeBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Add the Merged folder
+          # Add the Merged folder AND the updated config.json
           git add Merged/
+          git add config.json
           
-          git commit -m "Update Merged Database (De-duplicated)" || echo "No changes to commit"
+          git commit -m "Update Merged Database & Config" || echo "No changes to commit"
           git push
