@@ -18,8 +18,7 @@ ALLOWED_USER_ID = int(os.environ.get("ALLOWED_USER_ID", 0))
 MERGED_PDF_DIR = os.path.join("Merged", "PDF")
 CONFIG_FILE = "config.json"
 
-# Global Cache to map short IDs to long filenames
-# e.g. {0: "Krok 1 Medicine.pdf", 1: "Krok 2.pdf"}
+# Global Cache
 PDF_CACHE = {}
 
 logging.basicConfig(
@@ -33,6 +32,11 @@ class HealthCheckHandler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.end_headers()
         self.wfile.write(b"Krok Bot is Alive!")
+    
+    # Fix for UptimeRobot (it sends HEAD requests)
+    def do_HEAD(self):
+        self.send_response(200)
+        self.end_headers()
 
 def start_fake_server():
     port = int(os.environ.get("PORT", 10000))
@@ -48,7 +52,6 @@ def load_config():
     return {}
 
 def refresh_pdf_cache():
-    """Maps index numbers to filenames to fix button size limits"""
     global PDF_CACHE
     PDF_CACHE = {}
     if os.path.exists(MERGED_PDF_DIR):
@@ -57,18 +60,33 @@ def refresh_pdf_cache():
             PDF_CACHE[idx] = filename
 
 # --- BOT HANDLERS ---
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    if user_id != ALLOWED_USER_ID:
-        await update.message.reply_text("⛔ Access Denied.")
-        return
 
+async def show_main_menu(update: Update, is_callback=False):
+    """
+    Shows the main menu.
+    If is_callback=True, it edits the existing message (smooth).
+    If is_callback=False, it sends a new message (on /start).
+    """
     text = "🤖 **Krok Admin Bot**\nI'm ready. What do you need?"
     keyboard = [
         [InlineKeyboardButton("🔑 Get Passwords", callback_data='passwords')],
         [InlineKeyboardButton("📂 Get PDF Files", callback_data='list_pdfs')]
     ]
-    await update.message.reply_text(text, reply_markup=InlineKeyboardMarkup(keyboard), parse_mode='Markdown')
+    reply_markup = InlineKeyboardMarkup(keyboard)
+
+    if is_callback:
+        # Edit the previous message to show menu
+        await update.callback_query.edit_message_text(text, reply_markup=reply_markup, parse_mode='Markdown')
+    else:
+        # Send a fresh message
+        await update.message.reply_text(text, reply_markup=reply_markup, parse_mode='Markdown')
+
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    if user_id != ALLOWED_USER_ID:
+        await update.message.reply_text("⛔ Access Denied.")
+        return
+    await show_main_menu(update, is_callback=False)
 
 async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
@@ -80,9 +98,9 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif data == 'list_pdfs':
         await list_pdfs(query)
     elif data == 'start':
-        await start(update, context)
+        # Handle the "Back" button
+        await show_main_menu(update, is_callback=True)
     elif data.startswith('pdf_'):
-        # Extract the index ID from the button data
         file_id = int(data.split('_')[1])
         await send_pdf(query, file_id)
 
@@ -94,26 +112,20 @@ async def send_passwords(query):
         await query.edit_message_text("❌ No passwords found in config.")
         return
 
-    # Build the full message first
     full_message = ""
     for fname, pw in passwords.items():
-        # Using plain text format to avoid Markdown parsing errors with special chars
-        full_message += f"📄 {fname}\n🔑 {pw}\n\n"
+        full_message += f"📄 {fname}\n🔑 `{pw}`\n\n"
 
-    # Split into chunks of 4000 characters
     chunk_size = 4000
     chunks = [full_message[i:i+chunk_size] for i in range(0, len(full_message), chunk_size)]
 
-    # Send chunks
     for i, chunk in enumerate(chunks):
         if i == 0:
-            # Edit the original message for the first chunk
-            await query.edit_message_text(f"🔐 **Passwords (Part {i+1}/{len(chunks)}):**\n\n{chunk}", parse_mode=None)
+            await query.edit_message_text(f"🔐 **Passwords (Part {i+1}/{len(chunks)}):**\n\n{chunk}", parse_mode='Markdown')
         else:
-            # Send new messages for subsequent chunks
-            await query.message.reply_text(f"🔐 **(Part {i+1}/{len(chunks)}):**\n\n{chunk}", parse_mode=None)
+            await query.message.reply_text(f"🔐 **(Part {i+1}/{len(chunks)}):**\n\n{chunk}", parse_mode='Markdown')
     
-    # Add a back button at the end
+    # Add back button
     keyboard = [[InlineKeyboardButton("🔙 Back to Menu", callback_data="start")]]
     await query.message.reply_text("Done.", reply_markup=InlineKeyboardMarkup(keyboard))
 
@@ -125,10 +137,10 @@ async def list_pdfs(query):
         return
 
     keyboard = []
-    # Create buttons using ID (pdf_0, pdf_1) to save space
     for idx, filename in PDF_CACHE.items():
-        # Show filename in button label, but pass ID in data
-        btn = InlineKeyboardButton(filename, callback_data=f"pdf_{idx}")
+        # Truncate filename visual if too long, keep ID in data
+        display_name = (filename[:35] + '..') if len(filename) > 35 else filename
+        btn = InlineKeyboardButton(display_name, callback_data=f"pdf_{idx}")
         keyboard.append([btn])
 
     keyboard.append([InlineKeyboardButton("🔙 Back", callback_data="start")])
@@ -162,23 +174,20 @@ if __name__ == '__main__':
         print("Error: TELEGRAM_BOT_TOKEN not set.")
         exit(1)
 
-    # 1. Start Fake Server (For Render)
     t = Thread(target=start_fake_server, daemon=True)
     t.start()
 
-    # 2. Build Bot
     application = ApplicationBuilder().token(TOKEN).build()
     application.add_handler(CommandHandler('start', start))
     application.add_handler(CallbackQueryHandler(button_handler))
 
     print("🤖 Bot is starting...", flush=True)
 
-    # 3. Robust Loop (For Zero-Downtime Deploys)
     while True:
         try:
             application.run_polling(allowed_updates=Update.ALL_TYPES, close_loop=False)
         except Conflict:
-            print("⚠️ Conflict detected (Old instance alive). Retrying in 10s...", flush=True)
+            print("⚠️ Conflict detected. Retrying in 10s...", flush=True)
             time.sleep(10)
         except Exception as e:
             print(f"❌ Critical Bot Error: {e}. Retrying in 10s...", flush=True)
