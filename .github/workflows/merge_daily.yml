@@ -1,0 +1,46 @@
+name: Merge & Deduplicate Data
+
+on:
+  # Trigger automatically after the Scraper workflow completes
+  workflow_run:
+    workflows: ["Daily Krok Scraper"]
+    types:
+      - completed
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  merge-data:
+    # Only run if the scraper succeeded
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Merger Script
+        run: python merge_all.py
+
+      - name: Commit and Push Merged Data
+        run: |
+          git config --global user.name "KrokMergeBot"
+          git config --global user.email "bot@noreply.github.com"
+          
+          # Add the Merged folder
+          git add Merged/
+          
+          git commit -m "Update Merged Database (De-duplicated)" || echo "No changes to commit"
+          git push
