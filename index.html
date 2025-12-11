@@ -6,8 +6,8 @@
     <title>Krok Testing System</title>
     <style>
         :root {
-            --primary: #0057b8; /* Ukraine Blue */
-            --secondary: #ffd700; /* Ukraine Yellow */
+            --primary: #0057b8;
+            --secondary: #ffd700;
             --bg: #f4f4f9;
             --text: #333;
             --success: #28a745;
@@ -19,48 +19,31 @@
         .container { max-width: 900px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
         h1, h2 { text-align: center; color: var(--primary); }
         
-        /* Screens */
         .screen { display: none; }
         .screen.active { display: block; }
 
-        /* Buttons */
         .btn { background: var(--primary); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 16px; margin: 5px; transition: 0.3s; }
         .btn:hover { background: #004494; }
         .btn-secondary { background: #6c757d; }
         .btn-large { display: block; width: 100%; margin: 10px 0; padding: 15px; font-size: 18px; }
 
-        /* Lists */
         .list-group { list-style: none; padding: 0; }
         .list-item { 
-            background: #eee; 
-            margin: 5px 0; 
-            padding: 15px; 
-            border-radius: 5px; 
-            cursor: pointer; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center; 
-            transition: 0.2s;
+            background: #eee; margin: 5px 0; padding: 15px; border-radius: 5px; cursor: pointer; 
+            display: flex; justify-content: space-between; align-items: center; transition: 0.2s;
         }
         .list-item:hover { background: #ddd; }
-        .list-item span:first-child {
-            font-weight: bold;
-            margin-right: 10px;
-            word-break: break-word; /* Handles long filenames */
-        }
+        .list-item span:first-child { font-weight: bold; margin-right: 10px; word-break: break-word; }
 
-        /* Quiz Interface */
         .question-text { font-size: 1.2em; font-weight: bold; margin-bottom: 20px; line-height: 1.5; }
         .options { display: flex; flex-direction: column; gap: 10px; }
         .option-label { display: flex; align-items: center; padding: 10px; border: 1px solid #ccc; border-radius: 5px; cursor: pointer; transition: 0.2s; }
         .option-label:hover { background: #f0f8ff; }
         .option-label input { margin-right: 15px; }
         
-        /* Feedback Styles */
         .correct-answer { background-color: #d4edda !important; border-color: #c3e6cb !important; color: #155724; }
         .wrong-answer { background-color: #f8d7da !important; border-color: #f5c6cb !important; color: #721c24; }
 
-        /* Navigation Grid */
         .nav-grid { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; justify-content: center; }
         .nav-item { width: var(--nav-btn-size); height: var(--nav-btn-size); border: 1px solid #ccc; display: flex; align-items: center; justify-content: center; cursor: pointer; border-radius: 4px; font-size: 14px; }
         .nav-item.current { border: 2px solid var(--primary); font-weight: bold; }
@@ -68,17 +51,18 @@
         .nav-item.flagged-correct { background-color: var(--success); color: white; border-color: var(--success); }
         .nav-item.flagged-wrong { background-color: var(--error); color: white; border-color: var(--error); }
 
-        /* Inputs */
         input[type="password"] { padding: 10px; width: 80%; font-size: 16px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; }
 
-        /* Stats */
         .result-card { background: #f8f9fa; padding: 15px; margin-bottom: 15px; border-radius: 5px; border-left: 5px solid #ccc; }
         .result-card.correct { border-left-color: var(--success); }
         .result-card.wrong { border-left-color: var(--error); }
 
-        /* Loading */
         .loader { border: 8px solid #f3f3f3; border-top: 8px solid var(--primary); border-radius: 50%; width: 60px; height: 60px; animation: spin 2s linear infinite; margin: 20px auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* Date Selector Styling */
+        #date-selector-container { text-align: center; margin-bottom: 20px; background: #f8f9fa; padding: 10px; border-radius: 8px; border: 1px solid #dee2e6; }
+        select#date-select { padding: 8px; font-size: 16px; border-radius: 4px; border: 1px solid #ccc; min-width: 200px; }
     </style>
 </head>
 <body>
@@ -86,16 +70,20 @@
 <div class="container">
     <!-- SCREEN 1: LOADING -->
     <div id="screen-loading" class="screen active">
-        <h1>Завантаження бази тестів...</h1>
+        <h1>Завантаження...</h1>
         <div class="loader"></div>
-        <p style="text-align: center; color: #666;">Зчитування файлів з сервера. Це може зайняти кілька секунд.</p>
+        <p style="text-align: center; color: #666;">Підключення до бази даних...</p>
     </div>
 
     <!-- SCREEN 2: SELECT FILE/QUIZ -->
     <div id="screen-select-file" class="screen">
         <h1>Оберіть базу тестів</h1>
-        <!-- MOVED DATE DISPLAY HERE SO IT STAYS VISIBLE -->
-        <p id="db-date" style="text-align: center; color: #666; font-size: 0.9em; margin-bottom: 20px;"></p>
+        
+        <!-- DATE DROPDOWN -->
+        <div id="date-selector-container">
+            <label for="date-select" style="font-weight: bold; margin-right: 10px;">Дата оновлення бази:</label>
+            <select id="date-select" onchange="changeDate(this.value)"></select>
+        </div>
         
         <ul id="file-list" class="list-group"></ul>
     </div>
@@ -110,7 +98,7 @@
         <button class="btn btn-secondary" onclick="showScreen('screen-select-file')">Назад</button>
     </div>
 
-    <!-- SCREEN 4: MODE SELECTION -->
+    <!-- SCREEN 4: MODE -->
     <div id="screen-mode" class="screen" style="text-align: center;">
         <h2>Оберіть режим</h2>
         <button class="btn btn-large" onclick="setMode('krok')">🎓 Режим КРОК<br><small>(Результати в кінці)</small></button>
@@ -119,7 +107,7 @@
         <button class="btn btn-secondary" onclick="showScreen('screen-select-file')">Назад</button>
     </div>
 
-    <!-- SCREEN 5: SELECT PART -->
+    <!-- SCREEN 5: PARTS -->
     <div id="screen-parts" class="screen">
         <h1>Оберіть частину</h1>
         <p style="text-align: center;">Файл розбито на блоки по 50 питань.</p>
@@ -164,87 +152,66 @@
 </div>
 
 <script>
-    /* 
-    ========================================================
-    CONFIGURATION
-    ========================================================
-    */
-    
-    let QUIZ_FILES = [];
+    /* ================= GLOBALS ================= */
+    let ALL_DATES_DATA = {}; // Will hold the whole dates object
     let FILE_PASSWORDS = {};
     const DEFAULT_PASSWORD = "1234";
     
-    // Will be populated from config.json (e.g., "12-10-2025/TXT/")
-    let ACTIVE_FOLDER_PATH = ""; 
-
-    /* ======================================================== */
-
-    // STATE VARIABLES
-    let loadedFiles = {};
+    // State
+    let currentSelectedDate = "";
+    let loadedFiles = {}; // Cache for current date files
     let selectedFilename = "";
     let selectedMode = ""; 
     let currentQuizQuestions = []; 
     let userAnswers = {}; 
     let currentQIndex = 0;
 
-    // Initialize App on Load
+    // Initialize
     window.addEventListener('DOMContentLoaded', initApp);
 
     async function initApp() {
         try {
-            // 1. Load Configuration from JSON
-            // timestamp appended to prevent caching
+            // Load Config with Cache Busting
             const configResponse = await fetch('./config.json?t=' + new Date().getTime());
-            if (!configResponse.ok) throw new Error("Could not load config.json. Ensure file exists.");
+            if (!configResponse.ok) throw new Error("Could not load config.json");
             
             const configData = await configResponse.json();
             
-            // --- DATE DISPLAY ---
-            const dateStr = configData.last_updated || "Невідомо";
-            document.getElementById('db-date').innerText = `База даних зібрана: ${dateStr}`;
-
-            // --- FOLDER SELECTION ---
-            // If active_folder is present in JSON, use it. Otherwise fallback to root.
-            ACTIVE_FOLDER_PATH = configData.active_folder || ""; 
-            if (ACTIVE_FOLDER_PATH && !ACTIVE_FOLDER_PATH.endsWith('/')) ACTIVE_FOLDER_PATH += '/';
-
-            // Assign data from JSON
-            QUIZ_FILES = configData.files || [];
+            // 1. Store Global Data
+            ALL_DATES_DATA = configData.dates || {};
             FILE_PASSWORDS = configData.passwords || {};
+            const latestDate = configData.latest_date || "";
 
-            if(QUIZ_FILES.length === 0) {
-                alert("Config loaded, but no files defined.");
-                showScreen('screen-select-file'); 
+            // 2. Populate Dropdown
+            const dateSelect = document.getElementById('date-select');
+            dateSelect.innerHTML = "";
+            
+            // Sort dates descending (newest first)
+            const sortedDates = Object.keys(ALL_DATES_DATA).sort((a,b) => {
+                // Assuming DD-MM-YYYY format
+                const da = a.split('-').reverse().join('-');
+                const db = b.split('-').reverse().join('-');
+                return db.localeCompare(da);
+            });
+
+            if (sortedDates.length === 0) {
+                alert("Не знайдено жодної дати в конфігурації.");
+                showScreen('screen-select-file');
                 return;
             }
 
-            // 2. Load TXT Files from the Dynamic Folder
-            let loadedCount = 0;
-            const fetchPromises = QUIZ_FILES.map(async (filename) => {
-                try {
-                    // This logic reads directly from the date folder
-                    const fullPath = ACTIVE_FOLDER_PATH + encodeURIComponent(filename);
-                    
-                    const response = await fetch(fullPath);
-                    if (!response.ok) throw new Error("File not found");
-                    const text = await response.text();
-                    const questions = parseTXT(text);
-                    if (questions.length > 0) {
-                        loadedFiles[filename] = questions;
-                        loadedCount++;
-                    }
-                } catch (err) {
-                    console.error(`Failed to load ${filename} from ${ACTIVE_FOLDER_PATH}:`, err);
-                }
+            sortedDates.forEach(date => {
+                const opt = document.createElement('option');
+                opt.value = date;
+                opt.innerText = date;
+                if(date === latestDate) opt.selected = true;
+                dateSelect.appendChild(opt);
             });
 
-            await Promise.all(fetchPromises);
+            // 3. Load Initial Date
+            const targetDate = latestDate || sortedDates[0];
+            await changeDate(targetDate);
 
-            if (loadedCount === 0) {
-                alert(`Увага! Не вдалося знайти текстові файли в папці: ${ACTIVE_FOLDER_PATH}`);
-            }
-
-            renderFileList();
             showScreen('screen-select-file');
 
         } catch (error) {
@@ -257,60 +224,38 @@
         }
     }
 
-    function parseTXT(text) {
-        text = text.replace(/\r\n/g, '\n');
-        // Split by Number followed by dot 
-        const blocks = text.split(/\n(?=\d+\.)/);
-        const parsedQuestions = [];
+    async function changeDate(date) {
+        currentSelectedDate = date;
+        const fileList = ALL_DATES_DATA[date] || [];
+        
+        // Show loading state in list area
+        const listEl = document.getElementById('file-list');
+        listEl.innerHTML = '<div class="loader" style="width:30px; height:30px; margin: 20px auto;"></div>';
 
-        blocks.forEach(block => {
-            block = block.trim();
-            if (!block) return;
+        // Reset loaded files for this new date
+        loadedFiles = {}; 
 
-            const lines = block.split('\n');
-            let questionText = lines[0].replace(/^\d+\.\s*/, '').trim();
-            
-            let optionsStartIndex = 1;
-            for (let i = 1; i < lines.length; i++) {
-                if (/^\*?[a-eA-E]\./.test(lines[i].trim())) {
-                    optionsStartIndex = i;
-                    break;
+        // Folder path: e.g., "10-12-2025/TXT/"
+        const folderPath = `${date}/TXT/`;
+
+        // Fetch all files for this date
+        const fetchPromises = fileList.map(async (filename) => {
+            try {
+                const fullPath = folderPath + encodeURIComponent(filename);
+                const response = await fetch(fullPath);
+                if (!response.ok) throw new Error("404");
+                const text = await response.text();
+                const questions = parseTXT(text);
+                if (questions.length > 0) {
+                    loadedFiles[filename] = questions;
                 }
-                questionText += " " + lines[i].trim();
-            }
-
-            const options = [];
-            let correctIndex = -1;
-
-            for (let i = optionsStartIndex; i < lines.length; i++) {
-                let line = lines[i].trim();
-                if (!line) continue;
-
-                if (/^\*?[a-eA-E]\./.test(line)) {
-                    let isCorrect = line.startsWith('*');
-                    let cleanText = line.replace(/^\*?[a-eA-E]\.\s*/, '').trim();
-                    
-                    if (isCorrect) correctIndex = options.length;
-                    options.push(cleanText);
-                }
-            }
-
-            if (questionText && options.length > 0 && correctIndex !== -1) {
-                parsedQuestions.push({
-                    q: questionText,
-                    opts: options,
-                    correct: correctIndex
-                });
+            } catch (err) {
+                console.warn(`Skipping ${filename}: ${err.message}`);
             }
         });
 
-        return parsedQuestions;
-    }
-
-    /* --- UI NAVIGATION --- */
-    function showScreen(id) {
-        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-        document.getElementById(id).classList.add('active');
+        await Promise.all(fetchPromises);
+        renderFileList();
     }
 
     function renderFileList() {
@@ -318,7 +263,7 @@
         list.innerHTML = '';
         
         if (Object.keys(loadedFiles).length === 0) {
-            list.innerHTML = '<li class="list-item">Не знайдено тестів.</li>';
+            list.innerHTML = '<li class="list-item" style="text-align:center;">Не знайдено файлів для цієї дати.</li>';
             return;
         }
 
@@ -334,7 +279,51 @@
         });
     }
 
-    /* --- PASSWORD LOGIC --- */
+    /* --- PARSER --- */
+    function parseTXT(text) {
+        text = text.replace(/\r\n/g, '\n');
+        const blocks = text.split(/\n(?=\d+\.)/);
+        const parsedQuestions = [];
+
+        blocks.forEach(block => {
+            block = block.trim();
+            if (!block) return;
+            const lines = block.split('\n');
+            let questionText = lines[0].replace(/^\d+\.\s*/, '').trim();
+            let optionsStartIndex = 1;
+            for (let i = 1; i < lines.length; i++) {
+                if (/^\*?[a-eA-E]\./.test(lines[i].trim())) {
+                    optionsStartIndex = i;
+                    break;
+                }
+                questionText += " " + lines[i].trim();
+            }
+            const options = [];
+            let correctIndex = -1;
+            for (let i = optionsStartIndex; i < lines.length; i++) {
+                let line = lines[i].trim();
+                if (!line) continue;
+                if (/^\*?[a-eA-E]\./.test(line)) {
+                    let isCorrect = line.startsWith('*');
+                    let cleanText = line.replace(/^\*?[a-eA-E]\.\s*/, '').trim();
+                    if (isCorrect) correctIndex = options.length;
+                    options.push(cleanText);
+                }
+            }
+            if (questionText && options.length > 0 && correctIndex !== -1) {
+                parsedQuestions.push({ q: questionText, opts: options, correct: correctIndex });
+            }
+        });
+        return parsedQuestions;
+    }
+
+    /* --- NAVIGATION --- */
+    function showScreen(id) {
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        document.getElementById(id).classList.add('active');
+    }
+
+    /* --- PASSWORDS --- */
     function promptPassword(filename) {
         selectedFilename = filename;
         document.getElementById('password-input').value = "";
@@ -345,7 +334,6 @@
     function checkPassword() {
         const input = document.getElementById('password-input').value;
         const correctPass = FILE_PASSWORDS[selectedFilename] || DEFAULT_PASSWORD;
-        
         if (input.trim() === correctPass) {
             showScreen('screen-mode');
         } else {
@@ -353,7 +341,7 @@
         }
     }
 
-    /* --- QUIZ SETUP --- */
+    /* --- QUIZ --- */
     function setMode(mode) {
         selectedMode = mode;
         renderPartsList();
@@ -364,9 +352,7 @@
         const totalQs = loadedFiles[selectedFilename].length;
         const partsList = document.getElementById('parts-list');
         partsList.innerHTML = '';
-        
         const partsCount = Math.ceil(totalQs / 50);
-        
         for (let i = 0; i < partsCount; i++) {
             const start = i * 50;
             const end = Math.min((i + 1) * 50, totalQs);
@@ -383,29 +369,19 @@
         const start = partIndex * 50;
         const end = Math.min((partIndex + 1) * 50, allQuestions.length);
         const staticSlice = allQuestions.slice(start, end);
-
-        // Deep copy and shuffle
+        
         currentQuizQuestions = staticSlice.map(q => {
             const originalOpts = q.opts;
             const indices = originalOpts.map((_, i) => i);
-            
-            // Shuffle options indices
             for (let i = indices.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
                 [indices[i], indices[j]] = [indices[j], indices[i]];
             }
-            
             const newOptions = indices.map(i => originalOpts[i]);
             const newCorrectIndex = indices.indexOf(q.correct);
-
-            return {
-                q: q.q,
-                opts: newOptions,
-                correct: newCorrectIndex
-            };
+            return { q: q.q, opts: newOptions, correct: newCorrectIndex };
         });
 
-        // Shuffle question order
         for (let i = currentQuizQuestions.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [currentQuizQuestions[i], currentQuizQuestions[j]] = [currentQuizQuestions[j], currentQuizQuestions[i]];
@@ -413,78 +389,52 @@
 
         userAnswers = {};
         currentQIndex = 0;
-        
         document.getElementById('quiz-mode-label').innerText = selectedMode === 'krok' ? "Режим: КРОК" : "Режим: Тренування";
-        
         renderNavGrid();
         loadQuestion(0);
         showScreen('screen-quiz');
     }
 
-    /* --- QUIZ PLAYING --- */
     function loadQuestion(index) {
         if (index < 0 || index >= currentQuizQuestions.length) return;
         currentQIndex = index;
-
         const q = currentQuizQuestions[index];
         document.getElementById('quiz-progress').innerText = `Питання ${index + 1}/${currentQuizQuestions.length}`;
         document.getElementById('q-text').innerText = q.q;
-
         const optsContainer = document.getElementById('q-options');
         optsContainer.innerHTML = '';
-
         const hasAnswered = userAnswers.hasOwnProperty(index);
 
         q.opts.forEach((optText, optIdx) => {
             const label = document.createElement('label');
             label.className = 'option-label';
-            
             if (selectedMode === 'practice' && hasAnswered) {
                 if (optIdx === q.correct) label.classList.add('correct-answer');
                 if (userAnswers[index] === optIdx && optIdx !== q.correct) label.classList.add('wrong-answer');
                 label.style.pointerEvents = 'none';
             }
-
             const radio = document.createElement('input');
             radio.type = 'radio';
             radio.name = 'option';
             radio.value = optIdx;
-            if (hasAnswered && userAnswers[index] === optIdx) {
-                radio.checked = true;
-            }
-            
+            if (hasAnswered && userAnswers[index] === optIdx) radio.checked = true;
             radio.onchange = () => selectAnswer(index, optIdx);
-
             label.appendChild(radio);
             label.appendChild(document.createTextNode(optText));
             optsContainer.appendChild(label);
         });
-
         updateNavGridUI();
     }
 
     function selectAnswer(qIndex, optIndex) {
         if (selectedMode === 'practice' && userAnswers.hasOwnProperty(qIndex)) return;
-
         userAnswers[qIndex] = optIndex;
-        
-        if (selectedMode === 'practice') {
-            loadQuestion(qIndex);
-        }
+        if (selectedMode === 'practice') loadQuestion(qIndex);
         updateNavGridUI();
     }
 
-    function nextQuestion() {
-        if (currentQIndex < currentQuizQuestions.length - 1) {
-            loadQuestion(currentQIndex + 1);
-        }
-    }
-
-    function prevQuestion() {
-        if (currentQIndex > 0) {
-            loadQuestion(currentQIndex - 1);
-        }
-    }
+    function nextQuestion() { if (currentQIndex < currentQuizQuestions.length - 1) loadQuestion(currentQIndex + 1); }
+    function prevQuestion() { if (currentQIndex > 0) loadQuestion(currentQIndex - 1); }
 
     function renderNavGrid() {
         const grid = document.getElementById('nav-grid');
@@ -504,16 +454,11 @@
         for (let i = 0; i < currentQuizQuestions.length; i++) {
             const btn = document.getElementById(`nav-${i}`);
             btn.classList.remove('current', 'answered', 'flagged-correct', 'flagged-wrong');
-            
             if (i === currentQIndex) btn.classList.add('current');
-            
             if (userAnswers.hasOwnProperty(i)) {
                 if (selectedMode === 'practice') {
-                    if (userAnswers[i] === currentQuizQuestions[i].correct) {
-                        btn.classList.add('flagged-correct');
-                    } else {
-                        btn.classList.add('flagged-wrong');
-                    }
+                    if (userAnswers[i] === currentQuizQuestions[i].correct) btn.classList.add('flagged-correct');
+                    else btn.classList.add('flagged-wrong');
                 } else {
                     btn.classList.add('answered');
                 }
@@ -523,29 +468,22 @@
 
     function finishQuiz() {
         if (!confirm("Ви впевнені, що хочете завершити тест?")) return;
-        
         let score = 0;
         const resultsContainer = document.getElementById('detailed-results');
         resultsContainer.innerHTML = '';
-
         currentQuizQuestions.forEach((q, idx) => {
             const userAnsIdx = userAnswers[idx];
             const isCorrect = userAnsIdx === q.correct;
             if (isCorrect) score++;
-
             const card = document.createElement('div');
             card.className = `result-card ${isCorrect ? 'correct' : 'wrong'}`;
-            
             const qTitle = document.createElement('div');
             qTitle.innerHTML = `<b>${idx + 1}. ${q.q}</b>`;
             card.appendChild(qTitle);
-
             const userAnsText = userAnsIdx !== undefined ? q.opts[userAnsIdx] : "Не надано";
             const correctAnsText = q.opts[q.correct];
-
             const details = document.createElement('div');
             details.style.marginTop = "10px";
-            
             if (isCorrect) {
                 details.innerHTML = `<span style="color: var(--success)">Ваша відповідь: ${userAnsText}</span>`;
             } else {
@@ -557,10 +495,8 @@
             card.appendChild(details);
             resultsContainer.appendChild(card);
         });
-
         const percent = ((score / currentQuizQuestions.length) * 100).toFixed(1);
         document.getElementById('score-display').innerText = `Ваш результат: ${score} з ${currentQuizQuestions.length} (${percent}%)`;
-        
         showScreen('screen-results');
     }
 </script>
