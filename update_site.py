@@ -1,58 +1,64 @@
 import os
 import json
+import re
 from datetime import datetime
 
 # --- CONFIG ---
-DATE_STR = datetime.now().strftime('%d-%m-%Y')
-DAILY_TXT_FOLDER = os.path.join(DATE_STR, "TXT") # e.g. "12-12-2025/TXT"
 CONFIG_FILE = "config.json"
 DEFAULT_PASS = "12345"
 
 def update_website_config():
-    # 1. Check if today's folder exists
-    if not os.path.exists(DAILY_TXT_FOLDER):
-        print(f"⚠️ Warning: Daily folder {DAILY_TXT_FOLDER} not found. Skipping update.")
-        return
-
-    print(f"✅ Found daily folder: {DAILY_TXT_FOLDER}")
-
-    # 2. Load Existing Config
-    data = {"files": [], "passwords": {}, "active_folder": ""}
+    # 1. Load Existing Config (to keep passwords)
+    data = {"dates": {}, "passwords": {}, "latest_date": ""}
     if os.path.exists(CONFIG_FILE):
         try:
             with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+                old_data = json.load(f)
+                data['passwords'] = old_data.get('passwords', {})
         except Exception as e:
-            print(f"⚠️ Error reading config.json, starting fresh: {e}")
+            print(f"⚠️ Error reading config.json: {e}")
 
-    # 3. Update 'active_folder' path in JSON
-    # This tells HTML where to look
-    data['active_folder'] = DAILY_TXT_FOLDER.replace("\\", "/") # Ensure forward slashes for web
-
-    # 4. Scan the daily folder for files
-    current_files = sorted([f for f in os.listdir(DAILY_TXT_FOLDER) if f.endswith(".txt")])
-    data['files'] = current_files
-    print(f"📋 Found {len(current_files)} files in daily folder.")
-
-    # 5. Update Passwords (preserve old, add default for new)
-    updated_passwords = data.get('passwords', {})
+    # 2. Scan Repository for Date Folders (Format: DD-MM-YYYY)
+    all_dates = {}
     
-    for f in current_files:
-        if f not in updated_passwords:
-            print(f"   🆕 New file detected: {f} -> Password: {DEFAULT_PASS}")
-            updated_passwords[f] = DEFAULT_PASS
+    # Regex to match "10-12-2025"
+    date_pattern = re.compile(r"^\d{2}-\d{2}-\d{4}$")
     
-    data['passwords'] = updated_passwords
+    for item in os.listdir('.'):
+        if os.path.isdir(item) and date_pattern.match(item):
+            txt_path = os.path.join(item, "TXT")
+            if os.path.exists(txt_path):
+                # Found a valid date folder with a TXT subfolder
+                files = sorted([f for f in os.listdir(txt_path) if f.endswith(".txt")])
+                if files:
+                    all_dates[item] = files
+                    print(f"✅ Found database: {item} ({len(files)} tests)")
 
-    # 6. Set the Last Updated Date
-    data['last_updated'] = DATE_STR
-    print(f"📅 Updated database date to: {DATE_STR}")
+    if not all_dates:
+        print("❌ No date folders found.")
+        return
 
-    # 7. Save Config
+    data['dates'] = all_dates
+
+    # 3. Determine Latest Date (for default selection)
+    # Sort keys by converting to datetime objects
+    sorted_dates = sorted(all_dates.keys(), key=lambda x: datetime.strptime(x, '%d-%m-%Y'), reverse=True)
+    data['latest_date'] = sorted_dates[0]
+    print(f"📅 Latest database is: {data['latest_date']}")
+
+    # 4. Update Passwords (Global list)
+    # We iterate through ALL files in ALL dates to ensure passwords exist
+    for date, files in all_dates.items():
+        for f in files:
+            if f not in data['passwords']:
+                print(f"   🆕 New file: {f} -> Password: {DEFAULT_PASS}")
+                data['passwords'][f] = DEFAULT_PASS
+
+    # 5. Save Config
     with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
-    print("✅ Config updated. The website will now read from the new daily folder.")
+    print("✅ Config updated with multi-date support.")
 
 if __name__ == "__main__":
     update_website_config()
