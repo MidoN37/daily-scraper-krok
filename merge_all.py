@@ -25,6 +25,7 @@ class MasterMerger:
     def __init__(self):
         self.ensure_folders()
         self.setup_font()
+        # Structure: { "filename.txt": { "Question Text Hash": "Full Block String" } }
         self.database = {} 
 
     def ensure_folders(self):
@@ -42,7 +43,7 @@ class MasterMerger:
         except: pass
 
     def run(self):
-        print("🚀 Starting Merge...", flush=True)
+        print("🚀 Starting Smart Merge...", flush=True)
         
         # 1. SCAN DATES
         date_pattern = re.compile(r"^\d{2}-\d{2}-\d{4}$")
@@ -52,26 +53,34 @@ class MasterMerger:
             print("❌ No date folders found.")
             return
 
-        # 2. COLLECT & DEDUPLICATE
+        print(f"📅 Scanning {len(date_folders)} date folders...")
+
+        # 2. COLLECT & DEDUPLICATE (SMART MODE)
         for d_folder in date_folders:
             txt_path = os.path.join(d_folder, "TXT")
             if not os.path.exists(txt_path): continue
             
             for txt_file in glob.glob(os.path.join(txt_path, "*.txt")):
                 filename = os.path.basename(txt_file)
-                if filename not in self.database: self.database[filename] = set()
+                if filename not in self.database: self.database[filename] = {}
                 self.parse_and_add(txt_file, filename)
 
         # 3. SAVE MERGED FILES
         print(f"💾 Saving {len(self.database)} merged tests...", flush=True)
-        for filename, questions_set in self.database.items():
-            sorted_questions = sorted(list(questions_set))
+        
+        for filename, questions_dict in self.database.items():
+            # We take values() because that holds the Full Block
+            unique_blocks = list(questions_dict.values())
             
+            # Save TXT
             txt_out = os.path.join(MERGED_TXT_DIR, filename)
-            self.save_txt(txt_out, sorted_questions)
+            self.save_txt(txt_out, unique_blocks)
             
+            # Save PDF
             pdf_out = os.path.join(MERGED_PDF_DIR, filename.replace(".txt", ".pdf"))
             self.save_pdf(txt_out, pdf_out)
+            
+            print(f"   ✅ {filename}: {len(unique_blocks)} unique questions.")
 
         # 4. UPDATE CONFIG.JSON
         self.update_website_config()
@@ -80,23 +89,47 @@ class MasterMerger:
         try:
             with open(filepath, 'r', encoding='utf-8') as f: content = f.read()
             content = content.replace('\r\n', '\n')
+            
+            # Split by "Number." (e.g., "1. ", "15. ")
             blocks = re.split(r'\n(?=\d+\.)', content)
             
             for block in blocks:
                 block = block.strip()
                 if not block: continue
-                # Remove leading number "1. " to deduplicate purely by text
+                
+                # 1. Clean the block (remove leading number "1. ")
                 clean_block = re.sub(r'^\d+\.\s*', '', block)
-                if clean_block: self.database[filename].add(clean_block)
-        except: pass
+                
+                # 2. EXTRACT QUESTION TEXT ONLY (Stop at options)
+                lines = clean_block.split('\n')
+                q_text_parts = []
+                for line in lines:
+                    line = line.strip()
+                    # Stop if we hit an option (a., *a., etc)
+                    if re.match(r'^\*?[a-eA-E]\.', line):
+                        break
+                    q_text_parts.append(line)
+                
+                question_key = " ".join(q_text_parts).strip()
+                
+                # 3. Store in Dictionary
+                # Key = Question Text Only (For deduplication)
+                # Value = Full Clean Block (For saving)
+                if question_key:
+                    # Only add if we haven't seen this question text before
+                    if question_key not in self.database[filename]:
+                        self.database[filename][question_key] = clean_block
+                        
+        except Exception as e:
+            print(f"⚠️ Error parsing {filepath}: {e}")
 
-    def save_txt(self, path, questions):
+    def save_txt(self, path, blocks):
         with open(path, 'w', encoding='utf-8') as f:
-            for i, q in enumerate(questions):
-                f.write(f"{i+1}. {q}\n")
+            for i, block in enumerate(blocks):
+                # We re-add the number here
+                f.write(f"{i+1}. {block}\n")
 
     def save_pdf(self, txt_path, pdf_path):
-        # (Simplified PDF generation logic reused here)
         c = canvas.Canvas(pdf_path, pagesize=A4)
         width, height = A4
         margin = 40
@@ -117,18 +150,33 @@ class MasterMerger:
                     line = line[1:].strip()
                     bg = colors.lightgreen
                 
-                if y < 40:
-                    c.showPage()
-                    c.setFont(FONT_NAME, 10)
-                    y = height - 40
+                # Wrap Text logic
+                words = line.split(' ')
+                current_line = []
+                wrapped_lines = []
                 
-                if bg:
-                    c.setFillColor(bg)
-                    c.rect(margin-2, y-4, max_w+4, 14, fill=1, stroke=0)
-                
-                c.setFillColor(colors.black)
-                c.drawString(margin, y, line[:100]) # Trim very long lines for PDF safety
-                y -= 14
+                for word in words:
+                    test_line = ' '.join(current_line + [word])
+                    if pdfmetrics.stringWidth(test_line, FONT_NAME, 10) < max_w:
+                        current_line.append(word)
+                    else:
+                        wrapped_lines.append(' '.join(current_line))
+                        current_line = [word]
+                if current_line: wrapped_lines.append(' '.join(current_line))
+
+                for w_line in wrapped_lines:
+                    if y < 40:
+                        c.showPage()
+                        c.setFont(FONT_NAME, 10)
+                        y = height - 40
+                    
+                    if bg:
+                        c.setFillColor(bg)
+                        c.rect(margin-2, y-4, max_w+4, 14, fill=1, stroke=0)
+                    
+                    c.setFillColor(colors.black)
+                    c.drawString(margin, y, w_line)
+                    y -= 14
         c.save()
 
     def update_website_config(self):
@@ -155,11 +203,11 @@ class MasterMerger:
                 data['passwords'][f] = DEFAULT_PASS
 
         # Update Date
-        data['last_updated'] = datetime.now().strftime('%d-%m-%Y') + " (Merged)"
+        data['last_updated'] = datetime.now().strftime('%d-%m-%Y') + " (Merged Database)"
 
         with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        print("✅ Config updated. Website now serves Merged data.")
+        print("✅ Config updated.")
 
 if __name__ == "__main__":
     MasterMerger().run()
