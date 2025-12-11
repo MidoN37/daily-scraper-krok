@@ -2,9 +2,7 @@ name: Daily Krok Scraper
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  # Allows you to run it manually from the Actions tab for testing
   workflow_dispatch:
 
 jobs:
@@ -32,19 +30,14 @@ jobs:
           KROK_PASSWORD: ${{ secrets.KROK_PASSWORD }}
         run: python daily_scraper.py
 
-      - name: Update Website Configuration
-        run: python update_site.py
-
-      - name: Commit and Push Results
+      - name: Commit and Push Scrape Results
         run: |
           git config --global user.name "KrokDailyBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Add all changes:
-          # 1. The new "DD-MM-YYYY" folder (with PDFs and TXTs)
-          # 2. The updated "config.json"
+          # Add the new date folder
           git add .
           
           TIMESTAMP=$(date +'%d-%m-%Y')
-          git commit -m "Daily Scrape & Config Update: $TIMESTAMP" || echo "No changes to commit"
+          git commit -m "Daily Scrape: $TIMESTAMP" || echo "No changes to commit"
           git push
