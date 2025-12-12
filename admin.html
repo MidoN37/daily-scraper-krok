@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krok Admin Panel</title>
+    <title>Krok Admin - Master Database</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f4f9; max-width: 900px; margin: 0 auto; color: #333; }
         h1, h2 { color: #0057b8; margin-top: 0; }
@@ -11,7 +11,7 @@
         
         /* Form Elements */
         label { font-weight: bold; display: block; margin-top: 10px; font-size: 0.9em; color: #555; }
-        input[type="text"], input[type="password"], input[type="file"], select { 
+        input[type="text"], input[type="password"], input[type="file"] { 
             padding: 10px; width: 100%; box-sizing: border-box; margin-top: 5px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;
         }
         
@@ -27,7 +27,7 @@
         /* Table */
         table { width: 100%; border-collapse: collapse; margin-top: 15px; }
         th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: left; }
-        th { background: #eee; }
+        th { background: #eee; position: sticky; top: 0; }
         tr:hover { background-color: #f9f9f9; }
         
         /* Status Bar */
@@ -38,9 +38,6 @@
         #overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0.85); z-index: 1000; text-align: center; padding-top: 200px; }
         .spinner { border: 8px solid #f3f3f3; border-top: 8px solid #0057b8; border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; margin: 0 auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-
-        /* Debug Area */
-        #debug-area { display: none; background: #222; color: #0f0; padding: 15px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; margin-top: 20px; overflow-x: auto; font-size: 12px; }
     </style>
 </head>
 <body>
@@ -55,8 +52,7 @@
     <!-- 1. AUTHENTICATION -->
     <div class="card" id="auth-card">
         <h2>🔐 1. Connect to GitHub</h2>
-        <p>Please enter your <b>new repository</b> details below.</p>
-        <label>GitHub Token (Scope: repo):</label>
+        <label>GitHub Token:</label>
         <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
         
         <div style="display: flex; gap: 15px;">
@@ -65,32 +61,29 @@
                 <input type="text" id="gh-owner" value="MidoN37">
             </div>
             <div style="flex:1">
-                <label>Repository Name:</label>
+                <label>Repository:</label>
                 <input type="text" id="gh-repo" value="daily-scraper-krok">
             </div>
         </div>
         <br>
-        <button class="btn btn-primary" onclick="loadDashboard()">Connect & Load Data</button>
+        <button class="btn btn-primary" onclick="loadDashboard()">Connect</button>
     </div>
 
     <div id="dashboard" style="display:none;">
         
         <!-- SYSTEM STATUS -->
         <div class="status-bar">
-            <div class="status-item">Connected to: <strong><span id="connected-repo">...</span></strong></div>
-            <div class="status-item">Latest DB: <strong><span id="status-latest">Unknown</span></strong></div>
+            <div class="status-item">Status: <strong>Connected</strong></div>
+            <div class="status-item">Active Folder: <strong><span id="status-folder">Merged/TXT</span></strong></div>
+            <div class="status-item">Last Updated: <strong><span id="status-date">...</span></strong></div>
         </div>
 
-        <!-- 3. MANAGE EXISTING -->
+        <!-- 2. MANAGE FILES -->
         <div class="card">
-            <h2>📋 Manage Files & Passwords</h2>
+            <h2>📋 Master Database (Merged)</h2>
+            <p>Edit passwords below and click <b>Save</b>.</p>
             
-            <label for="admin-date-select">Select Database Date to Edit:</label>
-            <select id="admin-date-select" onchange="renderTable()"></select>
-
-            <p style="font-size: 0.9em; color: #666;">Note: Changing a password here updates it for <b>all dates</b>.</p>
-            
-            <div style="max-height: 500px; overflow-y: auto;">
+            <div style="max-height: 500px; overflow-y: auto; border: 1px solid #eee;">
                 <table>
                     <thead>
                         <tr>
@@ -104,42 +97,35 @@
                 </table>
             </div>
             <br>
-            <button class="btn btn-primary" style="width: 100%;" onclick="saveConfigOnly()">💾 Save Configuration Changes</button>
+            <button class="btn btn-primary" style="width: 100%;" onclick="saveConfigOnly()">💾 Save Changes</button>
         </div>
 
-        <!-- 2. UPLOAD NEW FILE (OPTIONAL) -->
+        <!-- 3. UPLOAD -->
         <div class="card" style="border-left: 5px solid #28a745;">
             <h3 style="margin-top:0;">📤 Manual Upload</h3>
-            <p>Uploads will go to the <b>currently selected date</b> folder.</p>
+            <p>Uploads will be added to the <b>Master Database</b>.</p>
             <div style="display: flex; gap: 15px; align-items: flex-end;">
                 <div style="flex: 2;">
-                    <label>Select TXT File:</label>
+                    <label>File:</label>
                     <input type="file" id="new-file-input" accept=".txt">
                 </div>
                 <div style="flex: 1;">
-                    <label>Set Password:</label>
-                    <input type="text" id="new-file-pass" placeholder="e.g. 1234">
+                    <label>Password:</label>
+                    <input type="text" id="new-file-pass" placeholder="12345">
                 </div>
                 <div style="flex: 0 0 auto; padding-bottom: 15px;">
                     <button class="btn btn-success" onclick="uploadAndRegister()">Upload</button>
                 </div>
             </div>
         </div>
-
-        <!-- DEBUG TOGGLE -->
-        <div style="text-align: center; margin-top: 20px;">
-            <a href="#" onclick="toggleDebug(); return false;" style="color: #666; font-size: 0.8em;">Toggle Debug Info</a>
-        </div>
-        <div id="debug-area">No data loaded yet...</div>
     </div>
 
 <script>
     // --- STATE ---
     let currentConfigSha = ""; 
-    // Updated data structure to match new config.json
-    let existingConfig = { dates: {}, passwords: {}, latest_date: "" };
+    let existingConfig = { files: [], passwords: {}, active_folder: "", last_updated: "" };
     
-    // Auto-fill inputs from local storage if available
+    // Auto-fill
     if(localStorage.getItem('krok_gh_owner')) document.getElementById('gh-owner').value = localStorage.getItem('krok_gh_owner');
     if(localStorage.getItem('krok_gh_repo')) document.getElementById('gh-repo').value = localStorage.getItem('krok_gh_repo');
 
@@ -155,64 +141,43 @@
         document.getElementById('overlay').style.display = 'block';
     };
 
-    const hideLoading = () => {
-        document.getElementById('overlay').style.display = 'none';
-    };
+    const hideLoading = () => { document.getElementById('overlay').style.display = 'none'; };
+    function utf8_to_b64(str) { return window.btoa(unescape(encodeURIComponent(str))); }
 
-    function toggleDebug() {
-        const el = document.getElementById('debug-area');
-        el.style.display = (el.style.display === 'block') ? 'none' : 'block';
-    }
-
-    // UTF-8 aware Base64 encoder
-    function utf8_to_b64(str) {
-        return window.btoa(unescape(encodeURIComponent(str)));
-    }
-
-    // --- MAIN FUNCTIONS ---
+    // --- LOGIC ---
 
     async function loadDashboard() {
         const { token, owner, repo } = getAuth();
-        if(!token || !owner || !repo) return alert("Please fill all login fields");
+        if(!token) return alert("Please enter Token");
 
         localStorage.setItem('krok_gh_owner', owner);
         localStorage.setItem('krok_gh_repo', repo);
 
-        showLoading("Fetching config.json...");
+        showLoading("Fetching config...");
 
         try {
-            // Fetch config.json with cache busting
             const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json?t=${Date.now()}`;
-            const res = await fetch(url, { 
-                headers: { Authorization: `token ${token}` } 
-            });
+            const res = await fetch(url, { headers: { Authorization: `token ${token}` } });
             
             if(res.ok) {
                 const data = await res.json();
                 currentConfigSha = data.sha;
-                
                 const content = atob(data.content);
                 const jsonString = decodeURIComponent(Array.prototype.map.call(content, function(c) {
                     return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
                 }).join(''));
-                
                 existingConfig = JSON.parse(jsonString);
-                
-                document.getElementById('debug-area').innerText = JSON.stringify(existingConfig, null, 2);
-
             } else {
-                console.warn("No config found, starting fresh.");
-                existingConfig = { dates: {}, passwords: {}, latest_date: "" };
-                document.getElementById('debug-area').innerText = "Config not found (404)";
+                alert("Config file not found!");
+                hideLoading();
+                return;
             }
 
-            // Init UI
-            document.getElementById('connected-repo').innerText = `${owner}/${repo}`;
-            document.getElementById('status-latest').innerText = existingConfig.latest_date || "N/A";
+            // Update UI
+            document.getElementById('status-folder').innerText = existingConfig.active_folder || "Merged/TXT";
+            document.getElementById('status-date').innerText = existingConfig.last_updated || "N/A";
 
-            populateDateSelect();
             renderTable();
-
             document.getElementById('auth-card').style.display = 'none';
             document.getElementById('dashboard').style.display = 'block';
 
@@ -223,48 +188,20 @@
         }
     }
 
-    function populateDateSelect() {
-        const select = document.getElementById('admin-date-select');
-        select.innerHTML = "";
-        
-        // Sort dates descending
-        const dates = Object.keys(existingConfig.dates || {}).sort((a,b) => {
-            const da = a.split('-').reverse().join('-');
-            const db = b.split('-').reverse().join('-');
-            return db.localeCompare(da);
-        });
-
-        if (dates.length === 0) {
-            const opt = document.createElement('option');
-            opt.innerText = "No dates found";
-            select.appendChild(opt);
-            return;
-        }
-
-        dates.forEach(d => {
-            const opt = document.createElement('option');
-            opt.value = d;
-            opt.innerText = d + (d === existingConfig.latest_date ? " (Latest)" : "");
-            if (d === existingConfig.latest_date) opt.selected = true;
-            select.appendChild(opt);
-        });
-    }
-
     function renderTable() {
         const tbody = document.getElementById('file-table-body');
         tbody.innerHTML = '';
 
-        const selectedDate = document.getElementById('admin-date-select').value;
-        const files = (existingConfig.dates && existingConfig.dates[selectedDate]) ? existingConfig.dates[selectedDate] : [];
+        // Safely access the files array (it's a flat list now)
+        const files = existingConfig.files || [];
 
         if (files.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding: 20px;">No files found for this date.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding: 20px;">No files found.</td></tr>';
             return;
         }
 
         files.forEach(filename => {
             const tr = document.createElement('tr');
-            // Passwords are global
             const pass = (existingConfig.passwords && existingConfig.passwords[filename]) ? existingConfig.passwords[filename] : "";
 
             tr.innerHTML = `
@@ -278,94 +215,13 @@
     }
 
     function removeRow(btn) {
-        if(confirm("Remove this file from the list?")) {
-            btn.closest('tr').remove();
-        }
-    }
-
-    async function uploadAndRegister() {
-        const fileInput = document.getElementById('new-file-input');
-        const passInput = document.getElementById('new-file-pass');
-        const file = fileInput.files[0];
-        const selectedDate = document.getElementById('admin-date-select').value;
-
-        if(!file) return alert("Please select a file.");
-        if(!passInput.value) return alert("Please set a password.");
-        if(!selectedDate || selectedDate === "No dates found") return alert("No active database selected to upload to.");
-
-        const { token, owner, repo } = getAuth();
-        
-        // Construct Path: e.g. "12-12-2025/TXT/filename.txt"
-        const pathPrefix = `${selectedDate}/TXT/`;
-
-        const reader = new FileReader();
-        reader.readAsText(file); 
-
-        reader.onload = async function() {
-            const fileContent = reader.result;
-            const fileName = file.name;
-            const contentBase64 = utf8_to_b64(fileContent);
-
-            showLoading(`Uploading to ${pathPrefix}${fileName}...`);
-
-            try {
-                const uploadUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(pathPrefix + fileName)}`;
-                
-                const checkRes = await fetch(uploadUrl, { headers: { Authorization: `token ${token}` } });
-                let fileSha = null;
-                if(checkRes.ok) {
-                    const checkData = await checkRes.json();
-                    fileSha = checkData.sha;
-                }
-
-                const payload = {
-                    message: `Upload ${fileName} via Admin`,
-                    content: contentBase64
-                };
-                if(fileSha) payload.sha = fileSha;
-
-                const putRes = await fetch(uploadUrl, {
-                    method: 'PUT',
-                    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
-                    body: JSON.stringify(payload)
-                });
-
-                if(!putRes.ok) throw new Error("Failed to upload file to GitHub.");
-
-                // Update Local Config
-                // 1. Add to current date list
-                if (!existingConfig.dates[selectedDate].includes(fileName)) {
-                    existingConfig.dates[selectedDate].push(fileName);
-                }
-                // 2. Add to global passwords
-                if (!existingConfig.passwords) existingConfig.passwords = {};
-                existingConfig.passwords[fileName] = passInput.value;
-
-                await saveConfigInternal();
-
-                alert("Success! File uploaded and registered.");
-                fileInput.value = "";
-                passInput.value = "";
-                renderTable();
-
-            } catch (e) {
-                alert("Upload failed: " + e.message);
-            } finally {
-                hideLoading();
-            }
-        };
+        if(confirm("Remove this file from the list?")) btn.closest('tr').remove();
     }
 
     async function saveConfigOnly() {
-        showLoading("Updating config...");
+        showLoading("Saving...");
         
-        const selectedDate = document.getElementById('admin-date-select').value;
-        if(!selectedDate) return hideLoading();
-
-        // 1. Rebuild file list for current date
         const currentFiles = [];
-        
-        // 2. We also update passwords globally
         const passwordMap = existingConfig.passwords || {};
 
         document.querySelectorAll('#file-table-body tr').forEach(tr => {
@@ -373,41 +229,82 @@
             if (cb) {
                 const inp = tr.querySelector('.file-pass-input');
                 const fname = cb.dataset.fname;
-
-                // Update Password Map
-                if(inp) passwordMap[fname] = inp.value;
-
-                // Update File List (Keep if checked)
-                if(cb.checked) {
-                    currentFiles.push(fname);
-                }
+                
+                if(inp) passwordMap[fname] = inp.value; // Update Password
+                if(cb.checked) currentFiles.push(fname); // Keep file if checked
             }
         });
 
-        // Apply changes to existingConfig object
-        existingConfig.dates[selectedDate] = currentFiles;
+        existingConfig.files = currentFiles;
         existingConfig.passwords = passwordMap;
 
-        try {
-            await saveConfigInternal();
-            alert("Configuration Saved Successfully!");
-        } catch(e) {
-            alert("Error saving config: " + e.message);
-        } finally {
-            hideLoading();
-        }
+        await pushToGitHub();
     }
 
-    async function saveConfigInternal() {
+    async function uploadAndRegister() {
+        const fileInput = document.getElementById('new-file-input');
+        const passInput = document.getElementById('new-file-pass');
+        const file = fileInput.files[0];
+
+        if(!file) return alert("Select a file.");
+        const { token, owner, repo } = getAuth();
+        
+        // Always upload to the active folder (Merged/TXT)
+        let targetFolder = existingConfig.active_folder || "Merged/TXT";
+        targetFolder = targetFolder.replace(/^\/|\/$/g, '');
+        
+        const reader = new FileReader();
+        reader.readAsText(file); 
+
+        reader.onload = async function() {
+            showLoading(`Uploading ${file.name}...`);
+            try {
+                // 1. Upload File
+                const contentBase64 = utf8_to_b64(reader.result);
+                const uploadUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(targetFolder + '/' + file.name)}`;
+                
+                // Get SHA if exists
+                const checkRes = await fetch(uploadUrl, { headers: { Authorization: `token ${token}` } });
+                let sha = null;
+                if(checkRes.ok) sha = (await checkRes.json()).sha;
+
+                const payload = { message: "Upload via Admin", content: contentBase64 };
+                if(sha) payload.sha = sha;
+
+                const putRes = await fetch(uploadUrl, {
+                    method: 'PUT',
+                    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                if(!putRes.ok) throw new Error("Upload failed");
+
+                // 2. Update Config Local State
+                if (!existingConfig.files.includes(file.name)) existingConfig.files.push(file.name);
+                existingConfig.passwords[file.name] = passInput.value || "12345";
+
+                // 3. Save Config
+                await pushToGitHub();
+                
+                alert("Saved!");
+                fileInput.value = "";
+                passInput.value = "";
+                renderTable();
+
+            } catch (e) {
+                alert("Error: " + e.message);
+                hideLoading();
+            }
+        };
+    }
+
+    async function pushToGitHub() {
         const { token, owner, repo } = getAuth();
         const url = `https://api.github.com/repos/${owner}/${repo}/contents/config.json`;
-        
         const jsonStr = JSON.stringify(existingConfig, null, 2);
-        const contentBase64 = utf8_to_b64(jsonStr);
-
+        
         const payload = {
-            message: "Update config.json (Admin Panel)",
-            content: contentBase64,
+            message: "Update config (Admin)",
+            content: utf8_to_b64(jsonStr),
             sha: currentConfigSha
         };
 
@@ -417,12 +314,13 @@
             body: JSON.stringify(payload)
         });
 
-        if(!res.ok) throw new Error("Failed to update config.json");
+        if(!res.ok) throw new Error("Failed to save config.json");
         
         const data = await res.json();
-        currentConfigSha = data.content.sha; 
+        currentConfigSha = data.content.sha;
+        hideLoading();
+        alert("Changes Saved Successfully!");
     }
-
 </script>
 
 </body>
