@@ -8,16 +8,34 @@
         :root { --primary: #0057b8; --secondary: #ffd700; --bg: #f4f4f9; --text: #333; --success: #28a745; --error: #dc3545; }
         body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); padding: 20px; }
         .container { max-width: 900px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        h1, h2 { text-align: center; color: var(--primary); }
+        h1, h2 { text-align: center; color: var(--primary); margin-bottom: 20px; }
+        
         .screen { display: none; }
         .screen.active { display: block; }
-        .btn { background: var(--primary); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin: 5px; }
+        
+        /* Buttons */
+        .btn { background: var(--primary); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin: 5px; font-size: 16px; transition: 0.2s; }
         .btn:hover { background: #004494; }
         .btn-secondary { background: #6c757d; }
-        .btn-large { display: block; width: 100%; margin: 10px 0; padding: 15px; font-size: 18px; }
+        .btn-large { display: block; width: 100%; margin: 10px 0; padding: 20px; font-size: 18px; text-align: left; }
+        
+        /* Menu Grid */
+        .menu-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px; }
+        @media (max-width: 600px) { .menu-grid { grid-template-columns: 1fr; } }
+        
+        .menu-btn { 
+            background: #f8f9fa; border: 2px solid #e9ecef; padding: 20px; border-radius: 10px; 
+            text-align: center; font-size: 1.1em; cursor: pointer; transition: 0.2s; color: var(--text);
+        }
+        .menu-btn:hover { border-color: var(--primary); background: #eef5ff; }
+        .menu-btn i { display: block; font-size: 2em; margin-bottom: 10px; }
+
+        /* List Items */
         .list-item { background: #eee; margin: 5px 0; padding: 15px; border-radius: 5px; cursor: pointer; display: flex; justify-content: space-between; }
         .list-item:hover { background: #ddd; }
         .list-item span:first-child { font-weight: bold; }
+        
+        /* Quiz & Results */
         .option-label { display: flex; align-items: center; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 5px; cursor: pointer; }
         .option-label:hover { background: #f0f8ff; }
         .correct-answer { background-color: #d4edda !important; }
@@ -31,6 +49,7 @@
         .result-card { background: #f8f9fa; padding: 15px; margin-bottom: 10px; border-left: 5px solid #ccc; }
         .result-card.correct { border-left-color: var(--success); }
         .result-card.wrong { border-left-color: var(--error); }
+        
         .loader { border: 5px solid #f3f3f3; border-top: 5px solid var(--primary); border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; margin: 20px auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
     </style>
@@ -38,39 +57,61 @@
 <body>
 
 <div class="container">
-    <!-- LOADING -->
+    <!-- SCREEN 1: LOADING -->
     <div id="screen-loading" class="screen active">
         <h1>Завантаження бази...</h1>
         <div class="loader"></div>
+        <p style="text-align: center; color: #666;" id="loading-text">Підключення...</p>
     </div>
 
-    <!-- SELECT FILE -->
-    <div id="screen-select-file" class="screen">
-        <h1>Оберіть базу тестів</h1>
-        <p id="db-info" style="text-align: center; color: #666; margin-bottom: 20px; font-weight: bold;"></p>
+    <!-- SCREEN 2: SELECT CATEGORY -->
+    <div id="screen-category" class="screen">
+        <h1>Оберіть категорію</h1>
+        <p id="db-info" style="text-align: center; color: #666; margin-bottom: 20px;"></p>
+        <div class="menu-grid">
+            <div class="menu-btn" onclick="selectCategory('en')">🇬🇧 Krok English</div>
+            <div class="menu-btn" onclick="selectCategory('ua')">🇺🇦 Крок Українська</div>
+            <div class="menu-btn" onclick="selectCategory('edki')">📘 ЄДКІ</div>
+            <div class="menu-btn" onclick="selectCategory('amps')">📙 АМПС</div>
+        </div>
+    </div>
+
+    <!-- SCREEN 3: SELECT LEVEL (For Krok) -->
+    <div id="screen-level" class="screen">
+        <h1>Оберіть рівень</h1>
+        <div class="menu-grid" id="level-grid">
+            <!-- Buttons injected by JS -->
+        </div>
+        <button class="btn btn-secondary" onclick="showScreen('screen-category')">Назад</button>
+    </div>
+
+    <!-- SCREEN 4: FILE LIST -->
+    <div id="screen-file-list" class="screen">
+        <h1 id="file-list-title">Оберіть тест</h1>
         <ul id="file-list" style="list-style: none; padding: 0;"></ul>
+        <button class="btn btn-secondary" onclick="backFromFileList()">Назад</button>
     </div>
 
-    <!-- PASSWORD -->
+    <!-- SCREEN 5: PASSWORD -->
     <div id="screen-password" class="screen" style="text-align: center;">
         <h2>Введіть пароль</h2>
         <p id="password-msg"></p>
         <input type="password" id="password-input" style="padding: 10px; font-size: 16px;">
         <br><br>
         <button class="btn" onclick="checkPassword()">Увійти</button>
-        <button class="btn btn-secondary" onclick="showScreen('screen-select-file')">Назад</button>
+        <button class="btn btn-secondary" onclick="showScreen('screen-file-list')">Назад</button>
     </div>
 
-    <!-- MODE -->
+    <!-- SCREEN 6: MODE -->
     <div id="screen-mode" class="screen" style="text-align: center;">
         <h2>Оберіть режим</h2>
         <button class="btn btn-large" onclick="setMode('krok')">🎓 Режим КРОК</button>
         <button class="btn btn-large" style="background-color: var(--success);" onclick="setMode('practice')">✅ Тренувальний режим</button>
         <br>
-        <button class="btn btn-secondary" onclick="showScreen('screen-select-file')">Назад</button>
+        <button class="btn btn-secondary" onclick="showScreen('screen-file-list')">Назад</button>
     </div>
 
-    <!-- PARTS -->
+    <!-- SCREEN 7: PARTS -->
     <div id="screen-parts" class="screen">
         <h1>Оберіть частину</h1>
         <p style="text-align: center;">(50 питань у блоці)</p>
@@ -78,7 +119,7 @@
         <button class="btn btn-secondary" onclick="showScreen('screen-mode')">Назад</button>
     </div>
 
-    <!-- QUIZ -->
+    <!-- SCREEN 8: QUIZ -->
     <div id="screen-quiz" class="screen">
         <div style="display: flex; justify-content: space-between;">
             <span id="quiz-progress"></span>
@@ -96,25 +137,31 @@
         </div>
     </div>
 
-    <!-- RESULTS -->
+    <!-- SCREEN 9: RESULTS -->
     <div id="screen-results" class="screen">
         <h1>Результати</h1>
         <h2 id="score-display"></h2>
         <div id="detailed-results"></div>
         <div style="text-align: center; margin-top: 20px;">
             <button class="btn" onclick="showScreen('screen-parts')">Частини</button>
-            <button class="btn btn-secondary" onclick="showScreen('screen-select-file')">Список</button>
+            <button class="btn btn-secondary" onclick="showScreen('screen-file-list')">Список</button>
         </div>
     </div>
 </div>
 
 <script>
-    let QUIZ_FILES = [];
+    // --- GLOBAL STATE ---
+    let QUIZ_FILES = []; // Full list from config
     let FILE_PASSWORDS = {};
     let ACTIVE_FOLDER = "";
     const DEFAULT_PASS = "1234";
 
-    let loadedFiles = {};
+    // Navigation State
+    let currentCategory = ""; // 'en', 'ua', 'edki', 'amps'
+    let currentLevel = "";    // '1', '2', '3' (only for en/ua)
+
+    // Quiz State
+    let loadedFiles = {}; // Cache for question content
     let selectedFilename = "";
     let selectedMode = "";
     let currentQuizQuestions = [];
@@ -129,62 +176,144 @@
             if(!res.ok) throw new Error("Config not found");
             const conf = await res.json();
 
-            // Setup Globals
             QUIZ_FILES = conf.files || [];
             FILE_PASSWORDS = conf.passwords || {};
             ACTIVE_FOLDER = conf.active_folder || "";
             if(ACTIVE_FOLDER && !ACTIVE_FOLDER.endsWith('/')) ACTIVE_FOLDER += '/';
 
-            // UI Info
             const dateStr = conf.last_updated || "N/A";
-            document.getElementById('db-info').innerText = `База: ${dateStr}`;
+            document.getElementById('db-info').innerText = `База оновлена: ${dateStr}`;
 
             if(QUIZ_FILES.length === 0) {
                 alert("No files found in config.");
-                showScreen('screen-select-file');
                 return;
             }
 
-            // Load Files
-            let loadedCount = 0;
-            const promises = QUIZ_FILES.map(async (fname) => {
-                try {
-                    const r = await fetch(ACTIVE_FOLDER + encodeURIComponent(fname));
-                    if(r.ok) {
-                        const txt = await r.text();
-                        const qs = parseTXT(txt);
-                        if(qs.length > 0) {
-                            loadedFiles[fname] = qs;
-                            loadedCount++;
-                        }
-                    }
-                } catch(e) { console.error(e); }
-            });
-
-            await Promise.all(promises);
-            renderFileList();
-            showScreen('screen-select-file');
+            showScreen('screen-category');
 
         } catch(e) {
             alert("Error: " + e.message);
         }
     }
 
+    // --- NAVIGATION LOGIC ---
+
+    function selectCategory(cat) {
+        currentCategory = cat;
+        currentLevel = ""; // Reset level
+
+        if (cat === 'en') {
+            renderLevelButtons(['Step 1', 'Step 2']);
+            showScreen('screen-level');
+        } else if (cat === 'ua') {
+            renderLevelButtons(['Крок 1', 'Крок 2', 'Крок 3']);
+            showScreen('screen-level');
+        } else {
+            // EDKI and AMPS go straight to file list
+            renderFileList();
+            showScreen('screen-file-list');
+        }
+    }
+
+    function renderLevelButtons(labels) {
+        const grid = document.getElementById('level-grid');
+        grid.innerHTML = "";
+        labels.forEach((label, idx) => {
+            const levelNum = idx + 1;
+            const div = document.createElement('div');
+            div.className = 'menu-btn';
+            div.innerText = label;
+            div.onclick = () => selectLevel(levelNum);
+            grid.appendChild(div);
+        });
+    }
+
+    function selectLevel(lvl) {
+        currentLevel = lvl.toString();
+        renderFileList();
+        showScreen('screen-file-list');
+    }
+
+    function backFromFileList() {
+        if (currentCategory === 'en' || currentCategory === 'ua') {
+            showScreen('screen-level');
+        } else {
+            showScreen('screen-category');
+        }
+    }
+
+    // --- FILE LIST LOGIC ---
+
     function renderFileList() {
         const list = document.getElementById('file-list');
         list.innerHTML = "";
-        Object.keys(loadedFiles).sort().forEach(fname => {
+        
+        // Filter Files based on State
+        const filteredFiles = QUIZ_FILES.filter(fname => {
+            // Category Filter
+            if (currentCategory === 'en' && !fname.startsWith("Krok")) return false;
+            if (currentCategory === 'ua' && !fname.startsWith("Крок")) return false;
+            if (currentCategory === 'edki' && !fname.startsWith("ЄДКІ")) return false;
+            if (currentCategory === 'amps' && !fname.startsWith("АМПС")) return false;
+
+            // Level Filter (Strict checking for " 1 ", " 2 ", " 3 ")
+            if (currentLevel) {
+                if (currentLevel === '1' && !fname.includes(" 1 ")) return false;
+                if (currentLevel === '2' && !fname.includes(" 2 ")) return false;
+                if (currentLevel === '3' && !fname.includes(" 3 ")) return false;
+            }
+            return true;
+        });
+
+        if (filteredFiles.length === 0) {
+            list.innerHTML = '<li class="list-item" style="text-align:center;">Файли не знайдено</li>';
+            return;
+        }
+
+        filteredFiles.sort().forEach(fname => {
             const li = document.createElement('li');
             li.className = 'list-item';
-            li.innerHTML = `<span>${fname}</span> <span>${loadedFiles[fname].length}</span>`;
-            li.onclick = () => {
-                selectedFilename = fname;
-                document.getElementById('password-input').value = "";
-                document.getElementById('password-msg').innerText = fname;
-                showScreen('screen-password');
-            };
+            // Simple visual clean up
+            let displayName = fname.replace(".txt", "");
+            li.innerHTML = `<span>${displayName}</span>`;
+            li.onclick = () => prepareFile(fname);
             list.appendChild(li);
         });
+    }
+
+    async function prepareFile(fname) {
+        selectedFilename = fname;
+        
+        // Check if already loaded in memory
+        if (loadedFiles[fname]) {
+            promptPassword(fname);
+            return;
+        }
+
+        // Fetch Content
+        document.getElementById('loading-text').innerText = "Завантаження тесту...";
+        showScreen('screen-loading');
+        
+        try {
+            const r = await fetch(ACTIVE_FOLDER + encodeURIComponent(fname));
+            if(r.ok) {
+                const txt = await r.text();
+                loadedFiles[fname] = parseTXT(txt);
+                promptPassword(fname);
+            } else {
+                alert("Failed to load file content.");
+                showScreen('screen-file-list');
+            }
+        } catch(e) {
+            console.error(e);
+            showScreen('screen-file-list');
+        }
+    }
+
+    function promptPassword(fname) {
+        document.getElementById('password-input').value = "";
+        document.getElementById('password-msg').innerText = fname.replace(".txt", "");
+        showScreen('screen-password');
     }
 
     function checkPassword() {
@@ -193,6 +322,8 @@
         if(val.trim() === pass) showScreen('screen-mode');
         else alert("Wrong password");
     }
+
+    // --- QUIZ ENGINE (Unchanged Logic) ---
 
     function setMode(mode) {
         selectedMode = mode;
@@ -214,18 +345,13 @@
         const all = loadedFiles[selectedFilename];
         const slice = all.slice(part*50, (part+1)*50);
         
-        // Shuffle
         currentQuizQuestions = slice.map(q => {
             const idxs = q.opts.map((_,i)=>i);
             for(let i=idxs.length-1; i>0; i--) {
                 const j = Math.floor(Math.random()*(i+1));
                 [idxs[i], idxs[j]] = [idxs[j], idxs[i]];
             }
-            return { 
-                q: q.q, 
-                opts: idxs.map(i => q.opts[i]), 
-                correct: idxs.indexOf(q.correct) 
-            };
+            return { q: q.q, opts: idxs.map(i => q.opts[i]), correct: idxs.indexOf(q.correct) };
         });
         
         for(let i=currentQuizQuestions.length-1; i>0; i--) {
@@ -255,13 +381,11 @@
         q.opts.forEach((opt, i) => {
             const lbl = document.createElement('label');
             lbl.className = 'option-label';
-            
             if(selectedMode === 'practice' && ans !== undefined) {
                 if(i === q.correct) lbl.classList.add('correct-answer');
                 if(ans === i && i !== q.correct) lbl.classList.add('wrong-answer');
                 lbl.style.pointerEvents = 'none';
             }
-
             const inp = document.createElement('input');
             inp.type = 'radio';
             inp.name = 'opt';
