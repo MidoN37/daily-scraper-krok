@@ -83,8 +83,8 @@
     "Крок 3 Фізична та реабілітаційна медицина (від 2026 року).txt",
     "Крок 3 Фізична та реабілітаційна медицина.txt",
     "Крок 3 Хірургія (від 2026 року).txt",
-    "Хірургія.txt",
-    "Крок 3 Хірургія.txt"
+    "Крок 3 Хірургія.txt",
+    "Хірургія.txt"
   ],
   "passwords": {
     "Krok 1 Medicine (EN).txt": "meden",
@@ -175,5 +175,5 @@
     "Крок 3 Хірургія.txt": "chirur3"
   },
   "active_folder": "Merged/TXT",
-  "last_updated": "13-12-2025 (Merged Database)"
+  "last_updated": "14-12-2025 (Merged Database)"
 }
