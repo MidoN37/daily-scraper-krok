@@ -1,0 +1,46 @@
+1. Coronaviruses, Including SARS and MERSHuman coronaviruses (HCoVs) are associated most frequently with the common cold, an upper respiratory tract infection characterized by rhinorrhea, nasal congestion, sore throat, sneezing, and cough that can be associated with fever. Symptoms are self-limiting and typically peak on day 3 or 4 of illness. Human coronavirus infections can also be associated with acute otitis media or asthma exacerbations. Less frequently, they are associated with lower respiratory tract infections, including bronchiolitis, croup, and pneumonia, primarily in infants and immunocompromised children and adults.SARS-CoV, the HCoV responsible for the 2002-2003 global outbreak of severe acute respiratory syndrome (SARS), was associated with more severe symptoms, although a spectrum of disease, including asymptomatic infections and mild disease, occurred. SARS-CoV disproportionately affected adults, who typically presented with fever, myalgia, headache, malaise, and chills followed by a nonproductive cough and dyspnea generally 5 to 7 days later. Approximately 25% of infected adults developed watery diarrhea. Twenty percent developed worsening respiratory distress requiring intubation and ventilation. The overall associated mortality rate was approximately 10%, with most deaths occurring in the third week of illness. The case-fatality rate in people older than 60 years approached 50%. Typical laboratory abnormalities included lymphopenia and increased lactate dehydrogenase and creatine kinase concentrations.Most had progressive unilateral or bilateral ill-defined airspace infiltrates on chest imaging. Pneumothoraces and other signs of barotrauma were common in critically ill patients receiving mechanical ventilation.SARS-CoV infections in children are less severe than in adults; notably, no infant or child deaths from SARS-CoV infection were documented in the 2002-2003 global outbreak.Infants and children younger than 12 years who develop SARS typically present with fever, cough, and rhinorrhea. Associated lymphopenia is less severe, and radiographic changes are milder and generally resolve more quickly than in adolescents and adults. Adolescents who develop SARS have clinical courses more closely resembling those of adult dis-ease, presenting with fever, myalgia, headache, and chills. They are also more likely to develop dyspnea, hypoxemia, and worsening chest radio-graphic findings.MERS-CoV, the HCoV associated with Middle East respiratory syndrome (MERS), can also cause severe disease. MERS-CoV is associated with a severe respiratory illness similar to SARS-CoV, although a spectrum of disease, including asymptomatic infections and mild disease, can occur. Patients commonly present with fever, myalgia, chills, shortness of breath, and cough. Approximately 25% of patients also experience vomiting, diarrhea, or abdominal pain. Rapid deterioration of oxygenation with progressive unilateral or bilateral airspace infiltrates on chest imaging may follow, requiring mechanical ventilation. The case-fatality rate is high, estimated at nearly 50%. To date, most infections have been reported in male adults with comorbidities, such as diabetes, chronic renal disease, hypertension, and chronic cardiac disease.
+
+2. Choose the correct statement.
+*a. Coronaviruses has existed for a long time and most commonly are associated with the common cold
+b. Coronavirus infection has \\ never been widespread among humans
+c. Coronavirus infection first \\ appeared in 2002, when the global outbreak of SARS has happened
+d. MERS is the biggest outbreak of coronavirus infection
+
+3. During the SARS outbreak, the lethal cases happened only among adults.
+*a. True
+b. False
+c. Not given
+
+4. For which category of people was the MERS infection the most dangerous?
+a. For males
+*b. For people who had any \\ comorbidities
+c. For intubated patients
+d. For asymptomatic patients
+
+5. For which category of people was the SARS infection the most dangerous?
+*a. For elderly patients
+b. For newborns
+c. For children
+d. For adults
+
+6. Human coronaviruses are always associated with the symptoms of the common cold.
+a. Not given
+b. True
+*c. False
+
+7. In rare cases, coronaviruses can cause pneumonia.
+a. Not given
+b. False
+*c. True
+
+8. Pneumothorax was a common complication of SARS.
+*a. False
+b. True
+c. Not given
+
+9. What are the laboratory findings in patients with SARS?
+*a. The decreased level of \\ lymphocytes
+b. The reduced amount of lactate \\ dehydrogenase
+c. The elevation of the level of \\ lymphocytes
+d. There are no laboratory \\ changes
+
