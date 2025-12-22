@@ -25,9 +25,9 @@ PASSWORD = os.environ.get("KROK_PASSWORD")
 COURSE_URL = "https://test.testcentr.org.ua/course/view.php?id=4"
 LOGIN_URL = "https://test.testcentr.org.ua/login/index.php"
 
-# Font handling
-FONT_URL = "https://github.com/googlefonts/dejavu-fonts/raw/master/ttf/DejaVuSans.ttf"
-FONT_FILE = "DejaVuSans.ttf" 
+# --- FIX 1: RELATIVE FONT PATH ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FONT_FILE = os.path.join(BASE_DIR, "DejaVuSans.ttf") 
 FONT_NAME = 'DejaVuSans'
 
 class DailyKrokScraper:
@@ -47,22 +47,21 @@ class DailyKrokScraper:
         print(f"📂 Folders ready: {self.date_folder}/[TXT|PDF]", flush=True)
 
     def setup_font(self):
-        # Auto-download font if missing
+        # Auto-download font if missing (GitHub Actions safety)
         if not os.path.exists(FONT_FILE):
-            print("⬇️ Font not found. Downloading DejaVuSans...", flush=True)
+            print("⬇️ Font not found. Attempting download...", flush=True)
             try:
+                FONT_URL = "https://github.com/googlefonts/dejavu-fonts/raw/master/ttf/DejaVuSans.ttf"
                 r = requests.get(FONT_URL)
                 with open(FONT_FILE, 'wb') as f:
                     f.write(r.content)
             except Exception as e:
                 print(f"❌ Failed to download font: {e}")
-                sys.exit(1)
 
         try:
             pdfmetrics.registerFont(TTFont(FONT_NAME, FONT_FILE))
         except Exception as e:
             print(f"❌ Font Registration Error: {e}", flush=True)
-            sys.exit(1)
 
     def init_driver(self):
         if self.driver:
@@ -100,28 +99,27 @@ class DailyKrokScraper:
             return False
 
     def get_all_tests(self):
-        """Improved scanner for Moodle Quiz activities"""
+        """FIX 2: Targeted scanner for Moodle Quiz activities"""
         print("🔎 Scanning for available tests...", flush=True)
         self.driver.get(COURSE_URL)
-        quizzes = []
         try:
-            # Wait for the main content to load
             WebDriverWait(self.driver, 15).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "modtype_quiz"))
             )
-            
-            # Find all quiz activity links
-            # Moodle structure: div.activity-item -> div.activityname -> a
+            # This selector specifically finds the links in the Moodle structure you provided
             quiz_elements = self.driver.find_elements(By.CSS_SELECTOR, "li.modtype_quiz .activityname a")
             
+            quizzes = []
             for q in quiz_elements:
+                # Clean " Quiz" from the end of the name if Moodle added it
                 name = q.text.replace(" Quiz", "").strip()
                 link = q.get_attribute('href')
                 if name and link and "mod/quiz/view.php" in link:
                     quizzes.append({'name': name, 'link': link})
             
-            # Deduplicate links
+            # Deduplicate list
             quizzes = [dict(t) for t in {tuple(d.items()) for d in quizzes}]
+            
             print(f"📋 Found {len(quizzes)} tests to scrape.", flush=True)
             return quizzes
         except Exception as e:
@@ -166,15 +164,12 @@ class DailyKrokScraper:
                         break # Exit retry loop
                     else:
                         print(f"⚠️ Warning: No questions found (Attempt {attempt+1}/{max_retries})", flush=True)
-                        # Only retry if it might be a glitch, otherwise empty tests are just empty
                         if attempt < max_retries - 1:
                             time.sleep(5)
-                            # Refresh session
                             self.init_driver()
                             self.login()
                 except Exception as e:
                     print(f"❌ Error on attempt {attempt+1}: {e}", flush=True)
-                    # Restart driver completely on error
                     self.init_driver()
                     self.login()
             
@@ -218,9 +213,7 @@ class DailyKrokScraper:
                 finish_link = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".endtestlink")))
                 self.driver.execute_script("arguments[0].click();", finish_link)
             except:
-                # If we can't find finish link, we might be on the review page already or stuck
                 if len(questions_map) > 0 and round_num > 1:
-                    # If we have questions, maybe the test is weird.
                     pass
                 else:
                     print("   ⚠️ Could not find 'Finish attempt' link.", flush=True)
@@ -314,7 +307,6 @@ class DailyKrokScraper:
         self.create_pdf(txt_path, pdf_path)
 
     def create_pdf(self, txt_path, pdf_path):
-        # ReportLab PDF generation
         c = canvas.Canvas(pdf_path, pagesize=A4)
         width, height = A4
         margin_left = 40
@@ -325,9 +317,6 @@ class DailyKrokScraper:
         
         y = height - 40 
         c.setFont(FONT_NAME, font_size)
-
-        def wrap_text(text, max_w):
-            return [text[i:i+90] for i in range(0, len(text), 90)] # Simple wrapping logic for speed
 
         with open(txt_path, "r", encoding="utf-8", errors="replace") as f:
             for line in f:
@@ -349,8 +338,6 @@ class DailyKrokScraper:
                 else:
                     text_color = colors.darkgrey
 
-                # Simple char-limit wrapping to avoid heavy calculation loops
-                # Logic refined from your original script
                 words = line.split(' ')
                 current_line = []
                 wrapped_lines = []
