@@ -100,22 +100,28 @@ class DailyKrokScraper:
             return False
 
     def get_all_tests(self):
-        """Extracts list of {name, url} for all available tests."""
+        """Improved scanner for Moodle Quiz activities"""
         print("🔎 Scanning for available tests...", flush=True)
         self.driver.get(COURSE_URL)
+        quizzes = []
         try:
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, ".activity.quiz"))
+            # Wait for the main content to load
+            WebDriverWait(self.driver, 15).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "modtype_quiz"))
             )
-            quiz_elements = self.driver.find_elements(By.CSS_SELECTOR, ".activity.quiz .activityname a")
             
-            quizzes = []
+            # Find all quiz activity links
+            # Moodle structure: div.activity-item -> div.activityname -> a
+            quiz_elements = self.driver.find_elements(By.CSS_SELECTOR, "li.modtype_quiz .activityname a")
+            
             for q in quiz_elements:
-                name = q.text.split("\n")[0].strip()
+                name = q.text.replace(" Quiz", "").strip()
                 link = q.get_attribute('href')
-                if name and link:
+                if name and link and "mod/quiz/view.php" in link:
                     quizzes.append({'name': name, 'link': link})
             
+            # Deduplicate links
+            quizzes = [dict(t) for t in {tuple(d.items()) for d in quizzes}]
             print(f"📋 Found {len(quizzes)} tests to scrape.", flush=True)
             return quizzes
         except Exception as e:
