@@ -15,7 +15,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MERGED_TXT_DIR = os.path.join(BASE_DIR, "Merged", "TXT")
 MERGED_PDF_DIR = os.path.join(BASE_DIR, "Merged", "PDF")
 CONFIG_FILE = os.path.join(BASE_DIR, "config.json")
-FONT_FILE = "/Users/user/Downloads/DejaVuSans.ttf" # Path to your local font
+
+# Relative Font Path
+FONT_FILE = os.path.join(BASE_DIR, "DejaVuSans.ttf") 
 FONT_NAME = 'DejaVuSans'
 
 class MasterMerger:
@@ -23,9 +25,10 @@ class MasterMerger:
         os.makedirs(MERGED_TXT_DIR, exist_ok=True)
         os.makedirs(MERGED_PDF_DIR, exist_ok=True)
         try:
-            pdfmetrics.registerFont(TTFont(FONT_NAME, FONT_FILE))
+            if os.path.exists(FONT_FILE):
+                pdfmetrics.registerFont(TTFont(FONT_NAME, FONT_FILE))
         except:
-            print("⚠️ Font not found, PDF styling might fail.")
+            print("⚠️ Font registration failed.")
 
     def parse_file_to_dict(self, filepath):
         """Parses a TXT file into {question_text: full_block}"""
@@ -35,6 +38,7 @@ class MasterMerger:
         try:
             with open(filepath, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read().replace('\r\n', '\n')
+            # Split by "Number." (e.g., "1. ", "15. ")
             blocks = re.split(r'\n(?=\d+\.)', content)
             for block in blocks:
                 block = block.strip()
@@ -56,10 +60,10 @@ class MasterMerger:
         
         if not date_folders:
             print("✅ No new scrape folders to merge.")
-            self.update_website_config() # Refresh config anyway
+            self.update_website_config()
             return
 
-        print(f"🔄 Found {len(date_folders)} new folders. Merging into Master Database...")
+        print(f"🔄 Found {len(date_folders)} folders. Merging into Master Database...")
 
         for d_folder in sorted(date_folders):
             full_date_path = os.path.join(BASE_DIR, d_folder)
@@ -90,17 +94,16 @@ class MasterMerger:
                 # Generate PDF for this master file
                 pdf_out = os.path.join(MERGED_PDF_DIR, filename.replace(".txt", ".pdf"))
                 self.save_pdf(master_file_path, pdf_out)
-                print(f"   ✅ {filename}: {len(master_questions)} total ({added} new)")
+                print(f"   ✅ {filename}: {len(master_questions)} total (+{added} new)")
 
             # 2. CLUTTER CONTROL: Delete the date folder after successful merge
-            print(f"🗑️ Cleaning up {d_folder}...")
+            print(f"🗑️ Deleting processed folder: {d_folder}")
             shutil.rmtree(full_date_path)
 
         # 3. Update config.json
         self.update_website_config()
 
     def save_pdf(self, txt_path, pdf_path):
-        """Your standard PDF generation logic"""
         c = canvas.Canvas(pdf_path, pagesize=A4)
         width, height = A4
         margin = 40
@@ -114,6 +117,7 @@ class MasterMerger:
                 if not line: 
                     y-=6 
                     continue
+                
                 bg = None
                 if re.match(r'^\d+\.', line): bg = colors.lightyellow
                 elif line.startswith('*'): 
@@ -123,6 +127,7 @@ class MasterMerger:
                 words = line.split(' ')
                 current_line = []
                 wrapped_lines = []
+                
                 for word in words:
                     test_line = ' '.join(current_line + [word])
                     if pdfmetrics.stringWidth(test_line, FONT_NAME, 10) < max_w:
@@ -137,30 +142,36 @@ class MasterMerger:
                         c.showPage()
                         c.setFont(FONT_NAME, 10)
                         y = height - 40
+                    
                     if bg:
                         c.setFillColor(bg)
                         c.rect(margin-2, y-4, max_w+4, 14, fill=1, stroke=0)
+                    
                     c.setFillColor(colors.black)
                     c.drawString(margin, y, w_line)
                     y -= 14
         c.save()
 
     def update_website_config(self):
-        print("⚙️ Updating config.json based on Merged folder...")
+        print("⚙️ Updating config.json...")
         data = {"files": [], "passwords": {}, "active_folder": "Merged/TXT", "last_updated": ""}
         
         if os.path.exists(CONFIG_FILE):
-            with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-                old_data = json.load(f)
-                data['passwords'] = old_data.get('passwords', {})
+            try:
+                with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+                    old_data = json.load(f)
+                    data['passwords'] = old_data.get('passwords', {})
+            except: pass
 
         current_files = sorted([f for f in os.listdir(MERGED_TXT_DIR) if f.endswith(".txt")])
         data['files'] = current_files
+        
         for f in current_files:
             if f not in data['passwords']:
                 data['passwords'][f] = "12345"
 
         data['last_updated'] = datetime.now().strftime('%d-%m-%Y') + " (Master Database)"
+
         with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
