@@ -1,3 +1,4 @@
+--- FILE: .github/workflows/merge_daily.yml ---
 name: Merge & Update Config
 
 on:
@@ -35,7 +36,7 @@ jobs:
           git config --global user.name "KrokMergeBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # -A tracks additions, modifications, AND deletions
+          # FIX: -A tracks the DELETED date folders so the repo stays clean
           git add -A
           
           git commit -m "Update Master Database & Cleanup" || echo "No changes to commit"
