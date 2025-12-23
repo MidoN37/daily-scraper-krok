@@ -1,0 +1,11 @@
+services:
+  - type: worker
+    name: Krok-Main-Bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python telegram_bot.py
+  - type: worker
+    name: Krok-Password-Bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python password_bot.py
