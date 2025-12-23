@@ -1,4 +1,4 @@
-name: Daily Krok Scraper
+name: Daily Krok Scraper & Merger
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape-and-archive:
+  scrape-and-merge:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,20 +24,23 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Daily Scraper
+      - name: 1. Run Daily Scraper
         env:
           KROK_USERNAME: ${{ secrets.KROK_USERNAME }}
           KROK_PASSWORD: ${{ secrets.KROK_PASSWORD }}
         run: python daily_scraper.py
 
-      - name: Commit and Push Scrape Results
+      - name: 2. Run Merger Script
+        run: python merge_all.py
+
+      - name: 3. Commit and Push Master Database
         run: |
-          git config --global user.name "KrokDailyBot"
+          git config --global user.name "KrokBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Add the new date folder
-          git add .
+          # -A is vital: it adds new questions and records the deletion of the date folder
+          git add -A
           
           TIMESTAMP=$(date +'%d-%m-%Y')
-          git commit -m "Daily Scrape: $TIMESTAMP" || echo "No changes to commit"
+          git commit -m "Automated Update: $TIMESTAMP" || echo "No changes to commit"
           git push
