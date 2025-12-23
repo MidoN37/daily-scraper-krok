@@ -73,7 +73,12 @@ class MasterMerger:
                 continue
 
             for txt_file in glob.glob(os.path.join(txt_in_folder, "*.txt")):
-                filename = os.path.basename(txt_file)
+                # CLEAN FILENAME: Remove newlines and "Quiz" labels
+                raw_filename = os.path.basename(txt_file)
+                filename = raw_filename.replace('\n', ' ').replace('\r', '').replace('Quiz', '').replace('  ', ' ').strip()
+                if not filename.endswith(".txt"): filename += ".txt"
+                filename = filename.replace(".txt.txt", ".txt")
+                
                 master_file_path = os.path.join(MERGED_TXT_DIR, filename)
 
                 # Load existing questions from Master
@@ -124,6 +129,7 @@ class MasterMerger:
                     line = line[1:].strip()
                     bg = colors.lightgreen
                 
+                # Wrap Text logic
                 words = line.split(' ')
                 current_line = []
                 wrapped_lines = []
