@@ -25,7 +25,7 @@ PASSWORD = os.environ.get("KROK_PASSWORD")
 COURSE_URL = "https://test.testcentr.org.ua/course/view.php?id=4"
 LOGIN_URL = "https://test.testcentr.org.ua/login/index.php"
 
-# --- FIX 1: RELATIVE FONT PATH ---
+# Relative Font Handling (Works on Mac and GitHub Actions)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FONT_FILE = os.path.join(BASE_DIR, "DejaVuSans.ttf") 
 FONT_NAME = 'DejaVuSans'
@@ -99,20 +99,23 @@ class DailyKrokScraper:
             return False
 
     def get_all_tests(self):
-        """FIX 2: Targeted scanner for Moodle Quiz activities"""
+        """Targeted scanner for Moodle Quiz activities with aggressive name cleaning"""
         print("🔎 Scanning for available tests...", flush=True)
         self.driver.get(COURSE_URL)
         try:
             WebDriverWait(self.driver, 15).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "modtype_quiz"))
             )
-            # This selector specifically finds the links in the Moodle structure you provided
             quiz_elements = self.driver.find_elements(By.CSS_SELECTOR, "li.modtype_quiz .activityname a")
             
             quizzes = []
             for q in quiz_elements:
-                # Clean " Quiz" from the end of the name if Moodle added it
-                name = q.text.replace(" Quiz", "").strip()
+                # CLEANING LOGIC:
+                # 1. Get text, split by newline, take the first part only (removes hidden "Quiz" labels)
+                raw_text = q.text.split('\n')[0]
+                # 2. Remove the word "Quiz" if it's still there
+                name = raw_text.replace(" Quiz", "").strip()
+                
                 link = q.get_attribute('href')
                 if name and link and "mod/quiz/view.php" in link:
                     quizzes.append({'name': name, 'link': link})
@@ -289,7 +292,10 @@ class DailyKrokScraper:
         return questions_map
 
     def save_results(self, name, data):
+        # Clean name for filesystem
         clean_name = re.sub(r'[\\/*?:"<>|]', "", name).strip()
+        # Remove newlines if they snuck in
+        clean_name = clean_name.replace('\n', ' ').replace('\r', '').strip()
         
         # 1. Save TXT
         txt_filename = f"{clean_name}.txt"
