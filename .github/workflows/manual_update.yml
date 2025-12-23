@@ -1,7 +1,8 @@
+--- FILE: .github/workflows/manual_update.yml ---
 name: Manual Config Update
 
 on:
-  workflow_dispatch: # This adds a button to run it manually
+  workflow_dispatch: 
 
 jobs:
   update-only:
@@ -18,16 +19,20 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
       - name: Run Update Script
-        run: python update_site.py
+        # Changed from update_site.py to merge_all.py
+        run: python merge_all.py
 
       - name: Commit and Push Config
         run: |
           git config --global user.name "KrokDailyBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # Only add config.json (since the folders are already there)
-          git add config.json
+          git add -A
           
           git commit -m "Manual Config Update" || echo "No changes to commit"
           git push
