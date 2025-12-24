@@ -1,0 +1,476 @@
+1. Particles of dispersed phase of an emulsion are deformed and look as polyhedrons. What emulsion is it?
+a. Diluted
+b. Concentrated
+*c. High-concentrated
+d. Oil-in water
+e. Water-in-oil
+
+2. Solution applied as isotonic solution should have the following osmotic pressure:
+a. 900 - 1000 kPa
+*b. 700 - 800 kPa
+c. 300 - 400 kPa
+d. 200 - 300 kPa
+e. 500 - 600 kPa
+
+3. According to Schultze-Hardy rule coagulating action of coagulant ion is affected by:
+*a. Ion charge
+b. Adsorbability
+c. Polarizability
+d. Hydratability
+e. Ion size
+
+4. Drugs in form of colloid-disperse systems are widely applied in pharmaceutical practice. What method of sol production relates to physical condensation?
+a. Double exchange
+*b. Solvent substitution
+c. Oxidation
+d. Reduction
+e. Hydrolysis
+
+5. Heparin is the direct-acting anticoagulant that reduces blood coagulation and prevents thrombosis. Its action is based upon the following phenomenon:
+*a. Protective power of colloids
+b. Thixotropy
+c. Dialysis
+d. Micelle formation
+e. Syneresis
+
+6. Colloidal protection is used while manufacturing drug preparations. Name the preparation of colloidal silver protected by proteins:
+a. Festal
+b. Argentum
+c. Collagen
+*d. Protargol
+e. Enzymtal
+
+7. In the pharmaceutical production processes of drug synthesis take place under different conditions. Entropy stays unchanged in the following process:
+*a. Adiabatic
+b. Isochoric
+c. Polytropic
+d. Isobaric
+e. Isothermal
+
+8. Electrolyte solutions are medicinal preparations. What is the maximum value of isotonic coefficient for MgSO4 solution?
+*a. 2
+b. 3
+c. 7
+d. 5
+e. 4
+
+9. When computing quantities of adjuvant substances required to make liquid drug forms isotonic, the values of isotonic quotients are used. What is the quotient for zinc sulphate if known that it dissociates completely in an aqueous solution?
+a. 0
+b. 3
+c. 4
+*d. 2
+e. 1
+
+10. Disperse systems are widely used in the pharmaceutical practice. The evidence of colloidal state is the passing of light through the system. In this case the beam of light:
+a. Is reflected
+b. Is refracted
+c. Penetrates into the particle
+*d. Is diffused in form of light cone
+e. Is adsorbed
+
+11. What expression corresponds with the state of chemical equilibrium under constant pressure and temperature?
+a. delta U=0
+b. delta S=0
+c. delta F=0
+d. delta H=0
+*e. delta G=0
+
+12. Labels of some drugs have the following inscription: "shake before use!". This warning is induced by:
+a. Insolubility of disperse systems
+b. -
+c. Coagulation
+d. Solubility of disperse systems
+*e. Sedimentation
+
+13. Enzymes (biological catalysts) are used as pharmacologic preparations. What is the mechanism of enzyme action in the biochemical reactions?
+a. They change the reaction order
+*b. They reduce the energy of reaction activation
+c. They inhibit the reaction process
+d. They increase the energy of reaction activation
+e. They change the constant of the reaction rate
+
+14. Pharmacological effect of enterosgel (hydrogel of methylosilicic acid) is based upon the following phenomenon that is typical for disperse systems:
+*a. Adsorption
+b. Cohesion
+c. Desorption
+d. Moistening
+e. Adhesion
+
+15. Kinetic methods are used for determination of drug stability. What is the order of reaction if its rate constant equals to c-1?
+a. Second
+b. Third
+c. Zero
+d. Fractional
+*e. First
+
+16. Yield of medical products can be enhanced by proper choice of temperature conditions during their production. What equation determines dependence of equilibrium constant from the temperature under constant pressure?
+a. Isochores of chemical reaction
+b. Gibbs-Helmholtz equation
+c. Isotherms of chemical reaction
+d. Kirchhoff equation
+*e. Isobaric lines of chemical reaction
+
+17. When producing some liquid drug forms, it is necessary to take into account their osmotic pressure. The highest osmotic pressure is characteristic for the 0,1 M solution of the following substance:
+a. CaCl2
+b. KNO3
+c. Glucose
+d. Saccharose
+*e. AlCl3
+
+18. Which of the following solutions of the same molality has the highest boiling temperature?
+*a. Al2(SO4)3 solution
+b. Saccharose solution
+c. NaCl solution
+d. CaCl2 solution
+e. K3[Fe(CN)6] solution
+
+19. Potentiometric method of pH determination is regarded as the most universal and enters into the National Pharmacopeia of Ukraine. Which electrode is used as a reference electrode?
+*a. Saturated calomel
+b. Glass
+c. Zinc
+d. Hydrogen
+e. Quinhydrone
+
+20. Most technological processes in pharmaceutics run in heterogenous systems. How many phases has an eutectic composition at the eutectic temperature in the two-component system?
+a. 5
+b. 2
+*c. 3
+d. 4
+e. 1
+
+21. In the technology of medicinal preparation temperature and pressure are sustained constant very often. What is this process called?
+a. Isochoric
+b. Isothermal
+c. Isochoric-isothermal
+d. Isobaric
+*e. Isobaric-isothermal
+
+22. Technology of pharmaceutical preparations requires sometimes that some processes take place at low temperatures. In which solution will the crystallization be the first to begin provided that solutions have equal molality?
+a. NaCl
+b. Al2(SO4)3
+c. KBr
+*d. C6H12O6
+e. CaCl2
+
+23. Aqueous-alcocholic mixtures are widely used in the medical and pharmaceutical practice. They relate to the azeotropes. What is the peculiarity of azeotropic mixtures?
+a. They interact with each other
+b. They dont mix together
+*c. They produce a vapor of the same composition as the mixture
+d. They dont interact with each other
+e. They mix together at a critical temperature
+
+24. Micelle solutions of surfactants are applied in pharmaceutical production as stabilizers and solubilizers. What solution of colloidal surfactants will have the greatest value of critical concentration of micelle formation?
+*a. C9H19SO3Na
+b. C16H33SO3Na
+c. C10H21SO3Na
+d. C12H25SO3Na
+e. C14H29SO3Na
+
+25. In the pharmaceutical industry, the micelle-forming solutions of surface-active substances are used for production of water-soluble preparations out of water-insoluble substances, for example vitamins A and E. The critical concentration of micelle formation has the lowest value in the solutions of the following substances:
+*a. C17H35COONa
+b. C13H27COONa
+c. C11H23COONa
+d. C15H31COONa
+e. C12H25COONa
+
+26. Pharmaceutic preparation collargol is a colloid silver solution containing a high-molecular compound. What is the function of this compound?
+a. It facilitates sedimentation
+b. It induces coagulation
+*c. It enhances aggregative stability
+d. It reduces aggregative stability
+e. It increases dispersion degree
+
+27. An electrode composed by scheme Au3+ Au relates to the following type:
+a. II type electrodes
+b. Oxidation-reduction electrodes
+c. Ion-selective electrodes
+*d. I type electrodes
+e. III type electrodes
+
+28. The particles of dispersed phase of a ready drug emulsion are sized 10-6 m. The given drug form relates to the following type of disperse systems (according to the dispersion degree classification):
+a. Colloidal disperse system
+b. Ultramicroheterogeneous system
+c. Heterogeneous system
+d. Coarse-dispersion system
+*e. Microheterogeneous system
+
+29. Thresholds of coagulation of a drug sol by electrolytes MgSO4, NaCl, Al(NO3)3 are equal to 0,81; 51,0; 0,095 millimole/l correspondingly. Which electrolyte ion has the maximal coagulating effect?
+*a. Al3+
+b. Na+
+c. SO42-
+d. Cl-
+e. Mg2+
+
+30. Refinement of glycerin that is a component of many drug formulations can be done by means of activated carbon. What phenomenon underlies this process?
+*a. Adsorption
+b. Adhesion
+c. Capillary condensation
+d. Wetting
+e. Cohesion
+
+31. Under certain conditions high-molecular substances make gellies that are widely used in drug production. What process takes place during jelly ageing?
+a. Swelling
+b. Thixotropy
+*c. Syneresis
+d. Solvatation
+e. Diffusion
+
+32. Iodoform when stored decomposes spontaneously into free iodine. Which thermochemical function is a criterion for this process direction when V and T are constant?
+a. Enthalpy H
+b. Entropy S
+*c. Helmholtz energy F
+d. Gibbs energy G
+e. Intrinsic energy U
+
+33. Intravenous injections are performed with water solution CaCl2 with mass concentration 10%. What is the maximum value of isotonic coefficient CaCl2 in a water solution?
+a. 1
+*b. 3
+c. 2
+d. 4
+e. 5
+
+34. Employees of a physicochemical laboratory prepared water solutions of urea, glucose, sodium sulfate, aluminium sulfate and sodium benzoate all of which had the same molar concentration. What solution has the highest osmotic pressure under 298oK?
+a. Glucose
+b. Urea
+*c. Aluminium sulfate
+d. Sodium benzoate
+e. Sodium sulfate
+
+35. Limited swelling of gelatine comes to unlimited one (solution formation) under the following conditions:
+a. In presence of SO42– ions
+b. Cooling
+*c. Heating
+d. In presence of Cl– ions
+e. If pH medium matches with isoelectric point
+
+36. Positive sol of iron hydroxide was generated by method of hydrolysis. What coagulating ion will have the lowest coagulation threshold?
+a. Sulfate
+b. Nitrate
+c. Bromide
+*d. Phosphate
+e. Chloride
+
+37. In pharmaceutical synthesis both simple and complex reactions are applied. Specify the order of the simple reaction of type 2A+B=3D:
+*a. 3
+b. 1
+c. 0,5
+d. 0
+e. 2
+
+38. Pharmaceutical practice widely applies isotonic solution of sodium chloride. How much sodium chloride is to be takenin order to prepare 100 g of the isotonic solution?
+a. 0,45 g
+b. 5,0 g
+c. 8,5 g
+d. 4,5 g
+*e. 0,85 g
+
+39. Some drugs are colloid solutions. Colloidal disperse systems are the systems whose particles are sized within the range of:
+a. 10-7 - 10-4 m
+b. 10-9 m
+c. 10-9 - 10-4 m
+*d. 10-9 - 10-7 m
+e. 10-4 m
+
+40. During study of pharmaceutical substances pH rate can be determined by method of potentiometry. What electrode can be used as an indicator during measuring of pH solution?
+*a. Glass
+b. Silver-chloride
+c. Zinc
+d. Calomel
+e. Copper
+
+41. Drug production commonly involves the processes of adsorption and ion exchange. What ion is selectively adsorbed from the aqueous solution based on silver chloride crystal?
+a. Cu2+
+b. OH–
+c. H+
+d. NO3–
+*e. Ag+
+
+42. Osmotic pressure is an important characteristic of biologic fluids. Osmotic pressure variates with time in the following solution:
+a. Magnesium sulphate
+*b. Silver chloride sol
+c. Calcium sulphate
+d. Glucose
+e. Sodium chloride
+
+43. Pharmaceutical practice involves use of microheterogeneous systems with liquid disperse medium and solid disperse phase. Such drug form is:
+a. Powder
+b. Foam
+*c. Suspension
+d. Aerosol
+e. Emulsion
+
+44. What is the number of degrees of freedom for the salol-camphor system, provided that both components crystallize from the melt simultaneously?
+*a. Zero
+b. 2
+c. - 1
+d. 3
+e. 1
+
+45. The method of "accelerated drug ageing" used for determination of drug shelf life is based upon:
+a. Plancks postulate
+b. Fajans rule
+*c. Vant Hoffs rule
+d. Ostwald law
+e. Raoult law
+
+46. All the undermentioned water solutions of pharmaceutical substances have molal concentration of 0,1 mole/kg. Which solution has the maximal boiling-point elevation?
+a. Nicotinic acid
+b. Glucose
+*c. Sodium acetate
+d. Ethanol
+e. Ascorbic acid
+
+47. Temperature quotient of the reaction velocity is equal to 2. In how many times does the reaction velocity change, if the temperature changes by 40°C?
+a. In 8 times
+b. In 32 times
+c. In 24 times
+*d. In 16 times
+e. In 4 times
+
+48. For the technology of drug production the pressure, temperature and concentration are of great importance. What process is accelerated in case of temperature decrease?
+a. Adiabatic
+b. Endothermic
+*c. Exothermic
+d. Isochoric
+e. Isobaric
+
+49. Surface-active substances are widely used in the drug production. Specify a surface-active substance present at the aqueous solution-air interface:
+a. NaOH
+b. HCl
+c. Saccharose
+d. NaCl
+*e. Butyric acid
+
+50. What equation can be applied for calculation of surface tension of propionic acid water solution?
+a. Rayleigh equation
+*b. Shishkovskys
+c. Gibbs equation
+d. Freundlichs equation
+e. Helmholtz-Smoluchowski
+
+51. Sol Al(OH)3 was derived by processing a freshly made Al(OH)3 precipitate with a small amount of HCl solution. Sol production bases upon the following phenomenon:
+a. Chemical condensation
+b. Mechanic dispersing
+c. Physical condensation
+*d. Chemical peptization
+e. Rinsing with a solvent
+
+52. Systems relate to colloid-disperse ones if size of their particles is within the following range:
+a. 10-9 - 10-4 m
+*b. 10-9 - 10-7 m
+c. > 10-4 m
+d. 10-7 - 10-4 m
+e. >< 10-9 m
+
+53. Sol is one of drug forms. What happens if sols are fused with oppositely charged granules?
+a. Sedimentation
+b. Thixotropy
+*c. Mutual coagulation
+d. Contraction
+e. Lyophilization
+
+54. What is the osmotic pressure of medicinal solutions used as blood isotonics?
+*a. 740 - 780 kPa
+b. 900 - 960 kPa
+c. 690 - 720 kPa
+d. 600 - 670 kPa
+e. 420 - 448 kPa
+
+55. Drugs in form of colloidal-and-disperse systems are widely spread in the pharmaceutical practice. What method of sol production is based upon the phenomenon of physical condensation?
+*a. Solvent substitution
+b. Oxidation
+c. Double exchange
+d. Hydrolysis
+e. Reduction
+
+56. Under what conditions the limited swelling of gelatine turns into the unlimited one?
+a. In presence of Cl- ions
+b. In presence of H+ ions whose concentration is equal to their concentration in the isoelectric point
+c. Cooling
+d. In presence of PO43- ions
+*e. Heating
+
+57. The best swelling of gelatine will be observed in the following solvent:
+a. Ethyl alcohol
+b. Benzol
+*c. Water
+d. Chloroform
+e. Acetone
+
+58. Isoelectric point of protein equals 8,3. Electrophoretic mobility of protein macromolecule will be equal zero if pH value is:
+a. 11,5
+b. 7,0
+*c. 8,3
+d. 2,3
+e. 4,7
+
+59. The second Konovalovs law is applied to azeotropic solutions that have extreme points on phase diagrams and are called:
+a. Miscible in all proportions liquids
+b. Ideal solutions
+*c. Azeotropic mixtures
+d. Partially miscible liquids
+e. Mutually insoluble liquids
+
+60. Skin diseases can be treated with pastes. What class of disperse systems can the pastes be related to?
+a. Foams
+b. Aerosols
+c. Emulsions
+d. Powders
+*e. Suspensions
+
+61. A biological system (living organism) exchanges material and energy with the environment. What system does it relate to?
+a. Closed, heterogenous
+b. Open, homogenous
+c. Isolated, heterogenous
+d. Closed, homogenous
+*e. Open, heterogenous
+
+62. Glass electrode is commonly used for pH measurement in the biologic media, fluid drug forms etc. What type does the glass electrode relate to?
+a. I type electrode
+b. II type electrode
+c. Gas electrode
+*d. Ion selective electrode
+e. Reduction-oxidation electrode
+
+63. Specify the number of degrees of freedom for intersection of the liquidus line with ordinate axis of the equilibrium diagram of a two-component system:
+a. С = 3
+*b. С = 0
+c. С = 1
+d. С = 2
+e. С = –1
+
+64. What thermodynamic value is a criterion of direction of spontaneous processes under conditions of constant volume and temperature?
+a. Gibbs energy
+b. Entropy
+*c. Helmholtz energy
+d. Chemical potential
+e. Enthalpy
+
+65. Name the process characterized by a chemical interaction between an adsorbate and an adsorbent:
+a. Absorption
+b. Solvation
+*c. Chemical adsorption
+d. Desorption
+e. Sedimentation
+
+66. Stability of concentrated emulsions can be increased by adding surface-action substances and high-molecular compounds that are:
+a. Catalysts
+b. Activators
+*c. Emulsifiers
+d. Solvents
+e. Absorbents
+
+67. If the amount of a high-molecular substance added to a sol is very small, then the decrease in stability is possible. This phenomenon is called:
+a. Mutual coagulation
+b. Solubilization
+*c. Sensibilization
+d. Protective power of colloids
+e. Colloid coagulation
+
+68. Which of the following adsorbents is the most effective for adsorption of a substance from the aqueous solution?
+a. Quartz
+b. Silica gel
+*c. Activated carbon
+d. Bolus alba
+e. Gypsum
+

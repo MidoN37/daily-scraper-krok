@@ -1,0 +1,39 @@
+name: Merge Krok B Files
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'Українська/Крок Б/Лабораторна діагностика/**'
+      - 'merger.py'
+
+permissions:
+  contents: write
+
+jobs:
+  merge-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Merge Script
+        run: python merger.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add "Українська/Крок Б/Merged_Lab_Diagnostics.txt"
+          git add "Українська/Крок Б/Merged_Lab_Diagnostics.pdf"
+          # Commit only if changes exist
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-merge Krok B files" && git push)

@@ -1,0 +1,966 @@
+1. A tablet production unit produces press-coated tablets. What equipment is used for this purpose?
+a. Eccentric tabletting machine
+b. Triturating machine
+c. Dragee pan
+d. Marmerizer
+*e. Double pressing tabletting machine
+
+2. A pharmaceutical enterprise produces a dense extract with 0,25% ammonia solution used as an extractant. This dense extract is:
+a. Motherwort (Leonurus)
+*b. Licorice
+c. Valerian
+d. Sagebrush (Artemisia)
+e. Male fern
+
+3. Aerosol production involves application of different groups of propellents. What propellents relate to the group of compressed gases?
+a. Propane, butane, isobutane
+b. Freon
+*c. Nitrogen, nitrous oxide, carbon dioxide
+d. Vinyl chloride, methyl chloride
+e. Methylene chloride, ethylene chloride
+
+4. For granule drying different types of dryers are used. The dryer SP-30 relates to the following type:
+a. Sublimation
+b. With silica gel column
+c. With a forced air circulation
+*d. With fluidized bed
+e. Infrared
+
+5. Quality control of tablets produced at a pharmaceutical enterprise involves quantitative determination of such subsidiary substances as talc and aerosil. What method is applied for such determination?
+a. Chromatographic
+*b. Gravimetric
+c. Photocolorimetric
+d. Titrimetric
+e. Spectrophotometric
+
+6. While producing phytopreparations and organotherapeutic preparations different kinds of dryers are used. What dryer would be the most effective for drying thermolabile compounds?
+a. Roller dryer
+b. Drying oven
+c. Drum dryer
+*d. Freeze-dryer
+e. Band dryer
+
+7. Injection solutions of salts derived from weak acids and strong bases require stabilization. What stabilizers are used for these solutions?
+a. Buthylhydroxytoluene (BHT)
+*b. 0,1 M sodium hydroxide solution
+c. Trilon B
+d. 0,1 M acid chloride solution
+e. Ascorbic acid
+
+8. One of the tablet coatings is enterosoluble capsule. They get solved in:
+a. -
+*b. Bowels
+c. Oral cavity
+d. Stomach
+e. Rectum
+
+9. Aerosol composition includes active substances, solvents and propellents. Which of the following substances is used as propellent?
+*a. Freon-11, carbon oxide, propane-butane
+b. Propylen glycol monostearate, argon, helium
+c. Hydrogen sulfide, hydrogen, triethanolamine
+d. Linethol, myristic acid, benzocaine
+e. Isopropyl myristate, neon, sulfur oxide
+
+10. Efficiency of aerosol therapy is to a considerable extent determined by the size of disperse particles. What factor determines the size of aerosol particles during dispersion of an aerosol?
+a. Fractional composition, containers filling method
+*b. Exit port diameter, propellent vapour pressure
+c. System homogeneity, dispersion velocity
+d. Reduction range, container quantity
+e. Percentage of phase, filling temperature
+
+11. A department producing sterile pharmaceutical forms needs a method of eye drops sterilization applicable for drugs derived from thermolabile substances. What is the optimal method of sterilization?
+a. Use of polymeric packings
+*b. Sterile filtration
+c. Addition of ascorbic acid
+d. Thermal sterilization
+e. Filling in the inert gas medium
+
+12. In the production of injection solutions the activated carbon is used as:
+a. Antioxidant properties increasing
+b. Buffer system creation
+*c. Purification
+d. Chemical resistance of ampoules glass increasing
+e. Ampoules residual stress relaxation
+
+13. Lipophilic bases for suppositories include:
+a. Glycerol soap base
+*b. Mixtures of hydrogenatedd fats
+c. Gelatin-glycerol base
+d. Polyethylene oxide base
+e. Collagen base
+
+14. A pharmaceutical enterprise produces nitroglycerine tablets. What is the method of their production?
+*a. Extrusion
+b. Direct pressing with addition of adjuvants
+c. Pressing with preliminary dry granulation
+d. Pressing with preliminary wet granulation
+e. Direct pressing, without adjuvants
+
+15. Quality of injection solutions supplied in ampoules can be assessed according to different indices. How many ampoules should be checked while determining quality of sealing (leaktightness of an ampoule)?
+a. 50%
+*b. 100%
+c. 80%
+d. 97%
+e. 75%
+
+16. A chemical department produces alcohol solution of boric acid. What filters are used for filtration of this solution?
+a. Membrane filter
+*b. Pressure filters
+c. Nutsch filter
+d. Paper filter
+e. Bag filter
+
+17. An ampule production unit produces glucose solution. If the special sort of glucose "for injections" is not available, then the glucose should be separated from the following admixtures:
+a. Sulfates and iron (Fe)
+b. Pyretogenetic and proteic substances
+c. Proteic substances and dyes
+*d. Pyretogenetic and dyes
+e. Manganese and iron (Fe)
+
+18. A department of a pharmaceutical plant produces injection solutions. Ascorbic acid solution for injections relates to the following group of solutions:
+a. Solutions of salts derived from strong bases and weak acids
+b. Solutions of substances requiring special rectification
+c. Solutions of substances that should be subjected to thermal sterilization
+d. Solutions of salts derived from weak bases and strong acids
+*e. Easily oxidized solutions
+
+19. A phytochemical production unit produces biogenic stimulators out of different raw materials. Specify the biogenic stimulators of organo-mineral origin:
+a. Extractum Aloes fluidum, Linimentum Aloes, Рlasmolum
+b. Peloidinum, Humisolum, Torfotum, Рlasmolum, Solcoseryl
+c. Extractum Aloes fluidum, Linimentum Aloes, Succus Aloes, Biosedum
+d. Vitreous body, Placenta injection, Рlasmolum, Solcoseryl
+*e. Peloidinum, Humisolum, Torfotum, Fibs pro injectionibus
+
+20. A phytochemical department of a pharmaceutical factory produces biogenic stimulators out of different raw materials. Specify the plant-derived biogenic stimulators:
+*a. Liquid extract of aloe, aloe liniment, aloe juice, biosedum
+b. Peloidinum, humisolum, torfotum, Fibs pro injectionibus
+c. Peloidinum, humisolum, torfotum, plasmol, solcoseryl
+d. Vitreous body, Suspesio Рlacetae prо injectionibus, aloe juice, biosedum
+e. Liquid extract of aloe, peloidinum, biosedum juice
+
+21. A pharmaceutical enterprise produces water solutions. The solution of the following substance is produced by method of chemical interaction and electrochemically:
+*a. Aluminum hydroxide acetate
+b. Calcium gluconate
+c. Potassium arsenite
+d. Polyvinyl alcohol
+e. Plumbum hydroxide acetate
+
+22. According to the pharmacopoeia requirements of liquid extract production, the extractant and the raw material should be taken in the following proportion:
+*a. 1:1
+b. 1:5
+c. 1:4
+d. 1:10
+e. 1:3
+
+23. A pharmaceutical enterprise produces neogalenic preparations. Which preparation is produced by the use of Soxhlet circulation apparatus?
+a. Corglyconum
+b. Digoxin
+*c. Аdonisidum
+d. Lantosidum
+e. Сеlanidum
+
+24. Aerosol production involves usage of propellents relating to different groups. Choose the propellants that relate to the group of volatile organic solvents:
+a. Freons
+b. Vinyl chloride and methyl chloride
+c. Carbon dioxide
+*d. Methylene chloride, ethylene chloride
+e. Propane, butane, isobutane
+
+25. Which of the following drug forms is produced in granules?
+a. Rеvitum
+b. Lincomycin hydrochloride
+c. Diazolinum
+d. Мucaltinum
+*e. Plantaglucide
+
+26. A pharmaceutical factory produces camphor oil for topical application. What oil is to be used as a solvent?
+*a. Sunflower seed
+b. Vaseline
+c. Plum
+d. Olive
+e. Peach
+
+27. A pharmaceutical enterprise produces ointments. What base is applied for production of sulfur ointment simple?
+a. Polyethylene glycol
+*b. Emulsion
+c. Base for ophthalmic ointments
+d. Vaseline
+e. Lanolin
+
+28. Adjuvant substances in the production of tablets give the tableted mass all necessary technological properties, ensure dosage precision, mechanical strength and stability of tablets during their storage. What adjuvant substances facilitate disintegration or solution of the tablets in the organism?
+a. Filling agents
+b. Flavors
+c. Antifriction agents
+d. Lubricants
+*e. Disintegrants
+
+29. Aerosol department of a pharmaceutical factory uses condensed gases in the capacity of propellents. Which of the following substances relates to the group of condensed gases?
+a. Methylene chloride
+b. Ethylene chloride
+c. Nitrogen
+d. Nitrous oxide
+*e. Freon
+
+30. A pharmaceutical factory produces herbal juice out of fresh raw material. What operation should be performed at the stage of juice purification?
+a. Adsorption
+b. Sedimentation
+*c. Heating followed by quick cooling
+d. Filtration
+e. Crystallization
+
+31. A phytochemical department of a pharmaceutical factory produces valerian tincture of fresh material. Technological peculiarity of its production is that it should be produced on the base of:
+a. 90% ethanol with the ratio 1:5
+b. 70% ethanol with the ratio 1:10
+*c. 70% ethanol with the ratio 1:5
+d. 90% ethanol with the ratio 1:10
+e. 95% ethanol with the ratio 1:10
+
+32. A tablet production unit produces press-coated tablets. What equipment is used for this purpose?
+a. Dragee pan
+b. Eccentric tabletting machine
+c. Triturating machine
+*d. Double pressing tabletting machine
+e. Marmerizer
+
+33. A pharmaceutical enterprise produces a dense extract with 0,25% ammonia solution used as an extractant. This dense extract is:
+a. Valerian
+b. Sagebrush (Artemisia)
+*c. Licorice
+d. Male fern
+e. Motherwort (Leonurus)
+
+34. Aerosol production involves application of different groups of propellents. What propellents relate to the group of compressed gases?
+*a. Nitrogen, nitrous oxide, carbon dioxide
+b. Propane, butane, isobutane
+c. Methylene chloride, ethylene chloride
+d. Vinyl chloride, methyl chloride
+e. Freons
+
+35. For granule drying different types of dryers are used. The dryer SP-30 relates to the following type:
+a. Infrared
+b. Sublimation
+*c. With fluidized bed
+d. With silica gel column
+e. With a forced air circulation
+
+36. One of the quality indicators for finished ampoules is lack of residual stress in the glass. Which operation at the stage "Preparation of ampoules to be filled" eliminates this imperfection?
+a. Capillary opening
+b. Ampoule drying
+c. Ampoule sterilization
+*d. Ampoule annealing
+e. Ampoule washing
+
+37. Companies producing injectable dosage forms apply different methods of ampoule sealing. Sealing against a jet of inert gases (nitrogen, argon, carbon dioxide) is suitable for the following injection solutions:
+a. Viscous
+b. Hydrolytically unstable
+c. Photosensitive
+*d. Easily oxidable
+e. Thermostable
+
+38. Quality control of tablets produced at a pharmaceutical enterprise involves quantitative determination of such subsidiary substances as talc and aerosil. What method is applied for such determination?
+a. Photocolorimetric
+b. Titrimetric
+*c. Gravimetric
+d. Spectrophotometric
+e. Chromatographic
+
+39. Pharmaceutical plants produce enteric-coated tablets. According to the requirements of the State Pharmacopoeia of Ukraine, the coating mustnt disintegrate in the acidic medium within the following period:
+*a. 1 hour
+b. 4 hours
+c. 5 hours
+d. 3 hours
+e. 2 hours
+
+40. Injection solutions of salts derived from weak acids and strong bases require stabilization. What stabilizers are used for these solutions?
+*a. 0,1 M sodium hydroxide solution
+b. Trilon B
+c. Buthylhydroxytoluene (BHT)
+d. Ascorbic acid
+e. 0,1 M acid chloride solution
+
+41. One of the tablet coatings is enterosoluble capsule. They get solved in:
+a. Oral cavity
+b. Stomach
+*c. Bowels
+d. Rectum
+e. -
+
+42. Aerosol composition includes active substances, solvents and propellents. Which of the following substances is used as propellent?
+a. Linethol, myristic acid, benzocaine
+b. Hydrogen sulfide, hydrogen, triethanolamine
+c. Isopropyl myristate, neon, sulfur oxide
+d. Propylen glycol monostearate, argon, helium
+*e. Freon-11, carbon oxide, propane-butane
+
+43. Efficiency of aerosol therapy is to a considerable extent determined by the size of disperse particles. What factor determines the size of aerosol particles during dispersion of an aerosol?
+a. System homogeneity, dispersion velocity
+b. Reduction range, container quantity
+*c. Exit port diameter, propellent vapour pressure
+d. Percentage of phase, filling temperature
+e. Fractional composition, containers filling method
+
+44. A department producing sterile pharmaceutical forms needs a method of eye drops sterilization applicable for drugs derived from thermolabile substances. What is the optimal method of sterilization?
+a. Thermal sterilization
+b. Filling in the inert gas medium
+c. Use of polymeric packings
+*d. Sterile filtration
+e. Addition of ascorbic acid
+
+45. In the production of injection solutions the activated carbon is used as:
+a. Buffer system creation
+b. Chemical resistance of ampoules glass increasing
+c. Ampoules residual stress relaxation
+*d. Purification
+e. Antioxidant properties increasing
+
+46. Lipophilic bases for suppositories include:
+a. Collagen base
+b. Glycerol soap base
+c. Polyethylene oxide base
+d. Gelatin-glycerol base
+*e. Mixtures of hydrogenatedd fats
+
+47. A pharmaceutical enterprise produces nitroglycerine tablets. What is the method of their production?
+a. Direct pressing with addition of adjuvants
+b. Direct pressing, without adjuvants
+*c. Extrusion
+d. Pressing with preliminary wet granulation
+e. Pressing with preliminary dry granulation
+
+48. Which of the listed methods of filling ampoules with injectable solutions can protect the capillaries from contamination with thick and viscous solutions?
+a. Steam condensing method
+b. Solution squeezing method
+c. Vacuum method
+d. Turbo-vacuum method
+*e. Syringe method
+
+49. Production of injection solutions involves an operation of solution filtration. What filters are used for sterile filtration?
+a. Pressure filters
+b. Mushroom filter
+c. Nutsch filters
+d. Filter developed by the Kharkiv Chemo-pharmaceutic Research Institute
+*e. Filter candles
+
+50. Quality of injection solutions supplied in ampoules can be assessed according to different indices. How many ampoules should be checked while determining quality of sealing (leaktightness of an ampoule)?
+a. 75%
+b. 50%
+c. 97%
+d. 80%
+*e. 100%
+
+51. A chemical department produces alcohol solution of boric acid. What filters are used for filtration of this solution?
+a. Bag filter
+b. Membrane filter
+c. Paper filter
+d. Nutsch filter
+*e. Pressure filters
+
+52. A tablet shop produces trituration tablets. What quality indicators ARE NOT relevant for these tablets?
+a. Homogeneity of dosage
+b. Disintegration and dissolution
+*c. Abrasion, resistance to crushing
+d. Homogeneity of content
+e. Microbiological purity
+
+53. An ampule production unit produces glucose solution. If the special sort of glucose "for injections" is not available, then the glucose should be separated from the following admixtures:
+*a. Pyretogenetic and dyes
+b. Manganese and iron (Fe)
+c. Proteic substances and dyes
+d. Pyretogenetic and proteic substances
+e. Sulfates and iron (Fe)
+
+54. A department of a pharmaceutical plant produces injection solutions. Ascorbic acid solution for injections relates to the following group of solutions:
+*a. Easily oxidized solutions
+b. Solutions of salts derived from weak bases and strong acids
+c. Solutions of substances requiring special rectification
+d. Solutions of salts derived from strong bases and weak acids
+e. Solutions of substances that should be subjected to thermal sterilization
+
+55. A phytochemical production unit produces biogenic stimulators out of different raw materials. Specify the biogenic stimulators of organo-mineral origin:
+a. Extractum Aloes fluidum, Linimentum Aloes, Succus Aloes, Biosedum
+b. Extractum Aloes fluidum, Linimentum Aloes, Рlasmolum
+c. Peloidinum, Humisolum, Torfotum, Рlasmolum, Solcoseryl
+*d. Peloidinum, Humisolum, Torfotum, Fibs pro injectionibus
+e. Vitreous body, Placenta injection, Рlasmolum, Solcoseryl
+
+56. A phytochemical department of a pharmaceutical factory produces biogenic stimulators out of different raw materials. Specify the plant-derived biogenic stimulators:
+a. Peloidinum, humisolum, torfotum, plasmol, solcoseryl
+*b. Liquid extract of aloe, aloe liniment, aloe juice, biosedum
+c. Peloidinum, humisolum, torfotum, Fibs pro injectionibus
+d. Liquid extract of aloe, peloidinum, biosedum juice
+e. Vitreous body, Suspesio Рlacetae prо injectionibus, aloe juice, biosedum
+
+57. According to the pharmacopoeia requirements of liquid extract production, the extractant and the raw material should be taken in the following proportion:
+a. 1:10
+b. 1:4
+c. 1:3
+d. 1:5
+*e. 1:1
+
+58. A pharmaceutical enterprise produces neogalenic preparations. Which preparation is produced by the use of Soxhlet circulation apparatus?
+*a. Аdonisidum
+b. Corglyconum
+c. Сеlanidum
+d. Lantosidum
+e. Digoxin
+
+59. Aerosol production involves usage of propellents relating to different groups. Choose the propellants that relate to the group of volatile organic solvents:
+a. Vinyl chloride and methyl chloride
+b. Carbon dioxide
+c. Freons
+d. Propane, butane, isobutane
+*e. Methylene chloride, ethylene chloride
+
+60. Which of the following drug forms is produced in granules?
+*a. Plantaglucide
+b. Мucaltinum
+c. Lincomycin hydrochloride
+d. Rеvitum
+e. Diazolinum
+
+61. A pharmaceutical factory produces camphor oil for topical application. What oil is to be used as a solvent?
+a. Plum
+*b. Sunflower seed
+c. Vaseline
+d. Peach
+e. Olive
+
+62. A pharmaceutical enterprise produces ointments. What base is applied for production of sulfur ointment simple?
+a. Lanolin
+b. Polyethylene glycol
+c. Vaseline
+d. Base "For ophthalmic ointments"
+*e. Emulsion
+
+63. Adjuvant substances in the production of tablets give the tableted mass all necessary technological properties, ensure dosage precision, mechanical strength and stability of tablets during their storage. What adjuvant substances facilitate disintegration or solution of the tablets in the organism?
+a. Lubricants
+b. Antifriction agents
+*c. Disintegrants
+d. Filling agents
+e. Flavors
+
+64. While filling hard gelatin capsules such glidants as 0,1% - 0,3% aerosil or magnesium stearate along with 0,5% - 1% talc are often added to the filling agent in order to improve the following properties:
+a. Ability to contact molding
+*b. Flowability
+c. Regulation of moisture content
+d. Homogeneity
+e. Homogeneity of mixing
+
+65. Grinding equipment is classified by the way of grinding. What kind of machines does a roller crusher relate to?
+a. Impact
+b. Impact-centrifugal
+c. Cutting
+d. Abrasive
+*e. Crushing
+
+66. Antacid gastritis can be treated with plantain juice. What is the way of its extraction?
+a. Maceration with aqueous ethanol solution
+b. Extraction with condensed gases
+*c. High-pressure compression
+d. Dissolution of concentrates
+e. Repercolation
+
+67. A pharmaceutical factory produces herbal juice out of fresh raw material. What operation should be performed at the stage of juice purification?
+*a. Heating followed by quick cooling
+b. Adsorption
+c. Crystallization
+d. Filtration
+e. Sedimentation
+
+68. A phytochemical department of a pharmaceutical factory produces valerian tincture of fresh material. Technological peculiarity of its production is that it should be produced on the base of:
+*a. 70% ethanol with the ratio 1:5
+b. 90% ethanol with the ratio 1:5
+c. 95% ethanol with the ratio 1:10
+d. 90% ethanol with the ratio 1:10
+e. 70% ethanol with the ratio 1:10
+
+69. A syrup contains 82 parts of sugar syrup; 1 part of KJ (KBr); 12 parts of liquid thyme extract and 5 parts of 96% ethanol. What is this medicine called?
+a. Cholosasum
+b. Broncholytin
+c. Licorice syrup
+*d. Pertussinum
+e. Ambroxol
+
+70. A tablet production unit produces press-coated tablets. What equipment is used for this purpose?
+a. Triturating machine
+*b. Double pressing tabletting machine
+c. Marmerizer
+d. Dragee pan
+e. Eccentric tabletting machine
+
+71. A pharmaceutic plant producing ointments can use the following equipment at the packing stage:
+a. Rezepin automatic machine
+b. Eccentric machines
+c. Disc machines
+*d. Screw and piston dosing machines
+e. Rotary machines
+
+72. Aerosol workshop of a pharmaceutic plant uses propellents of different groups. What propellents relate to the group of compressed gases?
+a. Methylene chloride, ethylene chloride
+*b. Nitrogen, nitrous oxide, carbon dioxide
+c. Propane, butane, isobutane
+d. Freons
+e. Vinyl and methyl chloride
+
+73. For granule drying different types of dryers are used. The dryer SP-30 relates to the following type:
+*a. With fluidized bed
+b. Infrared
+c. With a forced air circulation
+d. With silica gel column
+e. Sublimation
+
+74. One of the quality indicators for finished ampoules is lack of residual stress in the glass. Which operation at the stage "Preparation of ampoules to be filled" eliminates this imperfection?
+*a. Ampoule annealing
+b. Ampoule washing
+c. Ampoule sterilization
+d. Ampoule drying
+e. Capillary opening
+
+75. Companies producing injectable dosage forms apply different methods of ampoule sealing. Sealing against a jet of inert gases (nitrogen, argon, carbon dioxide) is suitable for the following injection solutions:
+*a. Easily oxidable
+b. Thermostable
+c. Photosensitive
+d. Hydrolytically unstable
+e. Viscous
+
+76. While producing phytopreparations and organotherapeutic preparations different kinds of dryers are used. What dryer would be the most effective for drying thermolabile compounds?
+a. Drying oven
+b. Drum dryer
+c. Roller dryer
+d. Band dryer
+*e. Freeze-dryer
+
+77. Injection solutions of salts derived from weak acids and strong bases require stabilization. What stabilizers are used for these solutions?
+a. Buthylhydroxytoluene
+*b. 0,1 M sodium hydroxide solution
+c. Trilon B
+d. 0,1 M acid chloride solution
+e. Ascorbic acid
+
+78. A pharmaceutical plant produces suppositories. What is the best method for their manufacturing in industrial quantities?
+a. Lyophilization
+*b. Outpouring
+c. Pressing
+d. Pumping-out
+e. Stamping
+
+79. Aerosol composition includes active substances, solvents and propellents. Which of the following substances is used as propellent?
+a. Propylen glycol monostearate, argon, helium
+b. Isopropyl myristate, neon, sulfur oxide
+*c. Freon-11, carbon oxide, propane-butane
+d. Linethol, myristic acid, benzocaine
+e. Hydrogen sulfide, hydrogen, triethanolamine
+
+80. In the process of pressing the tablets adhere to the pressing tool. The technological error is the lack of:
+a. Dyes
+*b. Lubricants
+c. Disintegrants
+d. Adhesive substances
+e. Diluents
+
+81. A pharmaceutical enterprise produces nitroglycerine tablets. What is the method of their production?
+a. Pressing with preliminary wet granulation
+b. Pressing with preliminary dry granulation
+c. Direct pressing, without adjuvants
+d. Direct pressing with addition of adjuvants
+*e. Extrusion
+
+82. Which of the listed methods of filling ampoules with injectable solutions can protect the capillaries from contamination with thick and viscous solutions?
+a. Turbo-vacuum method
+b. Vacuum method
+*c. Syringe method
+d. Steam condensing method
+e. Solution squeezing method
+
+83. Production of injection solutions involves an operation of solution filtration. What filters are used for sterile filtration?
+a. Nutsch filters
+b. Pressure filters
+c. Mushroom filter
+*d. Filter candles
+e. Filter developed by the Kharkiv Chemo-pharmaceutic Research Institute
+
+84. A tablet shop produces trituration tablets. What quality indicators ARE NOT relevant for these tablets?
+a. Homogeneity of content
+b. Microbiological purity
+c. Disintegration and dissolution
+d. Homogeneity of dosage
+*e. Abrasion, resistance to crushing
+
+85. A department of a pharmaceutical plant produces injection solutions. Ascorbic acid solution for injections relates to the following group of solutions:
+a. Solutions of salts derived from weak bases and strong acids
+b. Solutions of substances that should be subjected to thermal sterilization
+*c. Easily oxidized solutions
+d. Solutions of salts derived from strong bases and weak acids
+e. Solutions of substances requiring special rectification
+
+86. The ampoule workshop produces solutions for injections. The aminophylline solution for injections relates to the following group of solutions:
+a. Solutions of salts composed of weak bases and strong acids
+b. Solutions of easily oxidizable substances
+*c. Solutions are not subject to heat sterilization
+d. Solutions of salts composed of strong bases and weak acids
+e. Solutions of substances requiring special purification
+
+87. A phytochemical production unit produces biogenic stimulators out of different raw materials. Specify the biogenic stimulators of organo-mineral origin:
+a. Vitreous body, Placenta injection, Рlasmolum, Solcoseryl
+b. Extractum Aloes fluidum, Linimentum Aloes, Succus Aloes, Biosedum
+*c. Peloidinum, Humisolum, Torfotum, Fibs pro injectionibus
+d. Extractum Aloes fluidum, Linimentum Aloes, Рlasmolum
+e. Peloidinum, Humisolum, Torfotum, Рlasmolum, Solcoseryl
+
+88. Phytochemical workshop of a pharmaceutical plant produces biogenic stimulators from different raw materials. Specify the biogenic stimulators of animal origin:
+a. Liquid aloe extract, aloe liniment, aloe juice, biossedum
+b. Liquid aloe extract, aloe liniment, plasmolum
+c. Реloidinum, humisolum, torfotum, plasmolum, solcoseryl
+*d. Vitreous body, placental suspension for injections, plasmolum, solcoseryl
+e. Реloidinum, humisolum, torfotum, Fibs рro injectionibus
+
+89. A pharmaceutical enterprise produces water solutions. The solution of the following substance is produced by method of chemical interaction and electrochemically:
+a. Calcium gluconate
+b. Plumbum hydroxide acetate
+*c. Aluminum hydroxide acetate
+d. Polyvinyl alcohol
+e. Potassium arsenite
+
+90. Which of the following drug forms is produced in granules?
+a. Мucaltinum
+b. Diazolinum
+*c. Plantaglucide
+d. Rеvitum
+e. Lincomycin hydrochloride
+
+91. A pharmaceutical factory produces camphor oil for topical application. What oil is to be used as a solvent?
+a. Vaseline
+b. Peach
+*c. Sunflower seed
+d. Olive
+e. Plum
+
+92. A pharmaceutical enterprise produces ointments. What base is applied for production of sulfur ointment simple?
+*a. Emulsion
+b. Base For ophthalmic ointments
+c. Polyethylene glycol
+d. Lanolin
+e. Vaseline
+
+93. Adjuvant substances in the production of tablets give the tableted mass all necessary technological properties, ensure dosage precision, mechanical strength and stability of tablets during their storage. What adjuvant substances facilitate disintegration or solution of the tablets in the organism?
+*a. Disintegrants
+b. Lubricants
+c. Flavors
+d. Filling agents
+e. Antifriction agents
+
+94. A pharmaceutic plant producing aerosol forms uses liquefied gases as propellents. Which of the following substances relates to the group of liquefied gases?
+a. Nitrogen
+b. Methylene chloride
+c. Ethylene chloride
+*d. Freons
+e. Nitrous oxide
+
+95. Grinding equipment is classified by the way of grinding. What kind of machines does a roller crusher relate to?
+*a. Crushing
+b. Abrasive
+c. Impact-centrifugal
+d. Impact
+e. Cutting
+
+96. A phytochemical department of a pharmaceutical factory produces valerian tincture of fresh material. Technological peculiarity of its production is that it should be produced on the base of:
+a. 70% ethanol with the ratio 1:10
+b. 90% ethanol with the ratio 1:10
+c. 95% ethanol with the ratio 1:10
+*d. 70% ethanol with the ratio 1:5
+e. 90% ethanol with the ratio 1:5
+
+97. A syrup contains 82 parts of sugar syrup; 1 part of KJ (KBr); 12 parts of liquid thyme extract and 5 parts of 96% ethanol. What is this medicine called?
+*a. Pertussinum
+b. Ambroxol
+c. Licorice syrup
+d. Broncholytin
+e. Cholosasum
+
+98. A pharmaceutical enterprise produces a dense extract with 0,25% ammonia solution used as an extractant. This dense extract is:
+a. Sagebrush (Artemisia)
+b. Male fern
+c. Motherwort (Leonurus)
+*d. Licorice
+e. Valerian
+
+99. A pharmaceutical company produces concentrated extracts. Specify the concentration of ethanol in the extractant required for the production:
+a. 70-75%
+b. 90-96%
+*c. 20-40%
+d. 50-60%
+e. 70-90%
+
+100. A factory workshop producing suspensions and emulsions is going to start manufacturing new drugs. What equipment can be used for the ultrasound processing of drugs?
+a. Disintegrator, liquid whistle
+b. Dismembrator, electrical impulse plasmolyzer
+*c. Liquid whistle, magnetostrictive source
+d. Rotor-pulsation apparatus, dismembrator
+e. Centrifugal mixer with rotating housing
+
+101. A pharmaceutic plant producing ointments can use the following equipment at the packing stage:
+a. Eccentric machines
+b. Disc machines
+c. Rezepin automatic machine
+d. Rotary machines
+*e. Screw and piston dosing machines
+
+102. The ointment workshop of a pharmaceutical plant launches production of a new ointment. Specify the manufacturing operation that ensures equal distribution of the drug substance in the base:
+a. Pre-packing
+b. Packaging
+c. Preparation of the base
+d. Standardization
+*e. Homogenization
+
+103. Aerosol workshop of a pharmaceutic plant uses propellents of different groups. What propellents relate to the group of compressed gases?
+a. Propane, butane, isobutane
+b. Freons
+*c. Nitrogen, nitrous oxide, carbon dioxide
+d. Vinyl and methyl chloride
+e. Methylene chloride, ethylene chloride
+
+104. A pharmaceutical factory produces tablets of sodium chloride. What is the method of their poduction?
+a. Moulding
+b. Wet granulation prior to compression
+c. Dry granulation prior to compression
+*d. Direct compression without additional substances
+e. Direct compression with the addition of excipients
+
+105. Quality control of tablets produced at a pharmaceutical enterprise involves quantitative determination of such subsidiary substances as talc and aerosil. What method is applied for such determination?
+a. Titrimetric
+b. Spectrophotometric
+c. Chromatographic
+*d. Gravimetric
+e. Photocolorimetric
+
+106. Pharmaceutical plants produce enteric-coated tablets. According to the requirements of the State Pharmacopoeia of Ukraine, the coating mustnt disintegrate in the acidic medium within the following period:
+a. 4 hours
+b. 2 hours
+*c. 1 hour
+d. 3 hours
+e. 5 hours
+
+107. While producing phytopreparations and organotherapeutic preparations different kinds of dryers are used. What dryer would be the most effective for drying thermolabile compounds?
+a. Drum dryer
+*b. Freeze-dryer
+c. Band dryer
+d. Roller dryer
+e. Drying oven
+
+108. Injection solutions of salts derived from weak acids and strong bases require stabilization. What stabilizers are used for these solutions?
+*a. 0,1 M sodium hydroxide solution
+b. Trilon B
+c. Buthylhydroxytoluene
+d. Ascorbic acid
+e. 0,1 M acid chloride solution
+
+109. One of the tablet coatings is enterosoluble capsule. They get solved in:
+a. Stomach
+b. Rectum
+c. -
+*d. Bowels
+e. Oral cavity
+
+110. Efficiency of aerosol therapy is to a considerable extent determined by the size of disperse particles. What factor determines the size of aerosol particles during dispersion of an aerosol?
+*a. Exit port diameter, propellent vapour pressure
+b. System homogeneity, dispersion velocity
+c. Fractional composition, containers filling method
+d. Percentage of phase, filling temperature
+e. Reduction range, container quantity
+
+111. A department producing sterile pharmaceutical forms needs a method of eye drops sterilization applicable for drugs derived from thermolabile substances. What is the optimal method of sterilization?
+*a. Sterile filtration
+b. Addition of ascorbic acid
+c. Use of polymeric packings
+d. Filling in the inert gas medium
+e. Thermal sterilization
+
+112. Lipophilic bases for suppositories include:
+a. Gelatin-glycerol base
+b. Polyethylene oxide base
+*c. Mixtures of hydrogenated fats
+d. Collagen base
+e. Glycerol soap base
+
+113. In the process of pressing the tablets adhere to the pressing tool. The technological error is the lack of:
+a. Disintegrants
+b. Adhesive substances
+*c. Lubricants
+d. Diluents
+e. Dyes
+
+114. Which of the listed methods of filling ampoules with injectable solutions can protect the capillaries from contamination with thick and viscous solutions?
+a. Vacuum method
+b. Steam condensing method
+c. Solution squeezing method
+*d. Syringe method
+e. Turbo-vacuum method
+
+115. Quality of injection solutions supplied in ampoules can be assessed according to different indices. How many ampoules should be checked while determining quality of sealing (leaktightness of an ampoule)?
+a. 97%
+b. 75%
+c. 50%
+*d. 100%
+e. 80%
+
+116. A chemical department produces alcohol solution of boric acid. What filters are used for filtration of this solution?
+*a. Pressure filters
+b. Nutsch filter
+c. Membrane filter
+d. Bag filter
+e. Paper filter
+
+117. A tablet shop produces trituration tablets. What quality indicators  relevant are not for these tablets?
+a. Homogeneity of dosage
+b. Disintegration and dissolution
+*c. Abrasion, resistance to crushing
+d. Homogeneity of content
+e. Microbiological purity
+
+118. An ampule production unit produces glucose solution. If the special sort of glucose "for injections" is not available, then the glucose should be separated from the following admixtures:
+a. Manganese and iron (Fe)
+b. Sulfates and iron (Fe)
+*c. Pyretogenetic and dyes
+d. Pyretogenetic and proteic substances
+e. Proteic substances and dyes
+
+119. A department of a pharmaceutical plant produces injection solutions. Ascorbic acid solution for injections relates to the following group of solutions:
+a. Solutions of substances requiring special rectification
+*b. Easily oxidized solutions
+c. Solutions of salts derived from weak bases and strong acids
+d. Solutions of substances that should be subjected to thermal sterilization
+e. Solutions of salts derived from strong bases and weak acids
+
+120. A phytochemical production unit produces biogenic stimulators out of different raw materials. Specify the biogenic stimulators of organo-mineral origin:
+a. Peloidinum, Humisolum, Torfotum, Plasmolum, Solcoseryl
+*b. Peloidinum, Humisolum, Torfotum, Fibs pro injectionibus
+c. Vitreous body, Placenta injection, Plasmolum, Solcoseryl
+d. Extractum Aloes fluidum, Linimentum Aloes, Succus Aloes, Biosedum
+e. Extractum Aloes fluidum, Linimentum Aloes, Plasmolum
+
+121. The phytochemical workshop of a pharmaceutical plant produces biogenic stimulators from different starting materials. Specify the biogenic stimulators of animal origin:
+a. Peloidinum, humisolum, torfotum, plasmolum, solcoseryl
+*b. Vitreous body, placental suspension for injections, plasmolum, solcoseryl
+c. Peloidinum, humisolum, torfotum, Fibs Rro injectionibus
+d. Liquid aloe extract, aloe liniment, aloe juice, biossedum
+e. Liquid aloe extract, aloe liniment, plasmolum
+
+122. Phytochemical workshop of a pharmaceutical plant produces biogenic stimulators from different raw materials. Specify the biogenic stimulators of animal origin:
+*a. Vitreous body, placental suspension for injections, plasmolum, solcoseryl
+b. Peloidinum, humisolum, torfotum, Fibs pro injectionibus
+c. Peloidinum, humisolum, torfotum, plasmolum, solcoseryl
+d. Liquid aloe extract, aloe liniment, plasmolum
+e. Liquid aloe extract, aloe liniment, aloe juice, biossedum
+
+123. A phytochemical department of a pharmaceutical factory produces biogenic stimulators out of different raw materials. Specify the plant-derived biogenic stimulators:
+a. Peloidinum, humisolum, torfotum, Fibs pro injectionibus
+b. Liquid extract of aloe, peloidinum, biosedum juice
+*c. Liquid extract of aloe, aloe liniment, aloe juice, biosedum
+d. Vitreous body, Suspesio Placetae pro injectionibus, aloe juice, biosedum
+e. Peloidinum, humisolum, torfotum, plasmol, solcoseryl
+
+124. According to the pharmacopoeia requirements of liquid extract production, the extractant and the raw material should be taken in the following proportion:
+a. 1:3
+b. 1:10
+c. 1:4
+*d. 1:1
+e. 1:5
+
+125. A pharmaceutical enterprise produces neogalenic preparations. Which preparation is produced by the use of Soxhlet circulation apparatus?
+a. Corglyconum
+b. Digoxin
+*c. Adonisidum
+d. Lantosidum
+e. Lanidum
+
+126. Aerosol production involves usage of propellents relating to different groups. Choose the propellants that relate to the group of volatile organic solvents:
+*a. Methylene chloride, ethylene chloride
+b. Propane, butane, isobutane
+c. Carbon dioxide
+d. Vinyl chloride and methyl chloride
+e. Freons
+
+127. Which of the following drug forms is produced in granules?
+a. Diazolinum
+b. Revitum
+c. Lincomycin hydrochloride
+*d. Plantaglucide
+e. Mucaltinum
+
+128. A pharmaceutical factory produces camphor oil for topical application. What oil is to be used as a solvent?
+a. Olive
+b. Plum
+c. Peach
+d. Vaseline
+*e. Sunflower seed
+
+129. While filling hard gelatin capsules such glidants as 0,1% - 0,3% aerosil or magnesium stearate along with 0,5% - 1% talc are often added to the filling agent in order to improve the following properties:
+a. Homogeneity
+b. Homogeneity of mixing
+c. Ability to contact molding
+*d. Flowability
+e. Regulation of moisture content
+
+130. A pharmaceutic plant producing aerosol forms uses liquefied gases as propellents. Which of the following substances relates to the group of liquefied gases?
+a. Methylene chloride
+b. Ethylene chloride
+c. Nitrogen
+d. Nitrous oxide
+*e. Freons
+
+131. Grinding equipment is classified by the way of grinding. What kind of machines does a roller crusher relate to?
+a. Abrasive
+b. Cutting
+*c. Crushing
+d. Impact
+e. Impact-centrifugal
+
+132. Pharmaceutical plants produce ointments on various bases. Specify the ointment base having the most pronounced osmotic properties:
+a. Silicon
+b. Methyl cellulose
+c. Hydrogenated fat
+*d. Polyethylene oxide
+e. Vaseline, lanolin
+
+133. Production unit for ampouled medicinal preparations produces procaine hydrochloride solution. This solution is stabilized by adding:
+a. 0,1 mol/l of sodium hydroxide solution
+b. 20,0 of sodium hydrogen carbonate
+c. 1,5 g of amino-propylene glycol
+*d. 0,1 mol/l of hydrochloric acid solution
+e. 0,1 mol/l of sodium hydrogen carbonate solution
+
+134. A pharmaceutical factory produces herbal juice out of fresh raw material. What operation should be performed at the stage of juice purification?
+a. Crystallization
+*b. Heating followed by quick cooling
+c. Adsorption
+d. Sedimentation
+e. Filtration
+
+135. A pharmaceutical factory produces herbal juice from fresh raw material. What operation should be performed at the stage of juice purification?
+a. Sedimentation
+b. Filtration
+c. Crystallization
+*d. Heating followed by rapid cooling
+e. Adsorption
+
+136. A phytochemical department of a pharmaceutical factory produces valerian tincture of fresh material. Technological peculiarity of its production is that it should be produced on the base of:
+a. 95% ethanol with the ratio 1:10
+*b. 70% ethanol with the ratio 1:5
+c. 90% ethanol with the ratio 1:5
+d. 70% ethanol with the ratio 1:10
+e. 90% ethanol with the ratio 1:10
+
+137. Phytochemical workshop of a factory manufactures pancreatin. What is the starting material for obtaining pancreatin?
+*a. Pancreas of pigs or cattle
+b. Lungs of cattle
+c. Egg white
+d. Heart of cattle
+e. Gastric mucosa of pigs
+
+138. Galenic preparations are produced with the use of various extractants. What extractants require pressure as a prior condition for the extraction process?
+a. Ethanol
+b. Vegetable oils
+c. Dichloroethane, chloroform
+*d. Liquefied gases
+e. Methyl alcohol, acetone
+

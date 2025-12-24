@@ -1,0 +1,630 @@
+1. Medical histories are kept in the cells of registry. There is such information as districts, steets, house and flat numbers. Each district has a colour code that can be found on the cells and medical history covers. What organizational system of medical histories storage is used in this registry?
+a. Numbered
+b. Self-storage (private)
+c. Index
+d. Alphabetical
+*e. Address
+
+2. A municipal hospital renders ambulatory services in the following way: each internist along with a nurse serves adult population of assigned territory with a certain number of dwellers. What principle of ambulatory care organisation is used in this municipal hospital?
+a. Advisory
+*b. Territorial district
+c. Familial district
+d. Shopfloor system
+e. Combined
+
+3. One of the structural hospital subdivisions consists of the following departments: special medical ward departments, auxiliary diagnostic department, surgery unit, department of morbid anatomy and pharmacy. Structure of this subdivision will correspond with the structure of a typical in-patient municipal hospital if the following department is present:
+a. Therapeutics department
+b. Emergency department
+*c. Admission ward
+d. Preventive department
+e. Home care
+
+4. A medical institution has the following structural units: administrative-economic, therapeutic, manipulation, functional and diagnostic, social-legal and reception rooms for pregnant women, puerperants, healthy women and women with gynaecological disorders. Medicoprophylactic institution with such structure relates to the following nomenclatural type:
+a. United maternity hospital
+b. Dermatovenerologic dispensary
+c. Feldsher-obstetric station
+*d. Antenatal clinic
+e. Polyclinic
+
+5. Demographic situation in a town can be characterized by a factor that is calculated acorting to the following formula: number born alive 1000 quantity of women aged 15-49 years. What factor is it?
+a. Natality
+b. Age-specific fecundity
+c. Index of unit weight of children that were born alive of women aged 15-49 years
+*d. General fecundity rate
+e. Age-specific birth rate
+
+6. Percentage of deaths in the neonatal period is 63% of the number of children who died in the first year of life. Specify the type of infant mortality:
+a. Type D
+b. Type E
+c. Type B
+d. Type C
+*e. Type A
+
+7. A financial document drawn up at a medical institution has three main sections such as: production planning indices, staffs and contingents, expense items and accompanying calculations. What financial document is it?
+a. Budget of an institution
+b. Financial inquiry
+c. Investment plan
+*d. Estimate of an institution
+e. Financial statement
+
+8. It is required to calculate the profitability of a medical preventive institution. What data should be applied for this purpose?
+*a. Economic profit of the institution and the net cost of production assets
+b. Net cost of production assets and general expenses
+c. Net cost of medical services and total spending according to budget items
+d. Price and net cost of medical services
+e. Net cost of medical services
+
+9. During the routine bacteriological inspection in a pediatric polyclinic the municipal disinfectant station revealed pathogenic microflora in manipulation and vaccination room. The head nurse of the pediatric polyclinic made a whole range of administrative decisions that focused on organisation of urgent antiepidemic measures in this polyclinic. What administrative level were these decisions made on?
+a. Coordinating
+*b. Operative
+c. Strategic
+d. Tactical
+e. Perspective
+
+10. A surgical unit of a municipal hospital had been found to have high rate of postoperative mortality. The medical council took some management decisions aimed at identifying the causes and reduction of mortality rate in the surgical unit. Which form of healthcare management is observed in this situation?
+a. Corporate
+*b. Expert
+c. Functional
+d. Linear
+e. Collective
+
+11. A professional marketer analyzes the market of medical diagnostics services. He has estimated possible market size, determined the rate of consumer demand and possible demand for a certain diagnostic service by using statistic data from the periodical press. What type of marketing researches takes place in this case?
+a. Field investigations
+b. Panel investigations
+*c. Armchair research
+d. Observation
+e. Survey
+
+12. A research is aimed at studying health of female chemical production workers in Ukraine. What method of observation (in terms of coverage) should be used in this case?
+*a. Selective
+b. Continuous
+c. Fractional
+d. Complete
+e. Simultaneous
+
+13. The study investigates causes of injuries among workers of a metallurgical plant. What type of observation (in terms of time) should be used?
+a. Prolonged
+b. Methodical
+*c. Current
+d. Random
+e. Simultaneous
+
+14. While studying the correlation between air pollution and prevalence of respiratory diseases the correlation coefficient of +0,4 was determined. Estimate the statistic interconnection between the analyzed factors:
+*a. Medium, direct
+b. Weak, direct
+c. Medium, reverse
+d. Strong, reverse
+e. Strong, direct
+
+15. An authorized person must give notice of revealed defective drugs within:
+a. 10 calendar days
+b. 7 working days
+*c. 10 working days
+d. 5 working days
+e. 7 calendar days
+
+16. Which of the following research methods ivolves determining common features as well as properties of objects relating to a certain class and going from particular to general, from less general to more general:
+a. Experiment
+b. Modeling
+c. Typologization
+*d. Generalization
+e. Idealization
+
+17. What is the aim of briefing session conducted by the head nurse, deputy chief doctor for nursing?
+a. To exchange the information on task performance
+b. To instruct the staff on task performance
+c. -
+*d. To pass the information down the line according to the management instruction
+e. To give the instructions to the staff
+
+18. People having irreversible morphological and functional damages can be assigned to disability group for the following term:
+*a. With no fixed term
+b. 2 years
+c. 4 years
+d. 3 years
+e. 1 year
+
+19. What are the indoor storage conditions for the medical products made of plastic?
+a. Temperature of 10-20°C, relative humidity of 55-70%
+*b. Temperature of 10-15°C, relative humidity of 55-70%
+c. Temperature of 0-20°C, relative humidity less than 50%
+d. Temperature of 10-20°C, relative humidity of 60-70%
+e. Temperature of 0-20°C, relative humidity 60%
+
+20. What document should be completed if drugs are to be confiscated for analysis by the State Inspection of Quality Control of Medical Drugs?
+*a. Statement in duplicate
+b. Protocol
+c. Receipt
+d. Consignment note
+e. Sola statement
+
+21. Who makes the final decision on introduction of a new drug into medical practice?
+a. Ukrainian State Inspection of Quality Control of Medical Drugs
+b. Pharmaceutical committee of Public Health Ministry of Ukraine
+*c. Minister of Public Health of Ukraine
+d. Research institute
+e. Ministry of Public Healthof Ukraine
+
+22. What normative document regulates the conditions and rules for drug storage?
+*a. Order of Ministry of Health of Ukraine № 44
+b. Decree of the Cabinet of Ministers Ukraine № 447
+c. Order of Ministry of Health of Ukraine № 197
+d. Order of Ministry of Health of Ukraine № 356
+e. Order of Ministry of Health of Ukraine № 436
+
+23. What methods of studying morbidity rates are used for characterizing diseases causing temporary disability?
+a. Use of information from medical histories
+b. Use of information brought by special sampling studies
+c. Use of information on medical inspections
+d. Use of information on causes of death
+*e. Use of information on seeking medical aid
+
+24. An information document comprising bibliographic records and including a summary of the document's contents or its parts, containing basic factual data and conclusions required for the initial insight into a document is called:
+a. Overview and analysis document
+*b. Abstract document
+c. Overview document
+d. Bibliographic document
+e. Analytical document
+
+25. There is a psychological relief room at the factory department. During working day the workers can listen to classical music, plunge into the world of forestry sounds and inhale the aroma of healing oils. What zone of relations can be influenced?
+*a. Psychologic climate
+b. Moral environment
+c. Private status of worker
+d. Official status of worker
+e. Civil status of worker
+
+26. The head nurse of a surgery department made a report on the "Role of nursing in patients' treatment (on the department example)" at a regional nursing conference. Their administrator observed, that the employees' attitude to their work became more responsible. What management school regulations will correspond with such situation?
+*a. School of humane relationships movement
+b. Behavioural science school of management
+c. School of system administration
+d. Classical school of management
+e. School of scientific approach to management
+
+27. Swiss company "Zepter" is famous all over the world. The company introduced new type of medical equipment such as lamp"Bioptron". What pricing strategy is the most effective in such case?
+a. Flat price
+b. Zone prices
+c. Flexible prices
+d. Stable prices
+*e. Prestigious prices
+
+28. At the beginning of the working day the head nurse of a department holds a daily briefing session (dispatching session) with the department staff. What is its purpose?
+*a. To give the information on the current situation, plans for the day
+b. To instruct the staff on the task performance
+c. To exchange the information on the task performance
+d. To solve an urgent problem
+e. To pass the information down the line according to the managerial structure
+
+29. You work as a nurse at a private clinic and one of your functional duties is marketing promotion of medical services. It involves realization of the following functions:
+a. Sale of goods or medical services
+b. Reduction of costs
+c. Improving of patient's life quality
+d. Price setting for goods or services
+*e. Satisfaction of consumer needs
+
+30. Some stored tinctures were found to have sediment. What actions should be taken in this case?
+a. Stir up the sediment and recognize as usable
+b. Recognize as unusable
+*c. Filter the sediment, check the preparation quality for the compliance with the requirements of scientific and technical documents
+d. Keep the sediment; quality check is not required
+e. Stir up the sediment, check the preparation quality for compliance with regulatory and technical documents
+
+31. Collecting material for an essay involves psychological and pedagogical research. To increase the objectivity and reliability of the results it is recommended to apply:
+*a. Crossover study
+b. State experiment
+c. Formative experiment
+d. Observation
+e. Natural experiment
+
+32. After doing researches you should analyse and generalize the collected information. First of all, it is necessary to:
+*a. Group the data
+b. Compare the information
+c. Draw conclusions
+d. Determine correlation between the data
+e. Evaluate the information critically
+
+33. To make a report on the research work one should use the following type of bibliographic list:
+a. Chronological
+b. Alphabetical
+*c. Numeric
+d. Alphabetical and chronological
+e. Systematic
+
+34. For the treatment of gastric ulcer a new set of drugs have been proposed. The average hospital stay for a patient decreased from 21,4 to 19,4 days. What method can determine the quality of care?
+a. Correlation
+b. Standardization
+*c. Student's t test
+d. Average values
+e. Relative values
+
+35. A head nurse working at a municipal hospital has been asked by a patient to explain the main sources of public funding of healthcare. What explanation should be given?
+a. State subsidies from public or target revenues
+b. State subventions
+c. Fixed payments to the labour fund
+d. Target contributions of entrepreneurs
+*e. General tax revenues
+
+36. The head nurse of a hospital drafts a lecture on conflict and stress management. Specify the main components of the discussion:
+*a. Information exchange
+b. Common purpose
+c. Intrigues
+d. Opposing views and thoughts
+e. Keeping the conversation
+
+37. A nurse receives sterile bandaging materials for her department from a drug-store. While checking the marking of sterile medical gauze she reveals non-compliance of the marking with the State Standard 1172-93. What non-compliance might have been revealed?
+*a. Absence of sterilization date
+b. Description and size of bandage
+c. Inscription "sterile"
+d. Manufacture date
+e. Red Cross emblem
+
+38. A head nurse of the surgical department fills in the register of accidents that happened during rendering medical aid to HIV-positive people and working with HIV-positive materials. Which form is it?
+a. Form № 109-0
+b. Form № 107-0
+*c. Form № 108-0
+d. Form № 110-0
+e. Form № 112-0
+
+39. In Ukraine a Decree is in force that regulates organization of preventing transmission of HIV infection from mother to child, medical care and social support for HIV-infected children and their families. Specify the number of this Decree:
+a. №720
+b. №408
+c. №233
+*d. №740
+e. №120
+
+40. How often should a head nurse of the therapeutics department exercise quality control of pre-sterilization treatment?
+a. Twice a month
+b. Once a month
+*c. Weekly
+d. Quarterly
+e. Once per six months
+
+41. Birth registration takes place according to the place of residence of parents. What is the main document that should be filed to the registry office for the registration of a child?
+a. Birth certificate issued by a doctor
+b. Hospital childbirth registry
+*c. Medical birth certificate
+d. Card of newborn development
+e. Birth certificate issued by the maternity hospital
+
+42. Risk factors having influence on health status are divided into endogenous and exogenous ones, which in turn are divided into controllable and uncontrollable ones. Select endogenous uncontrollable factors:
+a. -
+*b. Age, sex, heredity
+c. State of environment, life-style, medical faults
+d. Arterial hypertension, dyslipidosis, dysmenorrhea
+e. Climate, natural conditions
+
+43. Disease prevention includes primary, secondary and tertiary prevention. Which of the following relates to the objectives of primary prevention?
+a. Prevention of complications
+b. Rehabilitation
+c. Relapse prevention
+*d. Prevention of diseases
+e. Prevention of further disease development
+
+44. It is important to choose main hierarchy levels for effective management of health care system. What management levels are present in the system of Ukranian public health?
+a. Municipal, provincial, rural
+b. Regional, provincial, district
+*c. Basic, regional, state
+d. Basic, state
+e. Provincial, regional
+
+45. The mismatch between supply and demand caused by a number of factors objectively results in deviation of price from the initial cost. Such situation corresponds with the following law:
+a. Law of value
+b. Law of time saving
+*c. Law of supply and demand
+d. Law of competition
+e. Law of effectiveness
+
+46. The participants of market economy compete for better conditions of production, purchase and sale. What economic law corresponds with such situation?
+a. Law of time saving
+b. Law of supply and demand
+c. Law of effectiveness
+*d. Law of competition
+e. Law of value
+
+47. Which figure of bar code is the control one and is used for checking the correctness of reading of strokes by the scanner?
+a. First and second
+b. Fourth
+c. Fifth
+*d. Last
+e. Third
+
+48. In case of quantity discrepancies revealed during the acceptance of domestically produced drugs the claim can be filed within:
+a. During the shelf-life
+*b. No later than three days
+c. Not later than ten days
+d. Not later than seven days
+e. During the year
+
+49. Drugs are stored according to the normative-technical documation requirements. Choose the document which requirements we should follow in storage of drugs or finished dosage forms in Ukraine:
+a. Order of the Ministry of Public Health №117 as of 30.06.94
+b. Technical conditions
+c. Enactment of the Cabinet of Ministers of Ukrainel № 400 as of 20.03.2006
+d. Order of the Ministry of Public Health №360 as of 19.07.2005
+*e. Order of the Ministry of Public Health №44 as of 16.03.93
+
+50. Graphic images are used to facilitate understanding of the material, its statistical analysis, comparing the received data. What kind of diagram would you choose to visualize the processes that reflect the temporal development of a phenomenon, its dynamics?
+a. Intrabar
+b. Bar
+*c. Linear
+d. Cartodiagram
+e. Cartogram
+
+51. When deciding where to seek medical aid a patient will choose the institution where he or she can be rehabilitated faster and with best results. At the same time he must know that paid medical services can be offered by the following medical institutions:
+a. Public
+b. Private
+*c. Of all patterns of ownership
+d. Special medical institutions
+e. Preventive clinics
+
+52. One of the components of financial management is estimation of health care profitability. It indicates the quantity of medical services rendered per year which cover the expenses for maintaining an institution and taking medical prevention actions. Profitability of an institution depends on the following indicators of its acivity:
+a. Average price of service
+b. Budget of an institution
+*c. Fixed expenses and price, running costs of one service
+d. Fixed expenses of an institution
+e. Quality of services
+
+53. When a commodity expert working for a wholesale firm reveals shortages, damage or breakage of goods he should complete the receiving report in:
+*a. Triplicate
+b. Quadruplicate
+c. Duplicate
+d. Receiving report is not to be completed
+e. One copy
+
+54. The head nurse of the therapeutic department of a city hospital took on leadership in raising funds for the charity campaign "Take care of health" by her own initiative. Specify the type of leadership:
+a. Leadership as a result of the situational influence
+b. Leadership on contractual principles
+c. Charismatic leadership
+*d. Leadership as a manifestation of congenital characteristics
+e. Reformist leadership
+
+55. The head nurse of the central regional hospital knows how to convince her employees in reasonability of certain actions. As a supervisor she uses non-traditional methods of influence and department stuff management. She has a good reputation and is held in respect by her fellow employees. What type of leadership is it?
+a. Leadership as demonstration of inherent abilities
+b. Reformative leadership
+*c. Charismatic leadership
+d. Leadership as a result of acquired character traits
+e. Leadership as a result of situational impact
+
+56. The head of the neurology department of municipal hospital № 2 has authority with the co-workers and is highly respected by the management. He considers different people's opinion and takes into account their wishes and advices. In this way he achieves his goals. Such type of leader's activity is called:
+a. Authoritarian
+*b. Compromise
+c. Demonstrative
+d. Business
+e. Diplomatic
+
+57. The chief physician of a city hospital applies methods of leadership that eliminate chaos, and acts according to pre-planned schemes. This behavior ensures achievement of the set goals. Specify the type of managerial activity:
+a. Liberal
+b. Authoritarian
+c. Collegiate
+*d. Business
+e. Compromise
+
+58. The head doctor of the municipal hospital №5 commissioned the head nurse to check if the division of labour between the employees meets the following requirements: tasks accomplished by the employees should be compliant with their qualification and work experience. Specify the type of labour division:
+a. Technological
+b. By sex
+c. Functional
+d. By age
+*e. Competent
+
+59. The head of the gastroenterology department came into conflict with the deputy chief physician on economic issues over the distribution of bonuses on occasion of the Healthcare Worker Day among the department staff. Specify the type of conflict:
+a. Impersonal conflict
+b. Intragroup conflict
+*c. Interpersonal conflict
+d. Intergroup conflict
+e. Intrapersonal conflict
+
+60. The workers of the traumatology department have a conflict with the workers of surgical department about untimely cleaning of hospital territory. What type of conflict is it?
+*a. Intergroup conflict
+b. Intragroup conflict
+c. Interpersonal conflict
+d. Intrapersonal conflict
+e. Nongroup conflict
+
+61. A head nurse of the gynecology department filed the document to the head nurse of the municipal hospital about violation of duty regulations by a nurse on duty. What document is it?
+a. Instruction
+b. Testimonial
+c. Order
+d. Explanatory note
+*e. Internal document
+
+62. A scientific research begins with choosing scientific direction, problem, topic and scientific questions. The direction of a scientific research is determined by:
+a. Availability of a scientific hypothesis
+b. Science classifier
+c. Market requirements
+*d. Branch of science
+e. Availability of conclusions and suggestions on the subject
+
+63. A nurse working at the statistics department calculates the primary morbidity rate for the first quarter of the current year. Choose the medical documents that allow the nurse to study this factor:
+a. Statistic card of discharged patient (f. №066/o)
+b. Journal of a polyclinic's physician (f. №039/o)
+*c. Statistic card (f. №025-2/o)
+d. Register of house calls (f. №031/o)
+e. Register of ambulatory patients (f. №074/o)
+
+64. A nurse works in the office of preventive vaccination of children at a pediatric clinic. Specify the medical document intended for keeping records of completed vaccinations:
+a. Register for procedure count (form № 029/o)
+b. Outpatient medical sheet (form № 025/o)
+*c. Register for preventive vaccination count (form. № 064/o)
+d. Infection incidence register (form №060/o)
+e. Outpatient register (form № 074/o)
+
+65. Specify the type of demand that remains actually unchanged in case of price variation:
+a. Partly elastic
+b. Elastic
+*c. Nonelastic
+d. Stable
+e. Relatively elastic
+
+66. A profound medical examination of the fifth grade schoolchildren resulted in allocation of children to different health groups. Which health group should include children who have morphological abnormalities, functional abnormalities after diseases, and those who often fall ill?
+a. 1
+b. 4
+c. 5
+*d. 2
+e. 3
+
+67. The task of health workers in the first stage of medical examination of the population is the grouping of so-called dispensary contingent. Patients with chronic diseases at the stage of subcompensation fall into the following group:
+*a. 4
+b. 5
+c. 3
+d. 1
+e. 2
+
+68. A head nurse received drugs from the supplier of wholesale company "Alba". What accompanying documents should be delivered along with goods?
+a. Invoice, check-list of drugs
+*b. Invoice, certificate of quality
+c. Tax invoice, certificate of quality
+d. Request, invoice, certificate of quality
+e. Invoice, order, certificate of quality, expert's report on quality
+
+69. A head nurse is responsible for correct organisation of drug storage, therefore she arranges certain drugs separately in the following way:
+*a. By pharmacological groups according to the way of drug introduction
+b. By supplier companies
+c. Randomly, in her own way that is comfortable for her
+d. Alphabetically
+e. By pathologies whose pharmacotherapy ivolves such drugs
+
+70. A company producing medical tools has launched a new model of thermometers. Choose the correct sequence of stages in the process of perception of the brand-new product:
+*a. Awareness, interest, evaluation, trying out, perception
+b. Awareness, evaluation, interest, perception
+c. Interest, awareness, trying out, evaluation, perception
+d. Awareness, evaluation, trying out, interest, perception
+e. Interest, awareness, evaluation, trying out, perception
+
+71. A medical institution enters the medical services market with a new offer. What action should be prior to the service positioning on the market?
+*a. Choosing a market segment
+b. Evaluation of experts' competence
+c. Building the ordered series
+d. Evaluation of medical service competitiveness
+e. Analysis of assortments
+
+72. Specify the basic process that is meant by social marketing:
+a. Process of marketing a product or service
+b. Process of developing and providing a product or service
+c. Customer orientation
+*d. Process of identifying and developing a product or service
+e. Process of selling a product or service
+
+73. What method of conflict management should be chosen if a person is extremely interested in achieving the desired result for him and is little concerned about achieving the desired results by the other party?
+a. Avoidance
+b. Cooperation
+c. Compromise
+*d. Pressure
+e. Reconciliation
+
+74. Specify, which method of conflict solving we should choose when one side is very interested in achieving good results and the other side is uninterested in it:
+a. Collaboration
+b. Compromise
+c. Avoidance
+d. Pressure
+*e. Conciliation
+
+75. With a view to the early detection of tuberculosis all students and employees of a medical college underwent x-ray fluorography. What method of studying the incidence was applied?
+a. Medical examination of the individual groups
+b. General
+c. Current
+*d. Special sampling
+e. Preventive
+
+76. Provided that planning is an administrative tool that makes a sound basis for management decisions, its first step is as follows:
+a. Selection of technical methods of execution
+b. Finding alternatives
+c. Identification of the main objectives of the program and key steps of its implementation
+d. Making the right decision
+*e. Identification and analysis of the problem
+
+77. What types of decisions are made at the early stage of planning when it involves constant consultations with authorities and experts?
+a. Technical, authoritarian
+*b. Technical, political
+c. Technological, authoritarian
+d. Constructional, radical
+e. Technical, nonpolitical
+
+78. According to the receiving acts, a batch of domestic goods couldn't be accepted to the warehouse because of quantity divergence. A claim must be filed within:
+a. Seven days
+b. Ten days
+c. Twenty days
+*d. Three days
+e. Five days
+
+79. Each patent medicine has approved attributes such as: labels stuck or printed on the packing, inserts, wrappers and instructions concerning the usage of medicines. Their graphic design must correspond with:
+a. Batch number and composition
+b. Contents of instruction and inserts
+*c. Specifications of sectoral scientific-technical documentation and decorative original
+d. Number of registration certificate and batch number
+e. Contents of instruction and composition
+
+80. It is required to study the cardiovascular morbidity rate in different administrative districts of a city. Urban population of each district has different age structure. What statistic method should be used in order to exclude the impact of this factor on the inicators of morbidity rate?
+a. Calculation of relative numbers
+b. Regression-correlation analysis
+c. Analysis of dynamical range
+*d. Standardization
+e. Calculation of average numbers
+
+81. Name the basic forms of training of scientific and academical personnel:
+*a. Postgraduate course and doctorate
+b. Postgraduate course and MA course
+c. Postgraduate course and bachelor degree program
+d. Doctorate and MA course
+e. Bachelor degree program and MA course
+
+82. Leadership style in management is an important way to influence the team. When the leader follows the principle of "one man, one vote" and encourages employees to actively participate in making decisions, controls and spurs each person into action, this style is called:
+a. Personal
+b. -
+c. Tutorial
+d. Managerial
+*e. Democratic
+
+83. Guaranteed storage life of ready-made sterile dressing materials is:
+*a. 5 years since the date of manufacture
+b. 1 year since the date of acceptance according to the invoice
+c. They have no expiration date
+d. 3 years since the date of manufacture
+e. 2 years since the date of acceptance according to the invoice
+
+84. After drawing up statements the inspection board allows to unpack, accept and record the goods as received. Quality and package contents of goods delivered from outside the city should be accepted within the following period of time:
+a. No later than within 10 days
+b. No later than within 15 days
+c. No later than within 7 days
+*d. No later than within 20 days
+e. No later than within 5 days
+
+85. In order to work successfully in a new job a nurse should master the system of relationships, establish positive relations with team members. What is the first-priority factor for her successful work in a new job?
+a. Relevant qualification
+b. Fair remuneration
+*c. Social adaptation
+d. Growth prospect
+e. Friendly nature
+
+86. Head nurse of a hospital relates to the professional group of "executives". She distributes (delegates) part of her responsibilities among her employees. What is the aim of authority delegation?
+a. Maintenance of "group" work style
+b. Stimulating the origin of an informal organization
+c. Facilitating the work of an executive
+*d. Optimal solution of a complex task
+e. Testing the skills of employees
+
+87. A nurse working at a family outpatient clinic is in the second stage of statistical analysis. This stage includes:
+a. Comparison of statistical data with their standards
+b. Identifying the object of statistical analysis
+c. Consolidation of statistical data
+d. Development of statistical data
+*e. Registration and collection of statistical data
+
+88. General practitioners of each district have to fill in initial registration documentation including reporting forms which are intended for recording information on population health level. Which form should be filled in after revealing cases of infectious diseases?
+a. F-063/o
+*b. F-025/o
+c. F-058/o
+d. F-028-1/o
+e. F-031/o
+
+89. In order to represent the contents of documents in form of short coded notifications one should process these documents in a certain way. Specify the method of scientific document processing:
+a. Questioning
+b. Task study
+c. Research
+*d. Indexing
+e. Interviewing
+
+90. Classification of a document database shows its certain aspect and is used in appropriate information structures. Document classifications are divided into:
+a. Adaptive
+b. Multiple-aspect
+*c. Subject and systematic
+d. Document
+e. Simple
+

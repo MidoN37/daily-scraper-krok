@@ -1,0 +1,910 @@
+1. An excess of concentrated ammonium hydroxide is a group reagent for the cations of the VI analytical group (acid-base classification) Co2+, Ni2+, Cd2+, Cu2+, Hg2+. In this case the following substances are formed:
+a. Hydroxides of acid-soluble cations
+b. Hydroxides of alkali-soluble cations
+c. Hydroxides of the cations insoluble in the excess of ammonium hydroxide
+*d. Water-soluble ammonia complexes
+e. Stained, water-insoluble compounds
+
+2. Both external and internal indicators are used in the following titrimetric method of analysis
+a. Alkalimetry
+b. Permanganatometry
+c. Argentometry
+*d. Nitritometry
+e. Chelatometry
+
+3. A chemist in analytical laboratory needs to standardize solution of sodium hydroxide. What primary standard solution can be applied for this purpose?
+a. Sodium tatraborate
+b. Sodium chloride
+c. Acetate acid
+d. Chloride acid
+*e. Oxalic acid
+
+4. Choose reagents for detection of nitrite ions in presence of nitrate ions contained in a pharmaceutical under examination:
+a. Iron (III) chloride
+*b. Antipyrin and chlorohydrogen acid (diluted)
+c. Iron (III) sulfate (concentrated) and potassium bromide
+d. Iron (II) sulfate (diluted) and potassium iodide
+e. Iron (II) chloride
+
+5. A chemist in an analytical laboratory needs to standardize a sodium hydroxide solution. What primary standard solution can be used for this purpose?
+*a. Oxalic acid
+b. Chlorohydrogen acid
+c. Sodium chloride
+d. Sodium tetraborate
+e. Acetic acid
+
+6. Dimethyl glyoxime entered into reaction with a solution that contained cations of the IV analytical group (acid-base classification). The deposition turned crimson. What cation caused this analytical effect?
+a. Cobalt cation (II)
+*b. Nickel cation (II)
+c. Copper cation (II)
+d. Mercury cation (II)
+e. Cadmium cation (II)
+
+7. Thiocyanatometry is based upon using of secondary standard solution of potassium thiocyanate that should be standardized according to the following standard solution of:
+a. Copper (II) nitrate
+*b. Silver nitrate
+c. Sulfuric acid
+d. Hydrochloric acid
+e. Iron (II) sulfate
+
+8. Concentration of potassium dichromate in a solution was determined by means of iodometry. Name a titrant of iodometric method for determination of strong oxidizer:
+a. Sodium hydroxide
+b. Potassium permanganate
+c. Potassium bromate
+*d. Sodium thiosulfate
+e. Potassium iodide
+
+9. Solution of potassium chromate was added to a solution under examination. As a result of it some yellow deposition settled down. This deposition cannot be dissolved in acetic acid. This means that the solution under examination contains cations of:
+a. Sodium
+b. Calcium
+*c. Barium
+d. Cobalt
+e. Magnesium
+
+10. Solution of Trilon B is the titrant in chelatometry. It makes complex compounds with metal cations irrespective of their valency with the following proportion:
+a. 1:3
+b. 2:1
+c. 3:1
+*d. 1:1
+e. 1:2
+
+11. What indicator is used for the quantitative determination of sodium carbonate in a preparation by the method of acid-base titration?
+a. Diphenylamine
+b. Ferroin
+c. Murexide
+d. Methylene blue
+*e. Methyl orange
+
+12. Concentration of ethyl alcohol in some drug formulations and tinctures can be determined by means of refractometry. For this purpose the following characteristic is measured:
+a. Angle of rotation of plane of polarized light
+b. Light ray angle
+c. Angle of light refraction
+*d. Index of solution refraction
+e. Angle of total internal reflection of light ray
+
+13. Quantitative determination of pharmaceutical substances can be done by means of acidimetry. Its titrant is the secondary standard solution of hydrochloric acid. According to which compound the precise concentration of hydrochloric acid can be determined?
+a. Magnesium sulphate
+*b. Sodium tetraborate
+c. Potassium dichromate
+d. Oxalic acid
+e. Sodium thiosulfate
+
+14. For determination of nitrate ions diphenylamine was added to the solution under examination. The following changes were observed:
+a. Generation of brown gas
+b. Emergence of a typical smell
+c. Generation of yellow deposition
+d. Generation of blue deposition
+*e. Generation of blue solution
+
+15. Concentrated nitric acid and crystalline lead dioxide were added to a solution under examination. The solution turned crimson. This analytical effect indicates presence of:
+a. Chromium (III)
+b. Tantum (II)
+c. Bismuth (III)
+d. Iron (III)
+*e. Manganese (II)
+
+16. Determination of chlorides in potable water can be done by means of mercurymetry. The following solution is used as a titrant:
+a. Hg2(NO3)2
+b. HgSO4
+c. Hg2Cl2
+*d. Hg(NO3)2
+e. HgCl2
+
+17. Iodometric determination of formaldehyde in formaline can be done by the back titration. Iodine surplus is titrated with the standard solution of:
+a. Sodium nitrate
+b. Sodium carbonate
+c. Sodium phosphate
+*d. Sodium thiosulphate
+e. Sodium sulphate
+
+18. Titrant of chelatometry method is trilon B solution that forms complex compounds with metal cations irrespective of their valence at a ratio of:
+*a. 1:1
+b. 1:2
+c. 3:1
+d. 2:1
+e. 1:3
+
+19. Name the type of reaction that takes place during detection of ascorbic acid in a preparation by iodometric method:
+a. Precipitation
+b. Complexing
+c. Acylation
+d. Neutralization
+*e. Oxidation-reduction
+
+20. During quantitative estimation of glucose by polarimetric method the following factor is measured:
+a. Beam dispersion by a solution
+b. Optical density of a solution
+c. Coefficient of light refraction
+d. Rate of polarized beam absorption by a solution
+*e. Angle of rotation of polarized beam plane
+
+21. Sodium arsenate solution can be distinguished from the arsenite solution by means of the following reagent:
+a. Sodium chloride
+b. Sodium fluoride
+c. Potassium sulphate
+d. Potassium nitrate
+*e. Magnesia mixture
+
+22. Excess of ammonia was added to a solution under examination. The solution turned bright blue. This indicates presence of the following ions:
+a. Lead
+b. Silver
+*c. Copper
+d. Bismuth
+e. Mercury (II)
+
+23. Quantitative determination of calcium chloride is carried out by method of direct chelatometric titration. Choose an indicator for fixation of the titration endpoint:
+a. Methyl red
+b. Phenolphthalein
+*c. Eriochrome black T
+d. Eosin
+e. Starch
+
+24. Determination of sodium and potassium chlorides in pharmaceuticals can be done by means of:
+a. Reduction-oxidation titration
+b. Acidimetry
+c. Chelatometry
+*d. Argentometry, Mohr method
+e. Alkalimetry
+
+25. The solid residue obtained after evaporation of the sample solution makes the colorless flame of burner turn yellow, and when watched through a blue glass, it looks purple. What cations are present in the solid residue?
+a. Na+, Ca2+
+*b. Na+, K+
+c. Na+, Sr2+
+d. Na2+, K+
+e. Li+, Ba2+
+
+26. Filter paper impregnated with solution of cobalt (II) nitrate and a solution under examination makes blue ash when burned down. This is the evidence of presence of the following ions:
+a. Sb3+
+b. Zn2+
+c. Cr3+
+d. Ni2+
+*e. Al3+
+
+27. After a solution had been heated with (NH4)2S2O8 in presence of AgNO3, it turned crimson. What ions were present in the solution?
+*a. Mn2+
+b. Fe2+
+c. Cu2+
+d. Co2+
+e. Fe3+
+
+28. A solution under examination was added to the solution of FeSO4 in presence of concentrated H2SO4. Formation of a brown ring indicates presence of:
+a. Carbonate ions
+b. Acetate ions
+*c. Nitrate ions
+d. Oxalate ions
+e. Phosphate ions
+
+29. Specify standard substances used for standardization of titrant solutions (NaOH, KOH) in the alkalimetric method:
+a. Formic and acetic acids
+b. Acetic and succinic acids
+*c. Oxalic and succinic acids
+d. Sulphanilic and oxalic acids
+e. Sulphanilic and salicylic acids
+
+30. 1 M sulphuric acid solution was added to the solution under study. This resulted in formation of white sediment that was soluble in the alkalies. This indicated that the solution contains:
+a. Mercury (I) cations
+*b. Plumbum cations
+c. Barium cations
+d. Calcium cations
+e. Argentum cations
+
+31. Cations of the third analytical group (acid-base classification) can be isolated in course of systematic analysis by means of the following group reagent:
+a. 1 M solution of ammonium carbonate
+*b. 1 M solution of sulfate acid in presence of ethanol
+c. 0,1 M solution of sodium carbonate
+d. 1 M solution of potassium chromate
+e. 0,1 M solution of ammonium oxalate
+
+32. A solution contains cations of zinc and aluminum. Specify the reagent that allows to detect cations of zinc in this solution:
+a. Excess of 6M sodium hydroxide in presence of hydrogen peroxide
+b. Sulfuric acid solution
+c. Sodium hydroxide solution
+d. Cobalt nitrate Co(NO3)2
+*e. Potassium hexacyanoferrate (II) solution
+
+33. In a solution containing cations of copper (II) and zinc, the copper cations can be identified by means of the excess of the following reagent:
+a. 2M hydrochloric acid solution
+b. 2M solution of ammonium carbonate
+c. 2M sulfuric acid solution
+d. 6M potassium hydroxide solution
+*e. 6M ammonia solution
+
+34. Solution of potassium iodide was added to the solution acidated with sulfate acid that contained anions of the third analytical group. Release of free iodine is observed. What anion are present in the solution?
+*a. Nitrite ion
+b. Sulfate ion
+c. Acetate ions
+d. Bromide ions
+e. Carbonate ion
+
+35. A solution contaning anions of the second analytical group has been blended with the solution of argentum nitrate. This resulted in formation of black precipitate insoluble in the ammonia solution and soluble in the diluted nitric acid at heating. What anions are present in the solution?
+a. Iodide ions
+b. Bromide ions
+c. Arsenite ions
+*d. Sulphide ions
+e. Chloride ions
+
+36. Argentum nitrate solution was added to a solution containing anions of the second analytical group. This resulted in formation of light-yellow sediment that was insoluble in the nitric acid and partly soluble in the ammonia solution. What anions were present in the solution?
+a. Iodide ions
+b. Sulphide ions
+c. Arsenite ions
+*d. Bromide ions
+e. Chloride ions
+
+37. During gravimetric determination of mass fraction of sulfate ions in the magnesium sulfate preparation precipitation is performed by means of barium chloride solution. Precipitated barium sulfate should be rinsed with:
+a. Solution of barium chloride
+b. Distilled water
+*c. Diluted solution of sulfate acid
+d. Solution of sodium sulfate
+e. Solution of hydrochloride acid
+
+38. A medicament comprises sodium bicarbonate and sodium chloride. What method is used for quantitative determination of sodium bicarbonate?
+*a. Acid-base titration
+b. Redox titration
+c. Coulometric titration
+d. Complexometric titration
+e. Precipitation titration
+
+39. Concentration of magnesium sulfate in a drug can be determined by complexometric titration. Choose an indicator to detect the end point of titration:
+a. Phenolphtalein
+b. Eosin
+c. -
+*d. Chromogen black
+e. Methyl orange
+
+40. Choose a pair of electrodes for potentiometric pH measurement of a solution:
+a. Quinhydrone and antimonial
+b. Calomel and silver chloride
+*c. Glass and silver chloride
+d. Mercury sulphate and silver chloride
+e. Glass and antimonial
+
+41. The mass percentage of ascorbic acid can be determined by the cerimetric analysis in the presence of the following redox indicator:
+a. Eosin
+b. Methylene red
+*c. Ferroin
+d. Fluorescein
+e. Methylene orange
+
+42. 0,1 M solution of potassium permanganate is used as a titrant in permanganatometry. The solution is prepared like the secondary standard solution and standardized according to:
+a. Calcium oxide
+*b. Ammonia oxide
+c. Sodium chloride
+d. Potassium dichromate
+e. Sodium carbonate
+
+43. Specify the reaction conditions (medium, to) in the standardization of potassium permanganate solution by sodium oxalate solution:
+a. Neutral, cooling
+*b. Acidic, heating
+c. Alkaline, heating
+d. Neutral, heating
+e. Acidic, cooling
+
+44. Specify the standardized solutions used for direct and back titration of reducing agents in the iodometric method:
+a. K2Cr2O7, I2
+*b. I2, Na2S2O3
+c. I2, KI
+d. K2Cr2O7, Na2S2O3
+e. KMnO4, KI
+
+45. Determination of medications containing cations of magnesium and calcium is done by trilonometric titration. What type of chemical reaction takes place in this case?
+a. Oxidation-reduction
+b. Alkylation
+c. Precipitation
+*d. Complexation
+e. Electrophylic substitution
+
+46. Halide ions in drugs are determined by titration based upon the reaction of:
+a. Acid-base
+b. Complexing
+c. Oxidation-reduction
+d. Substitution
+*e. Precipitation
+
+47. Name a standard solution of iodometric determination of reducing agents (direct titration)?
+a. Solution of Na2S2O3
+b. Solution of KMnO4
+*c. Solution of I2
+d. Solution of K2Cr2O7
+e. Solution of KI
+
+48. Specify the standard solution for the iodometric determination of reducing agents (direct titration):
+a. KI solution
+*b. I2 solution
+c. Na2S2O3 solution
+d. KMnO4 solution
+e. K2Cr2O7 solution
+
+49. Choose a pair of electrodes for FeSO4 determination by method of potentiometric titration:
+a. Chingidron and zink
+b. Copper and glass
+*c. Platinum and chlorosilver
+d. Hydrogen and glass
+e. Antimonial and silver
+
+50. The fourth group of cations includes the cations Al3+, Sn2+, Sn(IV), As(V), As(III), Zn2+, C3+. The group reagent for the fourth group of cations is the solution of:
+a. H2SO4, N2O2
+*b. NaOH, N2O2
+c. NH3, N2O2
+d. HCl
+e. N2S2O4
+
+51. During the qualitative analysis under the influence of group reagent NaOH upon the aluminium ions the following substance is produced:
+*a. Sodium hexahydroxoaluminate
+b. Sodium metaaluminate
+c. Aluminium oxide
+d. Basic aluminium salts
+e. Aluminium hydroxide
+
+52. During the quantitative analysis carried out under the primary conditions, a specific reagent to Fe3+ cations is K4[Fe(CN)6]. Their interaction gives a precipitate of the following colour:
+a. Red
+b. Black
+c. White
+d. Brown
+*e. Blue
+
+53. In the qualitative analysis which involves precipitation of sulphates of the third analytical group cations (Ca2+, Sr2+, Ba2+) the solubility of sulphates can be reduced by adding:
+a. Amyl alcohol
+*b. Ethyl alcohol
+c. Benzene
+d. Distilled water
+e. Chloroform
+
+54. In a qualitative analysis, when an excess of the group reagent (NH_3 solution) reacts with the cations of the sixth analytical group (Cu2+, Co2+, Ni2+, Cd2+, Hg2+), the following compounds are formed:
+*a. Metal ammine complexes
+b. Basic metal salts
+c. Hydroxocomplexes of metals
+d. Aqua complexes of metals
+e. Metal hydroxides
+
+55. Sodium fluoride is one of the components of the drugs used in the treatment of dental caries. NaF reacts with the following compound:
+a. CH3COOH
+*b. H2SO4
+c. NaCl
+d. CO2
+e. KI
+
+56. The most common technology in pharmaceutical production is maintaining constant temperature and pressure. What is this process called?
+a. Isochoric-isothermal
+b. Isochoric
+c. Isothermal
+*d. Isobaric-isothermal
+e. Isobaric
+
+57. Some medications are colloidal solutions. What size of the colloidal particles is typical for the colloidal dispersion?
+a. 10-5 – 10-7 ?
+b. 10-5 - 10-3 ?
+c. > 10-3 ?
+*d. 10-7 – 10-9 ?
+e. 10-10 – 10-11 ?
+
+58. The ability of reagent to ensure a stable analytical effect in the interaction with the analyzed substance is characterized by:
+*a. Reaction sensitivity
+b. Reaction specificity
+c. -
+d. Reagent amount
+e. Reaction selectivity
+
+59. To maintain a certain level of pH-medium, the buffer solutions are used. Specify a composition of substances that DOES NOT EXHIBIT buffer properties:
+a. HCOOH + HCOONa
+b. NaH2PO4+Na2HPO4
+c. CH3COOH+CH3COONa
+d. NH4Cl+NH3 * H2O
+*e. NaOH+NaCl
+
+60. Quantitative analysis of zinc salts is performed by method of trilonometry. What indicator is used for this purpose?
+a. Methyl black
+b. Phenolphtalein
+*c. Eriohrome black-T
+d. Potassium dichromate
+e. Thymol blue
+
+61. During analysis of cations of the IV analytic group Zn cations can be detected under certain conditions with the following reagent:
+a. Alkali metal carbonates
+b. Dimethylglyoxime
+c. Ammonia solution
+d. Alkali
+*e. Dithizone
+
+62. Specify the titration method, in which a standardized titrant solution is gradually added to the solution under study until a titration endpoint is reached:
+a. Indirect titration
+b. Back titration
+*c. Direct titration
+d. Substitution titration
+e. Residue titration
+
+63. What analytical effect is observed after fixing the endpoint during the titration by Mohr method?
+a. Yellow precipitate
+*b. Brick-red precipitate
+c. Yellow colour of solution
+d. Red colour of solution
+e. White precipitate
+
+64. What standard solution (titrant) is used in Folgards method of direct titration?
+a. Potassium dichromate
+*b. Ammonium thiocyanate
+c. Silver nitrate
+d. Sodium chloride
+e. Potassium chromate
+
+65. What solution can be determined by photocolorimetric method by self-absorbance?
+a. Potassium phosphate
+*b. Potassium chromate
+c. Potassium sulphate
+d. Potassium chloride
+e. Potassium nitrate
+
+66. While detecting Co2+ ions in presence of Fe3+ the following ions should be added to the solution in order to mask Fe3+ ions:
+a. Chloride ions
+b. Nitrite ions
+c. Sulphate ions
+*d. Fluoride ions
+e. Bromide ions
+
+67. Nitrite ions in presence of nitrate ions can be detected by means of:
+*a. Crystalline antipyrine in presence of dilute HCl
+b. Dimethylglyoxime
+c. Diphenylcarbazone
+d. Crystalline iron (III) sulfate
+e. Crystalline sodium thiosulfate
+
+68. You need to prepare ammoniac buffer solution. For this purpose you should add the following solution to the water solution of ammonia:
+a. Solution of potassium chloride
+b. Solution of sodium sulfate
+c. Solution of chloride acid
+d. Solution of sulfate acid
+*e. Solution of ammonium chloride
+
+69. What saturated heated solution is used for transformation of sulphates BaSO4, SrSO4, CaSO4 to carbonates during the systematic analysis?
+a. CO2
+*b. Na2CO3
+c. (NH4)2CO3
+d. CaCO3
+e. MgCO3
+
+70. Which indicatorless method enables quantitative determination of iron (II) content?
+a. Chelatometry
+b. Iodometry
+c. Nitritometry
+*d. Permanganatometry
+e. Argentometry
+
+71. Choose a pair of substances that can be used for standardization of 0,1 M solution of KMnO4:
+a. Na2C2O4, CH3COOH
+*b. Na2C2O4, H2C2O4
+c. CH3COOK, H2C2O4
+d. K2CO3, CH3COOH
+e. KHC2O4, HCOOH
+
+72. Permanganatometry enebles determination of H2O2 in high-acidity medium. What acid can be used for production of such medium?
+a. HNO3
+b. HCl
+*c. H2SO4
+d. CH3COOH
+e. H3PO4
+
+73. It is required to determine the amount of sodium salicylate in a solution. What titrimetric method can be applied for the quantitative determination of aromatic compounds?
+a. Cerimetry
+b. Mercurimetry
+*c. Bromometry
+d. Argentometry
+e. Chelatometry
+
+74. You are given 0,05 M solution of versene. What is standard substance for standardization of this solution?
+a. Potassium dichromate
+*b. Metallic zinc
+c. Sodium hydroxide
+d. Sodium tetraborate
+e. Oxalic acid
+
+75. For the quantitative analysis of ethanol the gas chromatography was used. Which parameter was measured?
+*a. Peak height or area
+b. Retention volume
+c. Peak width at half height
+d. Peak width
+e. Retention time
+
+76. Coulometry is based upon measurement of electrics that is spent on electrode reaction. What law underlies coulometric method?
+a. Archimedes' principle
+b. Stokes law
+c. Bouguer-Lambert-Beer law
+*d. Faraday law
+e. Newton law
+
+77. In order to determine mass fraction of calcium in a pharmaceutical preparation, gravimetric method was applied. Ammonium oxalate solution was used as a precipitating agent. What is the gravimetric form in this case?
+a. Anhydrous calcium oxalate
+b. Calcium carbonate
+c. Calcium hydroxide
+*d. Calcium chloride
+e. Monohydrous calcium oxalate
+
+78. Analytical indication of effect of potassium iodide solution upon unstained oxidizing anions in presence of chloroform is:
+*a. Brown stain of free iodine
+b. Change of aggregate state
+c. Origination of deposition and its solution in reagent excess
+d. Emission of gas bubbles
+e. Settling down of white deposition
+
+79. Dosage forms produced as coarse dispersion systems with the liquid dispersion medium and the solid phase are called:
+a. Foam
+*b. Suspension
+c. Aerosol
+d. Emulsion
+e. Powder
+
+80. Specify the relevant indicators for fixation of the titration endpoint when using nitritometric method:
+*a. Tropeolin 00 + methylene blue
+b. Methylene orange
+c. Diphenylamine
+d. Starch solution
+e. Methylene blue
+
+81. Choose a reduction-oxidation method for the quantitative determination of iron (II) salts in a solution that contains hydrochloric acid:
+*a. Dichromatometry
+b. Permanganatometry
+c. Ascorbinometry
+d. Nitritometry
+e. Iodometry
+
+82. During thin-layer chromatography of novocaine, the developed plate represented a stain 3 cm away from the start line, and the length of solvent front was 10 cm. What is the Rf value of novocaine?
+a. 0,5
+b. 0,4
+*c. 0,3
+d. 0,6
+e. 0,7
+
+83. A compound undeer examination contains cations of iron (III) and copper (II). What group reagent can separate these cations?
+a. Concentrated solution of hydrochloride acid
+b. Solution of sodium hydroxide and hydrogen peroxide
+*c. Concentrated ammonia solution
+d. Solution of sodium hydroxide
+e. Concentrated solution of sulfuric acid
+
+84. In order to choose an indicator during the acid-bace titration a titration curve is made which is the dependence of:
+a. pH solution from the concentration of the added titrant
+b. Concentration of the solution under analysis from pH solution
+c. pH solution from the temperature
+*d. pH solution from the volume of the added titrant
+e. pH solution from the volume of the solution under analysis
+
+85. What method of titrimetric analysis can be applied for the quantitative determination of sulphuric acid by means of the potassium hydroxide solution?
+a. Acidimetry
+b. Precipitation
+c. Complexation
+*d. Alkalimetry
+e. Oxidation-reduction
+
+86. You have to carry out a qualitative analysis. What substance will originate from chromium ions under the influence of group reagent excess (solution of sodium hydroxide) upon cations of the IV analytical group?
+a. Chromium (III) oxide
+b. Chromium (III) hydroxide
+*c. Sodium hexahydroxochromate (III)
+d. Chromium (II) hydroxide
+e. Chromium (II) oxide
+
+87. Choose the reagents for detection of the sulphate ions in a solution containing carbonate, sulphate and phosphate ions:
+*a. Ba(NO3)2, HCl
+b. BaCl2, H2O
+c. AgNO3, HNO3
+d. CaCl2, NH4OH
+e. Ba(NO3)2, NaOH
+
+88. Emulsions of 0.1 - 74% dispersed-phase volume relate to:
+a. Diluted
+b. W\O type
+c. O/W type
+*d. Concentrated
+e. Highly concentrated
+
+89. A composition under examination contains ions of Cl–, Br– and I– in equimolar quantities. The sequence of precipitate formation in course of argentometric titration will be determined by:
+a. Value of oxidation-reduction potentials
+b. Value of corresponding ion mobility
+c. Ionic strength of solution
+*d. Solubility product of the corresponding silver halogenides
+e. Way of titration - either back or direct
+
+90. The molar mass of calcium hydroxide equivalent (M(Ca(OH)2) = 74 g/mol) is:
+a. 19 g/mol
+b. 74 g/mol
+c. 148 g/mol
+*d. 37 g/mol
+e. 32 g/mol
+
+91. Choose an appropriate indicator for fixation of titration end point in method of bromatometry:
+a. Methyl blue
+b. Tropeolin 00
+c. Phenolphthalein
+d. Starch
+*e. Methyl red
+
+92. Choose a pair of titrants for the qualitative determination of ammonia in a solution by the method of back titration:
+a. KOH, NaOH
+b. HCl, H2SO4
+*c. HCl, NaOH
+d. NaOH, KCl
+e. H2SO4, K2SO4
+
+93. Nitritometric determination of compounds containing primary aromatic amino group can be carried out under the following conditions:
+a. Slow titration
+*b. With observation of all the mentioned conditions
+c. With adding of the crystalline KBr (catalyst)
+d. At a temperature up to 10 degrees
+e. Chloric acid excess
+
+94. To identify a drug by thin-layer chromatography the following parameter is used:
+a. n
+b. I, A
+c. Kp
+*d. Rf
+e. E, mV
+
+95. What electrode is used as indicator during dichromatometric determination of FeSO4 in a solution provided that fixation of the equivalence point is done by a potentiometric method?
+a. Quinhydrone
+b. Glass
+*c. Platinum
+d. Silver
+e. Silver chloride
+
+96. Content of potassium dichromate in a solution was determined by iodometric method. Name the titrant of iodometric method for oxidant determination:
+a. Potassium bromate
+*b. Sodium thiosulfate
+c. Potassium iodide
+d. Sodium hydroxide
+e. Potassium permanganate
+
+97. When ammonia enters into reaction with acids, this results in formation of ammonium salts. Which properties of ammonia characterize this process?
+*a. Ability to accept the hydrogen ions
+b. Acidic properties
+c. Ability to hydrolyze
+d. Oxidative properties
+e. Reductive properties
+
+98. What cations added to the solution of potassium iodide form orange-red deposition that is soluble in reagent excess and builds up a colourless solution?
+*a. Mercury (II)
+b. Bismuth
+c. Lead
+d. Antimony (V)
+e. Mercury (I)
+
+99. Nitritometric determination of primary aromatic amines in acidic medium results in generation of the following reaction product:
+a. Nitrosoamine
+b. Nitrose antipyrine
+c. Azide
+*d. Diazonium salt
+e. Nitrose arylenamine
+
+100. What is the primary standard for standardization of Hg2(NO3)2 solution?
+*a. Sodium chloride
+b. Sosium sulphate
+c. Sodium dichromate
+d. Sodium hydroxide
+e. Sodium bromide
+
+101. Determination of sodium chloride by Folgards method involves the following techniques:
+a. Direct titration, mercurimetry
+*b. Back titration, argentometry
+c. Substitute titration
+d. Direct titration, argentometry
+e. Back titration, mercurimetry
+
+102. What reactions are used in the methods of permanganatometry, dichromatometry, iodometry?
+a. Hydrolysis
+*b. Oxidation-reduction
+c. Complexation
+d. Precipitation
+e. Neutralization
+
+103. Quantitative determination of iodide can be done by method of:
+a. Acid-base titration
+b. Spectrophotometry
+c. Precipitating titration
+*d. Oxidation-reduction titration
+e. Chelatometry
+
+104. In order to bind hydrogen ions during the identification of potassium ions with tartaric acid the following solution is used:
+*a. Sodium acetate
+b. Ammonia
+c. Hydrochloric acid
+d. Sulfuric acid
+e. Sodium hydroxide
+
+105. A solution containing calcium and magnesium cations is titrated with Trilon B solution. Complexometric titration of these cations requires the following medium:
+a. Formate buffer solution
+b. Acidic solution
+c. Acetate buffer solution
+*d. Ammonium buffer solution
+e. Neutral medium
+
+106. What analytical effect is observed when potassium cation is being determined by the sodium hexanitrocobaltate (III) solution?
+*a. Yellow crystalline precipitate
+b. Yellow colouring of the solution
+c. Red crystalline precipitate
+d. Black crystalline precipitate
+e. White crystalline precipitate
+
+107. What substance can be identified by method of acid-base titration and oxidation-reduction titration?
+a. Ammonium chloride
+*b. Oxalate acid
+c. Calcium nitrate
+d. Sodium sulphate
+e. Sodium hydroxide
+
+108. Quantitative determination of pharmaceutical substances can be carried out by method of alkalimetry using 0,1 M sodium hydroxide solution as a titrant. Precise concentration of sodium hydroxide can be determined according to:
+*a. Oxalic acid
+b. Potassium dichromate
+c. Ammonium hydroxide
+d. Sodium thiosulphate
+e. Sodium tetraborate
+
+109. A drug solution under examination contains cations of magnesium (II) and aluminium (III). Which reagent can help to separate these cations during analysis of this drug?
+a. Ammonia solution
+b. Solution of chloride acid
+c. Solution of hydrogen peroxide in acidic medium
+d. Solution of silver nitrate
+*e. Alkali solution
+
+110. As a rule, the maximum oxidation number of an element is:
+a. Subgroup number in the periodic system
+b. Row number
+c. -
+*d. Group number in the periodic system
+e. Period number
+
+111. Pharmacopoeia test reaction for determination of benzoate ions is the interaction with the following solution:
+*a. Iron (III) chloride
+b. Resorcinol
+c. Diphenylamine
+d. Acetic anhydride
+e. Potassium chloride
+
+112. A solution containing the cations of the V analytic group (acid-base classification) has been taken for the analysis. The solution of sodium hydroxostannite has been added to the composition which resulted in formation of black deposition. This is the evidence of presence of the following cation:
+a. Fe3+
+b. Mg2+
+c. Fe2+
+d. Sb3+
+*e. Bi3+
+
+113. What cations relate to the I analytic group according to the acid-base classification?
+a. Silver, lead, nickel
+b. Calcium, strontium, barium
+*c. Sodium, potassium, ammonium
+d. Aluminium, magnesium, zinc
+e. Potassium, barium, bismuth
+
+114. What working solutions (titrants) are used in the method of precipitation titration - Folgard method?
+a. HClO4 and KOH
+*b. AgNO3 and NH4SCN
+c. Na2S2O3 and K(I3)
+d. H2SO4 and NaOH
+e. KMnO4 and KBrO3
+
+115. In which of these reactions hydrogen acts as an oxidizing agent?
+a. CuO + H2 → H2O + Cu
+b. Cl2 + H2 → 2HCl
+*c. 2Na + H2 → 2NaH
+d. N2 + 3H2 → 2NH3
+e. F2 + H2 → 2HF
+
+116. In course of the systematic analysis separation of cations of the V and VI analytic groups (according to the acid-base classification) is carried out under the action of excess of:
+a. Sodium hydroxide solution
+b. Potassium hydroxide solution
+c. Sulphuric acid solution
+*d. Concentrated ammonia solution
+e. Hydrochloric acid solution
+
+117. What is the equivalent of Al(OH)3 in the reaction Al(OH)3 + 2HCl = Al(OH)Cl2 + 2H2O?
+a. 1 mol
+b. 1/3 mol
+*c. 1/2 mol
+d. 2 mol
+e. 3 mol
+
+118. In order to identify the cations of zinc (II) an analytical chemist used the reagent solution of hexacyanoferrate (II) potassium (Pharmacopeia reaction). What colour precipitate is formed in this reaction?
+a. Green
+b. Red
+c. Yellow
+d. Black
+*e. White
+
+119. Choose a reaction, in which a basic salt is formed:
+a. 2NaOH + H2SO4
+b. Fe(OH)3 + 3KCl
+*c. Fe(OH)3 + 2HCl
+d. KOH + H2SO4
+e. NaOH + HCl
+
+120. Ammonia solution has been added to the solution under examination. A black precipitate fell out. This indicates the presence of the following cations in the solution:
+a. Silver (I)
+*b. Mercury (I)
+c. Iron (III)
+d. Copper (II)
+e. Iron (II)
+
+121. What reagent is used to separate AgCl precipitate from AgI precipitate?
+a. Concentrated nitric acid
+b. Concentrated solution of potassium chloride
+c. Sulfuric acid solution
+*d. Aqueous solution of ammonia
+e. Diluted nitric acid
+
+122. In chemico-analytical laboratory a specialist studies the mixture of the 5th analytical group cations. When thiocyanate ions are added the solution becomes red-colored. This analytical effect indicates presence of the following cation:
+a. Mn2+
+*b. Fe3+
+c. Mg2+
+d. Fe2+
+e. Bi3+
+
+123. Mass fraction of pharmaceutical preparations that contain aromatic amino groups is defined through nitrite titration. What external indicator is used in this case?
+*a. Starch-iodide paper
+b. Eriochrome Black T
+c. Eosin
+d. Phenolphthalein
+e. Methylene red
+
+124. Identical analytical effect is observed when NO3- and NO2- ions interact with:
+a. Solution of I2, KI
+b. Solution of KMnO4
+*c. Diphenylamine and concentrated H2SO4
+d. Solution of AgNO3
+e. Solution of BaCl2
+
+125. How to separate PbSO4 from mixture of the 3rd analytical group cation sulphates in the process of systematic analysis?
+a. Processing precipitate with ammonia solution
+*b. Processing precipitate with 30% ammonium acetate solution
+c. Processing precipitate with concentrated sulfate acid
+d. Precipitate recrystallization
+e. Processing precipitate with acetate acid solution
+
+126. Potassium iodide solution has been added to the solution containing cations of the sixth analytical group (acid-base classification). It resulted in red precipitate soluble in excess of reagent. What cations are present in the solution?
+a. Cadmium
+*b. Mercury (II)
+c. Cobalt (II)
+d. Nickel
+e. Bismuth
+
+127. Silver nitrate solution was added to a solution containing anions of the second analytical group. It resulted in generation of light yellow precipitate that was unsoluble in nitric acid and partly soluble in ammonium solution. What anions are contained in the solution?
+*a. Bromide ions
+b. Arsenate ions
+c. Iodide ions
+d. Sulphate ions
+e. Arsenite ions
+
+128. The Mohr method is used to define sodium chloride mass concentration in isotonic solution. Titration is carried out with the following indicator present:
+*a. Potassium chromate
+b. Ammonium iron (III) sulfate
+c. Ferroin
+d. Diphenylcarbazone
+e. Fluorescein
+
+129. In the process of conductometric titration of HCl and CH3COOH acids mixture 0,1 ? solution of N?OH is used to measure:
+a. Refractive index
+*b. Electrical conduction in solution
+c. Potential difference
+d. pH of medium
+e. Rotation angle of polarized light plane
+
+130. In potentiometric titration the following indicator electrode is used for chloride and borate acids quantitative determination in their mixture:
+a. Silver
+b. Silver-chlorine
+*c. Glass
+d. Platinum
+e. Calomel
+

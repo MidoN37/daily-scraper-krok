@@ -1,0 +1,665 @@
+1. A pharmacy analyst supervises the state of a refractometer. For its calibration he needs some distilled water. The distilled water must have the following value of the refractive index:
+a. 1,3110
+b. 1,3440
+c. 1,3550
+*d. 1,3330
+e. 1,3220
+
+2. A pharmaceutical company produces cordiamin solution. During the quality control its quantitative content was determined by means of refractometry. For this purpose an analytical chemist measured:
+*a. Index of refraction
+b. Density
+c. Angle of rotation
+d. Intensity of absorption
+e. Viscosity
+
+3. Under the analytical normative documents, atropine sulfate should be titrated with hydrochloric acid solution in the anhydrous acetic acid medium in the presence of the following indicator:
+a. Phenolphtalein
+b. Thymol blue
+*c. Crystal violet
+d. Methyl orange
+e. Methylene blue
+
+4. Under the analytical normative documents, prior to direct bromatometric determination of arsenous acid anhydride the following substance should be added to the analyzed solution:
+a. Sodium thiosulfate
+b. Sodium hydroxide
+c. Potassium nitrate
+d. Sodium chloride
+*e. Potassium bromide
+
+5. An analytical chemist working at a pharmacy identifies oxacillin sodium salt. As a reagent he uses hydroxylamine hydrochloride solution in presence of sodium hydroxide solution and copper nitrate solution. What structural fragment of a drug molecule can be detected by means of these reagents?
+a. Furan cycle
+b. Thiadiazole cycle
+c. Thiazolidine cycle
+d. Isoxazole cycle
+*e. Beta-lactam cycle
+
+6. Diethyl ether relates to simple ethers. Prior to its identification by using the boiling temperature an analytical chemist must ensure that there are no:
+a. Reducing substances
+b. Non-volatile residue
+c. Carboxylic acids
+*d. Peroxides
+e. Alcohols
+
+7. In order to detect peroxides in the anesthetic ether an analytical chemist should use the following reagent:
+a. Sodium thiosulfate
+b. Sodium hydroxide
+c. Potassium chloride
+d. Potassium permanganate
+*e. Potassium iodide
+
+8. In order to identify a polyatomic glycerin alcohol a pharmacy analyst carries out dehydration reaction with potassium hydrosulfate. The generated hereat product has a strong characteristic smell and gives blue colour to the filter paper moistened with 1% solution of sodium nitroprusside and with piperidine. What product is it?
+a. Acetic acid
+b. Diethyl ethe
+*c. Acrolein
+d. Ethanol
+e. Chloroform
+
+9. A pharmaceutical analyst of an analytical laboratory performs quantitative determination of silver nitrate by thiocyanatometry. What indicator is used in this case?
+a. Sodium eosinate
+b. Phenolphtalein
+c. Starch
+*d. Iron (III) ammonium sulphate
+e. Potassium chromate
+
+10. A pharmacy analyst analizes distilled water. For this purpose he brings some amount of the sample material to the boiling point, adds 0,02 M solution of potassium permanganate and diluted sulfuric acid. After 5 minutes of boiling the pink colour of the produced solution should not change. The pharmacy analyst tries to detect the following admixture:
+*a. Chemical reducing agent
+b. Nitrates
+c. Heavy metals
+d. Sulfates
+e. Carbon dioxide
+
+11. An analytical laboratory received calcium gluconate for analysis. What method is used for its quantification?
+a. Mercurimetric determination
+b. Nitritometric determination
+c. Bromatometry
+d. Iodometry
+*e. Chelatometry
+
+12. An analytical laboratory carries out quantitative analysis of sodium citrate by method of ion-exchanging chromatography on a cationite. What titrated solution is to be used for the following titration of generated citric acid?
+a. Hydrochloric acid
+b. Trilon B
+c. Iodine
+d. Potassium iodate
+*e. Sodium hydroxide
+
+13. A chemist of the production unit for ampouled medicinal preparations analyzes injectable solution of calcium chloride. According to the requirements, the analyzed solution should be colorless. To meet this requirement, the analyte should be compared to:
+*a. Water
+b. Acetone
+c. Chloroform
+d. Hydrochloric acid
+e. Alcohol
+
+14. A pharmacy analyst can verify presence of iron cation (II) in a drug formulation by means of the following solution:
+*a. Ammonium sulfide
+b. Magnesium sulfate
+c. Sodium phosphate
+d. Potassium bromide
+e. Sodium chloride
+
+15. Quantitative determination of pyridine derivatives is performed by acidimetry in nonaqueous medium. What titrant is used for this purpose?
+a. Nitric acid
+b. Sulfuric acid
+*c. Perchlorate acid
+d. Sodium hydroxide
+e. Sodium thiosulfate
+
+16. When the glucose is heated with the copper-tartrate reagent (Fehlings reagent) the brick-red precipitate settles down. It indicates presence of the following group:
+a. Ketonic
+b. Etherific
+c. Amide
+*d. Aldehyde
+e. Carboxyl
+
+17. In order to detect the presence of thiosulfate ions a pharmaceutical analyst added the excess reagent. The resulting reaction produced a white precipitate which was slowly turning yellow, then brown, and black. What solution was added?
+a. Diphenylamine
+*b. Silver nitrate
+c. Ammonium oxalate
+d. Barium chloride
+e. Lead (II) acetate
+
+18. Quantitative analysis of boric acid can be performed by alkalimetric titration in the presence of:
+a. Ammonia buffer
+b. Ethyl alcohol
+*c. Mannitol
+d. Mercury (II) acetate
+e. Nitric acid
+
+19. In order to identify a drug an analytical chemist of the State Inspectorate for Quality Control of Medicines carries out the reaction with ninhydrin solution. Specify the drug to be identified:
+*a. Methionine
+b. Paracetamol
+c. Ascorbic acid
+d. Streptocide
+e. Cortisone acetate
+
+20. An analyst of a pharmaceutical storehouse received the substance of hydrogen peroxide for analysis. Quantitative determination of this drug should be performed by permanganatometric method. According to the analytical normative document, titration should be carried out till the solution turns:
+*a. Pink
+b. Yellow
+c. Colourless
+d. Dark blue
+e. Green
+
+21. According to the requirements of the State Pharmacopoeia of Ukraine, a pharmacy analyst determines iron admixture in a preparation by means of citric and thioglycolic acids. What staining indicates presence of this admixture?
+*a. Pink
+b. Yellow
+c. Black
+d. Blue
+e. Green
+
+22. Anesthesin relates to substances with local anesthetic activity and is a derivative of the following acid:
+a. Para-chlorbenzoic
+b. Para-aminophthalic
+c. Para-aminosalicylic
+d. Para-aminobenzolsulfonic
+*e. Para-aminobenzoic
+
+23. According to the State Pharmacopoeia of Ukraine, in order to test a substance for the highest level of magnesium impurities an analytical chemist must use the following solution:
+a. Formaldehyde
+b. Benzaldehyde
+c. Resorcin
+d. Pyridine
+*e. Hydroxyquinoline
+
+24. An analytical laboratory received substance of citric acid for the analysis. According to the requirements of the Ukrainian State Pharmacopoeia, citric acid can be determined by method of:
+a. Acidimetry
+b. Iodometry
+*c. Alkalimetry
+d. Bromatometry
+e. Iodochlorometry
+
+25. According to the requirements of the Ukrainian State Pharmacopoeia, the amount of calcium gluconate can be determined by the chelatometric method. What solution should be used as a titrant?
+a. Potassium permanganate
+b. Argentum nitrate
+c. Hydrochloric acid
+*d. Sodium edetate
+e. Iodine monochloride
+
+26. Codeine can be derived for medical purposes out of a plant alkaloid by means of semisynthetic method. Name this alkaloid:
+a. Chelidonine
+*b. Morphine
+c. Berberine
+d. Papaverine
+e. Protopine
+
+27. An analytical chemist of the quality control department of a pharmaceutical plant has to determine the average weight of glibenclamide tablets. How many tablets should be tested for this purpose?
+a. 50
+b. 30
+c. 10
+d. 5
+*e. 20
+
+28. In order to identify deoxycorticosterone acetate a pharmaceutical analyst performed a steroid cycle reaction which produced cherry-red color and green fluorescence. What reagent was added?
+a. Iron (III) chloride solution
+b. Iodine solution
+*c. Concentrated sulfuric acid
+d. Chloroform
+e. Potassium hydroxide solution
+
+29. An analytical laboratory received a sample of alpha-aminobutyric acid for analysis. What reagent should be used by the analyst in order to identify this substance?
+a. Sodium nitrate
+b. Aniline
+c. Calcium bromide
+*d. Ninhydrin
+e. Benzene
+
+30. During the analysis of diethyl ether (Aether medicinales) you can determine presence of aldehydes as a specific admixture. Which of the following reragents can be used for determining presence of aldehyde admixture?
+a. Acetic acid
+b. Potassium sulfate
+c. Phenolphtalein
+d. Iron (III) cloride
+*e. Potassium tetraiodomercurate alkaline
+
+31. Which of the following antibiotics can be identified by means of the maltol formation test?
+a. Kanamycin monosulfate
+*b. Streptomycin sulfate
+c. Amoxicillin
+d. Doxycycline hydrochloride
+e. Lincomycin hydrochloride
+
+32. Prior hydrolysis is necessary in case of quantitative determination of the following drug by the nitritometric titration:
+a. Anesthesin
+b. Sodium p-aminosalicylate
+c. Dicaine
+*d. Paracetamol
+e. Procaine hydrochloride
+
+33. Quantitative analysis of drugs containing primary aromatic amine can be performed by means of nitritometric method. Which of the following preparations can be determined by the nitritometric method without preliminary acid hydrolysis?
+*a. Sulfadimine
+b. Phthazin
+c. Soluble streptocid
+d. Paracetamol
+e. Phthalazol
+
+34. White precipitate produced by the reaction of morphine hydrochloride with ammonia solution dissolves in sodium hydroxide solution due to the presence of the following group in the structure of morphine hydrochloride:
+*a. Phenolic hydroxyl
+b. Aldehyde group
+c. Keto group
+d. Alcoholic hydroxyl
+e. Carboxyl group
+
+35. A pharmaceutical analyst identifies the substance of potassium acetate. What reagent confirms the presence of potassium cation in the analyte?
+a. Sodium hydroxide
+b. Iron (III) chloride
+c. Zinc oxide
+*d. Tartaric acid
+e. Potassium permanganate
+
+36. An analytical chemist makes a test for the presence of sodium thiosulphate. Select a reagent which allows to detect the thiosulphate ion:
+a. Sodium bromide
+b. Sodium hydroxide
+c. Magnesium sulfate
+*d. Hydrochloric acid
+e. Potassium iodide
+
+37. According to SPhU, formaldehyde can be identified when a sample is reacted with chromotropic acid solution in the presence of concentrated sulfuric acid. What colour is formed by this reaction?
+a. Yellow
+b. Green
+c. Brown
+*d. Violet
+e. Blue
+
+38. An analytical chemist determines the admixture of sulphates in the boric acid. What is the main reagent to be added?
+a. Ammonium oxalate
+*b. Barium chloride
+c. Potassium ferrocyanide
+d. Sodium sulphide
+e. Silver nitrate
+
+39. What solution is used for the detection of iron (II) ions under the SPhU requirements?
+*a. Potassium ferricyanide
+b. Lanthanum nitrate
+c. Silver nitrate
+d. Sodium hydroxide
+e. Ammonia
+
+40. An analytical laboratory has been commissioned to prove the presence of ethylenediamine in aminophylline. Which of the following reagents makes it possible to detect ethylenediamine?
+a. Silver nitrate
+b. Barium chloride
+c. Sodium hydroxide
+d. Concentrated sulfuric acid
+*e. Copper (II) sulfate
+
+41. An analyst of the National drug quality control inspection identifies "Sulfametoxazol" by adding the solutions of hydrochloric acid, sodium nitrite and beta-naphthol to the preparation. Thereat intense red colour is observed. What functional group is identified by this reaction?
+a. Aldehyde group
+*b. Primary aromatic amino
+c. Sulpho group
+d. Secondary aromatic amino
+e. Carboxyl group
+
+42. In order to detect an admixture of potassium in medical preparations a pharmacy analyst should carry out a reaction with:
+*a. Sodium tetraphenylborate
+b. Boric acid
+c. Salicylic acid
+d. Sulfuric acid
+e. Sodium tetraborate
+
+43. Under the SPh of Ukraine, one of the reactions for the detection of calcium cation presence in drugs is the reaction with:
+a. Alizarin
+b. Sulfuric acid
+c. Hydroxyquinoline
+d. Hydroxylamine
+*e. Glyoxal-hydroxyanil
+
+44. An analyst of the National drug quality control inspection carries out quantitative analysis of "Resorcin" substance by method of bromatometry (back titration). What indicator is used by doing so?
+a. Potassium chromate
+b. Ammonium iron (III) sulfate
+*c. Starch
+d. Phenolphtalein
+e. Sodium eozinat
+
+45. An expert of an analytical laboratory is determining Nitrofural. What quantitative titrimetric method can be applied?
+a. Argentometry
+b. Nitritometry
+c. Permanganatometry
+d. Alkalimetry
+*e. Iodometry
+
+46. Quantitative determination of silver nitrate is done by method of thiocyanatometry. What indicator is used in this case?
+a. Methylene blue
+b. Sodium eosinate
+c. Phenolphtalein
+d. Potassium chromate
+*e. Iron (III) ammonium sulphate
+
+47. An analytical chemist was identifying xeroform in reaction with sodium sulphide. As a result of reaction a black solid dropped out. What ion was detected?
+a. Silver
+*b. Bismuth
+c. Zinc
+d. Lead
+e. Copper
+
+48. A pharmacy analyst is determining one of the following drugs by the nintritometric method. What drug is it?
+a. Ammonium chloride
+b. Atropine sulfate
+c. Ftivazide
+d. Analgin
+*e. Norsulfazole
+
+49. Specify the reaction to the ester-type drugs that is tolerated by the State Pharmacopoeia of Ukraine:
+a. Formation of azo dye
+b. Formation of 3-bromphenol
+c. -
+*d. Formation of iron hydroxamates
+e. Formation of indophenol
+
+50. Streptocide, sulfacyl sodium, norsulfazole or sulfadimezinum can be identified by means of the reaction to form:
+a. Fluorescein
+b. -
+c. Murexide
+d. Iodoform
+*e. Azo dye
+
+51. A chemist of an analytic laboratory has to prepare turbidity standards according to the requirements of Pharmacopoeia. What substances are to be used as the reference?
+a. Calcium sulphate and glycerin
+b. Potassium chloride and barium sulphate
+c. Furacilinum and calcium chloride
+*d. Hexamethylenetetramine and hydrazine sulphate
+e. Sodium chloride and calcium nitrate
+
+52. A pharmacist-analyst is measuring the quantity of an adrenaline tartrate substance by method of acid-base titration in nonaqueous solvents. Which indicator is to be used in this case according to the requirements of the Ukrainian State Pharmacopoeia?
+a. Phenolphtalein
+b. Methyl orange
+*c. Crystal violet
+d. Thymolphthalein
+e. Eriochrome black
+
+53. Which of the following drugs can be quantified by an analytical chemist by ceriometry method?
+a. Acetylsalicylic acid
+b. Phenyl salycylate
+c. Phenobarbital
+*d. Vicasolum
+e. Sodium benzoate
+
+54. An analytical chemist determines the quantity of a drug by the method of indirect bromatometry. Which of the following titrated solutions is to be used?
+a. Silver nitrate
+*b. Sodium thiosulfate
+c. Sodium edetate
+d. Calcium bromate
+e. Sodium nitrite
+
+55. In order to identify a drug an analytical chemist of the State Inspectorate for Quality Control performs a lignin test. Specify this drug:
+a. Methionine
+b. Analgin
+c. Ascorbic acid
+d. Cortisone acetate
+*e. Streptocid
+
+56. An expert of an analytical laboratory is determining Ca2+ in the substance of calcium pantothenate. Specify the method of analysis:
+a. Nitritometry
+b. Permanganatometry
+c. Iodometry
+*d. Chelatometry
+e. Argentometry
+
+57. A pharmacist-analyst carries out quantitative analysis of procaine hydrochloride. Which of the following solutions is to be used?
+a. Argentum nitricum
+*b. Sodium nitrite
+c. Sodium edetate
+d. Sodium thiosulfate
+e. Potassium bromate
+
+58. A pharmacy analyst carries out purity test of the drug substance "Sodium thiosulfate". Violet colour, that comes from reaction with sodium nitroprusside, indicates the presence of the following admixture:
+a. Iodides admixture
+*b. Specific sulfides admixture
+c. Sulfur admixture
+d. Sulphates admixture
+e. Sodium chloride admixture
+
+59. An analytical chemist working at an analytical laboratory identifies a drug by the sulfite ions according to the requirements of the State Pharmacopoeia of Ukraine. What reagent gets decolorized during this assay?
+a. Iron (III) chloride solution
+b. Potassium iodide solution
+c. Potassium nitrate solution
+*d. Iodine solution
+e. Ammonia solution
+
+60. An analytical laboratory received "Adrenalini tartras" substance for analysis. According to the requirements of the Ukrainian State Pharmacopoeia, quantitative analysis of this substance can be carried out by method of:
+a. Nitritometry
+b. Bromatometry
+c. Acidimetry in aqueous medium
+d. Iodometry
+*e. Acidimetry in non-aqueous medium
+
+61. An analytical laboratory received "Aether anaestheticus" for analysis. What reagent should be used for detecting acetone and aldehyde impurities according to the State Pharmacopoeia of Ukraine?
+a. Hydroxylamine solution
+*b. Alkaline solution of potassium tetraiodomercurate
+c. Aqueous solution of potassium iodide
+d. Ammonium solution of argentum nitrate
+e. Sodium hydrosulfite solution
+
+62. Qualitative reaction for phenol is the reaction with bromine water. What compound is produced as a result of the interaction of phenol with bromine water and drops out as a white solid?
+a. 2,4-dibromophenol
+*b. 2,4,6-tribromophenol
+c. 3-bromophenol
+d. 2-bromophenol
+e. 4-bromophenol
+
+63. The basic structure of steroid hormones is hydrocarbon skeleton - cyclopentane perhydrophenanthrene. What natural compound is used for testosterone propionate production?
+a. Indole
+b. Phenanthrene
+c. Anthracene
+*d. Cholesterol
+e. Naphthalene
+
+64. According to the requirements of the State Pharmacopoeia of Ukraine, a pharmacy analyst should determine procaine hydrochloride by nitritometric method. What indicator is to be used for this purpose?
+*a. Neutral red
+b. Crystal violet
+c. Acid chrome blue
+d. Xylenol orange
+e. Methyl red
+
+65. According to the requirements of the State Pharmacopoeia of Ukraine, a pharmacy analyst should determine fluorouracil by method of nonaqueous titration. What titrated solution is to be used?
+a. Potassium bromate
+b. Sodium nitrite
+*c. Tetrabutyl ammonium hydroxide
+d. Ammonium thiocyanate
+e. Sodium edetate
+
+66. According to the requirements of the Ukrainian State Pharmacopoeia, a pharmacy analyst is determining calcium gluconate quantity by method of complexometric titration. What indicator is to be used?
+a. Tropeoline 00
+*b. Calconcarboxylic acid
+c. Crystal violet
+d. Methyl red
+e. Thymolphthalein
+
+67. An analytical chemist analyses the substance of ethylmorphine hydrochloride. The substance purity is tested by method of semi-microanalysis. What reagent is used to determine the water admixture?
+a. Methoxyphenyl acetic acid
+b. Biuretic
+*c. Iodosulphurous
+d. Molibdeno-vanadium
+e. Hypophosphite
+
+68. According to the requirements of the Ukrainian State Pharmacopoeia, a certain drug is being measured by method of chelatometric titration. What drug is it?
+a. Potassium citrate
+b. Sodium benzoate
+c. Sodium thiosulfate
+*d. Calcium chloride
+e. Potassium chloride
+
+69. In order to identify ouabain (strophanthine G), a drug from the group of cardiac glycosides, an analytical chemist must prove the presence of a steroid cycle. What acid should be used as a reagent?
+a. Chromotropic
+*b. Sulfuric
+c. Citric
+d. Oxalic
+e. Formic
+
+70. An analytical laboratory has to analyze ferrous sulfate heptahydrate according to the State Pharmacopoeia of Ukraine. A test portion of the substance should be titrated with the following solution:
+a. Ammonium thiocyanate
+b. Silver nitrate
+*c. Ammonium cerium sulfate
+d. Sodium edetate
+e. Potassium bromate
+
+71. An analytical chemist determines the quantitative content of caffeine by method of acidometry in nonaqueous media in compliance with the State Pharmacopoeia of Ukraine. What solution is used as a titrant?
+a. Sodium hydroxide
+b. Sodium nitrite
+c. Sodium edetate
+d. Potassium bromate
+*e. Perchloric acid
+
+72. A pharmacy analyst identifies sodium hydrocarbonate. What indicator can confirm the presence of alkalescent medium reaction in the sodium hydrocarbonate solution?
+a. Starch
+b. Ferroin
+c. Naphtholbenzein
+*d. Phenolphtalein
+e. Tropeolin 00
+
+73. An analyst is measuring sodium benzoate in the anhydrous medium by the acidimetric method according to the requirements of the Ukrainian State Pharmacopoeia. What reagent had to be used as a solvent?
+a. Pyridine
+b. Dimethyl formamide
+c. Methanol
+*d. Anhydrous acetic acid
+e. Water
+
+74. A pharmacy analyst is measuring mercury dichloride by method of indirect chelatometry. Excess of titrated solution of sodium edetate can be titrated by means of the following titrated solution:
+a. Sodium methylate
+*b. Zinc sulfate
+c. Sodium thiosulfate
+d. Sodium hydroxide
+e. Potassium bromate
+
+75. Calcium lactate can be quantitatively determined by chelatometric method. According to the Ukrainian State Pharmacopoeia, the following substance should be used as indicator:
+a. Diphenylcarbazone
+b. Phenolphthalein
+c. Tropeolin 00
+*d. Calconcarbon acid
+e. Naphthol benzein
+
+76. Substance of calcium pangamate is to be studied in n analytical laboratory. Calcium cation forms a white precipitate with the following reagent:
+a. Potassium bromide
+b. Sodium cobaltinitrite
+c. Sodium chloride
+d. Potassium permanganate
+*e. Ammonium oxalate
+
+77. A chemist of an analytical laboratory studies procaine hydrochloride according to the requirements of the State Pharmacopoeia of Ukraine. What method is recommended by the State Pharmacopoeia of Ukraine for the quantitative analysis of this preparation?
+a. Alkalimetry
+b. Chelatometry
+c. Bromatometry
+d. Acidimetry
+*e. Nitritometry
+
+78. As main reagent in test for phosphates admixtures the Ukrainian State Pharmacopoeia recommends to use:
+a. Cupric tartrate
+b. Acetylacetone
+c. Hypophosphite
+*d. Sulfomolybdenum
+e. Thioacetamide
+
+79. A common method for quantitative determination of drugs from the group of alkali metal halogenides is:
+a. Chelatometry
+b. Permanganatometry
+*c. Argentometry
+d. Alkalimetry
+e. Nitritometry
+
+80. Salicylates are widely applied in medical practice as anti-inflammatory drugs. For quantitative analysis of salicylic acid the following method is applied:
+a. Argentometry
+b. Nitritometry
+*c. Alkalimetry
+d. Permanganatometry
+e. Chelatometry
+
+81. Select the reductant required for the determination of arsenic impurity in drugs (method 2):
+*a. Sodium hypophosphite
+b. Sodium sulfite solution
+c. Potassium iodide solution
+d. Sodium hydroxide solution
+e. Hydrochloric acid solution
+
+82. Theobromine and theophylline can be determined by alkalimetric method according to the substituent. What acid is to be titrated with sodium hydroxide?
+a. Sulfuric
+b. Chydrochloric
+*c. Nitric
+d. Acetic
+e. Phosphoric
+
+83. According to the requirements of the Ukrainian State Pharmacopoeia (Supplement 1), a pharmacy analyst has to carry out quantitative analysis of potassium iodide by means of the following method:
+a. Alkalimetry
+b. Nitritometry
+c. Complexonometry
+d. Acidimetry
+*e. Iodatometry
+
+84. A pharmacy has sulfonamide biseptol on sale. What chemical compounds are the main components of this drug?
+a. Sulfazin, salazodimethoxinum
+b. Phthalazolum, sulfadimezin
+c. Urosulfan, sulfapiridazin
+*d. Sulfamethoxazole, trimethoprim
+e. Sulgin, norsulfazol
+
+85. In course of isoniazid identification a pharmacy analyst boiled thoroughly the substance with 2,4-dinitrochlorobenzene. The substance turned yellow, after adding alkaline solution it turned first violet and then brownish-red. As a result of this reaction the following aldehyde derivative is produced:
+a. Glyoxylic
+b. Hexanic
+c. Gluconic
+d. Glutamic
+*e. Glutaconic
+
+86. In order to verify identity of tropan derivatives, Vitalis reaction is applied. For that purpose the medications should be first decomposed with nitric acid and then treated with alcoholic solution of potassium hydroxide and acetone. What effect will be observed?
+a. Emission of gas bubbles
+b. The solution will turn green
+*c. The solution will turn purple
+d. Setting of black precipitate
+e. Setting of white precipitate
+
+87. Which of the mentioned below drugs has the following chemical name: n-aminobenzoic acid diethylaminoethyl ester hydrochloride:
+a. Streptomycin
+*b. Novocaine
+c. Streptocid
+d. Dimedrol
+e. Tetracaine
+
+88. Quantitative determination of nitrofural (furacilin) can be done by method of spectrophotometry. A pharmacy analyst can calculate quantity by measuring:
+a. Refractive index
+b. pH of solution
+c. Fusion temperature
+*d. Optical density
+e. Rotation angle
+
+89. Analgin substance has been sent for analysis. What method allows to evaluate quantitative content of analgin?
+a. Permanganatometry
+*b. Iodometry
+c. Alkalimetry
+d. Acidimetry
+e. Chelatometry
+
+90. An analytical laboratory is studying substance of calcium lactate. In presence of ammonium chloride calcium cation forms white crystalline precipitation with the following reagent:
+a. Sodium chloride
+b. Sodium tetraborate
+c. Sodium cobaltnitrite
+*d. Potassium ferrocyanide
+e. Potassium permanganate
+
+91. Analytical laboratories oten use 2,6-dichlorophenolindophenol solution, which is normally blue and can be decolourized by the reducing agents. What drug can be identified by means of 2,6-dichlorophenolindophenol solution?
+a. Acetylsalicylic acid
+*b. Ascorbic acid
+c. Nicotinic acid
+d. Salicylic acid
+e. Benzoic acid
+
+92. A pharmacy analyst of the laboratory at the National drug quality control inspection is conducting quantitative determination of caffeine by method of acid-base titration in the anhydrous solvents according to the requirements of National Pharmacopeia of Ukraine. What titrated solution is to be used?
+a. Potassium bromate
+*b. Perchloric acid
+c. Sodium hydroxide
+d. Sodium methylate
+e. Sodium edetate
+
+93. Pharmaceutical chemistry studies methods of drug synthesis. Interaction of anesthesin with beta-diethylaminoethanol in presence of sodium alcoholate with following acidation with hydrochloric acid results in origination of:
+*a. Procaine hydrochloride
+b. Tetracaine hydrochloride
+c. Trimecaine hydrochloride
+d. Xycain
+e. Procainamide hydrochloride
+
+94. After a sulfamide preparation was heated with salicylic acid in presence of concentrated sulfuric acid, it turned crimson. What drug is analyzed?
+a. Sulfaguine
+b. Streptocid
+*c. Soluble streptocid
+d. Ethazol
+e. Phtalazol
+
+95. Which of the following reagents should be added to the isoniazid to achieve blue colour and precipitation that turns light-green and emits gases when heated?
+a. Silver nitrate solution
+b. Hydrochloric acid solution
+c. Iron (III) chloride solution
+*d. Copper sulfate solution
+e. Alkaline solution
+

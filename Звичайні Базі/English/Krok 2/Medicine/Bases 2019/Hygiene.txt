@@ -1,0 +1,168 @@
+1. A 38-year-old woman works in flax processing, she dries flax. She came to the hospital complaining of difficult breathing, constricting sensation in her chest, and cough attacks. These signs appear on the first day of her working week and gradually diminish on the following days. What respiratory disease is likely in this case?
+a. Asthmatic bronchitis
+*b. Byssinosis
+c. Allergic rhinopharyngitis
+d. Silicosis
+e. Bronchial asthma
+
+2. A district doctor has diagnosed one of his patients with dysentery. What accounting document reflects this type of morbidity?
+a. Report on a major non-epidemic disease
+b. Statistical report
+*c. Urgent report
+d. Certificate of temporary disability
+e. Control card of a patient registered for regular check-ups
+
+3. A 39-year-old man, a battery attendant, suddenly developed weakness, loss of appetite, nonlocalized colicky abdominal pains, and nausea. Objectively his skin is gray; there is a pink-gray stripe on his gums; the stomach is soft and sharply painful. Blood test detected erythrocytes with basophilic stippling and anemia. The patient has a history of peptic ulcer disease of the stomach. Constipation tends to occur every 3-4 days. What is the most likely provisional diagnosis?
+a. Perforation of gastric ulcer
+b. Acute appendicitis
+*c. Saturnism (lead poisosning)
+d. Acute cholecystitis
+e. Chronic alcoholism
+
+4. A 9-month-old infant presents with delayed tooth eruption and fontanel closure, weakness, and excessive sweating. What type of hypovitaminosis is the most likely in this child?
+a. Hypovitaminosis C
+b. Hypovitaminosis B6
+c. Hypovitaminosis A
+*d. Hypovitaminosis D
+e. Hypovitaminosis B1
+
+5. A 10-year-old girl exhibits high level of physical development ( + 3?), her body length increased by 10 cm within a year (which is double the norm for her age group), the number of permanent teeth corresponds with the age norm (20), the development of her secondary sex characteristics is three years ahead of her age (Ма, Р, Ах, Menarche). Development rate ahead of her biological age can occur due to:
+a. Sports training
+b. Deficient hygienic education
+c. Acceleration
+d. Certain components of her diet
+*e. Endocrine disorders
+
+6. Employees work in conditions of high dust concentration. Certain chemical (silicon dioxide content) and physical properties of dust aerosols contribute to the development of occupational dust-induced diseases. What is the main physical property of dust aerosols?
+*a. Dispersion
+b. Electric charge
+c. Ionization
+d. Solubility
+e. Magnetization
+
+7. In the factory cafeteria there was an outbreak of food poisoning. Clinical presentation indicates staphylococcal etiology of this disease. 15 people are sick. To confirm the diagnosis of food poisoning, samples need to be sent to the laboratory. What samples should be obtained for analysis?
+*a. Vomit masses
+b. Blood (complete blood count)
+c. Saliva
+d. Urine
+e. Blood for hemoculture
+
+8. In April during the medical examination of various population groups, 27% of individuals presented with low working ability and rapid fatigability. The following symptoms were observed in the affected individuals: swollen friable gingiva that bleeds when pressed, hyperkeratosis follicularis not accompanied by skin dryness. These symptoms most likely result from the following pathology:
+a. A-hypovitaminosis
+b. Parodontosis
+*c. C-hypovitaminosis
+d. B1-hypovitaminosis
+e. Polyhypovitaminosis
+
+9. Increased general morbidity of the local population is observed in the area near a factory, where atmosphere is being intensively polluted with sulfurous gas. What effect does polluted air have on human body in this case?
+a. Acute nonspecific
+b. Acute specific
+*c. Chronic nonspecific
+d. Chronic specific
+e. Selective
+
+10. During medical examination of high an middle school students, the doctors vere assessing correlation between biological and calendar age of the school students based on the following criteria: height growth rate per year, ossification of the carpal bones, the number of permanent teeth. What additional development criterion should be assessed at this age?
+a. Body mass
+b. Vital capacity of lungs
+c. Hand strength
+*d. Development of secondary sex characteristics
+e. Chest circumference
+
+11. During analysis of morbidity in the city, it was determined that age structure of population is different in each district. What statistical method allows to exclude this factor, so that it would not skew the morbidity data?
+*a. Standardization
+b. Correlation-regression analysis
+c. Analysis of average values
+d. Dynamic time series analysis
+e. Wilcoxon signed-rank test
+
+12. Clinical statistical investigation was performed to determine effectiveness of a new pharmacological preparation for patients with ischemic heart disease. What parametric test (coefficient) can be used to estimate the reliability of the results?
+*a. Student’s t-distribution
+b. Matching factor
+c. Kolmogorov-Smirnov test
+d. Wilcoxon signed-rank test
+e. Sign test
+
+13. In a rural health care area there is an increasing cervical cancer morbidity observed. The decision is made to conduct a medical examination of the women living in this locality. What type of medical examination is it?
+a. Regular
+b. Preliminary
+*c. Target
+d. Complex
+e. Screening
+
+14. In the process of hiring, a prospective employee has undergone preventive medical examination and was declared fit to work in this manufacturing environment. What type of preventive medical examination was it?
+a. Periodical
+b. Scheduled
+*c. Preliminary
+d. Specific
+e. Comprehensive
+
+15. On laboratory investigation of a pork sample there is 1 dead trichinella detected in 24 sections. This meat should be:
+*a. Sent for technical disposal
+b. Processed and sold through public catering network
+c. Frozen until the temperature of -10°C is reached in the deep layers, with subsequent exposure to cold for 15 days
+d. Processed for boiled sausage production
+e. Allowed for sale with no restrictions
+
+16. To assess the effectiveness of medical technologies and determine the power and direction of their effect on the public health indicators, the research was conducted to study the immunization rate of children and measles incidence rate by district. What method of statistical analysis should be applied in this case?
+a. Calculation of standardized ratio
+b. Calculation of statistical significance of the difference between two estimates
+c. Calculation of morbidity index among the nonvaccinated
+d. Calculation of matching factor
+*e. Calculation of correlation coefficient
+
+17. Having studied the relationship between the distance from villages to the local outpatient clinics and frequency of visits to the clinics among the rural population of this area, it was determined that the rank correlation coefficient in this case equals -0.9. How can this relationship be characterized?
+a. Strong direct relationship
+b. Moderate direct relationship
+c. -
+*d. Strong inverse relationship
+e. Moderate inverse relationship
+
+18. In the inpatient gynecological unit within a year 6500 women underwent treatment. They spent there a total of 102000 bed-days. What indicator of the gynecological unit work can be calculated based on these data?
+a. Average bed occupancy rate per year
+b. Bed turnover rate
+c. Planned bed occupancy rate per year
+*d. Average length of inpatient stay
+e. Number of beds by hospital department
+
+19. A middle school teacher with 4-yearlong record of work was issued a medical certificate for pregnancy and childbirth leave. What amount of pay will she receive for the duration of her leave in this case?
+a. 50% of average salary
+b. 60% of average salary
+c. 80% of average salary
+*d. 100% of average salary
+e. 70% of average salary
+
+20. In the air of the feed kitchen at the poultry factory, at the area where formula feed is being mixed, the dust concentration reaches 200 mg/m3. Air microflora is represented predominantly by Asperqillus and Mucor fungi. What effect determines pathogenic properties of the dust?
+a. Teratogenic
+b. Fibrogenic
+c. Toxic
+*d. Allergenic
+e. Mutagenic
+
+21. During regular medical examination a lyceum student presents with signs of cheilitis that manifests as epithelial maceration in the area of lip seal. The lips are brightred, with single vertical cracks covered with brown-red scabs. These clinical signs are most likely caused by insufficient content of the following in the diet:
+a. Calciferol
+*b. Riboflavin
+c. Retinol
+d. Ascorbic acid
+e. Thiamine
+
+22. A 30-year-old woman made an appointment with the family doctor for scheduled vaccination of her 2-year-old child. What type of healthcare provides such medical services?
+a. Emergency aid
+b. Tertiary healthcare
+c. Palliative care
+*d. Primary healthcare
+e. Secondary healthcare
+
+23. Human body receives from the atmosphere a number of chemicals. What type of action results in the combined effect that is less than the sum of isolated effects of these chemicals on the body?
+a. Isolated action
+b. Potentiation
+*c. Antagonism
+d. Synergistic action
+e. Complex action
+
+24. Clinical trials have proved the ”Lipoflavon” drug to be effective for treatment of unstable angina pectoris in the control group and experimental group of patients. Neither patients nor researchers knew who belonged to which group. Name this type of study:
+a. Multicenter study
+*b. Double blind study
+c. Triple-blind study
+d. Simple blind study
+e. Total-blind study
+

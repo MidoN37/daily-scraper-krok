@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Медична База</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #f1f5f9; }
+        .btn-grad { transition: 0.3s; background-size: 200% auto; }
+        .btn-grad:active { transform: scale(0.95); }
+        .hidden-view { display: none; }
+    </style>
+</head>
+<body class="safe-area-inset-bottom">
+
+    <div id="app" class="max-w-md mx-auto min-h-screen flex flex-col">
+        
+        <!-- Header -->
+        <header class="p-6 pt-12">
+            <h1 id="title" class="text-3xl font-800 text-slate-900 tracking-tight">Вітаємо! 👋</h1>
+            <p id="subtitle" class="text-slate-500 mt-1">Оберіть категорію для навчання</p>
+        </header>
+
+        <!-- View 1: Main Buttons -->
+        <div id="home-view" class="px-6 grid grid-cols-1 gap-4">
+            <button onclick="showCategory('КРОК 1', '🩺')" class="btn-grad w-full p-6 bg-white border border-slate-200 rounded-3xl shadow-sm flex items-center gap-4 hover:border-blue-400 text-left">
+                <span class="text-4xl">🩺</span>
+                <div>
+                    <div class="text-xl font-bold text-slate-800">КРОК 1</div>
+                    <div class="text-sm text-slate-400">Молодші курси</div>
+                </div>
+            </button>
+
+            <button onclick="showCategory('КРОК 2', '🏥')" class="btn-grad w-full p-6 bg-white border border-slate-200 rounded-3xl shadow-sm flex items-center gap-4 hover:border-blue-400 text-left">
+                <span class="text-4xl">🏥</span>
+                <div>
+                    <div class="text-xl font-bold text-slate-800">КРОК 2</div>
+                    <div class="text-sm text-slate-400">Випускні курси</div>
+                </div>
+            </button>
+
+            <button onclick="showCategory('КРОК 3', '🎓')" class="btn-grad w-full p-6 bg-white border border-slate-200 rounded-3xl shadow-sm flex items-center gap-4 hover:border-blue-400 text-left">
+                <span class="text-4xl">🎓</span>
+                <div>
+                    <div class="text-xl font-bold text-slate-800">КРОК 3</div>
+                    <div class="text-sm text-slate-400">Інтернатура</div>
+                </div>
+            </button>
+
+            <button onclick="showCategory('ЄДКІ', '📚')" class="btn-grad w-full p-6 bg-white border border-slate-200 rounded-3xl shadow-sm flex items-center gap-4 hover:border-blue-400 text-left">
+                <span class="text-4xl">📚</span>
+                <div>
+                    <div class="text-xl font-bold text-slate-800">ЄДКІ</div>
+                    <div class="text-sm text-slate-400">Бакалаври та коледжі</div>
+                </div>
+            </button>
+        </div>
+
+        <!-- View 2: List View -->
+        <div id="list-view" class="hidden-view px-6">
+            <button onclick="showHome()" class="mb-6 flex items-center gap-2 text-blue-600 font-semibold">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+                Назад
+            </button>
+            <div id="items-container" class="space-y-3 pb-10"></div>
+        </div>
+
+    </div>
+
+    <script src="data.js"></script>
+    <script>
+        const homeView = document.getElementById('home-view');
+        const listView = document.getElementById('list-view');
+        const container = document.getElementById('items-container');
+        const title = document.getElementById('title');
+        const subtitle = document.getElementById('subtitle');
+
+        function showCategory(catName, emoji) {
+            const catData = TEST_DATA.find(c => c.category === catName);
+            if (!catData) return;
+
+            title.innerText = `${emoji} ${catName}`;
+            subtitle.innerText = "Оберіть предмет для завантаження";
+            
+            homeView.classList.add('hidden-view');
+            listView.classList.remove('hidden-view');
+            
+            container.innerHTML = '';
+
+            // Group by subCategory if it exists (for EDKI)
+            let currentSub = "";
+
+            catData.items.forEach(item => {
+                if (item.subCategory && item.subCategory !== currentSub) {
+                    currentSub = item.subCategory;
+                    const subHeader = document.createElement('div');
+                    subHeader.className = 'pt-4 pb-2 text-xs font-bold text-slate-400 uppercase tracking-widest';
+                    subHeader.innerText = currentSub;
+                    container.appendChild(subHeader);
+                }
+
+                const a = document.createElement('a');
+                a.href = item.path;
+                a.download = item.fileName;
+                a.className = 'block p-4 bg-white rounded-2xl shadow-sm border border-slate-100 flex justify-between items-center active:bg-blue-50';
+                a.innerHTML = `
+                    <div>
+                        <div class="font-bold text-slate-800">${item.subject}</div>
+                        <div class="text-xs text-blue-500 font-semibold">${item.questions} питань</div>
+                    </div>
+                    <div class="bg-blue-100 p-2 rounded-full text-blue-600">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+                    </div>
+                `;
+                container.appendChild(a);
+            });
+            window.scrollTo(0,0);
+        }
+
+        function showHome() {
+            title.innerText = "Вітаємо! 👋";
+            subtitle.innerText = "Оберіть категорію для навчання";
+            homeView.classList.remove('hidden-view');
+            listView.classList.add('hidden-view');
+        }
+    </script>
+</body>
+</html>
