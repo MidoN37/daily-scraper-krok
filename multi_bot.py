@@ -4,26 +4,40 @@ import logging
 import asyncio
 import sys
 import re
+import io
+from threading import Thread
+from http.server import HTTPServer, BaseHTTPRequestHandler
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.constants import ParseMode
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, CallbackQueryHandler, MessageHandler, filters
 
 # Force UTF-8
-if sys.stdout.encoding != 'utf-8':
-    sys.stdout.reconfigure(encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
 
 # --- CONFIG ---
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 MY_ID = 7349230382 
 CONFIG_FILE = "config.json"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PAGE_SIZE = 15 # Number of files per page
+PAGE_SIZE = 15
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# --- INDEXING ENGINE (Mirroring Website) ---
+# --- RENDER HEALTH CHECK SERVER ---
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200); self.end_headers()
+        self.wfile.write(b"Krok Master Bot is Alive")
+    def do_HEAD(self):
+        self.send_response(200); self.end_headers()
 
+def run_health_server():
+    port = int(os.environ.get("PORT", 10000))
+    httpd = HTTPServer(("0.0.0.0", port), HealthCheckHandler)
+    httpd.serve_forever()
+
+# --- INDEXING ENGINE ---
 def clean_title(text):
     text = re.sub(r'(Krok|Крок)\s*([123])', r'КРОК \2', text, flags=re.IGNORECASE)
     words = text.split()
@@ -31,10 +45,6 @@ def clean_title(text):
     for w in words:
         if not final or w.lower() != final[-1].lower(): final.append(w)
     return ' '.join(final).strip()
-
-def get_type(filename):
-    booklet_keywords = ["усі буклети", "all booklets", "все буклеты", "merged", "live"]
-    return "booklet" if any(k in filename.lower() for k in booklet_keywords) else "base"
 
 def get_master_list():
     master_list = []
@@ -104,33 +114,25 @@ async def handle_callback(u: Update, c: ContextTypes.DEFAULT_TYPE):
     master = get_master_list(); cats = sorted(list(set(i['exam_type'] for i in master)))
 
     if act == "root": await start(u, c)
-    
-    elif act == "C": # Show Sources
+    elif act == "C": # Sources
         cat = cats[int(data[1])]
         srcs = sorted(list(set(i['source'] for i in master if i['exam_type'] == cat)))
         kb = [[InlineKeyboardButton(s, callback_data=f"M|{data[1]}|{i}")] for i, s in enumerate(srcs)]
         kb.append([InlineKeyboardButton("🔙 Back", callback_data="root")])
         await query.edit_message_text(f"🌐 <b>{cat}</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
-    
-    elif act == "M": # Show Levels
+    elif act == "M": # Levels
         cat = cats[int(data[1])]; srcs = sorted(list(set(i['source'] for i in master if i['exam_type'] == cat)))
         src = srcs[int(data[2])]; lvls = sorted(list(set(i['level'] for i in master if i['exam_type'] == cat and i['source'] == src)))
         kb = [[InlineKeyboardButton(lvl, callback_data=f"V|{data[1]}|{data[2]}|{i}|0")] for i, lvl in enumerate(lvls)]
         kb.append([InlineKeyboardButton("🔙 Back", callback_data=f"C|{data[1]}")])
         await query.edit_message_text(f"📂 <b>{src}</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
-    
-    elif act == "V": # Show Paginated Files
+    elif act == "V": # Files (Paginated)
         cat_idx, src_idx, lvl_idx, page = int(data[1]), int(data[2]), int(data[3]), int(data[4])
         cat = cats[cat_idx]; srcs = sorted(list(set(i['source'] for i in master if i['exam_type'] == cat)))
         src = srcs[src_idx]; lvls = sorted(list(set(i['level'] for i in master if i['exam_type'] == cat and i['source'] == src)))
         lvl = lvls[lvl_idx]
         files = [i for i in master if i['exam_type'] == cat and i['source'] == src and i['level'] == lvl]
-        
-        # Slice files for current page
-        start_idx = page * PAGE_SIZE
-        end_idx = start_idx + PAGE_SIZE
-        page_files = files[start_idx:end_idx]
-        
+        start_idx = page * PAGE_SIZE; end_idx = start_idx + PAGE_SIZE; page_files = files[start_idx:end_idx]
         msg = f"📖 <b>{lvl}</b> (Page {page+1})\n\n"
         kb = []; row = []
         for i, f in enumerate(page_files):
@@ -139,33 +141,24 @@ async def handle_callback(u: Update, c: ContextTypes.DEFAULT_TYPE):
             row.append(InlineKeyboardButton(str(num), callback_data=f"F|{cat_idx}|{src_idx}|{lvl_idx}|{start_idx+i}"))
             if len(row) == 5: kb.append(row); row = []
         if row: kb.append(row)
-
-        # Pagination Buttons
         nav_row = []
         if page > 0: nav_row.append(InlineKeyboardButton("⬅️ Prev", callback_data=f"V|{cat_idx}|{src_idx}|{lvl_idx}|{page-1}"))
         if end_idx < len(files): nav_row.append(InlineKeyboardButton("Next ➡️", callback_data=f"V|{cat_idx}|{src_idx}|{lvl_idx}|{page+1}"))
         if nav_row: kb.append(nav_row)
-
         kb.append([InlineKeyboardButton("🔙 Back", callback_data=f"M|{cat_idx}|{src_idx}")])
         await query.edit_message_text(msg, reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
-
-    elif act == "F": # File Actions
+    elif act == "F":
         cat_idx, src_idx, lvl_idx, f_idx = int(data[1]), int(data[2]), int(data[3]), int(data[4])
         cat = cats[cat_idx]; srcs = sorted(list(set(i['source'] for i in master if i['exam_type'] == cat)))
         src = srcs[src_idx]; lvls = sorted(list(set(i['level'] for i in master if i['exam_type'] == cat and i['source'] == src)))
         lvl = lvls[lvl_idx]
         files = [i for i in master if i['exam_type'] == cat and i['source'] == src and i['level'] == lvl]
         item = files[f_idx]; c.user_data['last_item'] = item
-        
-        kb = [[InlineKeyboardButton("📥 GET PDF", callback_data="GPDF")],
-              [InlineKeyboardButton("🔑 GET Password", callback_data="GPW")],
-              [InlineKeyboardButton("🔙 Back", callback_data=f"V|{cat_idx}|{src_idx}|{lvl_idx}|{f_idx // PAGE_SIZE}")]]
+        kb = [[InlineKeyboardButton("📥 GET PDF", callback_data="GPDF")], [InlineKeyboardButton("🔑 GET Password", callback_data="GPW")], [InlineKeyboardButton("🔙 Back", callback_data=f"V|{cat_idx}|{src_idx}|{lvl_idx}|{f_idx // PAGE_SIZE}")]]
         await query.edit_message_text(f"📄 <b>{item['name']}</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
-
     elif act == "GPDF":
         item = c.user_data.get('last_item')
         if item: await query.message.reply_document(document=open(item['path'], 'rb'), caption=f"📄 {item['name']}")
-
     elif act == "GPW":
         item = c.user_data.get('last_item')
         if item:
@@ -173,7 +166,6 @@ async def handle_callback(u: Update, c: ContextTypes.DEFAULT_TYPE):
             p = pws.get(raw_name + ".txt") or pws.get(raw_name)
             if p: await query.message.reply_text(f"🔑 Password for <b>{item['name']}</b>:\n\n<code>{p}</code>", parse_mode=ParseMode.HTML)
             else: await query.message.reply_text("This exam is not on the Quiz format, you can add it using the Admin page.")
-
     elif act == "S":
         c.user_data['state'] = 'searching'
         await query.edit_message_text("🔍 Type keyword (e.g. 'Anatomy'):")
@@ -187,8 +179,7 @@ async def handle_message(u: Update, c: ContextTypes.DEFAULT_TYPE):
         c.user_data['search_results'] = res[:50]
         msg = "🔍 <b>Results:</b>\n\n"; kb = []; row = []
         for i, f in enumerate(res[:50]):
-            num = i + 1
-            msg += f"<b>{num}.</b> {f['name']}\n"
+            num = i + 1; msg += f"<b>{num}.</b> {f['name']}\n"
             row.append(InlineKeyboardButton(str(num), callback_data=f"SF|{i}"))
             if len(row) == 5: kb.append(row); row = []
         if row: kb.append(row)
@@ -203,9 +194,10 @@ async def handle_search_click(u: Update, c: ContextTypes.DEFAULT_TYPE):
     await query.edit_message_text(f"📄 <b>{item['name']}</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
 
 if __name__ == '__main__':
+    Thread(target=run_health_server, daemon=True).start()
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler('start', start))
-    app.add_handler(CallbackQueryHandler(handle_search_click, pattern="^SF\|"))
+    app.add_handler(CallbackQueryHandler(handle_search_click, pattern=r"^SF\|"))
     app.add_handler(CallbackQueryHandler(handle_callback))
     app.add_handler(MessageHandler(filters.TEXT & (~filters.COMMAND), handle_message))
     print("🚀 Bot starting...")
