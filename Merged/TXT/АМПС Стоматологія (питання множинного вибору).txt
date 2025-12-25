@@ -13,16 +13,16 @@ d. ---
 e. Acute sialadenitis
 
 3. Persistent and heavy proteinuria (albuminuria) associated with nephrotic syndrome leads to hypoalbuminemia, which changes plasma pressure resulting in severe generalized edema. According to the description which of the following circumstances tends to cause nephrotic edema?
-a. Decreased venous pressure
-b. Increased tissue hydrostatic pressure
-*c. Decreased plasma oncotic pressure
-d. Increased plasma oncotic pressure
+a. Increased plasma oncotic pressure
+b. Decreased plasma oncotic pressure
+c. Increased tissue hydrostatic pressure
+d. Decreased venous pressure
 e. ---
 
 4. Microscopy of dental plaque revealed unicellular organisms. Their cytoplasm had two distinct layers, barely visible core, wide pseudopodia. The patient is most likely to have:
 a. Entamoeba histolytica
 b. Trichomonas tenax
-c. Entamoeba gingivalis
+*c. Entamoeba gingivalis
 d. Lamblia
 e. Entamoeba coli
 
@@ -43,16 +43,16 @@ e. In the apical parts of the intestinal villi
 7. When extracting a tooth, the dentist destroys the bonds between the cementum of the dental root and the tooth socket. What structure is it?
 a. Dentinum
 b. Cementum
-c. Periodontium
+*c. Periodontium
 d. Gingiva
 e. Pulpa dentis
 
 8. After an injury, the patient developed a focus of purulent inflammation in the alveolar process of the jaw in its outward area, with the development of subperiosteal abscess and edema of the adjacent soft tissues. What is the most likely diagnosis in this case?
-a. Serous periostitis
+a. Chronic fibrous periostitis
 b. Chronic hyperplastic periostitis
-*c. Purulent periostitis
+c. Serous periostitis
 d. Ossifying periostitis
-e. Chronic fibrous periostitis
+e. Purulent periostitis
 
 9. During an accident on a nuclear submarine, a conscript soldier received a radiation dose of 5 Gy. He complains of headache, nausea, and dizziness. What changes in the leukocyte count can be expected after such irradiation?
 a. Agranulocytosis
@@ -64,7 +64,7 @@ e. Anemia
 10. The tonsils of a 28-year-old patient are significantly enlarged, plethoric, and painful. On their surface, there are dense dirty-gray films that spread to the hard palate and are tightly attached to the underlying tissues. Attempts to remove the films provoke bleeding. What pathological process causes these morphological changes?
 a. Croupous exudative inflammation
 b. Catarrhal exudative inflammation
-c. Diphtheritic exudative inflammation
+*c. Diphtheritic exudative inflammation
 d. Hemorrhagic exudative inflammation
 e. Purulent exudative inflammation
 
@@ -78,7 +78,7 @@ e. Serine
 12. An 11-month-old child has delayed teething, misaligned teeth, dry oral mucosa, and cracks appearing in the corners of the mouth with subsequent suppuration. This condition is likely to be associated with a deficiency of vitamin:
 a. K
 b. D
-c. A
+*c. A
 d. E
 e. C
 
@@ -97,9 +97,9 @@ d. White spot lesion
 e. Median caries
 
 15. A 70-year-old patient is brought to the emeregency department by his son because of blurry vision and dysarthria. His son says, that the father is always thirsty and has difficulty with urination. Examination reveals dry skin, cutaneous vasodilation, nonreactive mydriasis, and hyperthermia. Drug overdose is suspected. Which of the following drugs is the most likely cause of this patient's toxicity?
-a. Carbachol
+a. Atropine
 b. Reserpine
-*c. Atropine
+c. Carbachol
 d. Clonidine
 e. Metamizole
 
@@ -153,11 +153,11 @@ d. Cystogranuloma
 e. Epithelial granuloma
 
 23. Fluorination of teeth is one of the major procedures which is used for enamel strengthening. Due to fluoride ions and fluoridation of the enamel, the teeth get protection from acidic environment and therefore dental caries is prevented. Which of the following is the most likely mechanism of fluorine's anticaries effect?
-*a. Fluorapatite synthesis
+a. Hydroxyapatite synthesis
 b. Chlorapatite synthesis
 c. Teeth mineralization
-d. Teeth demineralization
-e. Hydroxyapatite synthesis
+d. Fluorapatite synthesis
+e. Teeth demineralization
 
 24. Dentists have high risk of contracting viral hepatitis type B in the course of their duties and therefore are subject to mandatory vaccination. What vaccine is used in such cases?
 a. Inactivated vaccine
@@ -192,7 +192,7 @@ a. Absolute hyperalbuminemia
 b. Blood protein composition is \\ unchanged
 c. Absolute hyperfibrinogenemia
 d. Absolute hyperglobulinemia
-e. Absolute hypoalbuminemia
+*e. Absolute hypoalbuminemia
 
 29. Lab rats were used to study the effect of a certain vitamin on the body. Deficiency of this vitamin has resulted in a disturbed reproductive function and skeletal muscle dystrophy. What vitamin is it?
 a. A
@@ -237,18 +237,18 @@ d. Balantidiasis
 e. Trichomoniasis
 
 35. A glucocorticoid ointment has been prescribed to a patient for periodontitis treatment. Name this medicine:
-a. Prednisolone
+*a. Prednisolone
 b. Erythromycin
 c. Ampicillin
 d. Tetracycline
 e. Decamin (Dequalinium)
 
 36. A research lab is investigating the rate of differentiation of hematopoietic cells in order to better understand acute myeloid leukemia in children. A bone marrow biopsy of a 6-year-old boy shows the differentiation stage in which hemopoietic cell extrudes its nucleus. Which of the following processes is most likely assiociated with biopsy findings?
-a. Granulopoiesis
-*b. Erythropoiesis
-c. Lymphocytopoiesis
-d. Thrombopoiesis
-e. Monocytopoiesis
+a. Monocytopoiesis
+b. Lymphocytopoiesis
+c. Granulopoiesis
+d. Erythropoiesis
+e. Thrombopoiesis
 
 37. At autopsy, section of the right ovary shows a round lesion 2.5 cm in diameter with a clear serous fluid, surrounded by a smooth glistening membrane. Which of the following macroscopic lesions best represents the autopsy findings?
 *a. Cyst
@@ -266,7 +266,7 @@ e. Chondrocyte
 
 39. The process of aging in humans is associated with decreased synthesis and secretion of pancreatic juice and its lower trypsin content. It results in disturbed breakdown of:
 a. Polysaccharides
-b. Proteins
+*b. Proteins
 c. Nucleic acids
 d. Lipids
 e. Phospholipids
@@ -301,7 +301,7 @@ e. Granulating pulpitis
 
 44. A 34-year-old male comes to the dentist because of a 1-year history of swelling in the right upper jaw. On intraoral examination, a single diffuse 2х1.5 cm swelling is seen on the right side of anterior maxilla. A biopsy specimen of the lesion shows numerous thin-walled sinusoids in the connective tissue, hemosiderin deposition, and numerous giant cells in a hemorrhagic background. Which of the following is the most likely diagnosis?
 a. ---
-b. Giant cell epulis
+*b. Giant cell epulis
 c. Granular cell ameloblastoma
 d. Cavernous hemangioma
 e. Gingival fibromatosis
@@ -311,7 +311,7 @@ a. Synthesis of carbohydrates
 b. Formation of mitotic spindle
 c. Intracellular digestion of macromolecules
 d. ---
-e. Synthesis and energy accumulation in the form of ATP
+*e. Synthesis and energy accumulation in the form of ATP
 
 46. A 35-year-old woman is brought to the physician because of a 4-month history of progressive weakness of both lower limbs. She notes difficulty climbing stairs and complains of lethargy and loss of muscle bulk. Her diet consists primarily of <<polished>> rice. A diagnosis of dry beriberi is suspected. Deficiency of which of the following vitamins is most likely to be detected in her blood?
 *a. Vitamin B₁ (thiamine)
@@ -321,7 +321,7 @@ d. Vitamin B₃ (niacin)
 e. Vitamin B₂ (riboflavin)
 
 47. A second deciduous molar was extracted in a 13-year-old child. What permanent tooth will erupt in its place?
-a. Second premolar
+*a. Second premolar
 b. Second molar
 c. First molar
 d. First premolar
@@ -336,21 +336,21 @@ e. Endoderm and mesoderm
 
 49. During examination, a 7-year-old child was diagnosed with multiple caries by the dentist. What medicine should be recommended for caries prevention in this case?
 a. Calmecin
-b. Calcium glycerophosphate
+*b. Calcium glycerophosphate
 c. Calcium gluconate
 d. Calcium hydroxide
 e. Calcium chloride
 
 50. The prisoner, who went on a hunger strike, developed edemas. What is the mechanism of edema development in this case?
-a. Increased hydrostatic venous pressure
-*b. Decreased oncotic blood pressure
-c. Increased oncotic tissue pressure
-d. Decreased hydrostatic tissue pressure
-e. Reduction in circulating blood volume
+a. Decreased oncotic blood pressure
+b. Decreased hydrostatic tissue pressure
+c. Increased hydrostatic venous pressure
+d. Reduction in circulating blood volume
+e. Increased oncotic tissue pressure
 
 51. A child presents with dry cough. What non-narcotic antitussive drug can relieve the patient's condition?
 a. Codeine phosphate
-b. Glaucine hydrochloride
+*b. Glaucine hydrochloride
 c. Althaea officinalis roots
 d. Potassium iodide
 e. Morphine hydrochloride
@@ -372,19 +372,19 @@ e. Levator anguli oris muscle
 54. Salivary α-amylase catalyzes the hydrolysis of α-1,4-glycosidic bonds of starch. What ions function as its activators?
 a. Potassium ions
 b. Zinc ions
-c. Sodium ions
+*c. Sodium ions
 d. Lead ions
 e. Copper ions
 
 55. During laboratory testing of the blood of a deceased person, the forensic pathologist diagnosed cyanide poisoning. What was the cause of death in this case?
-a. Methemoglobin production
+*a. Methemoglobin production
 b. Carbhemoglobin production
 c. A change in blood pH
 d. Carboxyhemoglobin production
 e. Production of reduced hemoglobin
 
 56. A 53-year-old woman has height of 163 cm, body weight of 92 kg, uniform fat deposition, and puffy face. She is inactive and apathetic. Pressing the front surface of her lower leg leaves an indentation. What gland is dysfunctional in this woman, causing her pathological condition?
-a. Thyroid gland
+*a. Thyroid gland
 b. Parathyroid glands
 c. Gonads
 d. Pituitary gland
@@ -429,7 +429,7 @@ d. E
 a. Fibrillation
 b. Tachycardia
 c. Bradycardia
-d. Extrasystole
+*d. Extrasystole
 e. Flutter
 
 63. When examining the patient's oral cavity, the dentist noticed a significant tremor of the tongue. Exophthalmos is observed in the patient, as well. The doctor advised the patient to consult an endocrinologist. During the examination, the diagnosis of Basedow's disease was made. This condition is mainly caused by the hyperfunction of certain cells. Name these cells.
@@ -447,28 +447,28 @@ c. Eosinophilia
 e. Basophilia
 
 65. After a facial injury, the patient has a hematoma on the cheek. What salivary gland is likely to have its outflow blocked by this hematoma?
-a. Buccal
-b. Labial
-c. Sublingual
-*d. Parotid
-e. Submandibular
+a. Submandibular
+b. Parotid
+c. Buccal
+d. Labial
+e. Sublingual
 
 66. During a surgery on the right side of the neck, excursion of the right diaphragmatic dome was disturbed. This disturbance occurred because of the damage to the following nerve:
-a. Left transverse cervical nerve
-b. Right transverse cervical nerve
-c. Left phrenic nerve
-d. Supraclavicular nerve
-*e. Right phrenic nerve
+a. Right phrenic nerve
+b. Supraclavicular nerve
+c. Right transverse cervical nerve
+d. Left transverse cervical nerve
+e. Left phrenic nerve
 
 67. Autopsy of the body of a 69-year-old woman, who was overeating and died of an acute myocardial infarction, detected numerous whitish, dense formations in the intima of the coronary arteries. The formations protrude into the vascular lumina, sharply narrowing them. What stage of atherosclerosis can be characterized by these changes?
-*a. Liposclerosis
-b. Atherocalcinosis
-c. Atheromatosis
+a. Atherocalcinosis
+b. Lipoidosis
+c. Liposclerosis
 d. A stage of atheromatous ulcer formation
-e. Lipoidosis
+e. Atheromatosis
 
 68. A patient with acute retention of urine has been brought to an admission room. During examination a doctor found out that the patient has urethral obturation caused by pathology of the surrounding organ. Name this organ:
-a. Prostate
+*a. Prostate
 b. Seminal vesicle
 c. Spermatic cord
 d. Epididymis
@@ -483,7 +483,7 @@ e. ---
 
 70. When a newborn baby feeds, milk gets into the baby's nasal cavity. What is the most likely cause of this pathological condition?
 a. Left-sided nasal septum deviation
-b. Cleft palate
+*b. Cleft palate
 c. Right-sided nasal septum deviation
 d. Basilar skull fracture
 e. Cleft lip
@@ -492,12 +492,12 @@ e. Cleft lip
 a. Platyphyllinum
 b. Adrenaline
 c. Atropine
-d. Salbutamol
+*d. Salbutamol
 e. Ipratropium bromide
 
 72. A patient was diagnosed with multiple myeloma. Total blood protein is 180 g/L. What proteins, present in the body, are the cause of such total protein value?
 a. Haptoglobin
-b. Bence-Jones protein
+*b. Bence-Jones protein
 c. Immunoglobulins
 d. Albumins
 e. Transferrin
@@ -517,11 +517,11 @@ d. Ciprofloxacin
 e. Florimycin sulfate (Viomycin sulfate)
 
 75. A girl presents with high fever and sore throat. Objectively, the soft palate is swollen, the tonsils are covered with gray films. The films are firmly attached and leave deep bleeding lesions when removed. What is the most likely disease in this case?
-a. Necrotic tonsillitis
-*b. Pharyngeal diphtheria
-c. Infectious mononucleosis
-d. Pseudomembranous (Vincent's) \\ tonsillitis
-e. Lacunar tonsillitis
+a. Infectious mononucleosis
+b. Lacunar tonsillitis
+c. Pseudomembranous (Vincent's) \\ tonsillitis
+d. Pharyngeal diphtheria
+e. Necrotic tonsillitis
 
 76. Autopsy of the body a 58-year-old man, who had been suffering from rheumatic heart disease and died of cardiopulmonary decompensation, revealed gray diffuse film- and fiber-shaped coating in his pericardium. What type of inflammation is characteristic of this pericarditis?
 *a. Croupous fibrinous
@@ -532,29 +532,29 @@ e. Hemorrhagic
 
 77. A patient was diagnosed with a monogenic hereditary disease. Name this disease:
 a. Hypertension
-b. Peptic ulcer disease of the stomach
-c. Poliomyelitis
-d. Hymenolepiasis
-*e. Hemophilia
+b. Poliomyelitis
+c. Peptic ulcer disease of the stomach
+d. Hemophilia
+e. Hymenolepiasis
 
 78. An extreme undernourishment, known as starvation, can be caused by insufficient protein intake. As an example, Kwashiorkor is a form of malnutrition caused by a lack of protein in the diet where decreased plasma protein concentration leads to increased filtration of fluid into interstitium. Which of the following proteins is the most likely cause of decreased oncotic plasma pressure in a starving patient?
-a. β-globulins
-b. γ-globulins
-*c. Albumin
-d. Fibrinogen
+a. Fibrinogen
+b. β-globulins
+c. γ-globulins
+d. Albumin
 e. α-globulins
 
 79. Histologic examination of a biopsy specimen shows a structure of the oral cavity composed of the bone tissue, which is covered by stratified squamous non-keratinizing epithelium and lamina propria. The specimen has also minor mucous salivary glands. In all parts of the lamina propria the collagenous fibers form thick bundles that bind the mucosa to the periosteum. Based on these findings, which of the following is the most likely structure?
 a. Lip
 b. Soft palate
-c. Hard palate
+*c. Hard palate
 d. Tongue
 e. Cheek
 
 80. The dentist should inject a local anesthetic to reduce pain sensation in the maxillary molars and adjacent facial soft tissue and gingiva. He inserts the needle through oral mucosa at the height of the maxillary vestibular fornix just posterior to the maxillary tuberosity. The needle is directed medially and superiorly toward the alveolar canals. Which of the following nerves is most likely to be blocked?
-*a. Posterior superior alveolar nerve
-b. Buccal nerve
-c. Inferior alveolar nerve
+a. Buccal nerve
+b. Inferior alveolar nerve
+c. Posterior superior alveolar nerve
 d. Nasopalatine nerve
 e. ---
 
@@ -562,7 +562,7 @@ e. ---
 a. Genocopy
 b. Translocation
 c. Deletion
-d. Mosaicism
+*d. Mosaicism
 e. Phenocopy
 
 82. A 37-year-old male was admitted to a hospital complaining of abdominal pain, difficulty in swallowing and breathing, constipation, and nausea. He developed respiratory failure and required endotracheal intubation and ventilation. Two days before, the patient consumed dried salted fish bought from an artisanal producer. Laboratory investigation for infectious pathogen was performed using Kitt-Tarozzi's method. Observation under a bright field microscopy revealed the presence of typical microorganisms with <<tennis racket>> appearance. Which of the following is the most likely diagnosis?
@@ -598,7 +598,7 @@ a. Expansive growth
 b. Positive Pasteur effect
 c. Increased number of mitotic cells
 d. Anaplasia
-e. Infiltrative growth
+*e. Infiltrative growth
 
 87. The patient's leukogram is as follows: leukocytes --- $14 · 10^{9$/L; myeloblasts --- 71%; promyelocytes, myelocytes, and metamyelocytes --- 0%; band neutrophils --- 6%, segmented neutrophils --- 13%; lymphocytes --- 7%, monocytes --- 3%. What is the patient's blood pathology?
 *a. Myeloblastic leukemia
@@ -608,18 +608,18 @@ d. Chronic lymphocytic leukemia
 e. Neutrophilic leukocytosis
 
 88. A patient has arterial hypertension with signs of angina pectoris. The patient has been prescribed an antianginal drug that is a calcium antagonist. Name this drug.
-*a. Amlodipine
-b. Molsidomine
+a. Metoprolol
+b. Amlodipine
 c. Anaprilin (Propranolol)
 d. Pentoxifylline
-e. Metoprolol
+e. Molsidomine
 
 89. Microscopy of a fecal smear detected cysts with 4 nuclei. Which protozoan parasite do they belong to?
-a. Giardia
-b. Balantidium
-c. Trichomonas
-*d. Entamoeba histolytica
-e. Toxoplasma
+a. Trichomonas
+b. Toxoplasma
+c. Entamoeba histolytica
+d. Balantidium
+e. Giardia
 
 90. Histologic examination of an eye specimen shows multilayer structure. The outermost layer is represented by special pigment epithelium, which is composed of cuboidal melanin-containing cells that absorb light. The photoreceptor layer contains photosensitive outer segments of rods and cones. Which of the following eye structures is mentioned?
 a. Ciliary body
@@ -637,10 +637,10 @@ e. Primary
 
 92. After a removal of the pyloric part of the stomach, a person may develop anemia. What is the cause of pathological condition development in this case?
 a. Bone marrow dysfunction
-b. Impaired absorption of vitamin E
-c. Impaired absorption of vitamin C
-d. Impaired absorption of vitamin D
-*e. Lack of intrinsic Castle factor
+b. Impaired absorption of vitamin C
+c. Lack of intrinsic Castle factor
+d. Impaired absorption of vitamin E
+e. Impaired absorption of vitamin D
 
 93. A patient has a dysfunction of the parotid salivary gland. What nerve increases its secretion?
 *a. N. petrosus minor
@@ -650,7 +650,7 @@ d. N. petrosus major
 e. N. petrosus profundus
 
 94. During examination of the patient's oral cavity, the dentist noticed the presence of a carious spot in the area of the linguodistal groove on the masticatory surface of the first upper right molar. This groove separates the following structure:
-a. Hypocone
+*a. Hypocone
 b. Metacone
 c. Mesocone
 d. Protocone
@@ -658,7 +658,7 @@ e. Paracone
 
 95. The parents of a newborn came for medical and genetic counseling. Their baby is suspected to have Edwards syndrome that manifests as micrognathia, microstomia, and a short upper lip. What testing methods are necessary to clarify the diagnosis?
 a. Biochemistry
-b. Cytogenetics
+*b. Cytogenetics
 c. Dermatoglyphics
 d. Immunogenetics
 e. Clinical genealogy
@@ -671,14 +671,14 @@ c. Blockade of beta_1-adrenoceptors
 e. Blockade of Са^·++ channels
 
 97. A patient was diagnosed with peptic ulcer disease of the stomach and prescribed an antibacterial treatment. This treatment will be aimed against the following causative agent:
-*a. H. pylori
-b. St. aureus
-c. Cl. perfringens
-d. Cl. trachomatis
-e. E) coli
+a. E) coli
+b. Cl. perfringens
+c. Cl. trachomatis
+d. H. pylori
+e. St. aureus
 
 98. A 58-year-old woman comes to her dentist complaining of a <<strange mass>> in her mouth. On intraoral examination of the oral mucosa the dentist reveals a vegetative lesion with a pedunculated base observed at the soft palate level lateral to the base of the uvula. An excisional biopsy is performed and histopathological examination shows proliferations of stratified keratinized squamous epithelium with fibrovascular connective tissue stroma and many papillary infoldings of the epithelium. Which of the following is the most likely pathology revealed by the dentist?
-a. Papilloma
+*a. Papilloma
 b. Epithelial hyperplasia
 c. Fibrolipoma
 d. Basal-cell carcinoma
@@ -700,17 +700,17 @@ e. Saturation of dental enamel with fluorine
 
 101. A patient has been hospitalized into the intensive care unit in a severe condition. It is known that he mistakenly took sodium fluoride that blocks cytochrome oxidase. What type of hypoxia has developed in the patient?
 a. Hemic hypoxia
-b. Cardiovascular hypoxia
-c. Hypoxic hypoxia
-*d. Tissue hypoxia
+b. Hypoxic hypoxia
+c. Tissue hypoxia
+d. Cardiovascular hypoxia
 e. Respiratory hypoxia
 
 102. A cytochrome oxidase blocker was given to a test animal, causing its instant death. What chemical can cause these changes?
-*a. Potassium cyanide
-b. Potassium phosphate
-c. Potassium oxalate
-d. Potassium sulfate
-e. Potassium nitrite
+a. Potassium phosphate
+b. Potassium nitrite
+c. Potassium sulfate
+d. Potassium oxalate
+e. Potassium cyanide
 
 103. A 10-year-old boy is brought to the physician by his parents because of fever, cough, and fatigue. He has been admitted to the hospital five times because of pneumonia. Attempts to induce immunity using the pneumococcal vaccine have failed. The first hospitalization was at the age of 12 months. Laboratory findings show marked reduction in all classes and subclasses of serum immunoglobulins. Which of the following immune cells is most likely to be reduced in the peripheral blood of this patient?
 a. NK-cells
@@ -743,19 +743,19 @@ e. Systolic repolarization
 107. Examination of the oral cavity shows marked edema and hyperemia of the gums, supragingival and subgingival calculus, and formation of pocket-like cavities filled with structureless masses and food debris in the area of the dentogingival junction. These pockets produce purulent discharge, when pressed. X-ray shows resorption of the bone tissue in the tooth sockets. What is the diagnosis in this case?
 a. Acute purulent periostitis
 b. Hypertrophic gingivitis
-c. Periodontitis
+*c. Periodontitis
 d. Periodontosis
 e. Fluorosis
 
 108. What mineral substance is present in the dental hard tissues in the largest amount?
-a. Hydroxyapatite [Ca_10(PO_4)_6(OH)_2]
+*a. Hydroxyapatite [Ca_10(PO_4)_6(OH)_2]
 b. Fluorapatite [Ca_10(PO_4)_6F_2]
 c. Carbonate apatite [Ca_10(PO_4)_5CO_3]
 d. Chlorapatite [Ca_10(PO_4)_6Cl_2]
 e. Calcium phosphate [Ca_10(PO_4)_6]
 
 109. A section of a multi-rooted tooth shows a tissue located at the apices of the dental roots and in the place of their branching. This tissue contains cells with processes located in the lacunae, and numerous collagen fibers arranged radially or longitudinally. Name this tissue:
-a. Cellular cement
+*a. Cellular cement
 b. Dense connective tissue
 c. Reticulofibrous bone tissue
 d. Dentin
@@ -772,22 +772,22 @@ e. Symptomatic
 a. Smooth endoplasmic reticulum
 b. Centrosomes
 c. Mitochondria
-*d. Ribosomes
-e. Lysosomes
+d. Lysosomes
+e. Ribosomes
 
 112. Histological microslide shows cells that form isogenic groups. The intercellular substance contains glycoproteins, proteoglycans, and collagen fibers. What tissue is it?
-a. Mucous tissue
+a. Cartilaginous tissue
 b. Brown adipose tissue
-*c. Cartilaginous tissue
-d. Bone tissue
-e. White adipose tissue
+c. White adipose tissue
+d. Mucous tissue
+e. Bone tissue
 
 113. A 40-year-old male has hearing impairment and paresis of facial muscles resulting from a blow to his head. He was diagnosed with a hematoma of cerebellopontine angle. What nerves had been damaged?
-a. IX, X pairs of cranial nerves
-b. VIII, IX pairs of cranial nerves
-c. ---
+a. VII, VIII pairs of cranial nerves
+b. ---
+c. VIII, IX pairs of cranial nerves
 d. V, VI pairs of cranial nerves
-*e. VII, VIII pairs of cranial nerves
+e. IX, X pairs of cranial nerves
 
 114. During a selection for revaccination with the BCG vaccine, a schoolboy has undergone the Mantoux test that turned out to be negative. What does this test result indicate?
 a. Presence of cellular immunity to tuberculosis
@@ -818,39 +818,39 @@ d. Masseter muscles
 e. Anterior bundles of the temporal \\ muscles
 
 118. A skin injury with damage to the reticular layer of the dermis was received. The regeneration of this layer will occur because of the activity of certain cells. Name these cells.
-a. Fibroblasts
+*a. Fibroblasts
 b. Lymphoblasts
 c. Macrophages
 d. Plasma cells
 e. Tissue basophils
 
 119. In an experiment, an excitable cell was placed into a saline solution without sodium ions. How will it change the development of action potential in the cell?
-a. Duration of the action potential decreases
+a. Action potential does not develop
 b. Amplitude of the action potential decreases
-*c. Action potential does not develop
+c. Amplitude of the action potential increases
 d. Duration of the action potential increases
-e. Amplitude of the action potential increases
+e. Duration of the action potential decreases
 
 120. A 10-year-old Indian boy is brought by his parents to a dentist for a routine dental care. They want to remove the noticeable yellow discoloration of his teeth. His mother reports that they immigrated to Ukraine approximately 6 months ago and a lot of children in their state had the similar staining of their teeth. On intraoral examination there are isolated areas of brown staining, which is particularly severe on the incisors and canines. In addition, some areas have pits which expose the underlying dentin. Which of the following is the most likely diagnosis?
 a. Demineralization stage of caries
-*b. Fluorosis
+b. Enamel hypoplasia
 c. Acid erosion
 d. Enamel erosion
-e. Enamel hypoplasia
+e. Fluorosis
 
 121. A 58-year-old male patient visited his dentist with the chief complaint of itching and burning sensation in his mouth. On intraoral examination, diffuse white patches were seen on his tongue, right and left buccal mucosa, as well as on his hard palate and soft palatal region. The potassium hydroxide (KOH) preparation of the specimen revealed non-pigmented septate hyphae. Administration of which of the following is the most appropriate initial step in treatment of this patient?
 a. ---
 b. Tetracycline
-c. Nystatin
+*c. Nystatin
 d. Gentamicin
 e. Penicillin
 
 122. A patient has been prescribed pyridoxal phosphate. What processes are corrected with this drug?
-a. Synthesis of purine and pyrimidine \\ bases
-*b. Transamination and decarboxylation \\ of amino acids
-c. Deaminization of amino acids
-d. Protein synthesis
-e. Oxidative decarboxylation of keto \\ acids
+a. Deaminization of amino acids
+b. Transamination and decarboxylation \\ of amino acids
+c. Synthesis of purine and pyrimidine \\ bases
+d. Oxidative decarboxylation of keto \\ acids
+e. Protein synthesis
 
 123. A girl provisionally diagnosed with Turner syndrome made an appointment with a genetic consultancy. What genetic method of diagnostics can confirm this diagnosis?
 a. Dermatoglyphics
@@ -870,7 +870,7 @@ e. Alanine
 a. Formation of carbhemoglobin
 b. Development of acidosis
 c. Formation of reduced hemoglobin
-d. Formation of carboxyhenoglobin
+*d. Formation of carboxyhenoglobin
 e. Formation of methemoglobin
 
 126. A 40-year-old patient suffers from intolerance of dairy food products. This condition has likely developed due to insufficiency of the following digestive enzyme:
@@ -898,36 +898,36 @@ e. Histidine
 a. Enterotoxin
 b. Antitoxin
 c. ---
-d. Exotoxin
+*d. Exotoxin
 e. Toxoid
 
 130. Premature babies often develop respiratory distress syndrome. This pathology is caused by the deficiency of a certain component of the blood–air barrier. Name this component:
-*a. Surfactant
-b. Alveolocytes
-c. Alveolar basement membrane
-d. Endothelial basement membrane
-e. Capillary endothelium
+a. Endothelial basement membrane
+b. Alveolar basement membrane
+c. Alveolocytes
+d. Capillary endothelium
+e. Surfactant
 
 131. Purulent exudate accumulates in the abdominal cavity of a patient with peritonitis. The exudate contains a large amount of neutrophils. What is the main function of neutrophil granulocytes in the inflammation focus?
 a. Secretion of prostaglandins
 b. Degranulation
 c. Regulation of local blood circulation
 d. Release of histamine
-e. Phagocytosis
+*e. Phagocytosis
 
 132. A person, who came to a hospital with complaints of diarrhea, was diagnosed with amoebic dysentery. Tetracycline was prescribed to the patient as a part of complex treatment. Name the type of action of this medicine:
-*a. Etiotropic
-b. Irreversible
-c. Direct
-d. Primary
-e. Reflex
+a. Irreversible
+b. Reflex
+c. Primary
+d. Direct
+e. Etiotropic
 
 133. What is the secondary mediator in the mechanism of action of adrenaline?
-a. Cyclic thymidine monophosphate
-b. Cyclic uridine monophosphate
-c. Cyclic guanosine monophosphate
-*d. Cyclic adenosine monophosphate
-e. Cyclic cytidine monophosphate
+a. Cyclic uridine monophosphate
+b. Cyclic guanosine monophosphate
+c. Cyclic cytidine monophosphate
+d. Cyclic thymidine monophosphate
+e. Cyclic adenosine monophosphate
 
 134. After the transfusion of the concentrated red blood cells the patient developed posttransfusion shock. What is the leading mechanism of acute renal failure in this case?
 a. Tubular reabsorption disorder
@@ -937,18 +937,18 @@ c. Tubular secretion disorder
 e. Urinary excretion disorder
 
 135. What factor results in maximal dilation of the gemomicrocirculatory pahtway vessels and their increased permeability?
-a. Noradrenaline
-*b. Histamine
+a. Histamine
+b. Noradrenaline
 c. Endothelin
 d. Serotonin
 e. Vasopressin
 
 136. In microanatomy of some organs, there is a sheet-like structure, which underlies virtually all epithelia. It consists of basal lamina (made of type IV collagen, glycoproteins, and proteoglycans) and reticular lamina. Under the microscope, you can see it as a pink line under the epithelial cells. Which of the following is described above?
 a. Endoplasmic reticulum
-*b. Basement membrane
-c. ---
-d. Nucleus
-e. Plasma membrane
+b. Nucleus
+c. Plasma membrane
+d. Basement membrane
+e. ---
 
 137. A 58-year-old man presents with the clinical picture of acute pancreatitis. This diagnosis can be confirmed by high levels of a certain substance in the patient's urine. Name this substance:
 a. Urea
@@ -962,26 +962,26 @@ a. Allosteric site
 b. Cofactor
 c. Coenzyme
 d. Segment of a polypeptide chain
-e. Active site
+*e. Active site
 
 139. Ulcer disease of the duodenum has been detected in a 38-year-old man. A treatment was prescribed, after which the patient considered himself to be healthy. However, half a year later the patient developed pain in the epigastrium, heartburn, and insomnia. The patient's condition can be estimated as a:
-*a. Relapse
-b. Latent period
-c. ---
-d. Development of chronic disease
-e. Remission
+a. Remission
+b. Development of chronic disease
+c. Latent period
+d. Relapse
+e. ---
 
 140. When performing trepanation of the mastoid process of the temporal bone due to purulent otitis, the dental surgeon risks damaging the facial (fallopian) canal and causing bleeding as a result. What artery passes along with the facial nerve in the canal?
 a. A meningea media
 b. A occipitalis
 c. A auricularis posterior
-d. A stylomastoidea
+*d. A stylomastoidea
 e. A facialis
 
 141. A patient feels pain and numbness in the gums of the upper jaw. What nerves are most likely to be damaged in this case?
-a. N. facialis
-*b. Nn. alveolaris superiores (n. maxillaris)
-c. N. buccalis
+a. N. buccalis
+b. Nn. alveolaris superiores (n. maxillaris)
+c. N. facialis
 d. N. lingualis
 e. N. alveolaris inferior
 
@@ -1016,16 +1016,16 @@ e. Cochlear basilar membrane near the helicotrema
 146. In the peripheral zone of the pulp, the cell activity is temporarily inhibited for certain reasons. What dental tissue is at risk of developing a deficiency of its physiological regeneration in this case?
 a. Enamel
 b. Cellular cementum
-c. Dentin
+*c. Dentin
 d. Pulp
 e. Acellular cementum
 
 147. In the uterine cavity an embryo was found that was not attached to the endometrium. What stage of embryonal development is it?
-a. Neurula
-b. Gastrula
+a. Blastocyst
+b. Neurula
 c. Mulberry body
-d. Zygote
-*e. Blastocyst
+d. Gastrula
+e. Zygote
 
 148. A dentist used a solution of potassium permanganate as an antiseptic. This preparation has a bactericidal effect because of:
 *a. Atomic oxygen
@@ -1063,11 +1063,11 @@ d. mRNA
 *e. DNA
 
 153. A 43-year-old woman against the background of septic shock presents with thrombocytopenia, low fibrinogen levels, fibrin degradation products in the blood, and development of petechial hemorrhages. What is the cause of these pathological signs?
-a. Autoimmune thrombocytopenia
+a. Impaired platelet production
 b. Hemorrhagic diathesis
-c. Impaired platelet production
+c. Autoimmune thrombocytopenia
 d. Exogenous intoxication
-*e. DIC syndrome
+e. DIC syndrome
 
 154. Treatment of a patient with hereditary form of immunodeficiency involved gene therapy: the enzyme gene was introduced into the cells of the patient by means of a retrovirus. What property of the genetic code allows to use retroviruses as vectors of functional genes?
 a. Redundancy
@@ -1084,10 +1084,10 @@ d. Carbohydrates digestion to monosaccharides
 e. Proteins digestion to amino acids
 
 156. A 33-year-old patient complains of an impairment of skin sensitivity in the medial part of the dorsal and palmar surface of hand. Which nerve is damaged?
-a. N. radialis
-*b. N. ulnaris
-c. N. medianus
-d. N. cutaneus antebrachii medialis
+a. N. medianus
+b. N. cutaneus antebrachii medialis
+c. N. radialis
+d. N. ulnaris
 e. N. musculocutaneus
 
 157. A patient with ciliary arrhythmia and a history of bronchial asthma should be prescribed an antiarrhythmic drug. What antiarrhythmic drug is contraindicated in this case?
@@ -1126,32 +1126,32 @@ d. 17-ketosteroids
 e. Creatine
 
 162. Cells of sensory spinal ganglions are a part of reflex arches. What type of neurons are these cells?
-a. Unipolar
+a. Pseudounipolar
 b. Bipolar
-c. Multipolar
-d. ---
-*e. Pseudounipolar
+c. ---
+d. Multipolar
+e. Unipolar
 
 163. Histology of the diaphysis of a tubular bone shows basophilic cells with developed organelles of synthesis located on its surface under a layer of fibers. These cells take part in regeneration of bone tissue. In what layer of the diaphysis are they located?
 a. Layer of external general lamellae
 b. Bone proper
 c. Layer of osteons
 d. Layer of internal general lamellae
-e. Periosteum
+*e. Periosteum
 
 164. During the examination of a pregnant woman, a dentist detected 3 round formations on her oral mucosa. The formations appeared 3 days ago. They have a white-gray surface with a red rim and are up to 1 cm in diameter. What is the diagnosis in this case?
-a. Catarrhal stomatitis
-*b. Aphthous stomatitis
+a. Necrotizing ulcerative stomatitis
+b. Catarrhal stomatitis
 c. Leukoplakia
-d. Necrotizing ulcerative stomatitis
+d. Aphthous stomatitis
 e. Gangrenous stomatitis
 
 165. A 32-year-old woman presents with increased facial hair growth, headache and decreased libido. She is also currently concerned about sweating excessively even at room temperature. Neurological examination shows loss of visual acuity in both temporal fields of views. A skull X-ray shows sella turcica enlargement and deformity. Which of the following anatomic structures would you most likely expect to be abnormal in this patient?
-a. Hypothalamus
-b. ---
-*c. Pituitary gland
-d. Pineal gland
-e. Thalamus
+a. Pineal gland
+b. Hypothalamus
+c. ---
+d. Thalamus
+e. Pituitary gland
 
 166. The patient's blood has a C-reactive protein that chemically can be classified as a glycoprotein. What pathology does it indicate?
 *a. Rheumatism
@@ -1172,7 +1172,7 @@ a. Oleic acid
 b. Myristic acid
 c. Linoleic acid
 d. Arachidonic acid
-e. Cholic acid
+*e. Cholic acid
 
 169. A patient diagnosed with tuberculosis developed red coloring of urine, saliva, and tear fluid after starting the treatment of this disease. Red spots appeared on the patient's underwear. What drug could have caused these phenomena?
 a. Benzylpenicillin sodium salt
@@ -1185,21 +1185,21 @@ e. Isoniazid
 a. ---
 b. Periosteum and dura mater
 c. Dura mater and arachnoid mater
-d. Arachnoid mater and pia mater
+*d. Arachnoid mater and pia mater
 e. Periosteum and arachnoid mater
 
 171. Name the sequence of special functional DNA segments and structural genes that encode synthesis of a certain group of proteins that belong to one metabolic series.
-a. Terminator
-*b. Operon
-c. Promoter
+a. Regulator gene
+b. Promoter
+c. Terminator
 d. Operator
-e. Regulator gene
+e. Operon
 
 172. A 30-year-old patient was diagnosed with a tumor of the body of the mandible that appeared several months ago. Macroscopically, the tumor was represented by a dense whitish tissue that was destroying the patient's jawbone. After its removal, the tumor was examined microscopically. It was revealed that the tumor consisted of a network of odontogenic epithelial strands with various types of branching. What kind of tumor did the patient have in this case?
 a. Basal cell ameloblastoma
-b. Granular cell ameloblastoma
+b. Plexiform ameloblastoma
 c. Acanthomatous ameloblastoma
-*d. Plexiform ameloblastoma
+d. Granular cell ameloblastoma
 e. Follicular ameloblastoma
 
 173. During physical and emotional strain, a person is less sensitive to pain. This phenomenon occurs due to activation of the:
