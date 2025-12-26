@@ -1,212 +1,212 @@
 1. The complexity and diversity of organizations necessitate their classification. What types of organizations are there, based on the results of the organization's work?
-a. Formal and informal
-b. Sole and cooperative
-c. Private and state-owned
-d. Temporary and non-temporary
-*e. Commercial and non-commercial
+*a. Commercial and non-commercial
+b. Private and state-owned
+c. Temporary and non-temporary
+d. Sole and cooperative
+e. Formal and informal
 
 2. A 33-year-old pregnant woman at week 39 of her pregnancy developed generalized seizures, preceded by intense headache, visual disturbances (visual snow, double vision), pain in the right upper quadrant of the abdomen and in the epigastrium, nausea, and vomiting. Over the course of her pregnancy, the woman presented with increased blood pressure, edema, and proteinuria. What pathological condition has developed in the patient?
-a. -
+*a. Eclampsia
 b. Status epilepticus
 c. Pulmonary thromboembolism
-*d. Eclampsia
+d. -
 e. Severe preeclampsia
 
 3. A 35-year-old patient has been hospitalized into the intensive care unit due to acute poisoning with an unknown substance. What laboratory findings in urinalysis may indicate development of acute renal failure?
-a. Oliguria and hypersthenuria
-b. -
-c. Normal diuresis and normal urine specific gravity
-*d. Oliguria and hyposthenuria
-e. Polyuria and hypersthenuria
+*a. Oliguria and hyposthenuria
+b. Normal diuresis and normal urine specific gravity
+c. -
+d. Polyuria and hypersthenuria
+e. Oliguria and hypersthenuria
 
 4. A 57-year-old man complains of constricting retrosternal pain that radiates into his left shoulder. The pain had occurred during physical exertion and did not stop after the patient took nitroglycerin. Objectively, the patient is agitated, his skin and visible mucosa are pale, his heart sounds are weakened and rhythmic, blood pressure - 90/50 mm Hg. ECG shows ST segment above the isoline and coronary Q wave. What pathology is it characteristic of?
-*a. Myocardial infarction
-b. Endocarditis
-c. Myocarditis
+a. Endocarditis
+*b. Myocardial infarction
+c. Rheumatic heart disease
 d. Pericarditis
-e. Rheumatic heart disease
+e. Myocarditis
 
 5. What type of management is predominant at a healthcare facility, if the authority to make managerial decisions is mostly concentrated in the hands of the facility's head manager?
-*a. Centralized
+a. Decentralized
 b. Mixed
-c. Linear-functional
-d. Decentralized
+*c. Centralized
+d. Linear-functional
 e. Functional
 
 6. What type of communication involves exchanging information, suggestions, demands, views, and motivations to solve specific problems both within the organization and outside the organization?
-a. Emotional communication
-*b. Business communication
-c. Formal communication
-d. Friendly communication
-e. Etiquette communication
+*a. Business communication
+b. Friendly communication
+c. Etiquette communication
+d. Emotional communication
+e. Formal communication
 
 7. A 56-year-old woman has developed the following symptoms because of vitamin B_12 deficiency in her body: gait changes, atrophy of the leg muscles, and impaired sensitivity in the limbs. What disease can be characterized by this complex of symptoms?
-a. Metabolic myopathy
+a. Atherosclerosis
 b. Osteoporosis
 c. Polyarthritis
-d. Atherosclerosis
-*e. Funicular myelosis
+*d. Funicular myelosis
+e. Metabolic myopathy
 
 8. A 43-year-old patient has been provisionally diagnosed with chronic pancreatitis. What laboratory markers would be of the greatest diagnostic value for detecting pancreatic dysfunction?
-a. Cholesterol, bilirubin
-*b. alpha-Amylase, elastase 1
-c. Prothrombin index, hematocrit
-d. Bilirubin, transaminases
-e. Transaminases, C-reactive protein
+a. Transaminases, C-reactive protein
+b. Cholesterol, bilirubin
+c. Bilirubin, transaminases
+d. Prothrombin index, hematocrit
+*e. alpha-Amylase, elastase 1
 
 9. What is the form of primary healthcare, where the general practitioner provides medical care to the members of the families registered with him throughout their lives and bears full responsibility for their health?
-a. Emergency (urgent) care
-b. Pediatrics
-c. Consultancy
-d. Specialized healthcare
-*e. Family medicine
+*a. Family medicine
+b. Consultancy
+c. Specialized healthcare
+d. Emergency (urgent) care
+e. Pediatrics
 
 10. A woman, gravida 1, gave birth to a full-term baby with the body weight of 3300 g and the body length of 51 cm. When should the newborn baby be weighed for the first time?
-a. Immediately after ligation of the umbilical cord
+*a. In the delivery room, after the skin-to-skin contact is over
 b. After carrying out the ophthalmia prevention
 c. Five minutes after birth
-*d. In the delivery room, after the skin-to-skin contact is over
-e. During the second day after birth
+d. During the second day after birth
+e. Immediately after ligation of the umbilical cord
 
 11. A 19-year-old girl presents with changes in her appearance: enlarged hands, feet, and facial skeleton. Her height is 195 cm. What hormone must be measured first in the patient's blood?
-a. Progesterone
-b. Insulin
-*c. Somatotropin
+*a. Somatotropin
+b. Testosterone
+c. Insulin
 d. Thyrotropin
-e. Testosterone
+e. Progesterone
 
 12. A patient has been provisionally diagnosed with shigellosis. What specific method of laboratory diagnostics can be used to confirm this diagnosis?
 a. Blood glucose test
-b. General urinalysis
-c. Complete blood count
-*d. Stool bacteriology
-e. Blood biochemistry test
+b. Blood biochemistry test
+*c. Stool bacteriology
+d. Complete blood count
+e. General urinalysis
 
 13. A patient has suddenly lost his consciousness but has a pulse and is breathing unassisted. What position should the patient be placed in to prevent regurgitation and tongue falling backwards, while awaiting the arrival of an ambulance medical team?
 a. Orthopneic position
-b. Fowler position
+b. Sims position
 *c. Stable side position
-d. Trendelenburg position
-e. Sims position
+d. Fowler position
+e. Trendelenburg position
 
 14. The senior nurse at the nephrology department of a hospital informs her subordinates about their main duties, necessary professional skills, and organizational aspects of their work. What legal organizational document determines the distribution of duties and authority among the medical workers at a healthcare facility?
-a. Contract
-b. Decision
-c. -
-d. Directive
-*e. Job description
+a. -
+b. Directive
+c. Contract
+*d. Job description
+e. Decision
 
 15. The cardiac monitor of an unconscious patient shows cardiac arrhythmia that requires immediate defibrillation. What heart rhythm is an indication for defibrillation?
-a. Atrioventricular block
-b. Atrial fibrillation
-c. Pulseless electrical activity
-*d. Pulseless ventricular tachycardia
-e. Asystole
+a. Atrial fibrillation
+b. Asystole
+*c. Pulseless ventricular tachycardia
+d. Atrioventricular block
+e. Pulseless electrical activity
 
 16. A woman, who has rheumatoid arthritis and has been taking glucocorticoids for a year, developed signs of osteoporosis. What instrumental test would be informative for determining the bone density in this case?
-a. Tomography
-b. Thermography
-c. Angiography
-*d. Densitometry
-e. Arthropneumography
+a. Arthropneumography
+b. Tomography
+c. Thermography
+d. Angiography
+*e. Densitometry
 
 17. A 25-year-old woman has been hospitalized with symptoms of morphine overdose. After intravenous administration of naloxone, her condition significantly improved. What is the mechanism of action of this drug?
 a. Stimulation of serotonin receptors
-b. Stimulation of benzodiazepine receptors
-*c. Opioid receptor blockade
-d. Dopamine receptor blockade
-e. GABA receptor blockade
+b. GABA receptor blockade
+c. Dopamine receptor blockade
+d. Stimulation of benzodiazepine receptors
+*e. Opioid receptor blockade
 
 18. What informational analytical document has been written by the ward nurse at the request of the senior nurse at the therapeutic department of a hospital in connection with the ward nurse being late for work?
-*a. Explanation letter
-b. Resignation letter
-c. Absence report
-d. Disciplinary note
-e. Internal memo
+a. Absence report
+*b. Explanation letter
+c. Internal memo
+d. Resignation letter
+e. Disciplinary note
 
 19. Anthropometric studies reveal that a 3-month-old breastfed baby has an insufficient increase in the body weight over the course of the last month. During interviewing the child's mother, she notes a decrease in her breast milk output. What procedure should be carried out first to determine the further tactics in this case?
-a. Measuring the body length of the child
+*a. Control weighing of the child
 b. Measuring the pulse and its characteristics
-c. Testing whether tendon reflexes are present and symmetrical
-d. Measuring the circumferences of the head and chest
-*e. Control weighing of the child
+c. Measuring the circumferences of the head and chest
+d. Testing whether tendon reflexes are present and symmetrical
+e. Measuring the body length of the child
 
 20. A 37-year-old patient has been prescribed inhalations of ipratropium bromide (Berodual). What device is used for inhalations of this drug, ensuring its ultrafine dispersion and deep penetration into the lower respiratory tract?
-a. -
+a. Peak flow meter
 *b. Nebulizer
 c. Pulse oximeter
-d. Peak flow meter
+d. -
 e. Spirometer
 
 21. What is the approximate age of a child, who is well able to fix the eyes on bright objects, raises the head when lying on the stomach, makes small sounds ("cooing"), smiles, and sleeps approximately 18-20 hours a day?
-a. 7 months
-b. 4 months
-*c. 2 months
+a. 8 months
+*b. 2 months
+c. 4 months
 d. 5 months
-e. 8 months
+e. 7 months
 
 22. What units are organized in outpatient polyclinics or in outpatient departments of healthcare facilities to provide medical aid for patients who do not require 24-hour medical and nursing care?
-a. Treatment and diagnostics center
-b. In-home treatment
-c. Rehabilitation department of a hospital
-d. Primary healthcare center
-*e. Day hospital
+a. Primary healthcare center
+b. Rehabilitation department of a hospital
+c. In-home treatment
+*d. Day hospital
+e. Treatment and diagnostics center
 
 23. What is the name of the set of measures aimed at destroying pathogenic microorganisms in environmental objects?
-a. Asepsis
-b. Disinsection
-c. Vaccination
-d. Deratization
-*e. Disinfection
+*a. Disinfection
+b. Deratization
+c. Disinsection
+d. Asepsis
+e. Vaccination
 
 24. During a consultation at a primary healthcare center, the mother of a 3-year-old child is interested in the principles of healthy eating. What percentage of the child's daily diet should be provided with breakfast to ensure healthy eating according to the WHO recommendations?
-a. 15%
-b. 50%
-*c. 25%
+a. 35%
+*b. 25%
+c. 50%
 d. 40%
-e. 35%
+e. 15%
 
 25. A 49-year-old patient, who has been working as a synthesis operator at a pharmaceutical factory for 23 years, complains of general weakness, fatigability, dizziness, headache, sleep disturbances, and bleeding gums. Objectively, the patient has petechial rash and isolated hemorrhages on the skin. The pulse is labile, blood pressure - 100/60 mm Hg. The liver protrudes 3 cm from under the edge of the costal arch. Blood test results: hemoglobin - 102 g/L, erythrocytes - 3.89·10^12/L, color index - 0.78, leukocytes - 2.7·10^9/L, platelets - 103·10^9/L. What is the most likely cause of the described clinical presentation and laboratory findings?
-a. Acute benzene intoxication
-b. Acute carbon monoxide intoxication
-*c. Chronic benzene intoxication
-d. -
+*a. Chronic benzene intoxication
+b. Acute benzene intoxication
+c. -
+d. Acute carbon monoxide intoxication
 e. Chronic manganese intoxication
 
 26. A 62-year-old patient complains of pain in the right knee joint. The pain occurs at the moment of starting the movement and decreases after walking for a while. Recently, a feeling of "blocking" has appeared in the joint, when the leg "gets stuck" in a certain position, which is accompanied by sharp pain and restriction of movements. Objectively, deformation of the knee joint, crunching in the knee, and restriction of its flexion are observed. What disease are these symptoms most characteristic of?
 a. Rheumatoid arthritis
 b. Bursitis
-c. Gout
-*d. Deforming osteoarthrosis
-e. Systemic lupus erythematosus
+*c. Deforming osteoarthrosis
+d. Systemic lupus erythematosus
+e. Gout
 
 27. After performing an intravenous injection, the nurse placed the used syringe into a sharps container with a lid. What category of medical waste does the used syringe belong to?
-*a. B
-b. -
-c. D
-d. A
-e. C
+a. -
+b. C
+c. A
+d. D
+*e. B
 
 28. A cold abscess was detected in a newborn child (age - 1 month), in the area of the upper third of the left shoulder. What violation has occurred during the tuberculosis vaccination, causing this complication as a result?
-a. Inability to maintain aseptic conditions
-b. Choice of the injection site
+a. Date of the vaccination
+b. Inability to maintain aseptic conditions
 c. Dose of the immunobiological drug
-d. Date of the vaccination
+d. Choice of the injection site
 *e. Method of vaccine administration
 
 29. An infant with pneumonia developed signs of pulmonary edema against the background of excessive infusion therapy. What position should the chiild be placed into, when providing emergency pre-doctor aid?
-a. Horizontal with slightly elevated legs
-b. Lying on the stomach
-c. Lying on the left side
-d. Lying on the right side
-*e. Sitting, semi-sitting
+a. Lying on the right side
+*b. Sitting, semi-sitting
+c. Horizontal with slightly elevated legs
+d. Lying on the stomach
+e. Lying on the left side
 
 30. At what stage must the upper airway patency be assessed according to the MARCH protocol?
 a. C
-*b. A
-c. R
-d. M
-e. H
+b. M
+*c. A
+d. H
+e. R
 
 31. The head nurse of a healthcare facility concentrates management functions in her own hands, independently makes decisions on all issues, and builds relationships with her subordinates on an official basis, assigning their tasks in a formal, strict tone. What management style uses such approach to interaction with subordinates?
 a. -
@@ -216,312 +216,312 @@ d. Liberal
 *e. Authoritarian
 
 32. A patient at the cardiology department of a hospital undergoes cardiac auscultation. What heart valve can be best heard at the point located in the second intercostal space to the right of the sternum?
-a. Tricuspid valve
-b. Pulmonary valve
-c. -
+a. Pulmonary valve
+b. -
+c. Tricuspid valve
 *d. Aortic valve
 e. Mitral valve
 
 33. A certain type of organizational structure allows organizing the management process according to the following scheme: top-level manager - lower-level manager - employees who perform the main work in the organization. This structure can also be characterized by methodological support provided by the organization's specialized subdivisions for performing management tasks. Name this type of organizational structure.
 a. Matrix structure
-b. Line-staff structure
-c. Divisional product-oriented structure
-*d. Linear-functional structure
-e. Project-oriented structure
+b. Project-oriented structure
+*c. Linear-functional structure
+d. Divisional product-oriented structure
+e. Line-staff structure
 
 34. A patient at the hospital ward for infectious diseases has been diagnosed with oropharyngeal diphtheria and administered an anti-diphtheria serum for treatment. What is its main mechanism of action?
-a. Elimination of the causative agent
+a. Stimulation of the immune system
 b. Providing a sedative effect
 c. Stabilization of the hemodynamics
 *d. Neutralization of the toxin
-e. Stimulation of the immune system
+e. Elimination of the causative agent
 
 35. According to the stages of the organizational life cycle, everything begins with the organisation's "birth" (founding). What stage of the organizational life cycle includes attracting investments, as well as significant renewal of its human resources and types and areas of its business activities?
-a. Childhood
-*b. Revival
-c. Decline
-d. Youth
-e. Early maturity
+*a. Revival
+b. Early maturity
+c. Youth
+d. Childhood
+e. Decline
 
 36. What should be the priority actions of a healthcare worker before starting to provide emergency aid for an injured person in an emergency situation?
 a. Immediately transport the injured person to the nearest healthcare facility
-*b. Assess the site of the emergency and ensure safety - both own and the injured person's
-c. Check the injured person's vital signs (pulse, blood pressure, respiratory rate)
-d. Place the injured person in the stable side position
+b. Place the injured person in the stable side position
+*c. Assess the site of the emergency and ensure safety - both own and the injured person's
+d. Check the injured person's vital signs (pulse, blood pressure, respiratory rate)
 e. Immediately begin cardiopulmonary resuscitation
 
 37. By the order of the Ministry of Health, a new department was created at a healthcare institution. This department included an epidemiologist, an epidemiologist's assistant, a coordinator for the administration of antimicrobial drugs, a coordinator for the hand hygiene, a coordinator for the training in infection prevention, and a statistician. What department was created at a healthcare institution?
 a. Infectious diseases department
 *b. Infection control department
-c. Department for especially dangerous infections
+c. Department for prevention of nosocomial infections
 d. Epidemiology department
-e. Department for prevention of nosocomial infections
+e. Department for especially dangerous infections
 
 38. When discussing a conflict situation, the general director of a healthcare facility emphasizes that the healthcare management system in Ukraine has three levels. What position belongs to the operational level of management?
-a. Head nurse
-b. Ward nurse at the hospital's department
-c. Deputy chief physician
-*d. Senior nurse at the hospital's department
+a. Deputy chief physician
+b. Head nurse
+*c. Senior nurse at the hospital's department
+d. Ward nurse at the hospital's department
 e. Chief physician
 
 39. Name the three main types of manager's behavior, based on the leadership style.
 a. Democratic, liberal, ochlocratic
-b. Democratic, monarchic, partocratic
-c. Anarchic, autocratic, partocratic
-d. Partocratic, monarchic, liberal
+b. Anarchic, autocratic, partocratic
+c. Partocratic, monarchic, liberal
+d. Democratic, monarchic, partocratic
 *e. Autocratic, democratic, liberal
 
 40. A 20-year-old woman complains of copious secretions from her genital tract with an unpleasant "fishy" odor. The results of the gynecological examination are as follows: the mucosa of the vagina is pale pink, vaginal secretions are milky white and stick to the walls of the vagina, pH of the vagina - 5.0. What pathology are these symptoms characteristic of?
 a. Trichomoniasis
 b. Genital herpes
-*c. Bacterial vaginosis
-d. Candidal vulvovaginitis
+c. Candidal vulvovaginitis
+*d. Bacterial vaginosis
 e. Chlamydiosis
 
 41. What factor is a contraindication for in-home treatment?
 a. Old age
-b. -
+*b. Severe course of a disease
 c. Disability
-d. Frequent respiratory diseases
-*e. Severe course of a disease
+d. -
+e. Frequent respiratory diseases
 
 42. A nurse administered a 1% solution of morphine hydrochloride intramuscularly to a 69-year-old patient, as prescribed by the doctor. What parameter must be monitored in the patient after administering this drug?
-a. Blood glucose
-b. Skin color
-*c. Respiratory rate
-d. Body temperature
-e. Heart rate
+*a. Respiratory rate
+b. Blood glucose
+c. Heart rate
+d. Skin color
+e. Body temperature
 
 43. Name the diseases, vaccination against which begins at the age of 12 months (the first dose of the vaccine is administered) according to the National Immunization Schedule in Ukraine.
-*a. Mumps, rubella, measles
-b. Tuberculosis, pertussis, viral hepatitis B
-c. Pertussis, diphtheria, tetanus
-d. Diphtheria, tuberculosis, viral hepatitis B
-e. Rubella, pertussis, tuberculosis
+a. Diphtheria, tuberculosis, viral hepatitis B
+*b. Mumps, rubella, measles
+c. Rubella, pertussis, tuberculosis
+d. Pertussis, diphtheria, tetanus
+e. Tuberculosis, pertussis, viral hepatitis B
 
 44. A 70-year-old patient complains of constricting retrosternal pain that radiates into his left shoulder, arm, and scapula. The pain occurred after a stressful situation. What drug should be administered first, when providing emergency aid for this patient?
-a. Paracetamol
-b. Drotaverine
-*c. Nitroglycerin
-d. Ibuprofen
-e. Gidazepam
+a. Drotaverine
+b. Paracetamol
+c. Ibuprofen
+d. Gidazepam
+*e. Nitroglycerin
 
 45. A patient with pulmonary tuberculosis suddenly developed tightness in the chest and paroxysmal cough after physical exertion. During the coughing, the patient started producing foamy blood (bright red and slow to coagulate) from his mouth and nose. Objectively, the patient's general condition is severe, the skin is pale, respiratory rate - 43/min, blood pressure - 95/60 mm Hg, pulse - 115/min, thready. What complication of the underlying disease has developed in the patient?
-a. Open pneumothorax
-b. Gastric bleeding
+a. Nosebleed
+*b. Pulmonary bleeding
 c. Spontaneous pneumothorax
-d. Nosebleed
-*e. Pulmonary bleeding
+d. Gastric bleeding
+e. Open pneumothorax
 
 46. A 6-month-old infant with an acute respiratory viral infection has fever of 39.6^oС. What drug is usually used to reduce the body temperature in children of this age?
-a. Loratadine
-*b. Paracetamol
-c. Acetylsalicylic acid
-d. Furosemide
-e. Drotaverine
+a. Furosemide
+b. Loratadine
+*c. Paracetamol
+d. Drotaverine
+e. Acetylsalicylic acid
 
 47. What is the name of the national document that certifies the right to carry out medical activities, if specific requirements are being complied with?
-a. Resolution
-b. Directive
+a. Order
+b. Resolution
 c. Law
-d. Order
-*e. License
+*d. License
+e. Directive
 
 48. A 6-year-old child has suddenly developed fever of 39.5^oС. What drug is absolutely contraindicated for fever reduction in children under 15 years of age?
-a. Paracetamol
-b. -
-c. Ibuprofen
-*d. Acetylsalicylic acid
-e. Mefenamic acid
+*a. Acetylsalicylic acid
+b. Ibuprofen
+c. Paracetamol
+d. Mefenamic acid
+e. -
 
 49. What aspect of the management process concerns creating and reinforcing the system of rights, duties, powers, and responsibilities of employees and departments in the context of performing specific operations and types of work and implementing various stages of managerial decisions?
-*a. Organizational
-b. Social
-c. Technological
-d. Economic
-e. Legal
+a. Technological
+b. Legal
+*c. Organizational
+d. Social
+e. Economic
 
 50. A patient with decompensated chronic heart failure has been prescribed complex treatment, consisting of an ACE inhibitor (enalapril), a diuretic (furosemide), a beta-blocker (bisoprolol), and an aldosterone receptor blocker (spironolactone). Two weeks later, the patient's condition significantly improved: dyspnea and leg edema decreased, but she developed dry, exhausting cough. No clinical manifestations of acute respiratory viral infection were detected. What drug has most likely caused the patient's cough?
-a. -
-*b. Enalapril
-c. Bisoprolol
-d. Spironolactone
-e. Furosemide
+a. Spironolactone
+b. -
+c. Furosemide
+d. Bisoprolol
+*e. Enalapril
 
 51. A 65-year-old patient took one tablet of nitroglycerin sublingually during an angina pectoris attack. What is the most common side effect of this drug?
-a. Paresthesia
-*b. Headache
-c. Nystagmus
+a. Hearing impairment
+b. Nystagmus
+*c. Headache
 d. Agranulocytosis
-e. Hearing impairment
+e. Paresthesia
 
 52. Cardiac auscultation detects systolic murmur in the patient's apex beat point, which is characteristic of insufficiency of a certain heart valve. What heart valve is it?
-a. -
-b. Aortic valve
-*c. Mitral valve
+a. Aortic valve
+*b. Mitral valve
+c. -
 d. Pulmonary valve
 e. Tricuspid valve
 
 53. A 45-year-old patient complains of a long-term cough, weight loss, general weakness, night sweats, and subfebrile body temperature. The patient has been provisionally diagnosed with pulmonary tuberculosis. What is the main finding that can confirm this diagnosis?
-*a. Tuberculosis pathogen detected in patient's sputum
-b. Leukocytosis in the peripheral blood
-c. Positive Mantoux test
+a. Positive Mantoux test
+*b. Tuberculosis pathogen detected in patient's sputum
+c. Leukocytosis in the peripheral blood
 d. Positive QuantiFERON test
 e. Specific radiological changes in the chest organs
 
 54. As a result of hostilities, a person was buried under the rubble of a destroyed building. Objectively, his right leg is compressed by the fragments of concrete structures, it is pale and edematous, its sensitivity is impaired, there is no pulse on the popliteal artery. What actions should be taken if it is necessary to urgently evacuate this person and more than 10 minutes have passed since the limb had been compressed?
-a. Massage the compressed limb immediately after releasing it
+*a. Apply a tourniquet to the limb above the compression site before releasing it
 b. Apply a tourniquet to the limb above the compression site after releasing it
 c. Immediately after releasing the limb, raise it above the level of the patient's head
-d. Immediately after releasing the limb, rub it with an alcohol-containing solution
-*e. Apply a tourniquet to the limb above the compression site before releasing it
+d. Massage the compressed limb immediately after releasing it
+e. Immediately after releasing the limb, rub it with an alcohol-containing solution
 
 55. In countries with the developed healthcare system, there is a certain form of social health insurance that is a component of the social insurance system. It is approved by the country's government and carried out in accordance with the procedure established by the country's legislation. What form of social health insurance is it?
-a. Private
+*a. Mandatory
 b. Mixed
-c. Voluntary
-d. State
-*e. Mandatory
+c. State
+d. Private
+e. Voluntary
 
 56. A patient with liver cirrhosis presents with dilation of the subcutaneous veins of the anterior abdominal wall, vascular murmur in the umbilical region during auscultation, hepatosplenomegaly, and ascites. What complication of liver cirrhosis has developed in the patient?
-a. Gilbert syndrome
-b. Thrombophlebitis
-c. Chronic renal failure
-d. Arterial hypertension
-*e. Portal hypertension
+a. Chronic renal failure
+b. Arterial hypertension
+*c. Portal hypertension
+d. Thrombophlebitis
+e. Gilbert syndrome
 
 57. What internal variable of an organization determines its division of labor and responsibility for performing specific tasks, which has a direct effect on the efficiency of the production process?
-*a. Organizational structure
-b. General objectives
-c. Material and technical resources
-d. Task setting
-e. Human resources (personnel)
+a. Human resources (personnel)
+b. Task setting
+*c. Organizational structure
+d. General objectives
+e. Material and technical resources
 
 58. Assessment of the person's level of consciousness shows that this person does not respond to external verbal and pain stimuli (remains unconscious). What scale has been used in this case to assess the level of consciousness?
-*a. AVPU
-b. FAST
+a. FAST
+b. SCORE
 c. SAMPLE
-d. SCORE
-e. ABCDE
+d. ABCDE
+*e. AVPU
 
 59. A 28-year-old patient has the following symptoms: general weakness, night sweats, a wave-like increase in the body temperature, weight loss, and long-term lymphadenopathy (enlargement of the submandibular lymph nodes to 1-1.5 cm in diameter) of unknown etiology. Blood test results: leukocytes - 32·10^9/L, ESR - 38 mm/hour. What diagnostic method should be used in this case?
-a. Sternal puncture
-b. CT scan of the paranasal sinuses
-c. Thyroid ultrasound
-d. Brain MRI
+a. Thyroid ultrasound
+b. Brain MRI
+c. Sternal puncture
+d. CT scan of the paranasal sinuses
 *e. Lymph node biopsy
 
 60. Over the past three years, a 5-year-old child had periodic episodes of sneezing and an itchy nose (the child often scratches and wrinkles the nose, which has caused a transverse crease to appear above the tip of the nose). The child also has nasal congestion, copious clear nasal discharge, difficulty breathing through the nose, and bruises under the eyes. What disease can be characterized by this complex of symptoms?
-a. Acute pharyngitis
-b. Acute maxillary sinusitis
-c. Nasal diphtheria
-*d. Allergic rhinitis
-e. Infectious mononucleosis
+a. Nasal diphtheria
+*b. Allergic rhinitis
+c. Infectious mononucleosis
+d. Acute pharyngitis
+e. Acute maxillary sinusitis
 
 61. A certain state authority was created to reform the healthcare sector in Ukraine. It is responsible for purchasing medical services from healthcare institutions (regardless of their form of ownership) or sole practitioners, as well as covering the cost of such services within the scope of the state-guaranteed medical care. Name this state authority.
-a. Cabinet of Ministers of Ukraine
-b. Regional State Administration
+a. Regional State Administration
+b. Primary healthcare center
 c. Ministry of Health of Ukraine
 *d. National Health Service of Ukraine
-e. Primary healthcare center
+e. Cabinet of Ministers of Ukraine
 
 62. The head nurse of the pediatric department at a children's hospital supervises medical personnel handling medical waste. What category is assigned to toxicologically hazardous medical waste?
-*a. С
-b. А
+a. В
+*b. С
 c. D
-d. В
-e. -
+d. -
+e. А
 
 63. A full-term newborn girl developed bloody mucous discharge from the pudendal fissure and enlarged mammary glands on the fourth day of life. The child's general condition is satisfactory, her appetite is normal, her sleep is not disturbed, her reflexes are lively and age-appropriate. What condition are these symptoms typical of?
-*a. Hormonal effects in newborns
-b. Vulvovaginitis
+a. Vulvovaginitis
+b. Vaginitis
 c. Purulent mastitis
-d. Vaginitis
-e. Uric acid renal infarction
+d. Uric acid renal infarction
+*e. Hormonal effects in newborns
 
 64. The senior nurse at the therapeutic department of a hospital organizes the work of her subordinates, using command information as an element of information support. What key characteristic of information is crucial for providing high-quality patient care and prompt execution of doctor's prescriptions by nurses?
-a. Usefulness
-b. Accessibility
-c. -
-*d. Timeliness
+*a. Timeliness
+b. Usefulness
+c. Accessibility
+d. -
 e. Periodicity
 
 65. A nurse needs to assess the patient's rate of adaptation to physical exertion and determine the time required for recovery afterwards. What test should be performed for this purpose?
-a. -
-b. Genchi test
-c. Stange test
-*d. Martine-Kushelevsky test
+a. Genchi test
+b. -
+*c. Martine-Kushelevsky test
+d. Stange test
 e. Clinostatic test
 
 66. A 30-year-old woman, who was bitten by a snake on her leg, complains of rapidly increasing edema of the limb and sharp pain and burning sensation in the area of the snake bite. What measure is a component of the emergency aid algorithm in this case?
-a. Sucking the venom out of the bite site
-b. Applying a tourniquet to the limb above the bite site
-*c. Immobilization of the limb
-d. Skin incision at the bite site
-e. Cauterizing the bite site with a hot object
+a. Cauterizing the bite site with a hot object
+b. Skin incision at the bite site
+c. Applying a tourniquet to the limb above the bite site
+d. Sucking the venom out of the bite site
+*e. Immobilization of the limb
 
 67. What is the main cause of business conflicts occurring in healthcare institutions?
-a. Imbalanced distribution of material resources
-b. Social instability
-*c. Poor management culture
+a. Social instability
+b. Shortages in essential goods
+c. Imbalanced distribution of material resources
 d. Poor working conditions
-e. Shortages in essential goods
+*e. Poor management culture
 
 68. In an operating room, where clear allocation of tasks is crucial for the patient safety, there is a risk of conflict due to unclear functional responsibilities. What structural method of management would be most effective for preventing and resolving conflicts among the healthcare personnel in this case?
-a. Consensus
-b. Flexibility
-c. -
-*d. Clarification
-e. Negotiation
+*a. Clarification
+b. Negotiation
+c. Consensus
+d. -
+e. Flexibility
 
 69. What healthcare facility provides medical care in many medical specialties both for the outpatients and inpatients?
-*a. Polyclinic
-b. Sanitary station
-c. Hospice
-d. Blood transfusion station
-e. Perinatal center
+a. Hospice
+b. Perinatal center
+c. Blood transfusion station
+d. Sanitary station
+*e. Polyclinic
 
 70. A 34-year-old woman with type 1 diabetes mellitus has suddenly lost her consciousness. Objectively, convulsive muscle twitching and mydriasis are observed, the skin is pale and moist, pulse - 98/min, blood pressure - 110/70 mm Hg. What drug must be administered immediately when providing emergency aid for this patient?
-a. 0.2% solution of noradrenaline intravenously
-b. 5% glucose solution intravenously
+a. 5% glucose solution intravenously
+b. 10-14 U of short-acting insulin intravenously
 c. 0.1% adrenaline (epinephrine) solution intramuscularly
 *d. 40% glucose solution intravenously
-e. 10-14 U of short-acting insulin intravenously
+e. 0.2% solution of noradrenaline intravenously
 
 71. A 25-year-old woman has scalded her left hand with boiling water one hour ago. Objectively, the skin of the scalded area is hyperemic and edematous, there are blisters filled with a clear fluid. What should be done first at the prehospital stage when providing emergency aid for this patient?
-a. Treat the scalded area with an alcohol-containing solution
-*b. Cool down the scalded area with cool running water
-c. Pop the blisters and apply a dry bandage to the affected area
-d. Apply an ointment bandage to the affected area
-e. Apply an antiseptic bandage to the affected area
+*a. Cool down the scalded area with cool running water
+b. Apply an ointment bandage to the affected area
+c. Apply an antiseptic bandage to the affected area
+d. Treat the scalded area with an alcohol-containing solution
+e. Pop the blisters and apply a dry bandage to the affected area
 
 72. What disability group would be assigned for a patient with severe and persistent functional impairments that significantly limit activities of daily living and make self-care impossible, necessitating constant external care?
 a. -
-b. Second
-*c. First
+*b. First
+c. Fourth
 d. Third
-e. Fourth
+e. Second
 
 73. Which one of the listed patients has indications for treatment at the day hospital of a healthcare center?
-a. A 56-year-old man with end-stage liver cirrhosis
-b. A 67-year-old man with an acute cerebrovascular accident
-c. A 78-year-old woman with stage IV stomach cancer
-*d. A 49-year-old man with exacerbation of chronic cholecystitis
-e. A 27-year-old woman with indications for osteosynthesis
+a. A 27-year-old woman with indications for osteosynthesis
+b. A 56-year-old man with end-stage liver cirrhosis
+c. A 67-year-old man with an acute cerebrovascular accident
+d. A 78-year-old woman with stage IV stomach cancer
+*e. A 49-year-old man with exacerbation of chronic cholecystitis
 
 74. A patient, who has been working as a driller in a mine for a long time, complains of discomfort in his hands. What examination method can assess the pain sensitivity in his hands?
-a. Pallestesiometry
+a. Capillaroscopy
 b. Cold stimulus
-c. Capillaroscopy
-d. Dynamometry
-*e. Algesimetry
+*c. Algesimetry
+d. Pallestesiometry
+e. Dynamometry
 
 75. A doctor has diagnosed a patient with type 2 diabetes mellitus and prescribed him an antidiabetic drug (metformin). The patient has informed the doctor of his financial difficulties. What explanation should be given to the patient regarding the purchase of the drug?
 a. The patient should contact social services that can help with purchasing medicines
-*b. With the prescription, the drug can be obtained free of charge or purchased at a discount at the pharmacies that participate in the Affordable Medicines Program
-c. The drug can be purchased at a discount, when pharmacies have this drug on sale
-d. The drug may be purchased not immediately, but later, when the patient's financial situation is more stable
-e. The drug should be purchased later, when the patient has the necessary funds
+b. The drug may be purchased not immediately, but later, when the patient's financial situation is more stable
+c. The drug should be purchased later, when the patient has the necessary funds
+*d. With the prescription, the drug can be obtained free of charge or purchased at a discount at the pharmacies that participate in the Affordable Medicines Program
+e. The drug can be purchased at a discount, when pharmacies have this drug on sale
 
 76. When working at an industrial facility, one of the workers was electrocuted. The worker is lying unconscious on the ground and a wire is visible in his hand. What would be the first step, when providing first aid for this person?
 a. Wait for the arrival of an emergency medical team (ambulance)
@@ -531,520 +531,520 @@ d. Immediately begin cardiopulmonary resuscitation
 e. Perform oxygen therapy
 
 77. A patient is in the surgical department of a hospital after pyloroantrectomy (stomach surgery due to pyloric stenosis). He has history of chronic bronchitis and thrombophlebitis of the leg veins. What method of hypostatic pneumonia prevention should be used in this case during the early postoperative period?
-a. Antibiotic therapy
+*a. Breathing exercises
 b. Elastic bandaging of the legs
-*c. Breathing exercises
+c. Antibiotic therapy
 d. Frequent ventilation of the room
 e. Strict bed rest
 
 78. A 30-year-old woman has developed an attack of paroxysmal tachycardia. What measures should be taken first, when providing emergency aid in this case?
-a. Administering hypotensive drugs
-*b. Performing vagal maneuvers
+*a. Performing vagal maneuvers
+b. Ensuring a horizontal body position
 c. -
-d. Performing electrical defibrillation
-e. Ensuring a horizontal body position
+d. Administering hypotensive drugs
+e. Performing electrical defibrillation
 
 79. A patient at the hematology department of a hospital has been provisionally diagnosed with chronic lymphocytic leukemia. What is the most characteristic objective clinical sign of this disease?
 a. Anasarca
-b. Hemarthrosis
-*c. Lymphadenopathy
+*b. Lymphadenopathy
+c. Hemarthrosis
 d. Arthralgia
 e. Jaundice
 
 80. A patient with arterial hypertension is scheduled for ophthalmoscopy. Before the procedure, a nurse had instilled a mydriatic agent into his eyes. Ten minutes later, the patient complained of pain in the right temporal region, nausea, and blurred vision. Objectively, the following is observed: blood pressure - 120/80 mm Hg, heart rate - 68/min, respiratory rate - 22/min. What has most likely caused these complaints in the patient?
-a. Anaphylactic shock
-b. Hypertensive crisis
-*c. Angle-closure glaucoma attack
-d. Acute iridocyclitis
-e. Retinal hemorrhage
+*a. Angle-closure glaucoma attack
+b. Retinal hemorrhage
+c. Hypertensive crisis
+d. Anaphylactic shock
+e. Acute iridocyclitis
 
 81. What technical regulatory document establishes the requirements for providing medical care to a patient in the case of a specific disease, a certain syndrome, or in a specific situation?
 a. Form
-b. Complex standards
-c. Technological standards
-*d. Clinical protocol
-e. Prescription
+*b. Clinical protocol
+c. Prescription
+d. Technological standards
+e. Complex standards
 
 82. A 55-year-old patient has been diagnosed with arterial hypertension, stage I, degree 2. He was prescribed amlodipine as a part of two-component antihypertensive therapy. What is the pharmacological group of this drug?
-a. Adrenergic agonists
-b. Adrenergic antagonists
-c. Thiazide diuretics
+a. Loop diuretics
+b. Thiazide diuretics
+c. Adrenergic agonists
 *d. Calcium antagonists
-e. Loop diuretics
+e. Adrenergic antagonists
 
 83. A 42-year-old man has been diagnosed with mandibular dislocation. What type of bandage must be applied after the reduction of the mandible to immobilize (fixate) the jaw in a certain position?
-a. Neapolitan
-b. Knotted
-*c. Sling
+*a. Sling
+b. Neapolitan
+c. Cap
 d. Figure-of-eight
-e. Cap
+e. Knotted
 
 84. A 42-year-old woman complains of shortness of breath, moderate cough with a small amount of sputum, heaviness in her chest on the left, and fever of 38.2^oC. Objectively, her respiratory rate is 28/min, the left half of the chest lags behind in the act of breathing. The vocal vibration is markedly weakened below the angle of the left scapula, auscultation detects no respiratory sounds in this area. What disease are these symptoms most characteristic of?
 a. Intercostal neuralgia
-b. Lung abscess
-c. Bronchiectasis
-*d. Exudative pleurisy
-e. Pulmonary tuberculosis
+b. Pulmonary tuberculosis
+c. Lung abscess
+d. Bronchiectasis
+*e. Exudative pleurisy
 
 85. A certain mandatory document must be submitted by a healthcare professional to undergo certification. This document provides information about the work of the healthcare professional and gives an assessment of this person's professional and moral qualities. Name this document.
-a. Income certificate
-b. Medical Committee meeting minutes
-c. Employee's medical record
-*d. Employment reference letter
-e. Curriculum vitae
+a. Curriculum vitae
+b. Income certificate
+c. Medical Committee meeting minutes
+d. Employee's medical record
+*e. Employment reference letter
 
 86. Medical care is provided to the population by healthcare institutions, the nomenclature of which is approved by the Ministry of Health of Ukraine. What institutions are considered to be treatment and prevention institutions?
-a. Pharmacies
+a. Clinical laboratories
 b. Bacteriological laboratories
 *c. Outpatient clinics
-d. Clinical laboratories
-e. -
+d. -
+e. Pharmacies
 
 87. During examination of the patient's chest, a nurse at the therapeutic department of a hospital noticed the following changes: an increased anteroposterior size, widening of the intercostal spaces, horizontal arrangement of the ribs, bulging supraclavicular and infraclavicular fossae, and an obtuse epigastric angle. What pathological shape of the chest has formed in the patient?
-a. Rickets breast
-b. Thorax paralyticus
+a. Pectus carinatum
+b. Rickets breast
 *c. Emphysematous chest
-d. Pectus carinatum
+d. Thorax paralyticus
 e. Pectus excavatum
 
 88. What type of medical care is provided for the patients with late-stage terminal illnesses to relieve their symptoms and improve their quality of life?
-a. Primary
-b. Rehabilitation
-*c. Palliative
+a. Highly qualified
+*b. Palliative
+c. Rehabilitation
 d. Secondary
-e. Highly qualified
+e. Primary
 
 89. A 62-year-old patient immediately after parenteral administration of a vitamin B felt sudden weakness and dizziness. She developed fever throughout the body, cough, dyspnea, and generalized skin rash. Objectively, her blood pressure is 80/40 mm Hg, the pulse is weak and rapid, the heart sounds are muffled, the breathing is shallow and rapid. The patient has history of diabetes mellitus and arterial hypertension. What pathological condition has most likely developed in the patient?
-a. Pneumothorax
-*b. Anaphylaxis
-c. Hypertensive crisis
-d. Hyperglycemia
-e. Hypoglycemia
+a. Hyperglycemia
+b. Hypertensive crisis
+*c. Anaphylaxis
+d. Hypoglycemia
+e. Pneumothorax
 
 90. What is prescribed for all healthy newborns on the first day of life to prevent hemorrhagic disease of the newborn?
-a. Vitamin C
-b. Heparin
-c. Tranexamic acid
+a. Tranexamic acid
+b. Vitamin C
+c. Heparin
 d. Vitamin D
 *e. Vitamin K
 
 91. After sudden stress, a woman with diffuse toxic goiter developed the following symptoms: acute psychomotor agitation, excessive sweating, tachycardia (pulse - 194/min, arrhythmic), headache, hyperthermia (body temperature - 41.3^oС), vomiting. Objectively, the patient lies in a frog leg position, her skin is hyperemic, her face is mask-like with an expression of horror, the mucosa are dry, blood pressure - 210/100 mm Hg. What complication of the underlying disease has developed in the patient?
-a. Hypoglycemic coma
-b. Hypertensive crisis
-*c. Thyrotoxic crisis
-d. Anaphylaxis
-e. Hypothyroid coma
+*a. Thyrotoxic crisis
+b. Hypoglycemic coma
+c. Anaphylaxis
+d. Hypothyroid coma
+e. Hypertensive crisis
 
 92. A 44-year-old man injured in a car accident underwent urgent surgery for hemoperitoneum. When a certain internal organ is damaged, the patient's own blood from the abdominal cavity can be used for reinfusion, if the necessary sterility conditions are provided. Name this internal organ.
-a. Pancreas
-b. Liver
-c. Small intestine
-d. Stomach
-*e. Spleen
+a. Stomach
+b. Pancreas
+*c. Spleen
+d. Liver
+e. Small intestine
 
 93. A 58-year-old woman complains of general weakness, decreased working ability, drowsiness, dry and peeling skin, hair loss, hoarse voice, weight gain, and chills. Objectively, she has a doughy face, yellowish skin, enlarged tongue, and excessive subcutaneous fat. Pulse - 56/min, rhythmic. Blood pressure - 100/60 mm Hg. Hormone levels in the blood: T_4 and T_3 levels are reduced, TSH levels are increased. What thyroid disorder can be characterized by the described clinical presentation and laboratory findings?
 *a. Hypothyroidism
 b. Chronic thyroiditis
-c. Thyrotoxicosis
-d. Toxic nodular goiter
-e. Acute thyroiditis
+c. Acute thyroiditis
+d. Thyrotoxicosis
+e. Toxic nodular goiter
 
 94. A 29-year-old woman complains of itching and burning in the area of her external genitalia and discomfort in the vagina that intensifies during sexual intercourse. Gynecological examination detects that the vaginal mucosa is hyperemic and edematous. There are petechial hemorrhages on the mucosa of the vaginal part of the cervix ("strawberry cervix"). Vaginal secretions are foamy, gray-yellow, and foul-smelling. What disease are these symptoms characteristic of?
-a. Candidal vulvovaginitis
+*a. Trichomoniasis
 b. Bacterial vaginosis
-c. Chlamydiosis
-d. Aerobic vaginitis
-*e. Trichomoniasis
+c. Aerobic vaginitis
+d. Candidal vulvovaginitis
+e. Chlamydiosis
 
 95. A man developed a tension pneumothorax as a result of a penetrating chest wound, which is accompanied by rapidly increasing dyspnea, cyanosis, tachycardia, and hypotension. What is the optimal location for urgent puncture decompression in this case?
-a. Second intercostal space along the parasternal line
-*b. Fifth intercostal space along the anterior inguinal line axillary line
-c. -
-d. Fourth intercostal space along the anterior inguinal line axillary line
-e. Fifth intercostal space along the midclavicular line
+a. -
+b. Fourth intercostal space along the anterior inguinal line axillary line
+*c. Fifth intercostal space along the anterior inguinal line axillary line
+d. Fifth intercostal space along the midclavicular line
+e. Second intercostal space along the parasternal line
 
 96. What scale is used for objective assessment of the patient's consciousness and is applied mainly in cases of traumatic brain injuries?
-a. Barthel
-b. Norton
-*c. Glasgow
-d. Frankel
+*a. Glasgow
+b. Barthel
+c. Frankel
+d. Norton
 e. Apgar
 
 97. A healthy full-term baby developed brick-yellow color of urine on the third day of life (urine leaves reddish spots on the diapers). The child's general condition is not impaired. What transient state of the neonatal period can be characterized by these clinical manifestations?
-*a. Uric acid renal infarction
-b. Erythema toxicum
-c. -
-d. Transient albuminuria
-e. Hormonal effects in newborns
+a. Transient albuminuria
+*b. Uric acid renal infarction
+c. Erythema toxicum
+d. Hormonal effects in newborns
+e. -
 
 98. A 46-year-old woman, who complains of dry mouth and fatigability, underwent a glucose tolerance test with the following results: fasting blood glucose level - 6.5 mmol/L, blood glucose level after 2 hours - 8.4 mmol/L. How would you interprete such test results?
-a. Physiological norm
-b. Type 2 diabetes mellitus
-*c. Carbohydrate intolerance
-d. Type 1 diabetes mellitus
-e. Diabetes insipidus
+*a. Carbohydrate intolerance
+b. Physiological norm
+c. Type 1 diabetes mellitus
+d. Diabetes insipidus
+e. Type 2 diabetes mellitus
 
 99. A combat medic provides care to the wounded during combat operations. In what zone can the MARCH algorithm be applied according to the TCCC concept?
-a. Only in the green zone
+*a. In the yellow or green zone
 b. In the red or yellow zone
-c. Only in the red zone
-*d. In the yellow or green zone
-e. In the red or green zone
+c. Only in the green zone
+d. In the red or green zone
+e. Only in the red zone
 
 100. The head nurse of a clinic was discussing the stages of the organizational life cycle at a meeting with her subordinate nurses who have completed advanced training courses. Name the stages of the organizational life cycle.
-*a. Founding, growth and development, stabilization, cessation of existence or renewal
-b. Development, stabilization, cessation of existence or renewal
-c. Founding, stabilization, cessation of existence or renewal
-d. Founding, birth, growth, cessation of existence or renewal
-e. Growth and development, stabilization, cessation of existence or renewal
+a. Founding, stabilization, cessation of existence or renewal
+*b. Founding, growth and development, stabilization, cessation of existence or renewal
+c. Founding, birth, growth, cessation of existence or renewal
+d. Growth and development, stabilization, cessation of existence or renewal
+e. Development, stabilization, cessation of existence or renewal
 
 101. The day hospital at a polyclinic can provide medical care for patients who do not require continuous 24-hour monitoring and supervision. What health condition can be an indication for the treatment at the day hospital?
-a. Complicated hypertensive crisis
-*b. Diabetic angiopathy of the legs
-c. Active (open) form of tuberculosis
-d. -
-e. Acute psychosis
+a. Acute psychosis
+b. -
+*c. Diabetic angiopathy of the legs
+d. Active (open) form of tuberculosis
+e. Complicated hypertensive crisis
 
 102. What is the name of the erroneous or inadequate actions of a medical worker that were performed with a preventive, diagnostic, or therapeutic purpose, have caused the development of a disease or a pathological condition in the patient, and are legally classified as an accident?
-*a. Iatrogeny
-b. Doctor's error
+a. Medical negligence
+*b. Iatrogeny
 c. Oversight
-d. Medical negligence
-e. Medical error
+d. Medical error
+e. Doctor's error
 
 103. A patient diagnosed with peptic ulcer disease of the duodenum complains of weakness, shortness of breath during even mild physical exertion, and taste distortion (the urge to eat chalk). Objectively, the patient is pale and presents with trophic changes in the skin. In the blood, the following is observed: Hb - 90 g/L, erythrocytes - 3.3·10^12/L, color index - 0.75. What complication of the underlying disease has developed in the patient?
-a. Erythremia
-b. Aplastic anemia
-c. B_12-deficiency anemia
-d. Hemolytic anemia
-*e. Iron deficiency anemia
+a. Aplastic anemia
+b. Hemolytic anemia
+*c. Iron deficiency anemia
+d. B_12-deficiency anemia
+e. Erythremia
 
 104. A child born with the body weight of 5200 g objectively presents with the following: dense edemas on the backs of the hands and feet, facial edemas, half-open mouth, enlarged tongue and lips, rough, low-pitched voice during crying, slowness of movements and reflexes, late discharge of meconium. Name the main drug that should be used in the treatment of this child.
-*a. Levothyroxine (L-thyroxine)
-b. Hydrocortisone
+a. Hydrocortisone
+*b. Levothyroxine (L-thyroxine)
 c. Diazepam
-d. Potassium iodide (Iodomarin)
-e. Prednisolone
+d. Prednisolone
+e. Potassium iodide (Iodomarin)
 
 105. The head manager of a healthcare facility holds a general meeting with the employees, during which the secretary documents the information in writing. What is the name of the document that records the progress of the discussion and the decision-making process?
-a. -
-b. Order
+a. Instruction
+b. Directive
 *c. Minutes
-d. Directive
-e. Instruction
+d. Order
+e. -
 
 106. What aid must be provided to a postparturient woman at the third stage of labor, if the placenta did not detach after administration of uterotonics and bleeding continues?
 a. Sew up the perineal tears
-b. Inspect the birth canal for intactness
-c. Monitor the hemorrhage
-d. Prepare the patient for laparotomy
-*e. Perform manual detachment and removal of the placenta
+b. Prepare the patient for laparotomy
+*c. Perform manual detachment and removal of the placenta
+d. Monitor the hemorrhage
+e. Inspect the birth canal for intactness
 
 107. What general management function allows the management of a healthcare facility to attract and retain highly qualified healthcare professionals, apply their achievements, and contribute towards improving the team's performance as a whole?
-a. Prediction
-*b. Motivation
-c. Control
-d. Organization
-e. Planning
+a. Planning
+b. Control
+c. Organization
+*d. Motivation
+e. Prediction
 
 108. What is the name of the set of measures taken by a healthcare facility with the aim of taking into account the needs of patients, adapting the services to the patient's requirements, promoting healthcare services, and popularizing the services provided by the healthcare facility?
-a. Administrative management
-b. Financial management
+a. Financial management
+*b. Marketing
 c. Logistics
-*d. Marketing
-e. Human resource management
+d. Human resource management
+e. Administrative management
 
 109. Specify the localiztion of pain in the typical course of appendicitis.
-*a. Right iliac region
-b. Right hypochondrium
-c. -
-d. Left iliac region
-e. Left hypochondrium
+a. Left hypochondrium
+*b. Right iliac region
+c. Left iliac region
+d. Right hypochondrium
+e. -
 
 110. Against the background of paroxysmal cough, an inpatient at the phthisiatric department of a hospital developed acute dyspnea and chest pain on the right that radiates into the right shoulder. Objectively, cyanosis of the lips is observed, respiratory rate - 34/min, blood pressure - 100/60 mm Hg, pulse - 110/min. The right half of the chest lags behind in the act of breathing. Percussion of the chest produces a markedly tympanic sound on the right. Auscultation detects weakening of the respiratory sounds on the right. What pathological condition has most likely developed in the patient?
-a. Bronchial asthma attack
+*a. Spontaneous pneumothorax
 b. Pulmonary edema
-*c. Spontaneous pneumothorax
+c. Bronchial asthma attack
 d. Pulmonary thromboembolism
 e. Acute coronary syndrome
 
 111. After physical overexertion, a 49-year-old woman experienced sudden palpitations, chest discomfort, dizziness, and a feeling of lack of air. Objectively, her pulse is 140/min, rhythmic and pendulum-like, her blood pressure is 100/60 mm Hg. An attack of paroxysmal tachycardia was diagnosed. What specific technique that reflexively increases the tone of the vagus nerve should be used, when providing pre-hospital aid to this patient?
-*a. Valsalva maneuver
-b. Electric defibrillation
-c. Transesophageal electrical stimulation
+a. Electric defibrillation
+b. Transesophageal electrical stimulation
+c. Defibrillation
 d. Catheter ablation
-e. Defibrillation
+*e. Valsalva maneuver
 
 112. During the assessment of the child's neuropsychological and physical development, the following is observed: the child knows the names of many objects, can point at the named body parts, can say 8-10 words, understanding their meaning (for example, stops doing something, when hears the word "stop"), performs simple tasks at the request of adults, can squat without support, and walks unassisted. What is the approximate age of the child?
-a. 5 months
+a. 3 months
 b. 9 months
-*c. 12 months
+c. 5 months
 d. 8 months
-e. 3 months
+*e. 12 months
 
 113. In a patient with pneumonia, the body temperature rapidly decreased from 39.5^oС to 37^oС within a few hours. Objectively, the patient is conscious, lethargic, apathetic, answers questions with effort. The skin and mucosa are pale, the limbs are cold, the breathing is shallow. The patient is covered in cold sticky sweat. Pulse - 98/min, of poor volume. Blood pressure - 80/50 mm Hg. What pathological condition has developed in the patient?
-a. Hypertensive crisis
-b. Acute heart failure
-*c. Acute vascular insufficiency
-d. Hypoglycemic coma
-e. Acute respiratory failure
+a. Acute respiratory failure
+*b. Acute vascular insufficiency
+c. Hypoglycemic coma
+d. Acute heart failure
+e. Hypertensive crisis
 
 114. The senior nurse at an outpatient clinic prepares the work schedule for her subordinates. What are the workload norms for a general practice nurse under the current Ukrainian legislation?
 a. 800 people in the urban areas, 400 people in the rural areas
-b. 900 people in the urban areas, 800 people in the rural areas
-c. 1500 people in the urban areas, 1200 people in the rural areas
+b. 1500 people in the urban areas, 1200 people in the rural areas
+c. 450 people in the urban areas, 150 people in the rural areas
 *d. 750 people in the urban areas, 600 people in the rural areas
-e. 450 people in the urban areas, 150 people in the rural areas
+e. 900 people in the urban areas, 800 people in the rural areas
 
 115. An 82-year-old woman complains of pain in the mesogastric region, nausea, and three episodes of vomiting. What is the correct sequence of methods for objective examination of the digestive system in this case?
-a. Inspection, auscultation, palpation, percussion
-b. Inspection, percussion, palpation, auscultation
-c. Inspection, palpation, percussion, auscultation
-*d. Inspection, auscultation, percussion, palpation
-e. Inspection, percussion, auscultation, palpation
+a. Inspection, percussion, palpation, auscultation
+*b. Inspection, auscultation, percussion, palpation
+c. Inspection, percussion, auscultation, palpation
+d. Inspection, palpation, percussion, auscultation
+e. Inspection, auscultation, palpation, percussion
 
 116. A nurse at the cardiology department of a hospital needs to measure the patient's pulse. When can the most accurate reading of this parameter be obtained?
-a. In the afternoon, after physical exertion
-b. At lunchtime, after eating
-c. In the evening, before bed, after dinner
+a. At lunchtime, after eating
+*b. In the morning, immediately after waking up, on an empty stomach
+c. In the afternoon, after physical exertion
 d. In the morning, right after breakfast
-*e. In the morning, immediately after waking up, on an empty stomach
+e. In the evening, before bed, after dinner
 
 117. Two days after receiving a gunshot wound to the forearm, the injured person developed intense unbearable pain, dense and tense edema, and loss of sensation in the hand of the injured arm. What pathological condition has most likely developed in this person?
-a. DIC syndrome
-b. Muscle contracture
+*a. Compartment syndrome
+b. DIC syndrome
 c. Prolonged compression syndrome (Crush syndrome)
-d. Thrombophlebitis
-*e. Compartment syndrome
+d. Muscle contracture
+e. Thrombophlebitis
 
 118. What position is being held by the head manager of a non-state-owned healthcare facility, who is responsible for the rational financial and economic activity of the facility and its usage of material, financial, and human resources?
-a. Resident doctor
-*b. Director
-c. Chief nurse
-d. Senior nurse
-e. Head manager of the department
+a. Chief nurse
+b. Resident doctor
+c. Senior nurse
+d. Head manager of the department
+*e. Director
 
 119. A 10-year-old child has a bronchial asthma attack that lasts for 8 hours already. Objectively, the following is observed: cyanosis of the skin and mucosa, facial edema, marked expiratory dyspnea with the involvement of accessory respiratory muscles, and limited chest excursion. The pulse is of poor volume and arrhythmic. The blood pressure is low. Percussion produces a bandbox resonance over the lungs. Auscultation detects the "silent lung" syndrome. Repeated inhalations of beta_2-agonists (salbutamol) were ineffective. What pathological condition has developed in the child?
 a. Laryngeal stenosis
-b. Pulmonary edema
-c. True croup
-d. Anaphylactic shock
+b. True croup
+c. Anaphylactic shock
+d. Pulmonary edema
 *e. Status asthmaticus
 
 120. A patient with H. pylori-associated gastritis has been prescribed clarithromycin as a component of complex therapy. What is the pharmacological group of this drug?
-a. Antispasmodics
-*b. Antibiotics
+*a. Antibiotics
+b. Gastroprotectors
 c. Antacids
 d. Probiotics
-e. Gastroprotectors
+e. Antispasmodics
 
 121. A 3-year-old child has developed acute stenosing laryngotracheitis. Objectively, cyanosis of the nasolabial triangle and stridorous breathing are observed, pulse - 105/min, blood pressure - 100/60 mm Hg, saturation - 92%. At what stage can stridorous breathing be detected, when the patient's condition is being assessed using the ABCDE scale?
 a. С
-b. А
-*c. В
+*b. В
+c. А
 d. E
 e. D
 
 122. A woman at week 30 of her pregnancy presents with the following changes in her blood: hemolysis of erythrocytes, increased activity of aminotransferases, decreased levels of fibrinogen, and thrombocytopenia. What pathological condition are such laboratory findings characteristic of?
-a. Severe preeclampsia
-b. Moderate preeclampsia
-c. Combined preeclampsia
+*a. HELLP syndrome
+b. Combined preeclampsia
+c. Severe preeclampsia
 d. Eclampsia
-*e. HELLP syndrome
+e. Moderate preeclampsia
 
 123. There are many effective methods for managing conflict situations at the workplace. What management method includes clear explaination of the work requirements to prevent and resolve organizational conflicts?
-*a. Structural
-b. Individual
-c. Interpersonal
-d. -
-e. Intrapersonal
+a. Intrapersonal
+b. -
+*c. Structural
+d. Individual
+e. Interpersonal
 
 124. What congenital heart defect can be characterized by pulmonary artery stenosis, ventricular septal defect, dextroposition of the aorta, and right ventricular hypertrophy?
-a. Coarctation of the aorta
-b. Dextrocardia
-*c. Tetralogy of Fallot
-d. Ebstein anomaly
-e. Patent ductus arteriosus
+a. Ebstein anomaly
+b. Coarctation of the aorta
+c. Patent ductus arteriosus
+d. Dextrocardia
+*e. Tetralogy of Fallot
 
 125. After a stroke, the patient is very afraid of losing her balance and falling down, which is why she refuses to do balance exercises. A nurse at the rehabilitation department of a hospital talked with the patient about her fears and suggested that they work together to develop a strategy to overcome them. What rehabilitation principle did the nurse implement during the nursing intervention?
-a. Consistency
-*b. Patient-centeredness
-c. Timeliness
+a. Purposefulness
+b. Consistency
+*c. Patient-centeredness
 d. Continuity
-e. Purposefulness
+e. Timeliness
 
 126. A 55-year-old woman is unconscious. She has history of insulin-dependent diabetes mellitus and arterial hypertension. Objectively, she presents with pale skin, profuse sweating, dilated pupils, and seizures. Pulse - 98/min, blood pressure - 140/90 mm Hg. What pathological condition has developed in the patient?
-a. Cardiogenic shock
-b. Hypertensive crisis
-c. Anaphylactic shock
-d. Hyperglycemic coma
-*e. Hypoglycemic coma
+a. Hyperglycemic coma
+b. Anaphylactic shock
+*c. Hypoglycemic coma
+d. Hypertensive crisis
+e. Cardiogenic shock
 
 127. A 68-year-old patient with diabetes mellitus has been hospitalized in a comatose state. Objectively, marked dryness is observed in the skin and mucosa, the tone of the eyeballs is decreased. The patient exhibits no Kussmaul breathing or acetone breath from the mouth. Pulse - 120/min. Marked hyperglycemia is detected (blood glucose - 45 mmol/L). What type of coma has developed in the patient?
-a. Hypoglycemic
-b. Lactacidotic
-c. Diabetic ketoacidotic
+a. Diabetic ketoacidotic
+*b. Hyperosmolar
+c. Lactacidotic
 d. -
-*e. Hyperosmolar
+e. Hypoglycemic
 
 128. The main form of nursing communication is communication between a nurse and a patient, the success of which depends on certain criteria of effective communication. What are the main criteria of interpersonal communication?
 a. Incorrectness of the interlocutor's opinion and the proper response to it
 b. Passivity of the communication participants
-c. Lack of a common communicative space
+*c. Formation, obtaining, and processing of information and development of relationships
 d. Emergence of communication barriers
-*e. Formation, obtaining, and processing of information and development of relationships
+e. Lack of a common communicative space
 
 129. A 2-year-old child, who has been suffering from an acute respiratory viral infection for the last five days, suddenly developed a hoarse voice and rough "barking" cough at night, accompanied by noisy breathing with difficult inhalation. Objectively, the child has tachypnea and cyanosis of the skin. Retraction of the supraclavicular and infraclavicular fossae and intercostal spaces is observed during inhalation. What pathological condition has developed in the child?
-*a. Acute stenosing laryngotracheitis
-b. Foreign body airway obstruction
+a. Acute obstructive bronchitis
+*b. Acute stenosing laryngotracheitis
 c. Peritonsillar abscess
 d. Bronchial asthma attack
-e. Acute obstructive bronchitis
+e. Foreign body airway obstruction
 
 130. A family doctor has provisionally diagnosed the patient with hypothyroidism and referred the patient for a consultation at the endocrinological hospital. What type of medical care will the patient receive in this healthcare facility?
-*a. Tertiary
-b. Emergency
-c. Secondary
-d. Primary
-e. Urgent
+a. Secondary
+b. Urgent
+c. Primary
+*d. Tertiary
+e. Emergency
 
 131. The head nurse has designed the measures that the healthcare facility must implement over the year and specified their deadlines and responsible executors. What organization management function has been performed by the head nurse?
-a. Service blocking
-b. Functional blocking
-*c. Operational planning
-d. Organizational analysis
-e. Strategic management
+a. Organizational analysis
+*b. Operational planning
+c. Strategic management
+d. Functional blocking
+e. Service blocking
 
 132. What form of medical insurance under the Law of Ukraine "On Insurance" exists in Ukraine and is financed from the funds of natural persons (individual insurance) and legal entities (collective insurance) according to the insurance rules independently established by the insurer?
-a. General
-b. Non-commercial
-c. Mandatory
-d. Special
-*e. Voluntary
+a. Mandatory
+b. General
+*c. Voluntary
+d. Non-commercial
+e. Special
 
 133. A 45-year-old patient has bronchial asthma. What method of functional diagnostics can be used to monitor peak forced expiratory flow rate to assess the effectiveness of treatment and prevent exacerbations of bronchial asthma?
-*a. Peak flow measurement
-b. Spirometry
-c. -
-d. Pulse oximetry
-e. Pneumotachometry
+a. Pulse oximetry
+b. Pneumotachometry
+*c. Peak flow measurement
+d. -
+e. Spirometry
 
 134. How many chest compressions must be performed in 1 minute during cardiopulmonary resuscitation in adults?
-a. 130-140
-b. 60-70
-*c. 100-120
-d. 80-90
-e. 70-80
+a. 80-90
+*b. 100-120
+c. 70-80
+d. 60-70
+e. 130-140
 
 135. A man has received a gunshot wound to the face. Objectively, he is conscious, there are traumatic injuries to the soft tissues of the oral cavity and to the upper and lower teeth. The patient remains capable of unassisted breathing, but there are signs of upper airway obstruction. What medical tool should be used first in this case, to temporarily ensure airway patency?
-a. Oropharyngeal airway
+*a. Nasopharyngeal airway
 b. Pulse oximeter
-c. Sengstaken-Blakemore tube
-*d. Nasopharyngeal airway
-e. Endotracheal tube
+c. Oropharyngeal airway
+d. Endotracheal tube
+e. Sengstaken-Blakemore tube
 
 136. A 20-year-old patient is undergoing cardiopulmonary resuscitation. What would indicate the effectiveness of artificial pulmonary ventilation and closed-chest cardiac massage at the basic life support stage?
-a. Acrocyanosis appearing
-b. -
+a. -
+*b. Constricted pupils
 c. Increased cyanosis
-*d. Constricted pupils
-e. Decreased eyelid tone
+d. Decreased eyelid tone
+e. Acrocyanosis appearing
 
 137. A 42-year-old man has received a penetrating chest wound. Objectively, his skin and mucosa are cyanotic, rapid shallow breathing is observed, foamy blood flows from the chest wound, and a hissing sound can be heard during inhalation (the sound of air being sucked in through the wound). What emergency care should be provided for this patient first?
 a. Perform electrical defibrillation
 b. Apply a cold compress to the chest
-*c. Apply an occlusive dressing to the wound
+c. Place the patient in the stable side position
 d. Apply a soft cervical collar (Shantz collar)
-e. Place the patient in the stable side position
+*e. Apply an occlusive dressing to the wound
 
 138. A 10-year-old girl presents with long-term subfebrile body temperature and a decrease in her body weight. Objective examination detects pallor of the skin and mucosa, fine petechial rash on the skin of the torso and limbs, generalized enlargement of lymph nodes, and hepatosplenomegaly. Anemia, leukopenia, and thrombocytopenia are observed in the peripheral blood. Total blast transformation is observed in the puncture material obtained from the bone marrow. What disease can be characterized by the described clinical presentation and laboratory findings?
 a. Hidradenitis
-b. Fanconi anemia
-c. Erythremia
-*d. Acute leukemia
-e. Infectious mononucleosis
+*b. Acute leukemia
+c. Infectious mononucleosis
+d. Erythremia
+e. Fanconi anemia
 
 139. The concept of providing aid to injured persons at the pre-hospital stage is based on conducting initial examination of the injured person. What is the main purpose of this examination?
-a. Ensuring patency of the upper airways and stabilization of the cervical spine
-b. Ensuring sufficient oxygenation to maintain aerobic metabolism
+a. Analysis of central nervous system functions
+b. Providing psycho-emotional support
 *c. Rapid identification of life-threatening conditions and their immediate elimination
-d. Analysis of central nervous system functions
-e. Providing psycho-emotional support
+d. Ensuring sufficient oxygenation to maintain aerobic metabolism
+e. Ensuring patency of the upper airways and stabilization of the cervical spine
 
 140. What drug should be used first, when providing emergency aid for a patient who has developed a bronchial asthma attack?
-a. Furosemide
+*a. Salbutamol
 b. Drotaverine
 c. Dexamethasone
-*d. Salbutamol
-e. Azithromycin
+d. Azithromycin
+e. Furosemide
 
 141. A 55-year-old man has suddenly developed intense headache, dizziness, vomiting, and numbness and weakness in the right half of his body. Objectively, he has facial hyperemia and asymmetry of the face. Blood pressure - 170/120 mm Hg. What pathological condition has developed in this man?
-a. Neuritis of the facial nerve
-b. Acute meningitis
-*c. Acute cerebrovascular accident
+*a. Acute cerebrovascular accident
+b. Neuritis of the facial nerve
+c. Status migrainosus
 d. Hypertensive crisis
-e. Status migrainosus
+e. Acute meningitis
 
 142. A baby with signs of prematurity was born at a perinatal center. What scale should be used to determine the gestational age of the baby by assessing the newborn's physical and neuromuscular maturity?
-*a. Ballard score
-b. Bishop score
-c. Lawton scale
-d. Glasgow scale
-e. Apgar score
+a. Glasgow scale
+*b. Ballard score
+c. Apgar score
+d. Bishop score
+e. Lawton scale
 
 143. After physical exertion, a 45-year-old patient suddenly developed shortness of breath, tightness in the chest, and exhausting, paroxysmal, poorly productive cough. Objectively, his skin is pale and cyanotic-tinted, exhale is difficult and prolonged, the pulse is rapid, loud dry crackles can be heard at a distance. What pathological condition is this clinical presentation most characteristic of?
-*a. Bronchial asthma attack
+a. Supraventricular paroxysmal tachycardia attack
 b. Pulmonary edema
-c. Thyrotoxic crisis (Thyroid storm)
-d. Acute coronary syndrome
-e. Supraventricular paroxysmal tachycardia attack
+*c. Bronchial asthma attack
+d. Thyrotoxic crisis (Thyroid storm)
+e. Acute coronary syndrome
 
 144. A 57-year-old patient complains of pain in the area of his stomach. The pain occurs after eating, mainly in the autumn-spring period. The patient has been provisionally diagnosed with peptic ulcer disease of the stomach. What diagnostic procedure would be most informative for confirming the diagnosis?
-a. Colonoscopy
+a. Blood biochemistry test
 b. Duodenal sounding
-c. Blood biochemistry test
+c. Colonoscopy
 *d. Fibroesophagogastroduodenoscopy
 e. Abdominal ultrasound
 
 145. A conflict arose between the nurses working at the same department of a hospital due to differences in their approach to patient care. What type of conflict is it?
-a. Intrapersonal conflict
+a. Intergroup conflict
 b. -
-c. Individual-group conflict
-d. Intergroup conflict
+c. Intrapersonal conflict
+d. Individual-group conflict
 *e. Interpersonal conflict
 
 146. A 9-year-old child has an ongoing attack of supraventricular tachycardia. The attack did not stop after performing vagal maneuvers (Valsalva maneuver). What drug should be administered in this case?
-*a. Adenosine
-b. Atropine
-c. Amiodarone
-d. Analgin (metamizole sodium)
-e. Adrenaline (epinephrine)
+a. Analgin (metamizole sodium)
+*b. Adenosine
+c. Adrenaline (epinephrine)
+d. Atropine
+e. Amiodarone
 
 147. As a stress reaction, the patient has developed a pathological condition that manifests as a significantly decreased level of responsiveness to external stimuli (even potentially life-threatening ones), limited spontaneous movements, and reduced activity. What pathological condition has developed in the patient?
 a. Dementia
-b. Coma
-*c. Stupor
-d. Delirium
-e. Paralysis
+*b. Stupor
+c. Delirium
+d. Paralysis
+e. Coma
 
 148. A patient complains of intense pain in the right hypochondrium with radiation into the right scapula. The day before, vomiting occurred, but brought no relief. Objectively, the body temperature is 37.8^oC; during palpation the abdomen is moderately distended, tense, and painful in the right hypochondrium. Moderate tension of the abdominal wall muscles is observed in the right hypochondrium. The Ortner's sign is positive. What disease can be characterised by such clinical presentation?
-a. Intestinal obstruction
-b. Acute pancreatitis
-c. Acute appendicitis
-*d. Acute cholecystitis
-e. Perforated stomach ulcer
+a. Acute pancreatitis
+b. Perforated stomach ulcer
+c. Intestinal obstruction
+d. Acute appendicitis
+*e. Acute cholecystitis
 
 149. A 2-year-old child had a gradual onset of the disease, with an increased body temperature, copious mucous discharge from the nose, conjunctivitis, and diarrhea. Objective examination detects injected scleral vessels, hyperemic oropharyngeal mucosa, hypertrophy of the palatine tonsils, and enlarged cervical lymph nodes and spleen. What type of acute respiratory viral infection can be characterized by such clinical presentation?
-a. Respiratory syncytial infection
-*b. Adenovirus infection
-c. -
-d. Influenza infection
-e. Parainfluenza infection
+a. Parainfluenza infection
+b. Influenza infection
+*c. Adenovirus infection
+d. Respiratory syncytial infection
+e. -
 
 150. A teenage girl, while in a poorly ventilated crowded room, initially experienced general weakness, nausea, dizziness, visual snow, and tinnitus, after which she fainted. What would be the priority actions when providing emergency aid for this patient?
-a. Administer adrenaline (epinephrine) intravenously
-b. -
+a. Give her easily digestible carbohydrates (sugar water)
+b. Administer adrenaline (epinephrine) intravenously
 c. Begin cardiopulmonary resuscitation at the ratio of 30 chest compressions followed by 2 breaths
 *d. Provide fresh air, place her in a horizontal position with slightly raised legs
-e. Give her easily digestible carbohydrates (sugar water)
+e. -
 

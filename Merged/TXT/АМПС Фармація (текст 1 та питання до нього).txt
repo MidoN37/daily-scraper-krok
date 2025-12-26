@@ -2,45 +2,45 @@
 
 2. Choose the correct statement.
 a. Coronavirus infection has \\ never been widespread among humans
-b. MERS is the biggest outbreak of coronavirus infection
+*b. Coronaviruses has existed for a long time and most commonly are associated with the common cold
 c. Coronavirus infection first \\ appeared in 2002, when the global outbreak of SARS has happened
-*d. Coronaviruses has existed for a long time and most commonly are associated with the common cold
+d. MERS is the biggest outbreak of coronavirus infection
 
 3. During the SARS outbreak, the lethal cases happened only among adults.
-a. Not given
-*b. True
-c. False
+*a. True
+b. False
+c. Not given
 
 4. For which category of people was the MERS infection the most dangerous?
 *a. For people who had any \\ comorbidities
-b. For intubated patients
-c. For males
-d. For asymptomatic patients
+b. For asymptomatic patients
+c. For intubated patients
+d. For males
 
 5. For which category of people was the SARS infection the most dangerous?
-a. For adults
-b. For children
+a. For children
+b. For newborns
 *c. For elderly patients
-d. For newborns
+d. For adults
 
 6. Human coronaviruses are always associated with the symptoms of the common cold.
-a. Not given
-b. True
-*c. False
+a. True
+*b. False
+c. Not given
 
 7. In rare cases, coronaviruses can cause pneumonia.
 a. False
-*b. True
-c. Not given
+b. Not given
+*c. True
 
 8. Pneumothorax was a common complication of SARS.
-*a. False
+a. True
 b. Not given
-c. True
+*c. False
 
 9. What are the laboratory findings in patients with SARS?
-a. There are no laboratory \\ changes
-*b. The decreased level of \\ lymphocytes
-c. The reduced amount of lactate \\ dehydrogenase
-d. The elevation of the level of \\ lymphocytes
+*a. The decreased level of \\ lymphocytes
+b. The elevation of the level of \\ lymphocytes
+c. There are no laboratory \\ changes
+d. The reduced amount of lactate \\ dehydrogenase
 

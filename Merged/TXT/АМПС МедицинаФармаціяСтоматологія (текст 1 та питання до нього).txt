@@ -2,9 +2,9 @@
 
 2. Choose the correct statement.
 a. Koplik spots develop during \\ measles only among children
-b. Koplik spots develop during measles only among adults
+*b. Koplik spots may develop during measles in all kinds of patients
 c. Koplik spots develop \\ during measles only among immunocompromised patients
-*d. Koplik spots may develop during measles in all kinds of patients
+d. Koplik spots develop during measles only among adults
 
 3. Koplik spot is a symptom specific only to measles.
 *a. True
@@ -13,8 +13,8 @@ c. False
 
 4. Measles can result in a brain damage.
 a. False
-*b. True
-c. Not given
+b. Not given
+*c. True
 
 5. The highest mortality from measles is among the newborns.
 a. Not given
@@ -22,31 +22,31 @@ a. Not given
 c. True
 
 6. The most common complication of measles is the otitis.
-a. True
-*b. Not given
-c. False
+a. False
+b. True
+*c. Not given
 
 7. What are the most common complications of measles?
-a. Neurologic complications
-*b. Otitis, bronchopneumonia, croup, diarrhoea
-c. Acute encephalitis and death
-d. Respiratory complications
+a. Respiratory complications
+b. Neurologic complications
+*c. Otitis, bronchopneumonia, croup, diarrhoea
+d. Acute encephalitis and death
 
 8. What categories of people most often have measles during measles outbreaks?
-*a. Unvaccinated
-b. Elderly people
-c. Vaccinated with only one dose
-d. Adults
+a. Adults
+b. Vaccinated with only one dose
+*c. Unvaccinated
+d. Elderly people
 
 9. What is subacute sclerosing panencephalitis (SSPE)?
 a. The disease that is often mistaken for measles
-b. A complication of measles that happens only in adults
-*c. A complication of measles that happens only in children
-d. A complication of measles that happens only in newborns
+*b. A complication of measles that happens only in children
+c. A complication of measles that happens only in newborns
+d. A complication of measles that happens only in adults
 
 10. What is the most common way of measles transmission?
-*a. Droplet
-b. Airborne
-c. Oral
-d. Contact
+a. Airborne
+b. Oral
+c. Contact
+*d. Droplet
 
