@@ -2,9 +2,9 @@
 
 2. Choose the correct statement
 a. Cutaneous form is painless
-*b. Cutaneous form presents with the formation of black eschar
+b. Cutaneous form presents only with the formation of papule or vesicle
 c. Patients with the cutaneous form of anthrax always have associated fever, lymphangitis, and extensive oedema.
-d. Cutaneous form presents only with the formation of papule or vesicle
+*d. Cutaneous form presents with the formation of black eschar
 
 3. Gastrointestinal anthrax can have two syndromes.
 a. False
@@ -23,10 +23,10 @@ a. Not given
 c. True
 
 6. On what does the form of anthrax depend?
-a. on the country of origin if the infection
-b. on the place of infection
-*c. on the way of infection
-d. on the age of the infected person
+a. on the age of the infected person
+*b. on the way of infection
+c. on the country of origin if the infection
+d. on the place of infection
 
 7. The lowest mortality rate happens for the cutaneous form of anthrax
 *a. True
@@ -34,19 +34,19 @@ b. Not given
 c. False
 
 8. The treatment of anthrax does not exist
-a. True
-b. False
-*c. Not given
+*a. Not given
+b. True
+c. False
 
 9. What is the presentation of the inhalational form of anthrax?
-*a. fever, sweats, cough, chest pain, headache, myalgia, nausea, and vomiting
+a. severe abdominal pain, massive ascites, hematemesis
 b. hypotension, dyspnoea, hypoxia, cyanosis
 c. lymphadenitis, haemorrhagic pneumonia, haemorrhagic pleural effusions, and toxaemia
-d. severe abdominal pain, massive ascites, hematemesis
+*d. fever, sweats, cough, chest pain, headache, myalgia, nausea, and vomiting
 
 10. Which form of anthrax causes the highest rate of mortality?
 a. Inhalational
-b. Cutaneous
-*c. Meningitis
-d. Gastrointestinal
+b. Gastrointestinal
+c. Cutaneous
+*d. Meningitis
 

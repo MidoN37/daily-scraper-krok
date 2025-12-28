@@ -7,36 +7,36 @@ b. Koplik spots develop \\ during measles only among immunocompromised patients
 d. Koplik spots develop during \\ measles only among children
 
 3. Koplik spot is a symptom specific only to measles.
-*a. True
-b. Not given
-c. False
+a. Not given
+b. False
+*c. True
 
 4. Measles can result in a brain damage.
-*a. True
+a. False
 b. Not given
-c. False
+*c. True
 
 5. The highest mortality from measles is among the newborns.
-a. Not given
-*b. False
-c. True
+*a. False
+b. True
+c. Not given
 
 6. The most common complication of measles is the otitis.
-a. False
-b. True
-*c. Not given
+*a. Not given
+b. False
+c. True
 
 7. What are the most common complications of measles?
-*a. Otitis, bronchopneumonia, croup, diarrhoea
-b. Acute encephalitis and death
-c. Respiratory complications
-d. Neurologic complications
+a. Neurologic complications
+b. Respiratory complications
+*c. Otitis, bronchopneumonia, croup, diarrhoea
+d. Acute encephalitis and death
 
 8. What categories of people most often have measles during measles outbreaks?
 a. Adults
 *b. Unvaccinated
-c. Vaccinated with only one dose
-d. Elderly people
+c. Elderly people
+d. Vaccinated with only one dose
 
 9. What is subacute sclerosing panencephalitis (SSPE)?
 a. A complication of measles that happens only in adults
@@ -45,8 +45,8 @@ c. The disease that is often mistaken for measles
 d. A complication of measles that happens only in newborns
 
 10. What is the most common way of measles transmission?
-*a. Droplet
+a. Airborne
 b. Oral
 c. Contact
-d. Airborne
+*d. Droplet
 

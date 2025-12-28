@@ -3,14 +3,14 @@
 2. Choose the correct statement.
 a. The rabies is transmitted only through the bites of a rabid animal
 b. The main way of rabies transmission is through blood transfusion
-*c. There are numerous ways of transmission of rabies infection
-d. The main ways of rabies transmission is airborne way
+c. The main ways of rabies transmission is airborne way
+*d. There are numerous ways of transmission of rabies infection
 
 3. How can one diagnose rabies infection in an animal?
-a. By demonstration of the presence of rabies virus antigen in the blood
-*b. By demonstration of the presence of rabies virus antigen in brain tissue
-c. By demonstration of the presence of rabies virus antigen in saliva
-d. By demonstration of the presence of rabies virus antigen in urine
+a. By demonstration of the presence of rabies virus antigen in saliva
+b. By demonstration of the presence of rabies virus antigen in urine
+*c. By demonstration of the presence of rabies virus antigen in brain tissue
+d. By demonstration of the presence of rabies virus antigen in the blood
 
 4. Once the symptoms of rabies develop, if you use the vaccine as soon as possible there will be a higher possibility of a positive outcome.
 *a. False
@@ -18,35 +18,35 @@ b. True
 c. Not given
 
 5. Rabies infection always leads to death.
-*a. False
-b. True
-c. Not given
+a. Not given
+*b. False
+c. True
 
 6. Rabies infection is almost always lethal.
-a. False
+*a. True
 b. Not given
-*c. True
+c. False
 
 7. There is no specific treatment for rabies.
-*a. True
-b. False
+a. False
+*b. True
 c. Not given
 
 8. What is the main source of rabies infection?
-*a. Wild animals
-b. The blood of rabid animals
-c. Droplets from the infected people
-d. Tissues from patients dying of undiagnosed rabies
+a. Tissues from patients dying of undiagnosed rabies
+b. Droplets from the infected people
+*c. Wild animals
+d. The blood of rabid animals
 
 9. What structure of the human body does the rabies virus affect most rapidly?
 a. Extremities
-b. Peripheral nerves
+b. Mucous membranes
 *c. Central nervous system
-d. Mucous membranes
+d. Peripheral nerves
 
 10. Why has the number of human cases of rabies decreased?
-a. Due to immunization of rabid animals
-b. Due to obligatory immunization of all people
-c. Due to immunization of wild animals and the prophylaxis after exposure to a rabid animal
+a. Due to obligatory immunization of all people
+b. Due to immunization of wild animals and the prophylaxis after exposure to a rabid animal
+c. Due to immunization of rabid animals
 *d. Due to immunization of dogs and the prophylaxis after exposure to a rabid animal
 
