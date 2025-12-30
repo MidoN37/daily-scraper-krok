@@ -2,45 +2,45 @@
 
 2. Choose the correct statement.
 a. MERS is the biggest outbreak of coronavirus infection
-b. Coronavirus infection first \\ appeared in 2002, when the global outbreak of SARS has happened
+b. Coronavirus infection has \\ never been widespread among humans
 *c. Coronaviruses has existed for a long time and most commonly are associated with the common cold
-d. Coronavirus infection has \\ never been widespread among humans
+d. Coronavirus infection first \\ appeared in 2002, when the global outbreak of SARS has happened
 
 3. During the SARS outbreak, the lethal cases happened only among adults.
-a. Not given
-*b. True
-c. False
-
-4. For which category of people was the MERS infection the most dangerous?
-a. For males
-*b. For people who had any \\ comorbidities
-c. For asymptomatic patients
-d. For intubated patients
-
-5. For which category of people was the SARS infection the most dangerous?
-a. For adults
-b. For newborns
-c. For children
-*d. For elderly patients
-
-6. Human coronaviruses are always associated with the symptoms of the common cold.
-a. True
-*b. False
-c. Not given
-
-7. In rare cases, coronaviruses can cause pneumonia.
 *a. True
 b. False
 c. Not given
 
-8. Pneumothorax was a common complication of SARS.
+4. For which category of people was the MERS infection the most dangerous?
+a. For intubated patients
+b. For males
+*c. For people who had any \\ comorbidities
+d. For asymptomatic patients
+
+5. For which category of people was the SARS infection the most dangerous?
+a. For newborns
+b. For children
+c. For adults
+*d. For elderly patients
+
+6. Human coronaviruses are always associated with the symptoms of the common cold.
 *a. False
+b. True
+c. Not given
+
+7. In rare cases, coronaviruses can cause pneumonia.
+a. Not given
+*b. True
+c. False
+
+8. Pneumothorax was a common complication of SARS.
+a. True
 b. Not given
-c. True
+*c. False
 
 9. What are the laboratory findings in patients with SARS?
 a. There are no laboratory \\ changes
-*b. The decreased level of \\ lymphocytes
-c. The reduced amount of lactate \\ dehydrogenase
-d. The elevation of the level of \\ lymphocytes
+b. The reduced amount of lactate \\ dehydrogenase
+c. The elevation of the level of \\ lymphocytes
+*d. The decreased level of \\ lymphocytes
 

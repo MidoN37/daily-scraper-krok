@@ -1,15 +1,15 @@
 1. SmallpoxIn 1980, the World Health Assembly declared that smallpox (variola virus) had been eradicated successfully worldwide. The United States discontinued routine childhood immunization against smallpox in 1972 and routine immunization of health care professionals in 1976. Following eradication, 2 World Health Organization reference laboratories were authorized to maintain stocks of variola virus. In 2003, the United States initiated a civilian smallpox immunization program for first responders to facilitate preparedness and response to a possible smallpox bioterrorism event.People infected with variola develop a severe prodromal illness characterized by high fever,malaise, severe headache, backache, abdominal pain. Infected children can suffer from vomiting and seizures during this prodromal period. Most patients with smallpox are severely ill and bedridden during the febrile prodrome. The prodromal period is followed by development of lesions on mucosa of the mouth or pharynx. This stage occurs less than 24 hours before onset of rash, which is usually the first recognized manifestation of infectiousness. With onset of oral lesions, the patient becomes infectious and remains so until all skin crust lesions have separated. The rash typically begins on the face and rapidly progresses to involve the forearms, trunk, and legs. Lesions increase in size for approximately 8 to 10 days after which they begin to crust. Once all the crusts have separated, 3 to 4 weeks after the onset of rash, the patient is no longer infectious.Varicella (chickenpox) is the condition most likely to be mistaken for smallpox. Generally, children with varicella do not have a febrile prodrome, but adults can have a brief, mild prodrome. Although the 2 diseases are confused easily in the first few days of the rash, smallpox lesions develop into pustules that are firm and deeply embedded in the dermis, whereas varicella lesions develop into superficial vesicles.Because varicella erupts in crops of lesions that evolve quickly, lesions on any one part of the body will be in different stages of evolution (papules, vesicles, and crusts), whereas all smallpox lesions on any one part of the body are in the same stage of development.
 
 2. During both diseases, smallpox and chickenpox, patients develop lesions.
-a. False
+*a. True
 b. Not given
-*c. True
+c. False
 
 3. Choose the correct statement.
-a. In most cases, patients with smallpox have only light catarrhal symptoms
-*b. In most cases, smallpox is a severe illness
-c. In most cases, variola virus affects the face
-d. In most cases, patients with smallpox are asymptomatic
+a. Smallpox is a worldwide spread disease
+b. Variola virus has been cultivated in laboratories in the USA
+*c. Variola virus has been eliminated in the world
+d. Smallpox was discovered in Somalia in 1977
 
 4. Chickenpox and smallpox are the same diseases.
 a. True
@@ -17,21 +17,21 @@ a. True
 c. Not given
 
 5. Variola virus still exists in some laboratories.
-a. False
-b. Not given
-*c. True
+*a. True
+b. False
+c. Not given
 
 6. How long does the patient stay infectious?
-a. Until the end of the fever
-b. Until the lesions turn into vesicles
+a. Until the formation of crusts
+b. Until the end of the fever
 *c. Until there are no more crust lesions
-d. Until the formation of crusts
+d. Until the lesions turn into vesicles
 
 7. What is specific for varicella lesions?
-*a. They have different stages of evolution throughout the body
+a. It most commonly affects the face
 b. It distributes only to the trunk
-c. It most commonly affects the face
-d. They are at the same stage of development throughout the body
+c. They are at the same stage of development throughout the body
+*d. They have different stages of evolution throughout the body
 
 8. How does smallpox start in adults?
 a. With the vomiting, seizures, and lesions
@@ -40,7 +40,7 @@ b. With the rash and fever
 d. With lesions developing throughout the body
 
 9. The USA stopped the immunization from smallpox for all citizens.
-a. Not given
-b. True
+a. True
+b. Not given
 *c. False
 
