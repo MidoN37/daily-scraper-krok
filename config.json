@@ -6,6 +6,7 @@
     "Krok 1 Pharmacy (EN) (від 2026 року).txt",
     "Krok 1 Pharmacy (EN).txt",
     "Krok 1 Stomatology (EN).txt",
+    "Krok 2 Medicine (EN) (від 2026 року).txt",
     "Krok 2 Medicine (EN).txt",
     "Krok 2 Pharmacy (EN).txt",
     "Krok 2 Public health (EN) (від 2026 року).txt",
@@ -96,8 +97,7 @@
     "Крок 3 Фізична та реабілітаційна медицина.txt",
     "Крок 3 Хірургія (від 2026 року).txt",
     "Крок 3 Хірургія.txt",
-    "крок 3 офтальмологія.txt",
-    "Krok 2 Medicine (EN) (від 2026 року).txt"
+    "крок 3 офтальмологія.txt"
   ],
   "passwords": {
     "Krok 1 Medicine (EN).txt": "meden",
@@ -201,5 +201,5 @@
     "Krok 2 Medicine (EN) (від 2026 року).txt": "meden2new"
   },
   "active_folder": "Merged/TXT",
-  "last_updated": "2025-12-30T22:49:15+00:00"
+  "last_updated": "31-12-2025 (Master Database)"
 }

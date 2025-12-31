@@ -1,30 +1,30 @@
 1. A 50-year-old woman complains of headache, dizziness, visual snow, and nausea. The skin of her face is hyperemic. Objectively, her heart rate is 85/min., her blood pressure is 210/120 mm Hg. What is the provisional diagnosis in this case?
-a. Meningococcal infection
+a. Myocardial infarction
 b. Hemorrhagic stroke
-c. Angina pectoris attack
-*d. Hypertensive crisis
-e. Myocardial infarction
+c. Meningococcal infection
+d. Hypertensive crisis
+e. Angina pectoris attack
 
 2. During the two years of working in his position, the pharmacist proved to be a responsible and efficient specialist. The pharmacy's head manager appointed him to the position of the head of the Extemporaneous Compounding Department. What is this type of personnel movement called?
-*a. Helical (vertical) rotation
-b. Employee turnover
-c. Recruitment
-d. Mixed rotation
-e. Spiral (horizontal) rotation
+a. Spiral (horizontal) rotation
+b. Recruitment
+c. Mixed rotation
+*d. Helical (vertical) rotation
+e. Employee turnover
 
 3. To identify pilocarpine hydrochloride it is necessary to use reaction with sodium nitroprusside in an alkaline medium (Legal's test). Resulting cherry-red coloring confirms presence of the following in the pilocarpine structure:
-a. Chloride ions
-b. Imidazole ring
-*c. Lactonic ring
-d. Methylene group
-e. Methyl group
+a. Methyl group
+b. Lactonic ring
+c. Methylene group
+d. Imidazole ring
+e. Chloride ions
 
 4. During anti-Helicobacter quadrotherapy patient's feces colored black. What drug could have caused this effect?
-a. Clarithromycin
+*a. Bismuth subcitrate
 b. Amoxicillin
 c. Metronidazole
-*d. Bismuth subcitrate
-e. Omeprazole
+d. Omeprazole
+e. Clarithromycin
 
 5. An analytical chemist has conducted a qualitative reaction to confirm the presence of a steroid ring in the prednisolone molecule. For this purpose the following reagent was used:
 a. Copper tartrate reagent
@@ -34,11 +34,11 @@ d. Phenylhydrazine sulfate
 e. Concentrated sulfuric acid
 
 6. Medicinal substances are introduced into multiphase ointments depending on their properties. How to introduce novocaine (procaine) hydrochloride into a vaseline-lanolin base?
-a. Comminute it with glycerin
-b. Grind it with a part of the molten base
-c. Comminute it with an alcohol or ether
-*d. First dissolve it in the minimum amount of water
-e. Dissolve it in the molten base
+a. First dissolve it in the minimum amount of water
+b. Comminute it with an alcohol or ether
+c. Grind it with a part of the molten base
+d. Dissolve it in the molten base
+e. Comminute it with glycerin
 
 7. Schisandra chinensis seeds contain lignans. What pharmacological effect will the preparations made of Schisandra chinensis have?
 a. Antitumor
@@ -83,32 +83,32 @@ d. Dispensing extemporaneous medicines manufactured by a pharmacy according to t
 e. Dispensing over-the-counter medicines to the people
 
 13. Medications Passit and Novopassit are used as tranquilizing, sedative and mild hypnotic agents. These medications are produced from the following grass:
-a. Lesser periwinkle
+*a. Purple passionflower
 b. Garden sage
-*c. Purple passionflower
-d. Elecampane
-e. Three-lobe beggarticks
+c. Three-lobe beggarticks
+d. Lesser periwinkle
+e. Elecampane
 
 14. Genetically induced adverse reaction to a certain drug is caused by various enzyme defects. Name this reaction:
-a. Rebound effect
-b. Steal syndrome
-c. Withdrawal syndrome
-*d. Idiosyncrasy
-e. Dysbiosis
+a. Dysbiosis
+*b. Idiosyncrasy
+c. Steal syndrome
+d. Rebound effect
+e. Withdrawal syndrome
 
 15. A pharmaceutical company produces deep-acting ointments. What is the mechanism of action of the active substances contained in resorptive ointments?
-a. Protect the skin from external factors
-b. Prevent drying and contamination of the epidermis
-c. Absorbed by the outer layers of the skin
-d. Protect the skin from microbial infection
-*e. Reach the systemic circulation and enhance the effect of drugs
+a. Absorbed by the outer layers of the skin
+b. Protect the skin from microbial infection
+c. Protect the skin from external factors
+*d. Reach the systemic circulation and enhance the effect of drugs
+e. Prevent drying and contamination of the epidermis
 
 16. To identify a drug, an analytical chemist used the reaction of azo dye formation. What drug was being analyzed in this case?
-a. Pilocarpine hydrochloride
+*a. Procaine hydrochloride
 b. Morphine hydrochloride
-c. Clonidine hydrochloride
-d. Papaverine hydrochloride
-e. Procaine hydrochloride
+c. Papaverine hydrochloride
+d. Clonidine hydrochloride
+e. Pilocarpine hydrochloride
 
 17. During merchandise analysis a dispensing chemist should reject herbal raw material if it:
 a. Has first-degree vermin infestation
@@ -118,46 +118,46 @@ d. Contains excessive moisture
 e. Contains other non-poisonous plants
 
 18. A pharmacist prepares powders with riboflavin. How should riboflavin be introduced into the powder mixture?
-a. Riboflavin powder should be sifted in advance
+a. Mix the components in the ascending order based on their amount
 b. Riboflavin should be added on the top of the prepared mixture of other ingredients
-c. Mix the components in the ascending order based on their amount
-d. Mix the components in the descending order based on their amount
-*e. ''Three layers'' method
+*c. ''Three layers'' method
+d. Riboflavin powder should be sifted in advance
+e. Mix the components in the descending order based on their amount
 
 19. Thymus serpyllum grass is harvested in Ukraine. At what stage of plant growth is this herbal raw material harvested?
-a. Before the flowering
-*b. During the flowering stage
+a. When the fruits are ripe
+b. Before the formation of green fruits
 c. After harvesting the fruits
-d. When the fruits are ripe
-e. Before the formation of green fruits
+d. Before the flowering
+e. During the flowering stage
 
 20. A formaldehyde solution was received for analysis. What reagent should be used to identify this substance?
-a. Sulfuric acid
-*b. Chromotropic acid
+a. Acetic acid
+b. Benzoic acid
 c. Tartaric acid
-d. Acetic acid
-e. Benzoic acid
+d. Sulfuric acid
+*e. Chromotropic acid
 
 21. Urethral suppositories are being made for a patient. What parameters should be specified by the doctor in the formulation for the pharmacist to be able to calculate the necessary amount of the vehicle correctly?
 a. Length and quantity of the supositories
-b. Diameter and vehicle of the supositories
+*b. Diameter, length, and quantity of the supositories
 c. Quantity and vehicle of the supositories
-d. Diameter, length, and quantity of the supositories
+d. Diameter and vehicle of the supositories
 e. Diameter and quantity of the supositories
 
 22. A pharmacy has desided to obtain a license to make extemporaneous preparations. For this purpose it purchased a refrigerator, a cabinet dryer, and other industrial equipment. The purchased equipment belongs to the following type of assets:
-a. Package
-b. Not accounted as assets
-*c. Fixed assets
-d. Goods
+a. Goods
+b. Package
+c. Fixed assets
+d. Not accounted as assets
 e. Non-negotiable tangible assets
 
 23. Pyridoxine hydrochloride and cyanocobalamin are not recommended to be administered in the same syringe due to their chemical incompatibility. What type of chemical reaction occurs between these compounds?
-a. Oxidation
-b. Reduction
-*c. Complexation
-d. Neutralization
-e. Hydrolysis
+a. Neutralization
+b. Oxidation
+c. Hydrolysis
+d. Reduction
+*e. Complexation
 
 24. Under the current legislation there is a certain list of controlled substances that require keeping of the special inventory log. Select the drug that belongs on this list:
 a. Novocaine
@@ -174,11 +174,11 @@ d. Furosemide
 *e. Captopril
 
 26. When should aromatic water be added into a mixture, if it functions as a dispersing medium?
-a. After solid medicinal substances are dissolved
-b. After concentrated solutions
-c. Before ethanol-containing liquids are added
-*d. First
-e. Last, because of its essential oil content
+a. After concentrated solutions
+b. Last, because of its essential oil content
+*c. First
+d. After solid medicinal substances are dissolved
+e. Before ethanol-containing liquids are added
 
 27. What quality parameter must be additionally controlled during the industrial production of suspension eye drops?
 a. Quantitative determination
@@ -189,10 +189,10 @@ e. Sterility
 
 28. A 24-year-old man suffers from exacerbation of chronic bronchitis. This condition is accompanied by production of a small amount of viscous sputum. What drug is indicated to facilitate the expectoration in this case?
 a. Fenoterol
-b. Budesonide
-c. Ipratropium bromide
-*d. Acetylcysteine
-e. Oxeladin
+b. Ipratropium bromide
+c. Oxeladin
+d. Budesonide
+e. Acetylcysteine
 
 29. A pharmaceutical company plans to launch the production of a new medicine. What stage of product development includes making the cost estimates for its manufacturing and sales and preliminary calculations of the price and planned profits?
 a. Commercial manufacturing
@@ -209,11 +209,11 @@ c. Bovine trachea
 e. Human blood
 
 31. A pharmacist prepares rectal suppositories in the pharmacy. Name the acceptable range, within which the average weight of such suppositories may vary:
-a. 2.0-5.0
-b. 3.0-6.0
-c. 4.0-7.0
-d. 5.0-8.0
-*e. 1.0-4.0
+a. 3.0-6.0
+b. 4.0-7.0
+c. 5.0-8.0
+*d. 1.0-4.0
+e. 2.0-5.0
 
 32. A 63-year-old woman suffering from diabetic nephropathy with functional disturbance of the kidneys needs etiotropic treatment for focal pneumonia. What drug is textbfCONTRAINDICATED in this case?
 a. Natural penicillins
@@ -230,18 +230,18 @@ d. Contract of delivery
 e. Financial statement of the supplier
 
 34. What herbal raw material is used as an industrial source of tannins?
-*a. Cotinus coggygria leaves
-b. Rose hips
+a. Rose hips
+b. Cotinus coggygria leaves
 c. Persicaria hydropiper grass
-d. Nettle leaves
-e. Solidago canadensis grass
+d. Solidago canadensis grass
+e. Nettle leaves
 
 35. A pharmacist has prepared a tincture from Adonis vernalis grass. What special technique was necessary in this case to extract the active substances?
-*a. They must be extracted in a neutral medium
+a. They must be extracted in an alkaline medium
 b. They must be extracted in an acidic medium
-c. They must be extracted in an alkaline medium
-d. They must be extracted in a slightly alkaline medium
-e. They must be extracted in a weakly acidic medium
+*c. They must be extracted in a neutral medium
+d. They must be extracted in a weakly acidic medium
+e. They must be extracted in a slightly alkaline medium
 
 36. A herbal raw material (fruits) was sent for analysis. This material consists of glossy black drupes 8 mm in diameter with one large spherical light-brown seed that is very firm. Its chemical anlysis showed the presence of condensed tannins. What plant is the source of this herbal raw material?
 a. Vaccinium myrtillus
@@ -252,10 +252,10 @@ e. Ribes nigrum
 
 37. A pregnant woman complains of elevated blood pressure up to 160/100. What hypotensive drug should she use in this case?
 a. Enalapril
-*b. Methyldopa
+b. Reserpine
 c. Bisoprolol
-d. Losartan
-e. Reserpine
+*d. Methyldopa
+e. Losartan
 
 38. When is it necessary to renew the agreement on collective (team) material responsibility?
 *a. When 50% of employees from the original team leave the team
@@ -273,10 +273,10 @@ e. Iron (III) chloride
 
 40. Calendula Ointment is placed on the shelf next to Dr. Theiss Calendula Ointment. What approach to the shelf layout is used in this pharmacy?
 a. Seasonality
-*b. Among competitors
-c. Corporate block layout
+b. By package size
+*c. Among competitors
 d. Doubling product facings
-e. By package size
+e. Corporate block layout
 
 41. A patient needs eye drops with riboflavin. What substance should the pharmacist add to the solution to ensure its isotonicity, if there are no specific instructions in the doctor's prescription?
 a. Sodium sulfate
@@ -286,11 +286,11 @@ d. Glucose
 e. Sodium nitrate
 
 42. A pharmaceutical company that specializes in the manufacture of herbal medicines is expanding its scope of work and establises the production of cosmetics. What development strategy did the company choose?
-a. Modernization
-b. -
-c. Survival
-*d. Diversification
-e. Stability
+a. -
+*b. Diversification
+c. Modernization
+d. Stability
+e. Survival
 
 43. In the course of the pharmacotherapy for exacerbation of chronic bronchitis, the patient developed dyspeptic disorders, photodermatitis, and disturbed hepatic function. Which of the prescribed drugs could have caused these signs?
 a. Ambroxol
@@ -307,8 +307,8 @@ d. Altan
 e. Allochol
 
 45. A pharmacy must keep the following receipts for 3 years, not counting the present one:
-*a. Medicines provided for free or at a discount due to social benefit programs
-b. Psychotropic drugs at the full price
+a. Psychotropic drugs at the full price
+b. Medicines provided for free or at a discount due to social benefit programs
 c. Anabolic steroids at the full price
 d. Clophelin (clonidine) tablets at the full price
 e. Narcotic substances in their pure form at the full price
@@ -342,11 +342,11 @@ c. Boiling point
 e. Resuspension
 
 50. Several species of Polygonum genus are used in medicine. One of these species has rootstocks rich in tanning agents, which are used to treat diarrrhea. Name this species:
-a. Polygonum alpinum
-b. Polygonum aviculare
-*c. Polygonum bistorta
-d. Polygonum persicaria
-e. Polygonum hydropiper
+a. Polygonum hydropiper
+b. Polygonum alpinum
+c. Polygonum aviculare
+d. Polygonum bistorta
+e. Polygonum persicaria
 
 51. To decrease business risks, a pharmaceutical company decided to expand its activity and penetrate into new market (to open a fitness center). Name this process:
 *a. Diversification
@@ -356,32 +356,32 @@ d. Intensification
 e. Integration
 
 52. How long must a pharmacy keep its logbooks with the records about the balance of narcotic drugs, psychotropic substances, and precursors?
-a. 3 years
-b. 1 year after the current one
-*c. 5 years
-d. 7 years after the current one
-e. 2 years after the current one
+a. 1 year after the current one
+b. 7 years after the current one
+c. 2 years after the current one
+*d. 5 years
+e. 3 years
 
 53. What final document is used for the preparation of the report on the discrepancies revealed in the course of inventory at the pharmacy?
-a. Commercial report
-b. Invoice
-c. Checklist
-*d. Act on the inventory results
-e. Inventory item description
+*a. Act on the inventory results
+b. Inventory item description
+c. Invoice
+d. Commercial report
+e. Checklist
 
 54. A patient with atrophic hypoacid gastritis type A has been diagnosed with a complication in the blood system - the development of B_12-deficiency anemia. What medicine is pathogenetically justified in this case?
 a. Riboflavin
-b. Nicotinic acid
-*c. Cyanocobalamin
+b. Thiamine
+c. Nicotinic acid
 d. Pyridoxine
-e. Thiamine
+*e. Cyanocobalamin
 
 55. A pharmacy makes aqueous extracts. What extractant is used in preparation of infusions and decoctions?
-a. Mint oil
+a. Peach oil
 b. Ethyl alcohol
-*c. Purified water
-d. Peach oil
-e. Glycerin
+c. Glycerin
+*d. Purified water
+e. Mint oil
 
 56. In the course of its development a pharmaceutical company forms its culture. Culture of a pharmaceutical company is typically based on:
 a. Specifics of manufacturing process
@@ -399,10 +399,10 @@ e. Nitroxoline
 
 58. A 65-year-old man has been taking nitroglycerin continuously for 2 months. Lately, he has been observing a gradual decrease in its clinical effect. Name the concept that describes this phenomenon:
 a. Idiosyncrasy
-b. Reye syndrome
-*c. Tolerance
+*b. Tolerance
+c. Anaphylactic reaction
 d. Withdrawal syndrome
-e. Anaphylactic reaction
+e. Reye syndrome
 
 59. Tyndallization is used at a pharmaceutical factory as one of sterilization methods for thermolabile substances. What is the essence of this method?
 a. Autoclaving at 119-121^oC with pressure at 1,0-1,1 atm
@@ -426,30 +426,30 @@ d. Hepatotoxicity
 e. Hematotoxicity
 
 62. What quantification method must be used for the analysis of isoniazid substance, according to the regulations of the State Pharmacopoeia of Ukraine?
-a. Acidimetry in a non-aqueous medium
-b. Alkalimetry
-c. Photocolorimetry
-*d. Bromatometry
-e. Nitritometry after alkaline hydrolysis
+a. Nitritometry after alkaline hydrolysis
+b. Acidimetry in a non-aqueous medium
+*c. Bromatometry
+d. Photocolorimetry
+e. Alkalimetry
 
 63. To ensure the quality of medicines the pharmacy devotes much attention to quality control. The following document is the quality assurance of a drug:
-a. Registration certificate
-b. Certificate of compliance with hygiene regulations
-c. Sanitary-epidemiological certificate
-d. Quality certificate
-e. Sanitary passport
+a. Sanitary-epidemiological certificate
+*b. Quality certificate
+c. Sanitary passport
+d. Registration certificate
+e. Certificate of compliance with hygiene regulations
 
 64. A drug that is subject to reimbursement has been dispensed at a pharmacy based on an electronic prescription. How long such a prescription must be stored in the information and telecommunications system?
-a. 5 years
-b. 2 years
-c. 6 months
-d. 3 months
-*e. 3 years
+*a. 3 years
+b. 6 months
+c. 3 months
+d. 5 years
+e. 2 years
 
 65. A decoction of Bidens grass has an anti-allergic effect and is often used in pediatrics. What species of this plant is pharmacopoeial?
-a. Bidens cernua
+a. Bidens radiata
 b. Bidens frondosa
-c. Bidens radiata
+c. Bidens cernua
 d. Bidens aurea
 *e. Bidens tripartita
 
@@ -461,11 +461,11 @@ d. 0,5
 *e. 4,0
 
 67. What type of marketing should be used by a pharmaceutical company in a situation, when the demand for medicines declines?
-a. Evolving marketing
-b. Stimulational marketing
-c. Synchromarketing
-*d. Remarketing
-e. Conversion marketing
+*a. Remarketing
+b. Conversion marketing
+c. Evolving marketing
+d. Synchromarketing
+e. Stimulational marketing
 
 68. Profitability is one of the economic indicators of the pharmacy's trading activity. It is calculated as a:
 a. Ratio of the sum of profits to the total cost of fixed assets x100%
@@ -489,32 +489,32 @@ d. Simple phenols
 e. Alkaloids
 
 71. A pharmacist approached the chief manager of the pharmacy with a request for pay raise. The chief manager turned down this request. What type of conflict is it?
-*a. Interpersonal conflict
-b. Conflict between individual and group
-c. Intergroup conflict
-d. Intrapersonal conflict
+a. Intrapersonal conflict
+b. Interpersonal conflict
+c. Conflict between individual and group
+d. Intergroup conflict
 e. Dysfunctional conflict
 
 72. Sodium and potassium oxides are introduced into the ampoule glass to:
-a. Decrease its melting point
-b. Increase its dimming ability
-c. Increase its thermal stability
-d. Increase its mechanical stability
-e. Increase its chemical stability
+a. Increase its mechanical stability
+b. Increase its chemical stability
+c. Increase its dimming ability
+d. Increase its thermal stability
+e. Decrease its melting point
 
 73. A pharmaceutical factory prepares syrups for taste-masking of medicines. What substance must be removed from such syrups to prevent jellification of the end product?
-a. Sucrose
+a. Glucose
 b. Fructose
-c. Glucose
-*d. Pectin
+*c. Pectin
+d. Sucrose
 e. Starch
 
 74. A pharmacy visitor asked the pharmacist to recommend her an anthelmintic drug that would be effective against Ascaris roundworms. Select one such drug from the list.
 a. Pyrazinamide
-b. Riboflavin
-c. Calcitonin
-*d. Piperazine
-e. Ribavirin
+b. Calcitonin
+*c. Piperazine
+d. Ribavirin
+e. Riboflavin
 
 75. To prepare decoctions with the volume of 1000-3000 ml, they should be infused in a boiling water bath for:
 a. 30 minutes
@@ -531,11 +531,11 @@ c. 3 months
 e. 1 year
 
 77. The ''Pharmastar'' pharmaceutical company develops new dosage forms for its medicines. What type of product policy in marketing is it?
-a. Modernization
-b. Reduction
-*c. Product modification
-d. Differentiation
-e. Diversification
+a. Diversification
+b. Modernization
+c. Reduction
+d. Product modification
+e. Differentiation
 
 78. A pharmacist has remained working long after the working day was officially over. How is this work period called?
 *a. Overtime
@@ -552,11 +552,11 @@ c. Molisch's test
 e. Dragendorff's test
 
 80. A certain type of herbal raw material is being collected in spring during sap flow. Specify this material:
-a. Roots
-*b. Bark
-c. Infructescences
-d. Buds
-e. Flowers
+a. Infructescences
+b. Flowers
+c. Buds
+*d. Bark
+e. Roots
 
 81. The head manager of Pharmacy №5 that belongs to the <<Hippocrates>> company was transferred to be the head manager of Pharmacy №1 within the same network. What type of human resources movement is it?
 *a. Horizontal rotation
@@ -566,11 +566,11 @@ d. Vertical rotation
 e. Diagonal rotation
 
 82. Purpurea glycoside A and purpurea glycoside B are the main active substances of Digitalis purpurea. They belong to the following class of bioactive substances:
-a. Phenolic compounds
+a. Flavonoids
 b. Anthracene derivatives
-*c. Cardiac glycosides
+c. Cardiac glycosides
 d. Alkaloids
-e. Flavonoids
+e. Phenolic compounds
 
 83. The management plans to open a new pharmacy in one of the local villages. Such activity can be identified as:
 a. Conglomerate diversification
@@ -594,11 +594,11 @@ d. Metronidazole
 e. Levofloxacin
 
 86. A certain drug can be quantitatively assessed by means of direct alkalimetry in glycerine, mannitol, or other polyhydric alcohol medium. This drug is:
-a. Glutaminic acid
-b. Salicylic acid
+a. Boric acid
+b. Glutaminic acid
 c. Benzoic acid
 d. Acetylsalicylic acid
-e. Boric acid
+e. Salicylic acid
 
 87. A potassium permanganate solution needs to be prepared for a patient. What solvent should be used in this case?
 *a. Freshly prepared purified water
@@ -609,17 +609,17 @@ e. Water for injections
 
 88. In his management policy, the head manager of the <<Health Formula>> pharmacy actively uses planning, material incentives and sanctions, pricing, and distribution of profits and capital investments. These means and approaches belong to the following group of management methods:
 a. Psychosocial management methods
-*b. Economic management methods
+b. Organizational management methods
 c. Legal management methods
 d. Indirect control methods
-e. Organizational management methods
+*e. Economic management methods
 
 89. An analytical chemist during the identification of phenylephrine hydrochloride (mesaton) performed a reaction with a solution of iron(III) chloride, which resulted in a purple coloring. The presence of what functional group in the structure of the drug was confirmed as a result?
-a. Aliphatic amino group
-b. Carboxyl group
-c. Ester group
-d. Primary aromatic amino group
-*e. Phenolic hydroxyl
+a. Carboxyl group
+b. Ester group
+c. Aliphatic amino group
+*d. Phenolic hydroxyl
+e. Primary aromatic amino group
 
 90. The management of a pharmaceutical company uses F. Herzberg's two-factor theory of motivation. What is this theory based on?
 a. The need for safety
@@ -636,11 +636,11 @@ d. Calcium antagonists
 e. alpha-adrenergic blockers
 
 92. Birch buds are used as a diuretic. Quality of the herbal raw material is determined by its content of:
-a. Saponins
-*b. Essential oil
-c. Iridoids
-d. Lipids
-e. Vitamins
+*a. Essential oil
+b. Iridoids
+c. Saponins
+d. Vitamins
+e. Lipids
 
 93. In the process of making an aqueous solution of protargol the pharmacist  has used the following technology:
 a. Dissolved in warm water
@@ -657,11 +657,11 @@ d. Magnesium oxide
 e. Ascorbic acid
 
 95. At the end of a working day, a cashier prepares the sales proceeds received in cash for the transfer to the bank account through a collecting agent. What document must be issued by the cashier for the cash transfer in this case?
-*a. Payment summary
-b. Cheque payable
-c. Payment request and order
-d. Payment order
-e. Cash cheque
+a. Payment order
+b. Cash cheque
+c. Cheque payable
+d. Payment request and order
+*e. Payment summary
 
 96. A pharmaceutical company produces tablets. Tabletting by means of direct compression requires:
 a. Formation of masses
@@ -692,17 +692,17 @@ d. Hypericum maculatum
 e. Helianthus tuberosus
 
 100. A pharmacist has prepared a compound ointment. What is the correct sequence of its preparation?
-a. Solution - emulsion - suspension
-b. Emulsion - solution - suspension
-c. Solution - suspension - emulsion
-d. Suspension - solution - emulsion
-e. Emulsion - suspension - solution
+a. Suspension - solution - emulsion
+b. Solution - suspension - emulsion
+c. Emulsion - suspension - solution
+d. Solution - emulsion - suspension
+e. Emulsion - solution - suspension
 
 101. What medicinal substance must fill only 2/3 of the vial before sterilization?
-a. Hexamethylenetetramine
-b. Euphyllin (Aminophylline)
-c. Calcium chloride
-*d. Sodium bicarbonate
+a. Calcium chloride
+*b. Sodium bicarbonate
+c. Hexamethylenetetramine
+d. Euphyllin (Aminophylline)
 e. Sodium chloride
 
 102. The herbal raw material of a foxglove is a source, from which cardiotonic agents are obtained. What organs of the Digitalis purpurea are harvested as a herbal raw material?
@@ -734,11 +734,11 @@ c. Structure
 e. Tasks
 
 106. A pharmacist has a labour dispute with the pharmacy administration about rescheduling his annual vacation leave. The employee can appeal against the decision of the pharmacy administration to the following body:
-a. Commercial court
-b. Highest management bodies of pharmaceutical service at the regional level
-*c. Labour disputes committee (LDC)
-d. Trade union committee
-e. The Ministry of Public Health of Ukraine
+a. Trade union committee
+b. Labour disputes committee (LDC)
+c. Commercial court
+d. The Ministry of Public Health of Ukraine
+e. Highest management bodies of pharmaceutical service at the regional level
 
 107. A 45-year-old man complains of wet cough. He has been suffering from chronic bronchitis for 20 years. The patient is a smoker. He needs a mucolytic agent that will facilitate expectoration and production of surfactant. What drug can be recommended to the patient in this case?
 *a. Ambroxol
@@ -776,18 +776,18 @@ d. Psychological distance
 *e. Semantic barriers
 
 112. Several cholesterol gallstones are detected in the gallbladder of a woman. Choose the drug to dissolve and excrete the stones:
-*a. Ursodeoxycholic acid
-b. Platyphyllin
-c. Domperidone
-d. Loperamide
-e. Papaverine
+a. Papaverine
+b. Loperamide
+c. Platyphyllin
+d. Domperidone
+*e. Ursodeoxycholic acid
 
 113. Solutions of protected forms of colloids are used in medical practice. What substance is a protected colloid?
-a. Camphor
+a. Protargol
 b. Basic bismuth nitrate
-c. Protargol
+c. Sodium chloride
 d. Potassium iodide
-e. Sodium chloride
+e. Camphor
 
 114. During a practical session in pharmaceutical chemistry, a pharmaceutical student performs quantitative determination of caffeine substance. What method according to the State Pharmacopoeia of Ukraine should be used for this purpose?
 a. Cerimetry
@@ -804,11 +804,11 @@ d. During the bloom
 e. At the end of the bloom
 
 116. An analytical pharmacist quantifies the ascorbic acid substance using the iodometric method. What indicator must be used in the process?
-a. Bromophenol blue
-b. Phenolphthalein
-c. Murexide
-d. Starch
-e. Methyl orange
+a. Murexide
+b. Starch
+c. Methyl orange
+d. Phenolphthalein
+e. Bromophenol blue
 
 117. What should be used by a dispensing chemist-analyst for identification of bismuth-containing medicinal substances?
 a. Cobalt nitrate solution
@@ -819,8 +819,8 @@ e. Beta-naphthol solution
 
 118. A 43-year-old woman has come to a pharmacy with complaints of sharp headache in the occipital area, palpitations, ''visual snow'' in her eyes, nausea; her BP is 180/110 mm Hg. These symptoms correspond with:
 a. Acute conjunctivitis
-b. Cervical osteochondrosis
-c. Exertional angina pectoris attack
+b. Exertional angina pectoris attack
+c. Cervical osteochondrosis
 *d. Hypertensic crisis
 e. Migraine attack
 
@@ -832,11 +832,11 @@ d. Polarography
 e. Spectrophotometry
 
 120. Name the document where the actual hours worked by the pharmacy employees are recorded:
-a. Work schedule
-b. Medical certificate
-c. Payroll
-d. Material aid log book
-*e. Employee time sheet
+a. Medical certificate
+b. Material aid log book
+*c. Employee time sheet
+d. Payroll
+e. Work schedule
 
 121. What is the function of anhydrous lanolin in the suppository mass used for suppositories prepared via hand rolling?
 a. Preservative
@@ -846,18 +846,18 @@ d. Solubilizer
 e. Solvent
 
 122. Various types of dryers can be used for granule dehumidification. Specify the type of ''СП-30'' dryer:
-a. Silica gel dryer
-*b. Fluidized bed dryer
+*a. Fluidized bed dryer
+b. Silica gel dryer
 c. Infrared dryer
-d. Freeze dryer
-e. Forced air dryer
+d. Forced air dryer
+e. Freeze dryer
 
 123. Suspension stability increases, when the substances that increase the viscosity of a continuous medium are introduced to a suspension. Specify a substance that has such a property:
-a. Atropa belladonna tincture
-*b. Glycerine
-c. Purified water
-d. Dimexide (dimethyl sulfoxide)
-e. Ethyl alcohol
+a. Dimexide (dimethyl sulfoxide)
+b. Ethyl alcohol
+*c. Glycerine
+d. Atropa belladonna tincture
+e. Purified water
 
 124. Preparations of Panax roots have tonic and adaptogenic properties and improve mental and physical working ability. If there is no Panax tincture in the pharmacy, it can be substituted with preparations of:
 a. Сalami radiсes
@@ -874,17 +874,17 @@ d. Norfloxacin
 e. Ofloxacin
 
 126. The phytochemical workshop of a factory produces extraction preparations. For what purpose are concentrated extracts used?
-a. For preparation of dry extracts
-b. To be used as ready-made medicines
-c. For preparation of tinctures
-d. For preparation of thick extracts
-*e. For quick preparation of infusions and decoctions in pharmacy practice
+a. For preparation of thick extracts
+b. For quick preparation of infusions and decoctions in pharmacy practice
+c. To be used as ready-made medicines
+d. For preparation of tinctures
+e. For preparation of dry extracts
 
 127. A woman with diabetes mellitus has injected herself with 30 units of insulin. After that she developed weakness and came to the pharmacy to ask for help. In the pharmacy she lost her consciousness and developed convulsions. What should she be given immediately?
-a. Metformin
-*b. Glucose
-c. Butamide (Tolbutamide)
-d. Insulin
+a. Glucose
+b. Insulin
+c. Metformin
+d. Butamide (Tolbutamide)
 e. Glibenclamid
 
 128. A doctor prescribed the drug simvastatin to the patient to correct hyperlipidemia. Why should the selected daily dose be taken once in the evening?
@@ -895,11 +895,11 @@ d. Receptor sensitivity to low-density lipoproteins increases
 e. Absorption of the drug increases at night
 
 129. A doctor has asked a dispensing chemist for consultation on free dispensation of medicines. What free drugs can the doctor prescribe to an epileptic patient for outpatient treatment?
-a. Only drugs produced domestically
+a. Any drugs registered for distribution in Ukraine
 *b. Only the drugs from the list of approved procurements for budget-financed healthcare facilities
-c. Only imported drugs
-d. Any drugs registered for distribution in Ukraine
-e. Only vital drugs
+c. Only vital drugs
+d. Only imported drugs
+e. Only drugs produced domestically
 
 130. To check the authenticity of Helichrysum arenarium flowers, magnesium powder and concentrated HCl were added to the extract obtained from the herbal raw material. What class of compounds is indicated in this case, if this reaction produces a red coloring?
 *a. Flavonoids
@@ -930,10 +930,10 @@ d. Alkaloids
 *e. Thioglycosides
 
 134. Pharmacological properties and bioavailability of drugs is determined by their chemical structure. What medicinal substance contains simultaneously a carboxyl group and an ester group?
-a. Benzoic acid
-b. Sodium benzoate
+a. Sodium benzoate
+b. Phenyl salicylate
 c. Salicylic acid
-d. Phenyl salicylate
+d. Benzoic acid
 *e. Acetylsalicylic acid
 
 135. A pharmacist needs to prepare eyedrops with pilocarpine hydrochloride. Specify the optimal isotonic agent in this case:
@@ -965,11 +965,11 @@ d. Following the leader
 e. -
 
 139. Atropa belladonna grass extract is a component of compound antispasmodic drugs. Select such drug from the list:
-a. Herbogastrine
-b. Solutan
+a. Solutan
+b. Olimetinum
 *c. Bellasthesin
-d. Urolesan
-e. Olimetinum
+d. Herbogastrine
+e. Urolesan
 
 140. According to the State Pharmacopoeia of Ukraine regulations, valine amino acid should be identified by means of thin-layer chromatography. To develop a chromatogram, the following reagent should be used:
 *a. Ninhydrin
@@ -1049,11 +1049,11 @@ d. Juniperus communis
 e. Rubus idaeus
 
 151. Chloride of lime is identified by calcium cations after boiling with acetic acid in order to eliminate active chlorine. What reagent is used?
-a. Magnesium sulfate
+a. Sodium nitrite
 b. Ammonium molybdate
-c. Sodium nitrite
-*d. Ammonium oxalate
-e. Potassium chloride
+c. Magnesium sulfate
+d. Potassium chloride
+e. Ammonium oxalate
 
 152. A pharmaceutical company provides its employees with free lunches. What needs does it try to satisfy according to Maslow's theory of motivation?
 a. Safety and protection
@@ -1065,8 +1065,8 @@ e. Self-actualisation
 153. Advertising is the most popular and widely used part of marketing communications system. What cannot be included into the advertisements for medicines?
 a. Objective information about the medicines, presented in such a way that the advertising nature of the message is obvious to the consumers
 b. Full pharmacological name of the medicine and the name of its manufacturer
-*c. Claims that the effect of the medicines is guaranteed
-d. General warnings about the usage of medicines and medical products
+c. General warnings about the usage of medicines and medical products
+d. Claims that the effect of the medicines is guaranteed
 e. Recommendation to always read the instructions for the medicines
 
 154. Accounts receivable develop in the process of pharmaceutical company work. Specify where in the balance book they are recorded:
@@ -1091,11 +1091,11 @@ d. Analyst
 e. Dispensing chemist
 
 157. A marketing study found that the main group of consumers of venotonics are women aged 40 to 60 years. What principle is used for market segmentation in this case?
-a. Behavioral approach
-b. Geographical approach
-*c. Demographic approach
-d. Psychographic approach
-e. -
+a. Psychographic approach
+b. Behavioral approach
+c. Geographical approach
+d. -
+*e. Demographic approach
 
 158. An analytical chemist performs collargol identification by means of ashing. Obtained residue is then dissolved in hydrochloric acid. Specify the analytical effect that is observed in this case:
 a. Black precipitate
@@ -1112,18 +1112,18 @@ d. Corporate
 *e. Multichannel
 
 160. Collective labour agreement is concluded by a trade union committee with the business owner on behalf of the workforce. Any collective agreement is worked out in written form. Which article of the Labour Code regulates the duration of the collective agreement?
-a. 36
-b. 17
-c. 38
-d. 40
-e. 41
+*a. 17
+b. 41
+c. 40
+d. 36
+e. 38
 
 161. A pharmacist at the extemporaneous compounding department of a pharmacy has prepared 100 mL of an infusion of Leonurus grass. What amount of the herbal raw material and purified water is necessary to prepare this infusion, if water absorption coefficient is 2.0?
-a. 0.25 g and 100 mL
-*b. 10.0 g and 120 mL
-c. 20.0 g and 140 mL
-d. 10.0 g and 100 mL
-e. 5.0 g and 110 mL
+*a. 10.0 g and 120 mL
+b. 20.0 g and 140 mL
+c. 0.25 g and 100 mL
+d. 5.0 g and 110 mL
+e. 10.0 g and 100 mL
 
 162. Which of the following antibiotics can be identified by means of maltol test?
 a. Kanamycin monosulfate
@@ -1133,11 +1133,11 @@ c. Doxycycline hydrochloride
 e. Amoxicillin
 
 163. What is the purpose of injectablettae tablets?
-a. Obtaining solutions for various pharmaceutical purposes
-b. Sublingual use
-c. Oral use
-d. Implantation
-*e. Obtaining injectable solutions
+a. Implantation
+*b. Obtaining injectable solutions
+c. Obtaining solutions for various pharmaceutical purposes
+d. Oral use
+e. Sublingual use
 
 164. A pharmaceutical company produces warious medicines. Name the dosage form consisting of separate hard dry particles disintegrated to varying degree:
 a. Dried extract
@@ -1147,10 +1147,10 @@ d. Emulsions
 *e. Powders
 
 165. A patient diagnosed with acute rhinitis was using xylometazoline drops. After 7 days of treatment, the patient notes that the effect of the medicine decreased and was not restored after an increase in the dosage. What medical term characterizes a sudden decrease in the sensitivity to a medicine?
-a. Antagonism
-b. Tolerance
+a. Synergism
+b. Antagonism
 c. Withdrawal syndrome
-d. Synergism
+d. Tolerance
 *e. Tachyphylaxis
 
 166. The quality control analytical laboratory analyzes a medicine with sodium benzoate. What reagent will form a pink-yellow precipitate with the medicine being analyzed?
@@ -1161,17 +1161,17 @@ d. Magnesium sulfate solution
 e. Sodium bicarbonate solution
 
 167. An analytical chemist conducts a thiochrome formation reaction to identify thiamine bromide. What reagent should be used in this case?
-a. Sodium hydroxide
-*b. Potassium ferrocyanide
-c. Iron(II) sulfate
-d. Potassium bromide
-e. Calcium chloride
+a. Calcium chloride
+b. Potassium bromide
+*c. Potassium ferrocyanide
+d. Iron(II) sulfate
+e. Sodium hydroxide
 
 168. A pharmaceutical company lowered its price for a certain drug due to strong competition and decreasing demand for this drug. What is the purpose of such price policy?
-*a. To ensure business survival
+a. To create the image of high-quality medicine manufacturer
 b. To maximize profits
-c. To gain leadership due to high quality of manufactured medicines
-d. To create the image of high-quality medicine manufacturer
+*c. To ensure business survival
+d. To gain leadership due to high quality of manufactured medicines
 e. -
 
 169. An analytical chemist investigates a 3% hydrogen solution. What reagent is recommended by the State Pharmacopoeia of Ukraine for identification of this substance?
@@ -1182,11 +1182,11 @@ c. Magnesium sulfate
 e. Zinc oxide
 
 170. What side effect is observed in cases of long-term use of digoxin?
-a. Hypertension
-b. Hypokalemia
-c. Constipation
+a. Hypokalemia
+b. Constipation
+c. Hypotension
 *d. Bradycardia
-e. Hypotension
+e. Hypertension
 
 171. Tell the patient, what side effect is associated with systemic glucocorticosteroid therapy.
 a. Hypoglycemia
@@ -1252,32 +1252,32 @@ d. Infusion is made in a slightly alkaline medium
 e. Infusion is made by means of cold maceration
 
 180. A 53-year-old woman suffers from ischemic heart disease and angina pectoris. What drug can be used to stop angina pectoris attacks?
-a. Dipiridamol
-*b. Nitroglycerine
-c. Acetylsalicylic acid
-d. Drotaverine hydrochloride
-e. Propranolol
+a. Propranolol
+b. Dipiridamol
+c. Drotaverine hydrochloride
+d. Nitroglycerine
+e. Acetylsalicylic acid
 
 181. The <<Violet>> pharmacy chain operates in the pharmaceutical market for over 20 years. In difficult market environment, the company's management actively uses elements of crisis management, diversification, and attraction of investments. What component of the successful activity of the pharmaceutical organization does the company provide?
 *a. Survival
-b. Productivity
+b. Practical implementation of  management decisions
 c. Effectiveness
-d. Practical implementation of  management decisions
-e. Efficiency
+d. Efficiency
+e. Productivity
 
 182. During identification these active substances form precipitates in gelatin and alkaloid solutions and produce precipitates with heavy metal salts. These active substances are:
-a. Iridoids
-b. Glycosides
-c. Carbohydrates
-d. Lipids
-*e. Tannins
+*a. Tannins
+b. Lipids
+c. Glycosides
+d. Carbohydrates
+e. Iridoids
 
 183. What drug, due to beta-lactam ring in its structure, has positive reaction with hydroxylamine hydrochloride solution in the presence of sodium hydroxide with subsequent addition of iron (III) chloride solution?
-a. Dibazol (Bendazol)
-b. Phenazone
-c. Papaverine hydrochloride
+a. Metronidazole
+b. Papaverine hydrochloride
+c. Dibazol (Bendazol)
 *d. Amoxicillin trihydrate
-e. Metronidazole
+e. Phenazone
 
 184. A pharmacist has prepared an ascorbic acid solution for injections. What stabilizer was used in this case?
 a. Boric acid
@@ -1294,18 +1294,18 @@ d. Spironolactone
 e. Chlorthalidone
 
 186. At the phytochemical workshop, percolation method is used to produce Crataegus tincture. What percolation rate is necessary for this purpose?
-a. 1/24 or 1/48 part of the percolator's  working volume per hour
-b. 1/40 of the percolator's volume per hour
-c. 1/10 of the percolator's volume per 20 minutes
-d. 1/20 of the percolator's volume per hour
-e. 1/30 of the percolator's volume per 30 minutes
+a. 1/30 of the percolator's volume per 30 minutes
+b. 1/20 of the percolator's volume per hour
+*c. 1/24 or 1/48 part of the percolator's  working volume per hour
+d. 1/10 of the percolator's volume per 20 minutes
+e. 1/40 of the percolator's volume per hour
 
 187. At what cost will protargol nasal drops be dispensed at a pharmacy if a pediatrician prescribes it for treatment of a 2-year-old child?
 a. With 30% discount
-b. At full cost
-c. With 70% discount
-d. With 50% discount
-e. Free of charge
+b. With 50% discount
+*c. Free of charge
+d. At full cost
+e. With 70% discount
 
 188. Why are leavening agents introduced into the tablet mass?
 *a. Ensuring rapid mechanical destruction of the tablets in a liquid medium
@@ -1323,10 +1323,10 @@ e. Characteristics of the end product
 
 190. A patient, who has been taking an expectorant, has developed complaints of hypersalivation, rhinitis, and itching skin rashes (signs of iodism). What medicine can cause these side effects?
 a. Ambroxol syrup
-*b. Potassium iodide
-c. Ammonium chloride
-d. Mucaltin
-e. Infusion of Thermopsis grass
+b. Mucaltin
+*c. Potassium iodide
+d. Infusion of Thermopsis grass
+e. Ammonium chloride
 
 191. An analytical pharmacist analyzes a cefazolin sodium substance. What solution is used for identification of sodium ions?
 a. Barium chloride solution
@@ -1343,10 +1343,10 @@ d. Azulene
 e. Acorone
 
 193. What reagent can confirm that alanine is an alpha-amino acid?
-a. Sulfuric acid solution
-b. Sulfosalicylic acid solution
-*c. Ninhydrin solution
-d. Barium hydroxide solution
+a. Barium hydroxide solution
+*b. Ninhydrin solution
+c. Sulfosalicylic acid solution
+d. Sulfuric acid solution
 e. Saturated sodium bicarbonate  solution
 
 194. A patient complaining of stuffy nose, fatigability, and headache came to a dispensing chemist. What medicine should be recommended to treat stuffy nose in this case?
@@ -1392,11 +1392,11 @@ c. Essential oils
 e. Slime
 
 200. Local anesthetic benzocaine can be identified using the reaction of iron(III) hydroxamate formation. What functional group makes it possible to conduct this reaction?
-a. Aldehyde group
-b. Carboxylic group
-c. Ketone group
-*d. Esther group
-e. Sulfamide group
+*a. Esther group
+b. Ketone group
+c. Carboxylic group
+d. Sulfamide group
+e. Aldehyde group
 
 201. At the exhibition, calendars, notebooks, and business gifts with the logo of a pharmaceutical company were handed out to the exhibition visitors for free. What is this type of advertising called?
 a. Print advertising
@@ -1455,11 +1455,11 @@ d. Infrared spectroscopy
 e. Nuclear magnetic resonance spectroscopy
 
 209. Practically no microorganisms can develop in the sugar syrup, if its concentration is optimal. Why is it so?
-a. Because of decreased surface tension between the solution and the microbial cell
-b. Only because preservatives were added into the syrup
-c. Because of low pH
-*d. Because osmotic pressure in the solution is higher than in the microbial cell
-e. Because of high pH
+a. Because osmotic pressure in the solution is higher than in the microbial cell
+b. Because of high pH
+c. Only because preservatives were added into the syrup
+d. Because of low pH
+e. Because of decreased surface tension between the solution and the microbial cell
 
 210. Microcapsules are made by coating solid particles of the substance being encapsulated with a shell consisting of metallic silver, zinc, etc. Name this method of making microcapsules:
 a. Coacervation
@@ -1519,9 +1519,9 @@ e. Thermopsis tincture, purified water
 
 218. What can be observed when aluminum-magnesium antacids and iron preparation are used simultaneously?
 a. Increased risk of hepatotoxicity
-b. Increased blood pressure
-c. Reduced effectiveness of iron preparations
-d. Increased effectiveness of antacids
+b. Increased effectiveness of antacids
+*c. Reduced effectiveness of iron preparations
+d. Increased blood pressure
 e. Decreased blood pressure
 
 219. What medicine is simultaneously a mucolytic and an antidote against a paracetamol overdose?
@@ -1554,10 +1554,10 @@ e. Comminution
 
 223. Adrenergic drug adrenaline tartrate contains phenolic hydroxyls in its structure. What solution should be used to conduct a reaction for their detection?
 a. Magnesium sulfate solution
-b. Sodium nitrate solution
-c. Copper (II) sulfate solution
-*d. Iron (III) chloride solution
-e. Potassium bromide solution
+b. Iron (III) chloride solution
+c. Sodium nitrate solution
+d. Potassium bromide solution
+e. Copper (II) sulfate solution
 
 224. When a pharmacy restocks its medical products, the incoming products must undergo quality assessment. Who conducts the assessment in this case?
 a. The head manager of the pharmacy
@@ -1581,11 +1581,11 @@ d. Gnaphalium uliginosum herba
 *e. Althaea officinalis herba
 
 227. To work properly, a pharmacy needs sufficient staff. What job position belongs to the auxiliary staff of a pharmacy?
-a. Pharmacist
-b. -
-c. Packer
-d. Accountant
-e. Head of a department
+*a. Packer
+b. Head of a department
+c. Pharmacist
+d. -
+e. Accountant
 
 228. A pharmacy receives centralized deliveries of goods from the warehouse. Specify the document that is textbfNOT NECESSARY for accounting of goods receipt by the pharmacy:
 a. Goods received record book by groups of goods
@@ -1637,11 +1637,11 @@ d. Menthol
 e. Piracetam
 
 235. An analytical chemist analyses the substance of racemic menthol according to the State Pharmacopoeia of Ukraine. To identify the drug and determine its purity he uses optical rotation that should occur within the interval:
-*a. From +0,2^o to –0,2^o
-b. From – 48^o  to –51^o
-c. From +10^o  to +13^o
-d. From –102^o  to –105^o
-e. From +50^o to +56^o
+a. From +10^o  to +13^o
+b. From +50^o to +56^o
+c. From –102^o  to –105^o
+*d. From +0,2^o to –0,2^o
+e. From – 48^o  to –51^o
 
 236. The reaction of glucose identification produces red precipitate with the following reagent:
 a. Thiocyanogen bromide
@@ -1721,11 +1721,11 @@ d. Notify the head manager of the  pharmacy
 e. Sell this medicine to the patient
 
 247. A process dealing with drawing the documents, their processing, circulation and storage is called records management. If all documents circulate through one organization center, - the Office Desk, - then such system of records management is called:
-a. Decentralized
+a. Referent
 b. Mixed
-c. Referent
-*d. Centralized
-e. Specialized
+c. Specialized
+d. Decentralized
+*e. Centralized
 
 248. Aqueous lanolin consists of:
 a. 90 parts of anhydrous lanolin and 10 parts of water
@@ -1854,11 +1854,11 @@ d. No more than 10 days
 e. No more than 7 days
 
 266. A patient with exertional angina pectoris had been taking isosorbide mononitrate orally for 2 months, when this drug lost its effectiveness. What is the likely cause of isosorbide mononitrate being no longer effective in this case?
-a. Cumulation
-b. Tolerance
-c. Physical dependence
-d. Sensitization
-e. Psychological dependence
+a. Psychological dependence
+b. Sensitization
+c. Tolerance
+d. Physical dependence
+e. Cumulation
 
 267. The ''Aromeline'' phytodrug exhibits P-vitamin activity. What herbal raw material is used in production of this drug?
 a. Fructus Crataegi
@@ -1876,17 +1876,17 @@ e. Simple capitate hairs
 
 269. A thymol-containing herbal raw material is stored in the warehouse of a pharmaceutical company. What are its proper storage conditions?
 a. Under the temperature of -5^oC
-b. Under СО_2-free conditions
-c. Under normal conditions
-*d. Separate from the others
-e. In metal containers
+b. Under normal conditions
+c. Separate from the others
+d. In metal containers
+e. Under СО_2-free conditions
 
 270. A pharmaceutical company plans to sell its products in another country together with a foreign company. What type of company's entry to the foreign market is it?
-a. Import
-*b. Joint venture
-c. Franchising
+a. Tender
+b. Franchising
+c. Import
 d. Direct investments
-e. Tender
+*e. Joint venture
 
 271. According to ecological survey, a certain pharmaceutical manufacturer holds the first place among the local ''green'' industries. What marketing concept is chosen by this manufacturer in relations with its customers?
 a. Product development
@@ -1960,10 +1960,10 @@ e. Ampicillin
 
 281. A 68-year-old man has been prescribed a hypolipidemic agent as a part of his combination therapy for ischemic heart disease. Name this drug:
 a. Lisinopril
-b. Atorvastatin
+*b. Atorvastatin
 c. Hydrochlorothiazide
-d. Nifedipine
-e. Nitroglycerine
+d. Nitroglycerine
+e. Nifedipine
 
 282. Herbal mixtures contain several types of comminuted or non-comminuted herbal raw material. What stage is textbfNOT a part of herbal mixture production?
 a. Mixing
@@ -1973,11 +1973,11 @@ d. Marking
 e. Packing
 
 283. A pharmacy needs to prepare a furacilin (nitrofural) solution (1:5000). What are the specifics of furacilin dissolution?
-a. In the cold purified water
-b. In the minimal amount of ethanol
-c. In the purified water, filtered in advance
-d. In the purified water, after grinding it down
-*e. In the boiling water in the presence of sodium chloride
+a. In the minimal amount of ethanol
+b. In the cold purified water
+*c. In the boiling water in the presence of sodium chloride
+d. In the purified water, filtered in advance
+e. In the purified water, after grinding it down
 
 284. A company manager analyzes, how effectively the available material assets are used, and identifies and eliminates the deviations arising in the course of work. What type of control is it?
 a. Preliminary
@@ -1994,11 +1994,11 @@ d. Tetracycline
 e. Biseptol (Co-trimoxazole)
 
 286. Xycaine quantitative content can be determined by means of argentometry (back titration). What indicator is required by this method?
-a. Potassium chromate
+a. Starch
 b. Bromphenol blue
-c. Starch
-d. Sodium eosinate
-*e. Iron (III) ammonium sulphate
+c. Iron (III) ammonium sulphate
+d. Potassium chromate
+e. Sodium eosinate
 
 287. Throughout the year, three employees voluntarily resigned from a pharmaceutical company. What type of employee movement is it?
 a. Staff turnover
@@ -2155,11 +2155,11 @@ d. Intense heating
 e. Slight heating
 
 309. What antibiotic has beta-lactam cycle in its structure?
-a. Streptomycin sulfate
-b. Chloramphenicol
-c. Doxycycline hyclate
-d. Benzylpenicillin potassium salt
-e. Lincomycin hydrochloride
+a. Chloramphenicol
+b. Streptomycin sulfate
+c. Lincomycin hydrochloride
+d. Doxycycline hyclate
+*e. Benzylpenicillin potassium salt
 
 310. The management of a pharmaceutical company performs an internal audit to check the compliance with proper work practices. What management function is used by the company's management in this case?
 a. Regulation
@@ -2185,23 +2185,23 @@ e. 0.5 and 9.5
 313. A pharmaceutical company studies the life cycle of a drug that is being introduced to the market. Name the stage, when sales volume grows slowly and large investments in organization of sales and manufacturing are necessary.
 a. Saturation phase
 b. Decline phase
-c. Testing phase
-d. Maturity phase
+c. Maturity phase
+d. Testing phase
 *e. Market entry
 
 314. Dosage precision during tablet making mainly depends on the following technological property of tablet mass:
-a. Lyophilic property
+a. Relative density
 *b. Flowability
-c. Compression ratio
-d. Compressibility
-e. Relative density
+c. Compressibility
+d. Compression ratio
+e. Lyophilic property
 
 315. A folic acid molecule has a heterocyclic system, consisting of two condensed heterocycles - pyrimidine and pyrazine. Name this system:
 a. Corrin
-b. Purine
-c. Phenothiazine
-d. Isoalloxazine
-*e. Pteridine
+*b. Pteridine
+c. Purine
+d. Phenothiazine
+e. Isoalloxazine
 
 316. Reye syndrome (encephalopathy, fatty degeneration of liver) develops as a side effect in children suffering from fever of viral origin when they take the following medicine:
 a. Paracetamol
@@ -2274,10 +2274,10 @@ d. Sulfur
 e. Camphor
 
 326. Pharmaceutical workers decided to organize a business. What is the basis of the concept of "limited liability company"?
-a. A company, the members of which bear additional solidary liability for the company's obligations with all their property, while the company's investors bear liability only in the amount of their investments
-b. A company, the members of which bear the liability for the company's debts within the amount of their contributions, and if these amounts are insufficient, all the members are equally liable to cover the debt with their personal property
-c. A company, the members of which bear additional solidary liability for the company's obligations with all their property
-*d. A company, the members of which bear the liability for the company's debts within the amount of their contributions
+a. A company, the members of which bear the liability for the company's debts within the amount of their contributions, and if these amounts are insufficient, all the members are equally liable to cover the debt with their personal property
+b. A company, the members of which bear additional solidary liability for the company's obligations with all their property, while the company's investors bear liability only in the amount of their investments
+*c. A company, the members of which bear the liability for the company's debts within the amount of their contributions
+d. A company, the members of which bear additional solidary liability for the company's obligations with all their property
 e. A company, the members of which bear full liability
 
 327. In the process of drug identification, an analytical chemist of the State Inspection for Quality Control of Medicines performs ninhydrin test. What drug is being identified?
@@ -2310,10 +2310,10 @@ e. Ascorbic acid
 
 331. What tablet coating protects stomach from harmful influence of active ingredients?
 *a. Intestinally absorbed
-b. Water-soluble
-c. Gastrically absorbed
+b. -
+c. Water-soluble
 d. Fat-soluble
-e. -
+e. Gastrically absorbed
 
 332. A patient developed dry cough while undergoing pharmacotherapy for arterial hypertension. What group of drugs can be characterized by this side effect?
 a. Calcium antagonists
@@ -2337,18 +2337,18 @@ d. Heparin
 e. Nitrosorbide (Isosorbide dinitrate)
 
 335. According to Decree №360 issued by the Ministry of Health of Ukraine, there is a list of medicines that cannot be prescribed to outpatients. Select one such drug from the list below:
-a. Tramadol
-b. Atropine sulfate
-c. Zopiklon
-d. Tetracaine
-*e. Nitrous oxide
+a. Tetracaine
+b. Zopiklon
+*c. Nitrous oxide
+d. Atropine sulfate
+e. Tramadol
 
 336. Taxes can be divided into direct and indirect. Select an indirect tax from the list:
 a. Corporate income tax
 b. Individual income tax
-c. Value added tax
+c. Real estate tax
 d. Rent
-e. Real estate tax
+*e. Value added tax
 
 337. During identification of a herbal raw material, an analytical chemist prepared water-based extractions and shook the test tube, which resulted in the formation of a large amount of stable foam. What bioactive substances are present in the material?
 a. Anthracene derivatives
@@ -2401,10 +2401,10 @@ e. Nitrogen
 
 344. A dispensing chemist with calculated length of service of 7 years has fallen ill. What percent of the sum stated in her sick list would she receive?
 a. 50%
-b. 60%
+*b. 80%
 c. 70%
-d. 100%
-*e. 80%
+d. 60%
+e. 100%
 
 345. Cynara scolymus herbal raw material is a source of drugs with antisclerotic, choleretic, and hepatoprotective effect. What parts of the plant are harvested as a herbal raw material?
 a. Grass
@@ -2470,11 +2470,11 @@ d. Colloidal solution
 *e. Opalescent mixture
 
 354. A patient diagnosed with hypertension and bronchial asthma had a bronchospasm attack, while undergoing therapy. What drug has most likely caused this complication?
-*a. Propranolol
-b. Fenoterol
-c. Nitroglycerin
+a. Verapamil
+b. Nitroglycerin
+*c. Propranolol
 d. Amlodipine
-e. Verapamil
+e. Fenoterol
 
 355. A dispensing chemist has received his salary with a bonus for working at night. This bonus is paid for the following working hours:
 a. From 24.00 to 8.00
@@ -2575,18 +2575,18 @@ d. Constipations
 e. Cumulation
 
 369. Identification of organic medicinal substances requires the analysis of their functional groups. To identify medicinal substances that are benzoates, an analytical chemist should use:
-a. Sodium acetate solution
+a. Potassium hydroxide solution
 b. Ammonium chloride solution
-*c. Iron(III) chloride solution
+c. Iron(III) chloride solution
 d. Sodium bicarbonate solution
-e. Potassium hydroxide solution
+e. Sodium acetate solution
 
 370. The head manager of a pharmacy has transferred to the deputy head manager the authority to select the range of products for sale and make decisions about the nomenclature and amount of medicines and medical products to be purchased from suppliers and the terms of such purchase contracts. What is this action called in the management theory?
-a. Organization
-*b. Delegation
-c. Planning
-d. Control
-e. Motivation
+a. Motivation
+b. Control
+*c. Delegation
+d. Planning
+e. Organization
 
 371. A doctor prescribed amoxicillin to a patient to treat bronchitis. What mucolytic is synergistic with this antibiotic?
 a. Euphylline (Theophylline)
@@ -2659,11 +2659,11 @@ d. 1:2000
 e. 1:4000
 
 381. A pharmacy has received the following formulation: Rp.: Spiritus aethylici 20 ml Resorcini 0.2 M.D.S. Wipe the affected skin areas twice a day. endtabular What is the optimal preparation technique in this case?
-a. Comminute the substance in a mortar, add the solvent
-b. Measure out ethyl alcohol into a vial for dispensing, measure out salicylic acid
+a. Measure out ethyl alcohol into a vial for dispensing, measure out salicylic acid
+b. Measure out the substance into a stand, measure out the solvent
 *c. Measure out the substance into a vial for dispensing, measure out ethyl alcohol, shake the vial
-d. Measure out the substance into a stand, measure out the solvent
-e. Measure out the solvent into a stand, measure out the substance
+d. Measure out the solvent into a stand, measure out the substance
+e. Comminute the substance in a mortar, add the solvent
 
 382. Name the list of pharmacy's property that indicates the actual balance and value of pharmacy's stocks as determined in the process of stock-taking:
 a. Register of requisitions
@@ -2680,11 +2680,11 @@ d. Methylene blue
 e. Brilliant green
 
 384. A pharmacist has made a topical solution with lipophilic vehicle. Specify the substance that produces such a type of solution:
-*a. Menthol
-b. Starch
-c. Sulfur
-d. Novocaine hydrochloride
-e. Dermatol (bismuth subgallate)
+a. Sulfur
+b. Novocaine hydrochloride
+c. Starch
+d. Dermatol (bismuth subgallate)
+*e. Menthol
 
 385. Menthol medicinal substance can be chemically classified as a:
 a. Acyclic terpene
@@ -2758,10 +2758,10 @@ d. Thioacetamide reagent
 
 395. A medical product reaches its final consumer according to the following scheme: manufacturer rightarrow wholesale house rightarrow pharmacy rightarrow final consumer. Determine the level of the distribution channel:
 a. Three-level channel
-*b. Two-level channel
-c. Four-level channel
-d. Zero-level channel
-e. One-level channel
+b. One-level channel
+c. Zero-level channel
+d. Four-level channel
+*e. Two-level channel
 
 396. A teenager with hyporexia has been recommended to drink medicinal herbal tea of the following composition: Herba Absinthii, Herba Millefolii. Specify the characteristic microscopic features of Artemisia absinthium, which indicate its presence in the herb mixture:
 a. Simple and capitate hairs
@@ -2778,18 +2778,18 @@ c. Packing of herbal raw material
 e. Sorting of herbal raw material
 
 398. Weibel's liquid is necessary to stabilize the solution of a certain substance. Name this substance:
-*a. Glucose
+a. Magnesium sulfate
 b. Novocaine
-c. Potassium chloride
-d. Magnesium sulfate
+*c. Glucose
+d. Potassium chloride
 e. Sodium chloride
 
 399. A pharmacist has made an injection solution that contains a salt produced by reaction of a strong base with a weak acid. Specify the necessary stabilizer:
-a. Hydrochloric acid
-b. Ascorbic acid
-c. Cysteine
-*d. Sodium hydrochloride
-e. Sodium sulfate
+a. Sodium sulfate
+b. Cysteine
+c. Hydrochloric acid
+d. Sodium hydrochloride
+e. Ascorbic acid
 
 400. Identification of potassium iodide requires performing an oxidation reaction in acid medium, which produces free iodine that colors chloroform layer. What reagent is used for such a reaction?
 a. Ammonium oxalate
@@ -2890,11 +2890,11 @@ d. Phenazepam
 e. Promedol (Trimeperidine)
 
 414. A pharmacist has prepared an eyedrops vehicle. What method of sterilization should be chosen in this case?
-a. Pasteurization
-*b. Dry heat
-c. Ultraviolet irradiation
-d. Membrane filtration
-e. Flowing steam
+a. Membrane filtration
+b. Flowing steam
+c. Dry heat
+d. Ultraviolet irradiation
+e. Pasteurization
 
 415. According to the State Pharmacopoeia of Ukraine, chemical identification of Atropa belladonna grass must be carried out using thin-layer chromatography. What substance is identified on a chromatographic plate after treatment with a reagent?
 a. Vinblastine
@@ -2953,11 +2953,11 @@ d. Relative overdosage
 e. Mutual potentiation
 
 423. The head manager of a pharmacy has decided to apply various management methods as a means of influencing separate employees and the staff as a whole. What management methods can be classified as psychosocial?
-*a. Plan for improvement of the working conditions at the pharmaceutical facility
+a. -
 b. The process of distribution of duties between the technical level managers
 c. Material stimuli that include salary rates, extra pay, increments, bonuses, etc.
-d. -
-e. The process of salary calculation for the sales department employees
+d. The process of salary calculation for the sales department employees
+*e. Plan for improvement of the working conditions at the pharmaceutical facility
 
 424. What corticosteroid medicinal substance has two fluorine atoms in its chemical structure?
 a. Prednisolone
@@ -2989,10 +2989,10 @@ e. Maceration
 
 428. A dispensing chemist identifies metronidazole substance after reduction of the nitro group into an aromatic amino group. The dispensing chemist uses a reaction that produces the following:
 a. Indophenol dye
-b. Azomethine dye
+b. Aurine dye
 *c. Azo dye
 d. Iron(III) hydroxamate
-e. Aurine dye
+e. Azomethine dye
 
 429. Employees of a wholesale pharmaceutical company have undergone an assessment for their compliance with the requirements of their respective positions. Specify the type of human resources assessment:
 a. -
@@ -3002,11 +3002,11 @@ d. Concurrent
 *e. Concluding
 
 430. The extemporaneous compounding department of a pharmacy prepares eye drops. Which one of the listed substances is a preservative?
-a. Acetate buffer
-*b. Benzalkonium chloride
-c. Polyvinyl alcohol
+a. Polyvinyl alcohol
+b. Sodium chloride
+*c. Benzalkonium chloride
 d. Methyl cellulose
-e. Sodium chloride
+e. Acetate buffer
 
 431. An analytical pharmacist is testing a thiamine hydrobromide substance. What solution would the pharmacist use to determine sulfate impurities?
 *a. Barium chloride solution
@@ -3044,10 +3044,10 @@ d. In a week
 e. In 10 days
 
 436. A man with arterial hypertension was taking a beta blocker (bisoprolol) for a long time. When his condition improved, he suddenly stopped taking this drug and it resulted in an acute increase of his blood pressure. What complication of the therapy is it?
-a. Bradycardia
-b. Bronchospasm
-*c. Withdrawal syndrome
-d. Dysbacteriosis
+a. Bronchospasm
+b. Bradycardia
+c. Dysbacteriosis
+*d. Withdrawal syndrome
 e. Reduced sensitivity
 
 437. The phytochemical workshop of a factory produces liquid extracts. What extractants are used in this manufacturing process?
@@ -3079,11 +3079,11 @@ c. Demand increase, remarketing
 e. Demand stimulation, promotional marketing
 
 441. What pharmacy department carries out the individual production of extemporaneous medicines, their quality control, and their dispensing to consumers?
-a. Ready-made dosage forms
-b. Medical cosmetics
-c. Stock of goods
-d. Over-the-counter sales
-*e. Prescription and production
+a. Medical cosmetics
+b. Over-the-counter sales
+c. Prescription and production
+d. Stock of goods
+e. Ready-made dosage forms
 
 442. A patient with heart failure has developed an electrolyte imbalance against the background of diuretic treatment with furosemide. What imbalance has the patient developed?
 a. Hyperkalemia
@@ -3093,11 +3093,11 @@ d. Hypocalcemia
 *e. Hypokalemia
 
 443. The main active substances of Rhizomata et radices Eleutherococci are eleutherosides of various chemical nature. What class of bioactive substances includes syringoresinol and its derivatives that determine the tonic and adaptogenic properties of this herbal raw material?
-a. Flavonoids
-b. Xanthones
-c. Coumarins
-d. Iridoids
-*e. Lignans
+a. Xanthones
+b. Flavonoids
+c. Iridoids
+d. Coumarins
+e. Lignans
 
 444. The process of rectification is used to make ethyl alcohol. This process is based on the following principle:
 *a. Separation of the mixture consisting of mutually-associating liquids with different boiling temperature into separate fractions
@@ -3115,17 +3115,17 @@ e. Nitric acid solution
 
 446. A 62-year-old woman has been diagnosed with acute pyelonephritis. She was prescribed gentamicin. Additionally, she takes furosemide. What are the possible complications of such treatment?
 a. Increased hematotoxicity of  gentamicin
-b. Increased hepatotoxic action of  aminoglycosides
-*c. Increased ototoxicity of  aminoglycosides
-d. High risk of seizures
-e. High risk of allergic reactions
+*b. Increased ototoxicity of  aminoglycosides
+c. High risk of seizures
+d. High risk of allergic reactions
+e. Increased hepatotoxic action of  aminoglycosides
 
 447. The marketing department of a pharmaceutical factory determined that the demand for the echinacea syrup for kids greatly fluctuates in response to the smallest changes in its price. What type of demand is it?
-*a. Elastic demand
-b. Unitary demand
-c. Perfectly inelastic demand
-d. Inelastic demand
-e. Universal demand
+a. Perfectly inelastic demand
+b. Universal demand
+c. Unitary demand
+*d. Elastic demand
+e. Inelastic demand
 
 448. A pharmacist prepared a 5% glucose solution and added 5 mL of Weibel's stabilizer. What is the volume of the prepared solution?
 a. 100 mL
@@ -3158,9 +3158,9 @@ e. Commercial
 452. Menthol has an antispasmodic and analgesic effect. What herbal raw material is a source of menthol?
 a. Folia Menthae piperitae
 b. Folia Eucalypti
-c. Folia Salviae
+c. Folia Betulae
 d. Folia Absinthii
-e. Folia Betulae
+e. Folia Salviae
 
 453. Hyoscyamine and scopolamine are typically contained in the plants of the following family:
 a. Fabaceae
@@ -3177,11 +3177,11 @@ d. The State Service of Ukraine for Drug Control
 e. The Control and Revision Office
 
 455. An accountable person has received a sum of money from the pharmacy cash desk to buy a calculator. What document records the cash flow in such a transaction?
-*a. Cash expense order
-b. Invoice
-c. Remains unregistered documentarily
-d. Cash income order
-e. Receipt
+a. Remains unregistered documentarily
+b. Receipt
+c. Invoice
+*d. Cash expense order
+e. Cash income order
 
 456. Vitamin K is known to take part in formation of prothrombin and to facilitate blood coagulation. What herbal raw material accumulates significant amounts of vitamin K and has a hemostatic effect?
 a. Semina Hippocastani
@@ -3275,11 +3275,11 @@ d. Volatile
 e. Colored
 
 469. A pharmacist-analyst of a control-analytical laboratory performs  identification of a drug substance in accordance with the State Pharmacopoeia of Ukraine regulations. What result is observed during the test for benzoates with a solution of iron(III) chloride?
-a. The solution colors blue and becomes colorless after the addition of ammonia solution
-b. An intense blue coloring appears
-c. A black precipitate forms, which  dissolves if a diluted sodium hydroxide solution is added
+a. An intense blue coloring appears
+b. A black precipitate forms, which  dissolves if a diluted sodium hydroxide solution is added
+c. The solution colors blue and becomes colorless after the addition of ammonia solution
 d. A white precipitate forms, which is  insoluble in a diluted hydrochloric acid
-e. A pale yellow ether-soluble precipitate forms
+*e. A pale yellow ether-soluble precipitate forms
 
 470. At a pharmacy, during the visual inspection, an authorized person has doubts about the quality of medicines. What measures should be taken in this case?
 a. Withdraw the medicines and send them to the quality assurance department of the manufacturing company
@@ -3352,11 +3352,11 @@ d. Cerimetry
 e. Potentiometry
 
 480. When preparing dermatological ointments the following substance should be introduced by suspending:
-a. Menthol
+a. Camphor
 *b. Xeroform
-c. Camphor
+c. Ephedrine hydrochloride
 d. Protargol (silver proteinate)
-e. Ephedrine hydrochloride
+e. Menthol
 
 481. Polemonium caeruleum rhizomes with roots are a source material for making expectorants. What group of substances causes this effect?
 a. Flavonoids
@@ -3409,10 +3409,10 @@ e. Ibuprofen
 
 488. A pharmacist prepares fat-based suppositories by pouring. Specify the type of fatty vehicle in this case:
 a. Vaseline (petroleum jelly)
-b. Spermaceti
-c. Cocoa butter
-*d. Butyrol
-e. Wax
+b. Cocoa butter
+c. Wax
+d. Spermaceti
+*e. Butyrol
 
 489. What adjuvants can increase the viscosity and melting temperature of an ointment base?
 a. Ethanol, purified water
@@ -3429,11 +3429,11 @@ d. 20
 *e. 15
 
 491. The head of a pharmacy uses a flexible system of pharmacy management methods. Select from the list below a measure that corresponds with organizational influence methods:
-*a. Clear distribution of tasks between the employees
+a. Meeting the cultural and social needs of employees
 b. Material reward (bonuses, increments, pay rise)
-c. -
-d. Meeting the cultural and social needs of employees
-e. Promotion
+c. Promotion
+*d. Clear distribution of tasks between the employees
+e. -
 
 492. Within the last year the ''East-Pharmacy'' pharmaceutical wholesaler has lost 10% of its employees, who resigned and were hired by the competitor company ''East-Optima''. Individual transfer of the ''East-Pharmacy'' employees to the ''East-Optima'' company can be characterized as:
 a. Staff motivation
@@ -3464,11 +3464,11 @@ d. Mediated
 e. Mixed
 
 496. Difference between the retail price of products sold and the margin determines:
-a. Breakeven
-b. Margin
-c. Income
-d. Production cost
-e. Markup
+a. Income
+b. Breakeven
+c. Markup
+d. Margin
+e. Production cost
 
 497. In what order must alcohol-containing solutions be added into aqueous solutions during the preparation of liquid dosage forms?
 a. In the order of increasing volume of alcohol-containing solutions
@@ -3499,10 +3499,10 @@ d. Goods
 *e. Buildings
 
 501. The medicinal plants of the Fabaсeae family contain various groups of bioactive substances. What representative of this family contains flavonoids and is used as an industrial source of rutin?
-a. Glycyrrhiza glabra
-b. Ononis arvensis
-c. Bidens tripartita
-d. Thermopsis alterniflora
+a. Bidens tripartita
+b. Thermopsis alterniflora
+c. Ononis arvensis
+d. Glycyrrhiza glabra
 *e. Styphnolobium japonicum
 
 502. A medicine has caused a side effect in the patient due to the patient's hereditary defect of the enzymatic system. This phenomenon is called:
@@ -3513,11 +3513,11 @@ d. Allergic response
 e. Dysbiosis
 
 503. Microscopy of a root of a certain medicinal plant reveals the following features: parenchyma cells contain inulin, there are lacticifers, cambium line is clearly visible. This root belongs to:
-*a. Taraxacum officinalis
-b. Sanguisorba officinalis
-c. Zingiber officinale
+a. Sanguisorba officinalis
+b. Althaea officinalis
+c. Taraxacum officinalis
 d. Inula helenium
-e. Althaea officinalis
+e. Zingiber officinale
 
 504. A pharmacist approached the chief manager of the pharmacy with a proposition to introduce an additional service for their customers - blood pressure measurement. What type of communication is it?
 a. Intra-level
@@ -3583,11 +3583,11 @@ d. Acoustic
 e. Ultrasonic
 
 513. A marketing consultancy was comparing various drugs containing salbutamol. It was using such parameters as the cost of a treatment course, width of a distribution channel, frequency of medications, etc. The consultancy was determining the:
-a. Market stability
+a. Novelty of the drugs
 b. Competitiveness of the drugs
-c. Novelty of the drugs
-d. Quality of the drugs
-e. Life cycle stage of the drugs
+c. Market stability
+d. Life cycle stage of the drugs
+e. Quality of the drugs
 
 514. What medicine would be most advisable for symptomatic treatment of constipation in pregnant women?
 *a. Lactulose
@@ -3674,11 +3674,11 @@ d. Folium Menthae piperitae
 e. Cortex Viburni opuli
 
 526. Essential oil of a certain plant contains up to 80% of cineole. Specify the herbal raw material that is collected from this plant:
-a. Folia Eucalypti
+a. Folia Betulae
 b. Folia Menthae piperitae
 c. Folia Мelissae
-d. Folia Betulae
-e. Folia Absinthii
+d. Folia Absinthii
+e. Folia Eucalypti
 
 527. One of the substances listed below is textbfNOT a vitamin:
 a. Nicotinic acid
@@ -3702,11 +3702,11 @@ d. Allergic response
 e. Nephrotoxicity
 
 530. A pharmaceutical factory produces antimicrobial agent nitrofurazone (Nitrofural, Furacilin). What initial substance is used in its synthesis?
-a. Benzaldehyde
-b. Hydroxyquinoline
-*c. Furfural
-d. Resorcinol
-e. Aniline
+*a. Furfural
+b. Aniline
+c. Resorcinol
+d. Benzaldehyde
+e. Hydroxyquinoline
 
 531. Buckthorn bark and its derivative drugs are used as laxatives in medicine. According to the State Pharmacopoeia of Ukraine during chromatographic identification of buckthorn bark it is necessary to detect:
 a. Ginkgosides
@@ -3723,11 +3723,11 @@ d. Purified water
 e. Peach oil
 
 533. To minimize business risks, the board of directors of a pharmaceutical company decides to expand into a market of plant protection products. Such approach to risk management is called:
-a. Insurance
-b. Intensification
-c. Integration
-*d. Diversification
-e. Consolidation
+a. Consolidation
+b. Insurance
+c. Intensification
+d. Integration
+*e. Diversification
 
 534. The doctor prescribed a patient 100 ml of thermopsis grass infusion. How much of the dry concentrate of thermopsis grass (1:1) should the pharmacist measure out for this patient?
 a. 0.2 g
@@ -3779,10 +3779,10 @@ c. Methacycline
 e. Rifampicin
 
 541. A pharmaceutical company uses various methods of advertising. What method of advertising foresees its distribution to everyone, not just the target audience?
-a. Out-of-home advertising
-b. Professional-targeted advertising
-c. Advertising souvenirs
-d. Postal cards and pamphlets
+a. Advertising souvenirs
+b. Postal cards and pamphlets
+c. Professional-targeted advertising
+*d. Out-of-home advertising
 e. -
 
 542. The amount of temporary disability benefits to be paid is calculated taking into account the insured record of service of an employee. What percentage of temporary disability benefits will be paid to an employee with a disability certificate and more than 8-year-long insured record of service?
@@ -3801,9 +3801,9 @@ e. Silver nitrate solution
 
 544. Aesculus hippocastanum seeds as a herbal raw material can be standardized by their quantitative content of aescin that belongs to the following group of bioactive substances:
 a. Flavonoids
-b. Coumarins
-c. Tannins
-*d. Saponins
+*b. Saponins
+c. Coumarins
+d. Tannins
 e. Anthracene derivatives
 
 545. Name the drug of choice for treatment of arterial hypertension during pregnancy:
@@ -3877,11 +3877,11 @@ d. Dibazol (Bendazol)
 e. Camphor
 
 555. Marketing department of the Public Company ''Lugansk Chemical Pharmaceutical Factory'' determined that the demand for a herbal cough remedy, manufactured for children as a syrup, fluctualtes significantly within a year. Such demand is considered to be:
-a. Unrealized
-b. Irregular
+a. Inadequate
+b. Unrealized
 c. Irrational
-d. Incorrect
-e. Inadequate
+*d. Irregular
+e. Incorrect
 
 556. The head manager of a pharmacy calls the manager of a pharmaceutical wholesaler to clarify the terms of supply. What type of communication is it?
 a. Horizontal
@@ -3906,10 +3906,10 @@ e. Sodium bicarbonate, sodium sulfate
 
 559. What parameter characterizes the ratio of the height of the powder in the matrix to the height of the obtained tablet?
 a. Bulk volume
-*b. Compaction (compression) coefficient
+b. Compression value
 c. Flowability
-d. Porosity
-e. Compression value
+*d. Compaction (compression) coefficient
+e. Porosity
 
 560. The tablet workshop at a pharmaceutical factory manufactures tablets adding adjuvants into the tablet mass. What substances belong to taste correctors?
 a. Starch, glucose, kaolinite, magnesium oxide, sodium bicarbonate
@@ -3975,11 +3975,11 @@ d. Inula helenium
 e. Juniperus communis
 
 569. Which one of the listed drugs is a glycoside antibiotic?
-a. Levomycetin (Chloramphenicol)
+a. Tetracycline
 b. Cephalexin
-*c. Erythromycin
-d. Polymyxin
-e. Tetracycline
+c. Polymyxin
+d. Levomycetin (Chloramphenicol)
+*e. Erythromycin
 
 570. What medicine is recommended to reduce the risk of gastrointestinal bleeding during a long-term treatment with an acetylsalicylic acid-based antiaggregant?
 *a. Omeprazole
@@ -4143,11 +4143,11 @@ d. Clarithromycin
 e. Metoclopramide
 
 593. Glucose substance was received for analysis. When heated with copper tartrate reagent (Fehling reagent), it produced a red precipitate, which indicates that its structure contains:
-a. Alcoholic hydroxyl
-b. Ester group
-c. Amide group
-d. Phenolic hydroxyl
-e. Aldehyde group
+a. Phenolic hydroxyl
+b. Amide group
+*c. Aldehyde group
+d. Alcoholic hydroxyl
+e. Ester group
 
 594. A pharmacist prepares cocoa butter-based round vaginal suppositories with less than 5% of citric acid. Specify the most rational approach to introduction of the active ingredient into the vehicle:
 a. Dissolve in Dimexid (Dimethylsulfoxide)
@@ -4171,11 +4171,11 @@ d. A certain discomfort, a feeling that  something is lacking
 e. Psychological characteristics of people that help them acquire certain types of knowledge
 
 597. What pharmacological group of drugs textbfCANNOT be combined with expectorants?
-a. Antibacterial drugs
-*b. Antitussive drugs
-c. Polyvitamins
-d. Decongestants
-e. Mucolytic agents
+a. Decongestants
+b. Mucolytic agents
+*c. Antitussive drugs
+d. Polyvitamins
+e. Antibacterial drugs
 
 598. Number of mediators that pharmaceutical goods pass on their way from manufacturer to consumer is called:
 a. Volume of distribution channel
@@ -4185,18 +4185,18 @@ d. Width of distribution channel
 e. -
 
 599. Camomile flowers are a popular medicinal substance in scientific medicine. What plant is the source of this herbal raw material?
-a. Anthemis arvensis
-b. Anthemis cotula
-c. Tripleurospermum inodorum
-*d. Chamomilla recutita
-e. Leucanthemum vulgare
+a. Tripleurospermum inodorum
+b. Anthemis arvensis
+c. Chamomilla recutita
+d. Leucanthemum vulgare
+e. Anthemis cotula
 
 600. There are several formal and informal groups among the pharmaceutical company's employees. What feature is characteristic of formal groups?
-a. The group leader receives authority from the group
-b. They form spontaneously
-c. They resist changes in the organization
-*d. They are created to implement the production process
-e. They form as a result of interest, sympathy
+a. They resist changes in the organization
+*b. They are created to implement the production process
+c. They form as a result of interest, sympathy
+d. They form spontaneously
+e. The group leader receives authority from the group
 
 601. What preservative did the pharmacist use to ensure the stability of eye drops?
 a. Polyvinyl alcohol
@@ -4284,10 +4284,10 @@ e. Authorized capital, fixed assets
 
 613. A pharmacy has submitted its financial report for the first quarter of 2021. It contains the following information: turnover - 92 000 UAH, cost price of the goods sold - 60 000 UAH. Therefore, the price markup for this period amounts to:
 a. 60 000 UAH
-b. 90 000 UAH
-c. 2 000 UAH
-d. 62 000 UAH
-*e. 32 000 UAH
+b. 62 000 UAH
+*c. 32 000 UAH
+d. 90 000 UAH
+e. 2 000 UAH
 
 614. What morphological feature is diagnostic for the Matricaria chamomilla herbal raw material?
 a. Spherical receptacle with membranous bracts
@@ -4304,11 +4304,11 @@ d. Telephone interview
 e. Filling in a questionnaire
 
 616. Incoming medicines inspection is performed by an authorized employee. What is textbfNOT a part of the responsibilities of this person?
-a. -
-*b. To draw up orders for medicines and medical products, to conclude sales contracts
-c. To check the pharmacy stock for low-quality or fake medicines
+a. To check the pharmacy stock for low-quality or fake medicines
+b. To keep a roster of incoming medicines
+c. -
 d. To draw up conclusions regarding inspection of  incoming medicines
-e. To keep a roster of incoming medicines
+*e. To draw up orders for medicines and medical products, to conclude sales contracts
 
 617. During identification of a medicinal substance, a chloroform layer colors yellow-orange after addition of a solution of chloramine and hydrochloric acid. Name this substance:
 *a. Sodium bromide
@@ -4325,11 +4325,11 @@ d. Sulfur dioxide
 e. Pyridine
 
 619. A manager of a wholesale pharmaceutical company is responsible for relaying various tasks to the employees and supervises the fulfillment of assigned tasks. What management level corresponds with these duties?
-a. Top-level
-b. Middle-level
-c. Institutional
-*d. Technical
-e. Administrative
+a. Middle-level
+b. Top-level
+c. Administrative
+d. Technical
+e. Institutional
 
 620. A dispensing chemist has a total insured work record of 10 years. It means that the dispensing chemist can expect the following amount of temporary disability benefits:
 a. 80% of the average salary
@@ -4430,11 +4430,11 @@ d. -
 e. Expanding the range of  pharmaceutical goods
 
 634. Name the list of effective and safe to use drugs and medical products for prevention, diagnosing, and treatment of the most common pathologies, based on their importance for healthcare in a specific country:
-a. Drugs subject to strict accounting in a special inventory log
-b. Over-the-counter drugs
-c. Substandard drugs
-d. Precursors
-*e. Essential drugs
+a. Over-the-counter drugs
+b. Drugs subject to strict accounting in a special inventory log
+c. Essential drugs
+d. Substandard drugs
+e. Precursors
 
 635. The dispensing chemist of a pharmacy has prepared 5 formulations. Which one of them requires total chemical control?
 a. Baby powder
@@ -4486,11 +4486,11 @@ d. Inhibition of the prothrombin synthesis
 e. Disorder of protein binding
 
 642. Storage of medical products in pharmacies is carried out in compliance with the law. What relative humidity is necessary for storage of rubber products to prevent their drying and deformation?
-a. At least 30%
-b. At least 20%
-*c. At least 65%
-d. At least 50%
-e. At least 40%
+a. At least 50%
+b. At least 65%
+c. At least 30%
+d. At least 40%
+e. At least 20%
 
 643. To prepare an ointment, a pharmacist has additionally used paraffin. What is the role of paraffin in the technology?
 a. Dispersing agent for powders
@@ -4528,10 +4528,10 @@ c. AgNO_3
 e. K_3[FeСN)_6]
 
 648. What concept can be described as ''…an area of exchange with its characteristic system of economic relations between goods manufacturers and consumers''?
-a. Marketing
-b. Agreement
-c. Management
-*d. Market
+a. Agreement
+*b. Market
+c. Marketing
+d. Management
 e. Sales
 
 649. In the process of phytochemical examination of buckthorn bark, the reaction with alkaline solution resulted in red coloring, which indicates the presence of the following:
@@ -4556,11 +4556,11 @@ d. Double entry
 e. Turnover balance sheet
 
 652. When obtaining individial substances, the choice of an extractant is determined mainly by its:
-a. Cost
-b. Thermostability
+a. Pharmacological inertness
+b. Cost
 *c. Selectivity toward active substances
-d. Anti-hydrolysis effect
-e. Pharmacological inertness
+d. Thermostability
+e. Anti-hydrolysis effect
 
 653. To identify ethanol an analytical chemist needs to conduct a:
 *a. Iodoform test
@@ -4724,11 +4724,11 @@ d. 1.9 g
 *e. 2.9 g
 
 676. What is present in the structure of procaine hydrochloride, making its alkalimetric titration possible?
-a. Ester bond
-b. Residue of n-aminobenzoic acid
-*c. Bound hydrochloric acid
-d. Unsubstituted aromatic cycle
-e. Diethylamino group
+a. Unsubstituted aromatic cycle
+b. Diethylamino group
+c. Residue of n-aminobenzoic acid
+d. Ester bond
+*e. Bound hydrochloric acid
 
 677. What fatty oil can be used as a substitute for olive oil, when making injectable solutions?
 a. Oleum Ricini
@@ -4738,11 +4738,11 @@ c. Oleum Lini
 e. Oleum Maydis
 
 678. What prescription form is used to prescribe psychotropic drugs in their pure form or in a mixture with indifferent substances for the dispensation free of charge or at a discount?
-a. Prescription form f-1
-b. Two copies of prescription form f-3
+a. Two copies of prescription form f-3
+b. Prescription form f-3
 c. Two copies of prescription form f-1
-d. Prescription form f-3
-*e. Two prescription forms f-1 and f-3
+d. Two prescription forms f-1 and f-3
+e. Prescription form f-1
 
 679. A pharmacy visitor periodically feels constricting pain behind the sternum. Explain to this visitor, what contraindication exists for taking nitroglycerin.
 a. Heart failure
@@ -4774,9 +4774,9 @@ e. -
 
 683. Mixture is a liquid dosage form for internal use. It is obtained by mixing two or more solid or liquid dosage forms in a solvent. If a mixture contains tinctures, they should be added:
 *a. Last in the order of increasing ethanol concentration
-b. After poisonous and narcotic substances are dissolved (before concentrates)
-c. Last in the order of decreasing ethanol concentration
-d. In the same order in which they are listed in the formulation
+b. Last in the order of decreasing ethanol concentration
+c. In the same order in which they are listed in the formulation
+d. After poisonous and narcotic substances are dissolved (before concentrates)
 e. First
 
 684. Various groups of propellants are used in production of aerosols. What group does carbon dioxide CO_2 belong to?
@@ -4836,11 +4836,11 @@ d. Potassium bromate solution
 e. Sodium edetate solution
 
 692. A 60-year-old patient, who had suffered a myocardial infarction, was prescribed acetylsalicylic acid as an antiaggregant. Specify the optimal daily dosage of acetylsalicylic acid for antiaggregatory effect:
-a. 300 mg
-b. 400 mg
-*c. 100 mg
-d. 500 mg
-e. 200 mg
+*a. 100 mg
+b. 300 mg
+c. 500 mg
+d. 200 mg
+e. 400 mg
 
 693. Pharmaceutical logistics is aimed at advertising, search for customers, entering into agreements, after-sales service, and transportation. What type of logistics is it?
 *a. Sales
@@ -4865,8 +4865,8 @@ e. Furanochromon kelin
 
 696. A pharmacy supplies the surgical ward of a hospital. What document enables the dispensing chemist to supply the goods:
 a. Receipt log book
-b. Consolidated register
-*c. Purchase order
+*b. Purchase order
+c. Consolidated register
 d. Report on the movement of packaging
 e. Product revaluation notice
 
@@ -4942,17 +4942,17 @@ d. Coercive power
 
 707. A man came to the ophthalmologist complaining of poor twilight vision. Having collected the patient's medical history, the doctor suspected that these signs could be caused by the lack of a certain vitamin. What vitamin is likely to be deficient in this case?
 *a. Retinol
-b. Phylloquinone (Phytomenadione)
-c. Tocopherol
-d. Ergocalciferol
-e. Cholecalciferol
+b. Tocopherol
+c. Phylloquinone (Phytomenadione)
+d. Cholecalciferol
+e. Ergocalciferol
 
 708. Specify the optimal method for industrial production of suppositories:
 a. Pressing
-b. Stamping
-c. Hand-rolling
-d. Pouring into moulds
-e. Lyophilization
+b. Hand-rolling
+*c. Pouring into moulds
+d. Lyophilization
+e. Stamping
 
 709. The preparations of Silybum marianum, ''Silibor'' and ''Carsil'', have hepatoprotective action. What parts of Silybum marianum are the herbal raw material from which these medicines are being made?
 a. Flowers
@@ -5018,11 +5018,11 @@ d. Datura Stramonium
 e. Solanum tuberosum
 
 718. A pharmaceutical company promotes a healthy lifestyle, provides sponsorship to an orphanage, and funds sporting events. Name this concept of the company activity:
-a. Financial activity
-*b. Social responsibility
-c. Commercial activity
+a. Manufacturing activity
+b. Commercial activity
+c. Financial activity
 d. -
-e. Manufacturing activity
+e. Social responsibility
 
 719. A group of independent intermediaries operates on a regional market. They sell medicines on their own behalf and at their own cost. Such intermediaries are called:
 a. Agents
@@ -5039,10 +5039,10 @@ d. One-level channel
 e. Four-level channel
 
 721. Helichrysum arenarium herbal raw material has anti-inflammatory and choleretic effect. What parts of this plant are harvested?
-*a. Flowers
-b. Rhizomes
+a. Rhizomes
+b. Grass
 c. Fruits
-d. Grass
+*d. Flowers
 e. Roots
 
 722. A pharmacist prepares a chamomile flowers infusion. Specify the proportion of raw material to infusion:
@@ -5053,11 +5053,11 @@ d. 1:20
 e. 1:30
 
 723. What is the mandatory component of medical product advertising for end users, according to the law of Ukraine "On Advertising"?
-a. Reference to the drug as the most effective
-b. References to the cases of successful drug use
-c. Comparison with other medical products
+a. Comparison with other medical products
+b. Reference to the drug as the most effective
+c. Naming and mentioning celebrities, movie and cartoon characters, competent authorities
 *d. Warning that self-medication can be harmful to health
-e. Naming and mentioning celebrities, movie and cartoon characters, competent authorities
+e. References to the cases of successful drug use
 
 724. What adjuvants improve the wettability and water permeability of the components during the tablet production?
 a. Thickeners
@@ -5074,11 +5074,11 @@ d. -
 *e. Socio-psychological
 
 726. General sedimentation reagents are used to identify alkaloids in an extract obtained from herbal raw materials. Select from the list one such reagent.
-a. Marquis reagent
-b. Froehde reagent
+*a. Dragendorff reagent
+b. Erdman reagent
 c. Vitali-Morin reagent
-*d. Dragendorff reagent
-e. Erdman reagent
+d. Marquis reagent
+e. Froehde reagent
 
 727. A phytochemical department of a factory produces Calendula tincture. What herbal raw material is used in the manufacturing process?
 a. Roots, rhizomes, and grass
@@ -5116,11 +5116,11 @@ d. Dissolution in the minimal amount of castor oil
 e. Dissolution in the melted base
 
 732. Infusions of herbal raw material rich in essential oils should be:
-a. Immediately filtered
-b. Filtered without wringing of the solid residue
-*c. Prepared in a tightly closed vessel
-d. Acidated with hydrochloric acid
-e. Infused cold
+a. Infused cold
+*b. Prepared in a tightly closed vessel
+c. Filtered without wringing of the solid residue
+d. Immediately filtered
+e. Acidated with hydrochloric acid
 
 733. A pharmacist has prepared a liquid mixture. What component was added last into the vial?
 a. Purified water
@@ -5208,17 +5208,17 @@ d. 1 year
 
 745. A pharmaceutical factory produces soft dosage forms. What soft dosage form melts at the body temperature?
 a. Ointment
-b. Liniment
+b. Paste
 c. Gel
-d. Paste
-e. Cream
+d. Cream
+*e. Liniment
 
 746. What activity of a pharmaceutical company includes improvement of employees' working and living conditions, healthcare and medical insurance and other means of social development?
-a. Financial activity
-b. Social responsibility
+a. Social responsibility
+b. Financial activity
 c. Commercial activity
-d. Charity
-e. Industrial activity
+d. Industrial activity
+e. Charity
 
 747. There are certain legal requirements to the format of a prescription. Physicians that have a private practice must state the following in the upper left corner of a prescription form:
 *a. Own address, license number and its date of issue
@@ -5228,11 +5228,11 @@ d. Surname and initials of the doctor
 e. Medical facility seal
 
 748. A pharmaceutical company wants to strengten its position in the competitive market environment. It decides to use brand names as a part of its trade policy. What is the purpose of a brand name?
-*a. Differentiation between the  competing medicines on the market
-b. Justification of a higher price for the medicine
-c. Eligibility for registration in the List of medicines and medical products with state-controlled prices
-d. Ensuring the necessary quality of  medicines
-e. It is a mandatory condition to be able to sell medicines at a reduced price to certain population groups
+a. Ensuring the necessary quality of  medicines
+b. It is a mandatory condition to be able to sell medicines at a reduced price to certain population groups
+*c. Differentiation between the  competing medicines on the market
+d. Eligibility for registration in the List of medicines and medical products with state-controlled prices
+e. Justification of a higher price for the medicine
 
 749. The introduction of fluorine atoms into a glucocorticosteroid molecule results in a significant increase of the anti-inflammatory effect. What drug is a fluorine-derivative glucocorticoid?
 a. Prednisone
@@ -5291,11 +5291,11 @@ d. Cobalt chloride
 e. Iron(III) chloride
 
 757. The ''Dr Ram'' pharmaceutical company organizes scientific conferences and workshops for doctors and pharmaceutical workers. What element of marketing communications is used by this pharmaceutical company?
-*a. Public relations
-b. Merchandising
-c. Sales stimulation
-d. Direct marketing
-e. Personal selling
+a. Sales stimulation
+b. Personal selling
+c. Merchandising
+*d. Public relations
+e. Direct marketing
 
 758. A pharmacy has received a prescription for colloid solution. Name this solution:
 *a. Collargol solution
@@ -5306,9 +5306,9 @@ e. Sodium chloride solution
 
 759. Quality of dried extracts is assessed according to several criteria. Specify the highest acceptable amount of moisture in dried extracts according to the State Pharmacopoeia of Ukraine:
 a. 20%
-b. 95%
-c. 5%
-d. 75%
+b. 75%
+c. 95%
+*d. 5%
 e. 25%
 
 760. An analytical chemist uses nitritometry for quantitative determination of procainamide hydrochloride. What indicator is used in this case to determine the titration endpoint?
@@ -5319,11 +5319,11 @@ d. Methyl orange
 e. Methyl red
 
 761. A patient is 20 years old. After she was stung by a bee the patient developed Quincke's disease; rash in the form of blisters and papulae appeared on her torso. First aid in this case should start with administering the following drug:
-a. Penicillin
-b. Fresh frozen plasma
-c. Rheopolyglukin (Dextran)
+a. Rheopolyglukin (Dextran)
+*b. Prednisolone
+c. Penicillin
 d. Haemodes
-e. Prednisolone
+e. Fresh frozen plasma
 
 762. A woman with open tuberculosis is undergoing in-patient treatment in the tuberculosis clinic. What drug was prescribed by her physician for etiotropic treatment?
 *a. Isoniazid
@@ -5347,11 +5347,11 @@ c. Customers ledger
 e. Receipt book
 
 765. According to the State Pharmacopoeia of Ukraine monograph, alkalimetry should be used for the quantitative determination of the nicotinic acid. What is used as an indicator in this case?
-a. Potassium chromate
-b. Calconcarbonic acid
-c. Sodium eosinate
-*d. Phenolphthalein
-e. Methylene blue
+a. Methylene blue
+*b. Phenolphthalein
+c. Potassium chromate
+d. Calconcarbonic acid
+e. Sodium eosinate
 
 766. Hydrogen sulfide is being produced in the process of dry pyrolysis of a certain sulfanilamide drug. Name this drug:
 a. Sulfacil sodium
@@ -5383,9 +5383,9 @@ e. Remarketing
 
 770. A private pharmacy has received a supply of a drug with 2,3-dihydro-2-methyl-1,4-naphthoquinone-2-sulfonate sodium as an active ingredient. Name this drug:
 a. Ergocalciferol
-b. Riboflavin
-*c. Vicasol (Menadione)
-d. Cocarboxylase hydrochloride
+b. Cocarboxylase hydrochloride
+c. Riboflavin
+*d. Vicasol (Menadione)
 e. Rutin
 
 771. Various admixtures are possible in the process of harvesting, drying, and primary processing of herbal raw material. Organic admixtures include:
@@ -5417,11 +5417,11 @@ d. Cardiac glycosides
 e. Polysaccharides
 
 775. A pharmacist has prepared a collargol solution. Name the type of disperse system in this case:
-a. True solution
-b. Suspension
-c. Aerosol
+a. Emulsion
+b. Aerosol
+c. Suspension
 *d. Colloid solution
-e. Emulsion
+e. True solution
 
 776. Eucalyptus essential oil is used as an antiseptic. What excretory structures of a leaf accumulate this substance?
 a. Essential oil cavities
@@ -5677,10 +5677,10 @@ e. To lower its melting temperature
 
 812. According to the State Pharmacopoeia of Ukraine, cerimetry should be used to determine the quantitative content of paracetamol. What solution is used as a titrant in this case?
 a. Potassium permanganate
-b. Hydrochloric acid
-c. Silver nitrate
-d. Cerium sulfate
-e. Iodine monochloride
+b. Iodine monochloride
+c. Hydrochloric acid
+*d. Cerium sulfate
+e. Silver nitrate
 
 813. For rapid analysis of a dosage form with procaine hydrochloride, an analytical chemist performed necessary chemical reactions. What reaction is a variation of Schiff base formation?
 a. <<Silver mirror>> reaction
@@ -5690,11 +5690,11 @@ d. Iodoform test
 e. Hydroxamic reaction
 
 814. A man has bought nitroglycerine for sublingual administration in a pharmacy. He wants to know, what side effect might develop after taking this medicine:
-a. Urinary retention
-b. Drowsiness
-c. Headache
-d. Increased blood pressure
-e. Dry cough
+a. Increased blood pressure
+b. Dry cough
+c. Urinary retention
+d. Drowsiness
+*e. Headache
 
 815. A pharmacist prepares an infusion in proportion 1:400. Specify the herbal raw material used in this infusion:
 a. Althaea roots
@@ -5718,18 +5718,18 @@ d. Direct
 e. Collective
 
 818. ''Avicenna'', a newly founded pharmaceutical company, operates round-the-clock. What employees cannot be assigned to night shifts?
-*a. Employees under 18 (underage)
-b. Employees under 25
-c. Employees of retirement age
-d. Employees under 30
-e. -
+a. -
+b. Employees under 30
+c. Employees under 25
+*d. Employees under 18 (underage)
+e. Employees of retirement age
 
 819. To prepare eyedrops with antibiotic a dispensing chemist has been using flowing steam sterilization under 100^oC for 30 minutes. What antibiotic allows for such sterilization?
 a. Biomycin
-b. Sodium benzylpenicillin
-*c. Levomycetin (Chloramphenicol)
-d. Streptomycin sulfate
-e. Erythromycin
+*b. Levomycetin (Chloramphenicol)
+c. Sodium benzylpenicillin
+d. Erythromycin
+e. Streptomycin sulfate
 
 820. What substance is most often used as a vehicle in triturations?
 a. Sucrose
@@ -5762,8 +5762,8 @@ e. Urtica dioica
 824. Thymol and carvacrol are the main active substances of Thymus vulgaris. They belong to the following class of bioactive substances:
 *a. Essential oils
 b. Flavonoids
-c. Alkaloids
-d. Anthracene derivatives
+c. Anthracene derivatives
+d. Alkaloids
 e. Iridoids
 
 825. What adjuvants are used in manufacturing of tablets to change their taste?
@@ -5781,9 +5781,9 @@ d. Potassium chloride
 e. Calcium chloride
 
 827. What is an effective way of preserving the stability of the medicinal substances that are thermolabile and have low stability?
-a. Boiling
-b. Ultraviolet radiation
-c. Hydrolysis
+a. Ultraviolet radiation
+b. Hydrolysis
+c. Boiling
 d. Filtration
 *e. Lyophilization
 
@@ -5816,11 +5816,11 @@ d. Macrolides
 e. Fluoroquinolones
 
 832. The doctor has prescribed the patient an antispasmodic agent bendazol hydrochloride (Dibazol). Based on its chemical structure, bendazol hydrochloride is a derivative of:
-a. Purine
-b. Acridine
-c. Phenothiazine
-d. Indole
-*e. Benzimidazole
+a. Phenothiazine
+b. Indole
+c. Purine
+d. Acridine
+e. Benzimidazole
 
 833. What department of a wholesale firm is tasked with search for and analysis of potential suppliers' commercial offers, as well as concluding supply contracts and supervision of contract fulfillment?
 a. Shipping department
@@ -5845,10 +5845,10 @@ e. Diuretics
 
 836. What indicator is used in iodometry for quantitative determination of caffeine in caffeine and sodium benzoate?
 a. Bromthymol blue
-b. Eriochrome black
-c. Potassium chromate
-d. Methyl orange
-e. Starch
+b. Methyl orange
+c. Eriochrome black
+*d. Starch
+e. Potassium chromate
 
 837. The pharmaceutical company directs all the efforts to the restoration of the range of endangered medicinal plants listed in the Red Book of Ukraine. What type of responsibility does the firm take on?
 a. Criminal
@@ -5922,10 +5922,10 @@ e. Bromphenol blue
 
 847. The doctor has discontinued captopril for a 58-year-old patient diagnosed with arterial hypertension, because the patient has developed a complication. What side effect is the most likely cause for the discontinuation of this drug?
 a. Vomiting
-b. Tinnitus
-*c. Cough
-d. Abdominal pain
-e. Nausea
+b. Nausea
+c. Tinnitus
+*d. Cough
+e. Abdominal pain
 
 848. A large pharmaceutical company produces a homogeneous selection of medicinal products and sells them on the domestic market. What model of marketing service organization was chosen by this company?
 a. Segment-oriented
@@ -5935,11 +5935,11 @@ d. Product-oriented
 e. Regional
 
 849. In a pharmacy each employee is subordinate to only one manager, who makes all the management decisions. What type of organizational structure of the pharmacy's management is it?
-a. Functional
-*b. Linear
-c. Productive
-d. Adaptive
-e. Matrix
+a. Linear
+b. Productive
+c. Matrix
+d. Functional
+e. Adaptive
 
 850. The owner of a pharmacy network unilaterally decides to register its trade mark, based on his feeling that he makes the right choice. What type of managerial decision is it?
 *a. Intuitive
@@ -5998,11 +5998,11 @@ d. 0.03 g
 e. 0.04 g
 
 858. What property of the tablet mass determines the most how fast a matrix hole of the tablet press machine is filled?
-a. Humidity
-b. Fluidity (flowability)
-c. Bulk density
-d. Porosity
-e. Relative density
+a. Bulk density
+b. Porosity
+c. Humidity
+d. Relative density
+*e. Fluidity (flowability)
 
 859. A pharmacist prepares a compound powder. What medicinal substance must be comminuted without adding an adjuvant liquid (alcohol or ether)?
 a. Streptocide (Sulfanilamide)
@@ -6012,11 +6012,11 @@ d. Zinc oxide
 e. Camphor
 
 860. What oral hypoglycemic agent should be prescribed for a 47-year-old overweight patient with type 2 diabetes mellitus, if diet therapy is ineffective?
-a. Metronidazole
-*b. Metformin
-c. Metoprolol
-d. Metoclopramide
-e. Meloxicam
+a. Meloxicam
+b. Metoprolol
+c. Metoclopramide
+*d. Metformin
+e. Metronidazole
 
 861. Ampoule workshop of a factory produces 5% oil solution of tocopherol acetate for injections. What method of filling the ampoules is optimal in this case?
 *a. Syringe
@@ -6033,11 +6033,11 @@ d. Glucose
 *e. Ethacridine lactate
 
 863. What pricing policy is used by the management of a pharmacy, if during the price formation for pharmaceutical products the main focus is the prices offered by the nearest pharmacies, rather than pharmacy's own expences or demand for the products?
-a. Demand-based pricing
-b. Breakeven pricing
-c. Competition-based pricing
-d. Tender pricing
-e. Cost-based pricing
+a. Cost-based pricing
+b. Demand-based pricing
+c. Tender pricing
+*d. Competition-based pricing
+e. Breakeven pricing
 
 864. Clonidine hydrochloride is a salt of an organic base. What method is used for the quantification of this medicinal substance?
 a. Complexonometry
@@ -6357,9 +6357,9 @@ e. Herba Vincae minoris
 909. If potassium salts are put into the colorless flame of a gas burner, the flame colors:
 a. Brick-red
 b. Red
-c. Green
-d. Yellow
-*e. Violet
+c. Yellow
+d. Violet
+e. Green
 
 910. Achillea grass is harvested during a certain stage of plant growth. Name this stage:
 a. During the shoot growth
@@ -6376,11 +6376,11 @@ d. Dragee
 e. Forte tablets
 
 912. How long should the pharmacy keep a receipt for Morphin-ZN tablets, package №50?
-a. One month, not counting the current one
-b. The receipt form is not kept by the pharmacy
-c. One year, not counting the current one
-*d. Five years, not counting the current one
-e. Three years, not counting the current one
+*a. Five years, not counting the current one
+b. One month, not counting the current one
+c. Three years, not counting the current one
+d. The receipt form is not kept by the pharmacy
+e. One year, not counting the current one
 
 913. What is the driving force of the diffusion process during the extraction of a herbal raw material?
 a. Brownian motion of the particles
@@ -6411,11 +6411,11 @@ c. Acorus calamus rhizomes
 e. Viburnum bark
 
 917. During stock-taking at a pharmacy, a surplus of material goods was discovered. What should the inventory committee do with the discovered surplus?
-a. Writing off
+a. Conducting an official investigation
 b. Confiscation
-c. Elimination
-d. Conducting an official investigation
-e. Recording as received
+*c. Recording as received
+d. Writing off
+e. Elimination
 
 918. Money received for the goods sold are being transferred to the pharmacy from its outlet. What document must be drawn up by a cashier for the receipt of this monetary sum?
 a. Payment order
@@ -6439,11 +6439,11 @@ c. Hollow
 e. Porous
 
 921. In the process of pharmaceutical company entering an offshore market the traditions and customs, religion, system of values, and education level of the local population were analyzed. What factors of international marketing environment were researched?
-a. Political
-b. Sociocultural
-c. Legal
+a. Legal
+b. Economical
+c. Political
 d. Technological
-e. Economical
+e. Sociocultural
 
 922. A pharmacy has received from its supplier a shipment of drugs that are included into the National Essential Drugs List. What is the pricing policy regarding these drugs?
 a. Free-of-control price
@@ -6524,10 +6524,10 @@ e. 0.03 g
 
 933. The cashier of a pharmacy must record all receipt and withdrawal cash transactions in the relevant documents. What document must be drawn up for issuing cash sums to be accounted for?
 a. Profit invoice
-*b. Disbursement cash order
-c. Receipt for issuing money
-d. Cashier's check
-e. Expense invoice
+b. Expense invoice
+c. Cashier's check
+d. Receipt for issuing money
+e. Disbursement cash order
 
 934. A pharmaceutical warehouse has received a batch of herbal raw material - a bark of Quercus robur. What active substances should be measured in this material, according to the State Pharmacopoeia of Ukraine?
 a. Essential oils
@@ -6656,11 +6656,11 @@ d. Retabolil (Nandrolone)
 e. Hydrocortisone acetate
 
 952. The addition of preservatives and stabilizers is prohibited, when making the following dosage forms:
-a. Suspensions
-b. Infusions
+*a. Dosage forms for newborns
+b. Suspensions
 c. Ophthalmic dosage forms
-*d. Dosage forms for newborns
-e. Emulsions
+d. Emulsions
+e. Infusions
 
 953. A pharamacy has been licensed for wholesale distribution of medicinal products. What sales operation belongs to a wholesale distribution?
 a. Sale of over-the-counter drugs
@@ -6712,32 +6712,32 @@ d. Spansules
 e. Aerosols
 
 960. A 43-year-old patient was delivered to an admission room with renal colic attack. What group of drugs would be the most effective during the attack?
-a. Antacids
-*b. Antispasmodics
-c. Antibiotics
-d. Cholagogues
-e. Hepatoprotectors
+a. Cholagogues
+b. Antibiotics
+*c. Antispasmodics
+d. Hepatoprotectors
+e. Antacids
 
 961. A dispensing chemist uses iodometry (back titration) for quantitative determination of caffeine medicinal substance. What indicator is used in this case?
-a. Phenol red
-b. Phenolphthalein
-c. Eriochrome black
-*d. Starch
+*a. Starch
+b. Eriochrome black
+c. Phenol red
+d. Phenolphthalein
 e. Litmus paper
 
 962. What group of ointment bases vaseline (petroleum jelly) belongs to?
-a. Silicone bases
-*b. Hydrophobic bases
+*a. Hydrophobic bases
+b. Silicone bases
 c. Diphylic (amphiphilic) emulsion bases
 d. Adsorption bases
 e. Hydrophilic bases
 
 963. What indicator of the pharmacy's financial performance is determined by the volume of sales, where the income from sales is equal to the expenses of the pharmacy?
-a. Markup level
-*b. Breakeven point
-c. Goods turnover
-d. Profit
-e. Profitability
+a. Profit
+b. Goods turnover
+c. Profitability
+d. Markup level
+*e. Breakeven point
 
 964. A 6-year-old child developed pneumonia and was prescribed an antibiotic for its treatment. After the treatment the child's hearing deteriorated. What drug could have caused this complication?
 a. Ceftriaxone
@@ -6755,10 +6755,10 @@ d. Invoices
 
 966. Pharmaceutical corporations pay great attention to the formation of a certain set of values, traditions, and behavioral norms for all their employees. What is formed as a result of this type of corporate organizational work?
 a. Organization profitability
-b. Business expansion
+b. Product diversification
 c. Staff leasing
-*d. Organization culture
-e. Product diversification
+d. Business expansion
+*e. Organization culture
 
 967. What medicine is used for anesthesia and cannot be prescribed to outpatients, according to Decree №360?
 a. Midecamycin
@@ -6784,9 +6784,9 @@ e. Lamellar crystals in the tablet powder
 970. What medicinal substance has an imidazole fragment in its structure?
 a. Thiamine bromide
 b. Nitrofural
-c. Nicotinic acid
-d. Phenazone
-*e. Pilocarpine hydrochloride
+c. Phenazone
+*d. Pilocarpine hydrochloride
+e. Nicotinic acid
 
 971. A pharmacy has received a receipt for preparation of a dermatological ointment with a non-specified vehicle. What vehicle should be used in this case?
 a. Gelatin-glycerine gel
@@ -6845,11 +6845,11 @@ d. Ergotamine
 e. Securinine nitrate
 
 979. The ampoule workshop of a factory produces a 5% oil-based solution of tocopherol acetate for injections. What filling technique should be used to fill the ampoules with this solution?
-a. Vapor condensation
-*b. Syringe
-c. Syringe and vapor condensation
-d. Syringe and vacuum
-e. Vacuum
+a. Syringe and vacuum
+b. Vacuum
+*c. Syringe
+d. Vapor condensation
+e. Syringe and vapor condensation
 
 980. For the treatment of cystitis, the doctor prescribed the patient a herbal drug. This drug is used in cases of acute and chronic infectious diseases of the kidneys and bladder. What herbal raw material that contains iridoids and xanthones is a component of this drug?
 *a. Centaurium grass
@@ -7181,11 +7181,11 @@ d. Additional salary
 e. Reimbursement
 
 1027. When preparing suspensions, the medicinal substance is ground with a small amount of liquid. What is the optimal amount of liquid for comminution of 20 mg of zinc oxide according to the Deriagin's rule?
-a. 0.5 mL
-b. 1 mL
-c. 10 mL
-d. 5 mL
-e. 2 mL
+a. 1 mL
+b. 0.5 mL
+c. 5 mL
+d. 2 mL
+*e. 10 mL
 
 1028. A pharmacy warehouse has received a shipment of drugs. During quality control by an authorized person, there were some drugs of questionable quality detected. What measures should be taken by the authorized person in this case?
 a. Return the shipment to the manufacturer
@@ -7251,11 +7251,11 @@ d. Keto group
 e. Ester group
 
 1037. What substance can be synthesized as a result of the condensation of 5-nitrofurfural with semicarbazide?
-a. Metronidazole
-b. Phthalazole (Phthalylsulfathiazole)
-c. Nitroxoline
-d. Nitrofural (Nitrofurazone)
-e. Norfloxacin
+a. Nitroxoline
+*b. Nitrofural (Nitrofurazone)
+c. Norfloxacin
+d. Metronidazole
+e. Phthalazole (Phthalylsulfathiazole)
 
 1038. Complex drug product Urolesan is a litholytic, antispasmodic, and diuretic agent. It contains ethanolic extract of:
 a. -
@@ -7293,16 +7293,16 @@ d. Bonus
 e. One-off payment
 
 1043. Lately the Phytopharm pharmaceutical company has been forced to decrease its production volume and range of goods. Not only does the company head manager demonstrate no managerial abilities, but he also appears to be completely disinterested in the running of the business and executes no control over it. Determine the leadership type of the head manager in this case:
-a. Democratic
-b. Directive
-*c. Liberal
-d. Autocratic
-e. Authoritarian
+a. Autocratic
+b. Authoritarian
+c. Democratic
+*d. Liberal
+e. Directive
 
 1044. What medicinal agents must be manufactured in aseptic conditions followed by thermal sterilization with high-pressure saturated steam?
-a. Concentrated solutions for burette systems
+a. Liquid ingestible antibiotics
 b. Injection solutions with thermolabile substances
-c. 2% collargol solution for infants
-d. Liquid ingestible antibiotics
-*e. Injection solutions with thermostable substances
+*c. Injection solutions with thermostable substances
+d. Concentrated solutions for burette systems
+e. 2% collargol solution for infants
 

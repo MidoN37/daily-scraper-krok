@@ -97,18 +97,18 @@ c. Radiation therapy
 e. Removal of the sialolith while retaining the gland
 
 15. A patient is undergoing treatment for chronic granulating periodontitis of tooth 26. The root canals were irrigated with an antiseptic that can penetrate into the structures of biofilms, destroy them, and dissolve organic tissues. What antiseptic was used by the doctor?
-*a. Hypochlorite sodium solution
-b. Furacilin (nitrofurazone) solution
-c. Physiological saline
-d. Chlorhexidine solution
-e. Hydrogen peroxide solution
+a. Hydrogen peroxide solution
+b. Hypochlorite sodium solution
+c. Chlorhexidine solution
+d. Furacilin (nitrofurazone) solution
+e. Physiological saline
 
 16. A 50-year-old patient, an employee of the print shop, complains of foul smell from his mouth and excessive salivation. Objectively against the background of hyperemic and slightly swollen gums there is a blue-black border along the gum margin of the lower jaw and upper front teeth. There is a large amount of dental deposit observed. Name the type of stomatitis in this patient:
-a. Mercury
-b. Lead
-c. Necrotizing ulcerative
-d. Catarrhal
-e. Bismuth
+a. Necrotizing ulcerative
+b. Catarrhal
+c. Bismuth
+*d. Lead
+e. Mercury
 
 17. A 47-year-old woman has been diagnosed with chronic generalized parodontitis, II degree of severity, chronic course. Complex therapy included splinting her front lower teeth using a fiber adhesive splint. What was the first stage of the local treatment in this case?
 a. Orthopedic dental treatment
@@ -126,10 +126,10 @@ e. Collar-like
 
 19. A 38-year-old man complains of a fever of 40°С and constant pain in his right lower jaw that radiates to the neighboring areas. Objectively, he has edema of soft tissues around the body of the mandible on the right, the skin is hyperemic. The mouth opening is reduced, the oral mucosa is edematous and hyperemic on both sides of the alveolar process in the area of teeth 45, 46, 47. The crown of tooth 46 is completely destroyed. Percussion of teeth 45, 46, 47 is painful, the teeth are mobile. Make the provisional diagnosis.
 *a. Acute odontogenic osteomyelitis
-b. Acute purulent odontogenic lymphadenitis
-c. Odontogenic abscess of the right submandibular area
+b. Odontogenic abscess of the right submandibular area
+c. Acute odontogenic periostitis
 d. Exacerbation of chronic periodontitis of tooth 46
-e. Acute odontogenic periostitis
+e. Acute purulent odontogenic lymphadenitis
 
 20. The medical station of a regiment received a patient with signs of bilateral mandibular fracture. What is the main task of first aid in this case?
 a. To provide symptomatic therapy and care
@@ -139,11 +139,11 @@ d. To clean oral cavity from blood clots, tooth shards, and bone fragments
 e. To check and correct previously applied bandages
 
 21. The parents of a 3-year-old girl complain of the destruction of the child's upper teeth. Objectively, there are carious cavities within mantle dentin on the masticatory surfaces of teeth 54 and 55. Enamel and dentin in the affected area are softened and can be easily removed with an excavator. The child refuses to undergo teeth prteparation and is in a psychoemotionallly unstable condition. What method of treatment should be used in this case?
-a. ICON treatment
-*b. Atraumatic restorative treatment
-c. Remineralization therapy
-d. Invasive sealing
-e. Non-invasive sealing
+a. Non-invasive sealing
+b. Invasive sealing
+*c. Atraumatic restorative treatment
+d. ICON treatment
+e. Remineralization therapy
 
 22. On the 7 day after an abdominal surgery, a 69-year-old man has developed pain and swelling in the area of his left parotid gland. His body temperature is 39^oC, his mouth is dry. Massage of the salivary gland produces purulent exudate from the excretory duct. Make the provisional diagnosis:
 a. Phlegmon of the submassseteric region
@@ -202,18 +202,18 @@ d. Disturbed process of denture base polishing
 e. Fractures in the denture base caused by mechanical damage
 
 30. A 58-year-old man came to a dentist for orthopedic treatment after the extraction of his right upper lateral incisor four weeks ago. For two years, he has been using a partial removable laminar denture for the upper jaw that replaces missing teeth 14, 15, 16, 17, 18, 24, 25, 26, 27, 28. The patient has a history of a myocardial infarction that occurred 6 months ago. Objectively, the socket of tooth 12 has healed, there are no signs of inflammation, the relief of the alveolar process is preserved. What tactics should the doctor choose to replace missing tooth 12?
-a. Make a porcelain-fused-to-metal dental bridge
-b. Make a new partial removable laminar denture
-c. Wait two months before making a denture
+a. Make a new partial removable laminar denture
+b. Wait two months before making a denture
+*c. Reconstruct the partial removable laminar denture by welding an artificial tooth to it
 d. Perform dental implantation and make a porcelain-fused-to-metal crown
-*e. Reconstruct the partial removable laminar denture by welding an artificial tooth to it
+e. Make a porcelain-fused-to-metal dental bridge
 
 31. A 7-year-old boy was diagnosed with chronic periodontitis of teeth 64 and 85. The child has hemophilia A) Determine the treatment tactics for this case:
 *a. Teeth extraction is possible in the  hematology department after all the  necessary preparations
 b. Teeth extraction is possible in an  outpatient setting; after the teeth extraction, the alveoli must be packed with a hemostatic sponge
 c. Teeth extraction is contraindicated due to the high risk of bleeding
-d. Teeth extraction is possible in the  maxillofacial department
-e. Teeth extraction is possible both in the maxillofacial inpatient department and in the outpatient department after all the   necessary preparations
+d. Teeth extraction is possible both in the maxillofacial inpatient department and in the outpatient department after all the   necessary preparations
+e. Teeth extraction is possible in the  maxillofacial department
 
 32. A 7.5-year-old practically healthy child complains of crown fracture and pain in the upper right incisor. Objectively 2/3 of crown of 11 is absent, the pulp is exposed and red; on probing it is acutely painful and bleeding; tooth percussion is painful. The trauma occurred 2 hours ago. What would be the optimal treatment method in this case?
 a. Vital extirpation
@@ -258,10 +258,10 @@ d. File down the metallic frame in the areas of its contact with the antagonist 
 e. Determine the areas that prevent  normal installation of the dental bridge
 
 38. A child is diagnosed with congenital cleft in the soft palate and posterior part of the hard palate. What type of anesthesia should be given to the patient for uranostaphyloplasty?
-a. Conduction anesthesia
+a. Anesthesia mask
 b. Infiltration anesthesia
-c. Anesthesia mask
-d. Intubation narcosis
+c. Conduction anesthesia
+*d. Intubation narcosis
 e. Intravenous narcosis
 
 39. As a result of a trauma, an upper front tooth was broken in a 39-year-old patient. Objectively, the cutting edge on the mesial surface of tooth 22 is destroyed, with the area of destruction remaining within the mantle dentin. What class of cavity is it according to the Black's classification?
@@ -272,11 +272,11 @@ c. V
 e. VI
 
 40. A removable complete denture is being made for the lower jaw of a 50-year-old man. During the fitting of an individual impression tray, the border in the area of the mylohyoid line needs to be determined. What Herbst test should be performed for this purpose?
-a. Alternately touching the right and left cheeks with the tongue
-b. Swallowing saliva
-c. Wide mouth opening
-d. Stretching the tongue towards the tip of the nose
-e. Licking the upper lip
+a. Wide mouth opening
+b. Alternately touching the right and left cheeks with the tongue
+c. Stretching the tongue towards the tip of the nose
+d. Licking the upper lip
+e. Swallowing saliva
 
 41. What prosthodontic appliance has mechanical type of action?
 a. Frankel functional regulator
@@ -286,10 +286,10 @@ c. Schonherr vestibular plate
 e. Bynin appliance
 
 42. A 21-year-old man 3 hours ago received a knife wound to the right cheek; the wound was initially bleeding, but by the time of examination the bleeding has already stopped. Objectively in the area of the right cheek there was a wound 4x1 cm with even margins that does not penetrate into the oral cavity and is filled with clotted blood. What sutures should be applied to the wound in this case?
-a. Early secondary suture
-*b. Primary blind suture
-c. Primary approximation suture
-d. Late secondary suture
+a. Late secondary suture
+b. Primary approximation suture
+*c. Primary blind suture
+d. Early secondary suture
 e. Primary apposition suture
 
 43. When inspecting the finished full removable laminar denture received from the dental laboratory, the dentist discovered a characteristic "marble" pattern in the form of whitish lines on the surface and in the thick of the base plastic, from which the denture was made. What is the likely cause of these lines appearing on the denture?
@@ -300,18 +300,18 @@ d. Insufficient amount of plastic dough during packing
 e. Insufficient polishing of the denture
 
 44. A 45-year-old woman complains of stiffness of movements in her temporomandibular joints, especially in the morning, and creaking when she opens her mouth. No external changes were detected in the area of the joints. X-ray shows deformation of the articular head, articular tubercle, and joint space with the joint space narrowing. What is the most likely diagnosis in this case?
-a. False joint (pseudoarthrosis)
-b. Chronic arthritis
+a. Chronic arthritis
+b. Habitual dislocation
 c. Neuromuscular syndrome
-d. Habitual dislocation
-*e. Arthrosis
+*d. Arthrosis
+e. False joint (pseudoarthrosis)
 
 45. A 33-year-old man complains of paroxysmal pain in his upper left tooth. The pain intensifies at night and in response to various stimuli and radiates into the left temple and eye. Similar pain attacks were occurring three months ago, but the patient did not consult a doctor. Objectively, tooth 25 has a deep carious cavity that communicates with the pulp chamber. Probing at the point of communication is sharply painful, percussion is mildly painful. Mucosa in the area of the root apex projection of tooth 25 is unchanged. Thermodiagnostics is markedly positive, the pain attack is long-lasting. Electric pulp testing - 60 microamperes. X-ray shows slight widening of the periodontal fissure near the root apex of tooth 25. What is the most likely diagnosis in this case?
-a. Acute serous periodontitis
-b. Acute purulent pulpitis
-c. Acute diffuse pulpitis
+*a. Exacerbation of chronic pulpitis
+b. Acute serous periodontitis
+c. Acute purulent pulpitis
 d. Exacerbation of chronic periodontitis
-e. Exacerbation of chronic pulpitis
+e. Acute diffuse pulpitis
 
 46. An 8-year-old girl complains of dry lips and a painful burning sensation in them. She has a history of food allergies. Objectively, there is a slight edema and hyperemia of the skin of her lips. The vermillion border is infiltrated and has fissures, scabs, and scales. The surface of the lips is dry. In the angles of the mouth there are infiltrations, maceration, and fissures. What is the most likely diagnosis in this case?
 a. Actinic cheilitis
@@ -349,9 +349,9 @@ d. Vital extirpation
 *e. Biological method
 
 51. A 45-year-old man was hospitalized with the following diagnosis: a non-displaced closed midline fracture of the mandible in the area of teeth 41 and 31. Objectively, the integrity of the upper and lower dentition is preserved, teeth are intact, bone tissue atrophy in the alveolar process of the mandible reaches 1/3 of the dental root length, teeth mobility of the I-II degree is observed. What type of splint would be optimal in treatment of this fracture?
-a. Vasiliev splint
+a. Weber dentogingival splint
 b. Smooth splint-bracket
-*c. Weber dentogingival splint
+c. Vasiliev splint
 d. Tigerstedt splint with hooks
 e. Vankevich splint
 
@@ -377,25 +377,25 @@ d. Longitudinal length of the dentitions
 e. The ratio of the width of the transverse dimensions of the upper and lower incisors
 
 55. A woman complains of spontaneous attacks of acute pain, with practically no intermissions and irradiation into the temple; cold water slightly mitigates the pain. In tooth 26 examiantion revealed deep carious cavity non-communicating with the dental cavity. Probing of the cavity bottom is acutely painful, the tooth is tender on vertical percussion. Make the provisional diagnosis regarding tooth 26:
-a. Pulpal hyperemia
-b. Chronic fibrous pulpitis
-c. Chronic hypertrophic pulpitis
-*d. Acute suppurative pulpitis
-e. Acute diffuse pulpitis
+a. Chronic hypertrophic pulpitis
+b. Acute diffuse pulpitis
+c. Chronic fibrous pulpitis
+d. Pulpal hyperemia
+*e. Acute suppurative pulpitis
 
 56. A 28-year-old man complains of an ulcer on his tongue. Objectively, he has a painless red erosion with a smooth glossy floor, approximately 1 cm in diameter. The erosion has clear smooth margins and a dense infiltrate at its base. Regional lymph nodes are enlarged and painless on palpation. Make the provisional diagnosis:
-a. Decubital ulcer
-b. Tuberculous ulcer
+a. Chronic recurrent aphthous stomatitis
+b. Decubital ulcer
 c. Actinomycotic ulcer
-*d. Syphilitic ulcer
-e. Chronic recurrent aphthous stomatitis
+d. Tuberculous ulcer
+e. Syphilitic ulcer
 
 57. Decay-missing-filled index of a 6.5-year-old child is DMF+df=7. Fedorov-Volodkina hygiene index is 1.5. Fissures in the permanent molars are intact, deep, and open. What method of caries prevention would be advisable in this case?
-a. Electrophoresis-aided application of remineralization solution
-b. Application of fluoride varnish
-c. Invasive fissure sealing
+a. Application of fluoride varnish
+b. Application of remineralization solution
+c. Electrophoresis-aided application of remineralization solution
 *d. Noninvasive fissure sealing
-e. Application of remineralization solution
+e. Invasive fissure sealing
 
 58. A 33-year-old man has been hospitalized after a car accident with an injury to the soft tissues of his right parotid-masseteric region. The patient's right eye does not close, the right corner of his mouth is lowered. What has been injured in this case, causing these symptoms?
 a. Mimic muscles
@@ -405,10 +405,10 @@ d. Capsule of the parotid salivary gland
 *e. Facial nerve
 
 59. A 30-year-old man complains of pain, heavy and bursting sensation in the right half of his face, nasal congestion on the right, and general weakness. One week before, he was suffering from a severe pain in his tooth 15. Objectively, his face is somewhat asymmetrical due to a swelling of the infraorbital and buccal regions on the right. The crown of tooth 15 is destroyed by 2/3, its percussion is sharply painful. Survey X-ray shows a shadow of varying intensity in the right maxillary sinus. The root apex of tooth 15 exhibits signs of chronic periodontitis. What is the provisional diagnosis in this case?
-*a. Acute right-sided odontogenic maxillary sinusitis originating from tooth 15
+a. Acute purulent odontogenic periostitis  originating from tooth 15
 b. Chronic right-sided odontogenic  maxillary sinusitis originating from tooth 15
-c. Acute purulent odontogenic periostitis  originating from tooth 15
-d. Odontogenic right-sided phlegmon of the infraorbital region originating from tooth 15
+c. Odontogenic right-sided phlegmon of the infraorbital region originating from tooth 15
+*d. Acute right-sided odontogenic maxillary sinusitis originating from tooth 15
 e. Odontogenic right-sided phlegmon of the buccal region originating from tooth 15
 
 60. The lateral incisors of a child are rotated around their axis by 45^o. Name this anomaly of tooth position:
@@ -419,18 +419,18 @@ d. Infraocclusion
 e. Supraocclusion
 
 61. A 66-year-old woman while waiting for her appointment with a dentist complained of feeling unwell and developed asphyxia and acute constricting pain behind the sternum. Objectively, the following is observed: hyperemia of the skin of the face, sonorous heart sounds, systolic murmur over the aorta. Heart rate - 94/min., blood pressure - 230/120 mm Hg. What emergency condition has developed in the patient?
-a. Anaphylactic shock
+a. Angina pectoris attack
 *b. Hypertensive crisis
 c. Quincke's edema
-d. Myocardial infarction
-e. Angina pectoris attack
+d. Anaphylactic shock
+e. Myocardial infarction
 
 62. A 72-year-old patient came to a dentist complaining of insufficient fixation of a complete removable denture for the upper jaw. The denture was made one month ago. Objectively, the edge of the denture in the area of the maxillary labial frenulum is shortened, the peripheral seal is broken. What should be done in this case to improve the denture fixation?
-a. Correct and polish the edges of the denture base
-b. Perform three-dimensional modeling of the denture base
-c. Correct the occlusal plane of the denture
+a. Correct the occlusal plane of the denture
+b. Widen the edges of the denture base
+c. Correct and polish the edges of the denture base
 *d. Make a new denture
-e. Widen the edges of the denture base
+e. Perform three-dimensional modeling of the denture base
 
 63. Examination by a dentist of an 8-year-old girl detected enamel defects that look like spots and grooves. The defects are located on the upper and lower incisors parallel to the cutting edge and on the masticatory surfaces of teeth 16, 26, 36, 46. The child has a history of severe toxic dyspepsia at the age of 9 months. Make the provisional diagnosis.
 a. Fluorosis
@@ -440,11 +440,11 @@ c. Amelogenesis imperfecta
 e. Enamel erosion
 
 64. A 47-year-old man came to a dentist to have a denture made for him. Objectively, his teeth 43, 44, and 45 are missing. What class of mandibular dentition defect is it according to Kennedy?
-*a. 3
-b. 1
-c. -
-d. 4
-e. 2
+a. -
+b. 2
+c. 4
+d. 1
+*e. 3
 
 65. A 36-year-old man complains of an ulcer on his lower left lip. Three weeks ago a smal round red spot appeared on his lip. Eventually it became more dense and noticeable and 2-3 days ago developed an ulcer in its center, while under the lower jaw appeared multiple painless nodules. Objectively on the mucosa of the lower left lip there is an oval ulcer, 1.2 cm in diameter, with smooth clear margins and bright-red glossy floor. Ulcer edges form a cushion that smoothly descends to the bottom of the ulcer. In the base of the ulcer there is a dense painless infiltration. Submandibular lymph nodes are enlarged and painless, the skin over them remains unchanged. This clinical presentation corresponds with the following disease:
 a. Trophic ulcer
@@ -461,18 +461,18 @@ c. Acute cerebrovascular accident
 e. Collapse
 
 67. A 50-year-old man complains of a formation 4 cm in size in the submandibular region. On palpation the neoplasm has homogeneous, soft, and elastic consistency, it is not fused with the skin or surrounding tissues. Its slow growth was observed for 3 years. This clinical presentation corresponds with the following condition:
-a. Fibromyoma
-b. Migrating granuloma
-c. Median cyst
-d. Fibroma
+a. Fibroma
+b. Median cyst
+c. Fibromyoma
+d. Migrating granuloma
 *e. Lipoma
 
 68. A 58-year-old man complains of a neoplasm on his lower lip that appeared 6 months ago. Throughout the last 20 days, it has been rapidly growing. Objectively, on the vermilion border of the lower lip there is a hemispherical gray-red node, raised above the underlying tissues by 0.5 cm. The node is demarcated and has a funnel-shaped indentation in its center, filled with keratinous masses. On palpation, the node is dense, mobile, and painless. What is the most likely diagnosis in this case?
-a. Papilloma
-b. Verrucous precancer
-*c. Keratoacanthoma
-d. Verrucous leukoplakia
-e. Manganotti's abrasive precancerous  cheilitis
+a. Manganotti's abrasive precancerous  cheilitis
+b. Papilloma
+c. Keratoacanthoma
+d. Verrucous precancer
+e. Verrucous leukoplakia
 
 69. A 55-year-old woman needs removable implant-retained dentures for both jaws. It is necessary to choose the type, the number and the placement of implants. What additional examination method will be the most efficient in making this decision?
 a. Ultraviolet densitometry
@@ -490,10 +490,10 @@ e. Infraocclusion
 
 71. A 14-year-old girl, while conducting experiments during a chemistry class, received a burn on her face. Objectively, the skin at the site of the damage is dehydrated and covered with a dense dry scab with clear boundaries and a band of hyperemia on the periphery, the scab is embedded into the skin. Name the most likely type of the traumatic agent in this case.
 a. Alkaline
-b. Radiation
-c. Electric
-*d. Acidic
-e. Thermal
+b. Electric
+c. Thermal
+d. Radiation
+*e. Acidic
 
 72. A 39-year-old woman complains of bad breath, bleeding and sore gums, and loose teeth. Objectively, the gums are hyperemic and edematous, the lower front teeth exhibit the I-II degree mobility. Periodontal pockets are 4-5 mm deep. X-ray shows resorption of interdental septa up to 1/2 of the root length. What is the most likely diagnosis in this case?
 a. Generalized periodontitis, III degree,  chronic progression
@@ -510,10 +510,10 @@ d. Acute limited pulpitis
 e. Exacerbation of chronic periodontitis
 
 74. A 9-year-old boy complains of a spontaneous pulsing and irradiating pain in his lower right teeth that slightly abates when cold is applied. Objectively, tooth 46 has a deep carious cavity with soft floor, located within the parapulpar dentin. Probing of the cavity floor is acutely painful. Percussion of the tooth is painful. The boy was diagnosed with acute purulent pulpitis of tooth 46. What treatment method should be chosen in this case?
-a. Devital pulp extirpation
-*b. Vital pulp extirpation
-c. Devital pulp amputation
-d. Biological treatment
+a. Devital pulp amputation
+b. Biological treatment
+*c. Vital pulp extirpation
+d. Devital pulp extirpation
 e. Vital pulp amputation
 
 75. A 20-year-old girl came to a dentist for a preventive examination. She has no complaints. Objectively, on the vestibular surface of her tooth 17 within the enamel there is a carious cavity with a wide opening. The enamel of the cavity walls and floor is dense and pigmented. Probing of the carious defect is painless. There is no response to thermal stimuli. Percussion of the tooth is painless. What is the diagnosis in this case?
@@ -545,10 +545,10 @@ d. Every 8-10 months
 e. Every 16 months
 
 79. The parents of a 6-year-old girl complain of the child's fever of 38^oC and a rash in her mouth and on the skin of her face and scalp. Objectively, the mucosa of the hard palate and tongue has small round vesicles and erosions with an inflammed margin, some of which are covered in grayish coating. On the torso, face, and scalp, there are blisters 4-5 mm in diameter with transparent contents. Make the provisional diagnosis:
-*a. Chickenpox
-b. Measles
-c. Acute herpetic stomatitis
-d. Erythema multiforme exudativum
+a. Acute herpetic stomatitis
+b. Erythema multiforme exudativum
+*c. Chickenpox
+d. Measles
 e. Scarlet fever
 
 80. A 40-year-old man presents with pathologic teeth grinding caused by their functional overload due to the loss of many antagonist teeth. With direct occlusion, vertical grinding of the front teeth resulted in protrusion of the patient's lower jaw forwards. Interalveolar space is diminished, the lower third of the face is shortened. What would be the most advisable treatment in this case?
@@ -567,10 +567,10 @@ e. Acute purulent periostitis
 
 82. During the treatment of acute deep caries in 16 in an 18-year-old girl, the pulp chamber was accidentally perforated. Perforation is punctate and located in the area of a pulp horn. What treatment tactics would be advisable in this case?
 a. Insulating inlay and permanent filling
-b. Devital amputation
-c. Vital extirpation
-d. Devital extirpation
-*e. Biological approach
+*b. Biological approach
+c. Devital amputation
+d. Vital extirpation
+e. Devital extirpation
 
 83. In the maxillofacial department a 6-month-old boy was hospitalized due to bleeding from a wound in the frenulum of his tongue. He has a medical history of frenulotomy the day before. The bleeding started 6 hours after the surgery. Suturing the wound was ineffective against the bleeding. The child was brought to the hematology department, where the bleeding was stopped by intravenous administration of coagulation factor IX concentrate. Make the diagnosis:
 *a. Hemophilia B
@@ -615,25 +615,25 @@ d. Herbal toothpastes
 e. Fluorine-containing toothpastes
 
 89. A 52-year-old woman needs a dental prosthesis. Upon objective examination a removable partial laminar denture is determined to be optimal denture construction in her case. What material should be applied to the impression tray edges?
-a. Orthocor
-b. Plaster
-c. Wax
-d. Stens
-e. Silast
+a. Wax
+*b. Orthocor
+c. Plaster
+d. Silast
+e. Stens
 
 90. A 54-year-old man came to a dentist for oral cavity sanation. He has a single small erosion on the vermilion border of his lower lip, located laterally at the distance of 1/3 from the right mouth angle. The erosion has an irregular shape, deep red color, and a smooth glossy surface. Palpation detects no induration of its base, regional lymph nodes are not palpable. The lesion first appeared 3 years ago. Usually, it is observed for 1.5-2 months, then it heals and reappears. Sometimes it is covered in a scab. What is the most likely diagnosis in this case?
-a. Recurrent herpes
-b. Bowen's disease
-*c. Manganotti's abrasive precancerous  cheilitis
-d. Primary syphiloma, erosive form
-e. Leukoplakia, erosive form
+a. Manganotti's abrasive precancerous  cheilitis
+b. Recurrent herpes
+c. Bowen's disease
+d. Leukoplakia, erosive form
+e. Primary syphiloma, erosive form
 
 91. In the orthopedic dental clinic a 26-year-old man undergoes preparation to have a denture made for him. Objectively, teeth 45 and 46 are lost; teeth 44 and 47 are intact and stable. Dentoalveolar elongation by 1/3 of the crown length is observed in the area of teeth 15 and 16. What method should be used to correct the deformation of the occlusal surfaces?
-a. Teeth shortening
-*b. Orthodontic
+*a. Orthodontic
+b. Surgical
 c. Occlusal correction
 d. Teeth extraction
-e. Surgical
+e. Teeth shortening
 
 92. A 25-year-old man complains of a cavity in his lower left tooth, pain after eating sweet, sour, or solid food. Objectively in tooth 16 there is a deep carious cavity filled with light-colored softened dentin. Probing of the cavity floor is painful, pain stimulus is painful, but cold abates immediately after the stimulus is removed. What is the most likely diagnosis?
 a. Acute focal pulpitis
@@ -664,11 +664,11 @@ d. Tightly pack the tooth socket with a strip of iodoform gauze
 e. Place sutures into the soft tissues
 
 96. An 8-year-old boy complains of an acute pain in his lower left jaw, general weakness, high body temperature of 38.6^oC, and problems with opening the mouth and swallowing. Objectively, the face is asymmetrical because of edema in the submandibular region and in the lower third of the left cheek. Mucosa in the area of teeth 73, 74, and 75 is edematous on the both sides of the alveolar process. The teeth are mobile, percussion is positive, the Vincent's sign is positive. What is the most likely diagnosis in this case?
-*a. Acute odontogenic osteomyelitis
-b. Non-odontogenic acute purulent  lymphadenitis
-c. Exacerbation of chronic periodontitis
-d. Inflammatory infiltration of the left  cheek
-e. Odontogenic phlegmon of the  submandibular region
+a. Odontogenic phlegmon of the  submandibular region
+b. Inflammatory infiltration of the left  cheek
+*c. Acute odontogenic osteomyelitis
+d. Exacerbation of chronic periodontitis
+e. Non-odontogenic acute purulent  lymphadenitis
 
 97. During examination the child presents with retracted mucosa on the soft palate and uvula. The child was diagnosed with congenital submucous cleft soft palate. What surgical operation is necessary in this case?
 *a. Veloplasty
@@ -720,10 +720,10 @@ d. S-shaped left-sided forceps
 e. S-shaped right-sided forceps
 
 104. A 52-year-old man complains of pain and clicking in the area of his left temporomandibular joint. Objectively, the face is symmetrical, palpation of the medial and lateral pterygoid muscles is painful on the left. The mouth opening is limited to 1.5 cm between the cutting edges of the central incisors. X-ray shows smooth contours of the articular surfaces, the joint space is normal. What is the most likely diagnosis in this case?
-a. Neuromuscular joint syndrome
-b. Acute post-traumatic arthritis
-c. Fibrous ankylosis of the joint
-d. Rheumatoid arthritis
+a. Acute post-traumatic arthritis
+b. Fibrous ankylosis of the joint
+c. Rheumatoid arthritis
+*d. Neuromuscular joint syndrome
 e. Deforming arthrosis
 
 105. A 58-year-old woman came to an orthopedic dentist complaining that her partial removable denture for the upper jaw had broken. She had been using this denture for 2 years. The denture base is broken. What plastic must be used to repair the denture?
@@ -762,9 +762,9 @@ d. Dual arch impression
 *e. Open tray impression
 
 110. A patient complains of constant aching pain in a left upper tooth during the last 24 hours. Objectively, the mesial surface of tooth 25 has a carious cavity that does not communicate with the dental cavity. The response to a cold stimulus is negative. Percussion of tooth 25 is painful. X-ray shows no pathological changes in the periapical bone tissue of tooth 25. What is the most likely diagnosis in this case?
-a. Acute diffuse pulpitis
+*a. Acute serous periodontitis
 b. Acute purulent periodontitis
-*c. Acute serous periodontitis
+c. Acute diffuse pulpitis
 d. Exacerbation of chronic periodontitis
 e. Acute purulent pulpitis
 
@@ -790,17 +790,17 @@ d. Acute purulent non-odontogenic  lymphadenitis
 e. Acute purulent odontogenic  lymphadenitis
 
 114. A 27-year-old man came to a dentist with complaints of pain in his gums, bad breath, bleeding, and general weakness for 3 days. Prior to his visit, he requested no physician's help. Examination shows that the patient is pale, his regional lymph nodes are enlarged, their palpation is painful. The gums on the both jaws are edematous and hyperemic. The gums have several ulcers with dirty-gray coating. What group of medicines must be used for the etiotropic treatment of this condition?
-*a. Antibacterial agents
-b. Steroidal anti-inflammatory drugs
-c. Proteolytic enzymes
-d. Nonsteroidal anti-inflammatory drugs
-e. Antihistamines
+a. Proteolytic enzymes
+b. Nonsteroidal anti-inflammatory drugs
+*c. Antibacterial agents
+d. Antihistamines
+e. Steroidal anti-inflammatory drugs
 
 115. A 50-year-old woman with compensated insulin-dependent diabetes mellitus needs dental prosthetics. She has been in a clinic for several hours already, during which she was nervous and skipped her meals. In the process of obtaining her dental impressions, she suddenly became aggressive, paled, broke out in cold sweat, and fell unconscious. What substance is used for emergency aid in such clinical situations?
 a. Nitroglycerine
 *b. Glucose solution
-c. Insulin
-d. Valocordin
+c. Valocordin
+d. Insulin
 e. Ammonia solution
 
 116. The parents of a 14-year-old girl brought her to a dentist, complaining that she has some kind of growth on her tongue. It appeared approximately 1.5 years ago and has been slowly growing since then. Objectively, on the lateral surface of her tongue there is a neoplasm on the left. It is pink, mobile, painless, hard, and spherical. It has clear margins, wide base, and smooth surface. Make the provisional diagnosis:
@@ -811,11 +811,11 @@ d. Hemangioma
 *e. Fibroma
 
 117. A 38-year-old man, an arc welder, is a chain smoker. He came to the dentist to have a denture made for him. Howerver, in the middle of his lower lip against the background of unchanged vermillion border there is a gray-white polygonal lesion 6x4 mm with clear margins. The lesion is covered with tightly attached small scales and is level with the vermillion border (neither protruding nor retracted). Palpation of the lesion focus is painless, the lesion has no thickened base; lateral palpation detects thickened surface of the lesion. Regional lymph nodes are unchanged. Make the provisional diagnosis:
-a. Verrucous precancer
-b. Lupus erythematosus
-c. Lichen ruber planus, hyperkeratotic form
-*d. Localized precancerous hyperkeratosis
-e. Cancer of the lower lip
+a. Lichen ruber planus, hyperkeratotic form
+b. Localized precancerous hyperkeratosis
+c. Cancer of the lower lip
+d. Verrucous precancer
+e. Lupus erythematosus
 
 118. A 32-year-old man presents with fever of 38.9^oC, general weakness, impaired speech, and inability to eat. This condition has been recurring for the last 4 years in autumn and spring. There are vesicles and erosions covered in grayish fibrinous coating on the hyperemic and edematous mucosa of the lips and cheeks. The lips are covered in massive blood-brown scabs.The Nikolsky's sign is negative. What is the most likely diagnosis in this case?
 a. Dermatitis herpetiformis  (Duhring's disease)
@@ -867,11 +867,11 @@ c. Biological approach
 e. Devital extirpation
 
 125. A 49-year-old man came to a dentist to have a denture made for him. Objectively, teeth 46, 45, 44, 34, 35, 36 are missing on his lower jaw. The remaining teeth on the lower jaw are intact, stable, without inclination, with a well-defined equator. It is recommended to make a clasp (bugel) denture for the patient's lower jaw. What type of clasp (clammer) should be used on abutment teeth 47 and 37 in this case?
-a. Akers clasp
-b. Roach clasp
+a. Circumferential clasp
+b. Bonwill clasp
 c. Reverse action clasp
-d. Circumferential clasp
-e. Bonwill clasp
+d. Roach clasp
+e. Akers clasp
 
 126. A victim of a traffic accident was delivered into the admission room. The patient is supine and unconscious. His skin is cyanotic, respiration is extremely labored, mucosa is pale, blood clots are accumulated in the oral cavity. The patient is diagnosed with displaced bilateral mandibular fracture. How should this patient be transported?
 a. Positioned on the side on a soft stretcher
@@ -1015,10 +1015,10 @@ e. Functionally-guiding appliances
 
 146. When analyzing the composition of potable water in a region, it was revealed that its fluorine levels are 0.5 mg/L. What disease of the dental hard tissues can be expected in this environment?
 *a. Caries
-b. Necrosis of dental hard tissues
-c. Fluorosis
-d. Erosion of dental hard tissues
-e. Systemic enamel hypoplasia
+b. Erosion of dental hard tissues
+c. Necrosis of dental hard tissues
+d. Systemic enamel hypoplasia
+e. Fluorosis
 
 147. Parents of a 6-year-old boy complain of deterioration of the child's general condition, fever of 38.0^oC, facial edema, and dry mouth. Objectively, the child's face is pear-shaped due to a dough-like soft tissue edema in the parotid regions, more on the right. Palpation of the parotid areas is painful. The skin is not discolored. A small amount of thick transparent saliva is being secreted from the ducts of the parotid glands. Make the provisional diagnosis:
 a. Mikulicz disease
@@ -1028,11 +1028,11 @@ d. Herzenberg pseudoparotitis
 e. Acute non-epidemic parotitis
 
 148. A 60-year-old patient came to the maxillofacial inpatient department. He complains of pain, bleeding, and chewing problems. He has a history of mandibular trauma at the level of the central incisors. Objectively the traumatized place is swollen, mouth opening is unrestricted. He was diagnosed with medial mandibular fracture. Both jaws are edentulous. What splint would be optimal in this case?
-a. Rudko appliance
-b. Gunning gingival splint
-c. Limberg gingival splint
+a. Vankevych dentogingival splint
+b. Limberg gingival splint
+c. Gunning gingival splint
 *d. Port gingival splint
-e. Vankevych dentogingival splint
+e. Rudko appliance
 
 149. An 11-year-old child undergoes an orthodontic treatment. The child is prescribed a dental appliance with combined action (functional direction and mechanical action). What structural elements are likely to be present in this dental appliance?
 a. Omega loop, screw
@@ -1049,18 +1049,18 @@ d. Phosphate
 e. Polycarboxylate
 
 151. A 37-year-old woman came to the dentist with complaints of brief attacks of toothache caused by eating sweets. Objectively there is a shallow carious cavity within enamel. On probing cavity walls and bottom are coarse; there is no response to thermal stimuli. Make the diagnosis:
-a. Enamel hypoplasia
-b. Chronic median caries
-*c. Acute superficial caries
-d. Acute median caries
-e. Endemic fluorosis
+a. Chronic median caries
+b. Acute median caries
+c. Enamel hypoplasia
+d. Endemic fluorosis
+*e. Acute superficial caries
 
 152. A 24-year-old patient was diagnosed with sialolithiasis for the first time with the stone localization in the duct of the submandibular salivary gland. Choose the optimal treatment tactics.
 a. Salivary gland removal
-*b. Stone removal
-c. Pharmacotherapy
+b. Pharmacotherapy
+c. Marsupialization surgery
 d. Lithotripsy
-e. Marsupialization surgery
+*e. Stone removal
 
 153. A 26-year-old woman needs dental prosthetics. Objectively the crown of 16 is destroyed by 1/3. Its anatomical shape will be restored with a porcelain inlay. Direct method is chosen for inlay-making. What should be used to obtain the impression of the formed inlay cavity?
 a. Solid crystal materials
@@ -1070,10 +1070,10 @@ d. Silicone materials
 *e. Gold or platinum foil
 
 154. A 57-year-old man complains of pain and creaking in his right temporomandibular joint when eating. In the evening the signs diminish. The pain is observed for the last 2-3 years. Objectively the face is symmetrical, mouth opening is reduced to 2.5 cm. Molars are missing on both jaws. X-ray shows deformed articular surfaces of the right temporomandibular joint. What is the most likely diagnosis?
-a. Acute arthritis of the right temporomandibular joint
+a. Ankylosis of the right temporomandibular joint
 b. Pain dysfunction syndrome of the right temporomandibular joint
-c. Ankylosis of the right temporomandibular joint
-d. Contracture of the right temporomandibular joint
+c. Contracture of the right temporomandibular joint
+d. Acute arthritis of the right temporomandibular joint
 *e. Arthrosis of the right temporomandibular joint
 
 155. A 59-year-old woman needs splinting of her lower teeth. Objectively, the dentition integrity is preserved, the crowns of the lower teeth are tall, the teeth are intact, with exposed cervices and mobility of the II degree. What dental splint would be optimal in this case?
@@ -1161,18 +1161,18 @@ d. First
 e. Third
 
 167. After a fall, a woman complains of pain and swelling in the middle part of her face on the right and difficulty opening her mouth. Objectively, her face is asymmetrical due to edema and hematomas of the right infraorbital region. The patient presents with right-sided paresthesia of the upper lip, a hemorrhage into the lower eyelid and conjunctiva of the right eye, her mouth opening is reduced to 2.5 cm. There is a bony step-off in the area of the right zygomaxillary suture, on the outer edge of the eye socket, and on the temporozygomatic suture on the right. Make the provisional diagnosis.
-a. Soft tissue contusion in the right infraorbital region
-*b. Displaced fracture of the right zygomatic bone and zygomatic arch
-c. Le Fort type II maxillary fracture
-d. Displaced fracture of the right zygomatic arch
-e. Non-displaced fracture of the right zygomatic bone
+a. Displaced fracture of the right zygomatic arch
+b. Soft tissue contusion in the right infraorbital region
+c. Non-displaced fracture of the right zygomatic bone
+d. Displaced fracture of the right zygomatic bone and zygomatic arch
+e. Le Fort type II maxillary fracture
 
 168. The parents of a 6-year-old boy complain of an edema on the right side of the child's face, a fever of 39^oC, and a deterioration of his general condition. Objectively, the child's face is asymmetrical because of a soft tissue edema in the buccal and submandibular areas on the right. In the oral cavity, the crown of tooth 84 is destroyed, percussion of teeth 83, 84 and 85 is painful, the teeth have the mbox{I-II degree of mobility, the alveolar mucosa of the right lower jaw is hyperemic and edematous on its lingual and vestibular sides. Vincent's sign is positive. Make the provisional diagnosis:
-a. Phlegmon of the right submandibular  region
-*b. Acute odontogenic osteomyelitis
-c. Exacerbation of chronic periodontitis  of tooth 84
+a. Exacerbation of chronic periodontitis  of tooth 84
+b. Acute odontogenic periostitis
+*c. Acute odontogenic osteomyelitis
 d. Acute odontogenic purulent  lymphadenitis
-e. Acute odontogenic periostitis
+e. Phlegmon of the right submandibular  region
 
 169. A 19-year-old young man complains of constant pain in tooth 22, which intensifies on biting with this tooth, sensation of ''protruding'' tooth, and upper lip edema. The patient has history of upper jaw trauma. Objectively tooth 22 is intact. Vertical percussion is acutely painful. The upper lip is swollen, mucogingival fold in the area of tooth 22 is red and painful on palpation. What examination method is necessary for diagnosis-making in this case?
 *a. X-ray
@@ -1190,10 +1190,10 @@ e. Preservation of the relief of the masticatory surfaces of the abutment teeth
 
 171. The parents of a 6-year-old girl came to a dentist with complaints that their child has a swelling in the right parotid-masticatory region, dry mouth, and fever of 37.6^oC) Similar complaints took place about 6 months ago. Objectively, there is a lumpy and mildly painful infiltrate in the child's right parotid-masticatory region. The child's saliva is viscous. A small amount of secretion with whitish inclusions is being produced from the duct of the right salivary gland. What is the provisional diagnosis in this case?
 a. Mixed salivary gland tumor
-b. Epidemic parotitis
+b. Exacerbation of chronic parenchymatous parotitis
 c. Herzenberg pseudoparotitis
 d. Acute purulent parotitis
-*e. Exacerbation of chronic parenchymatous parotitis
+e. Epidemic parotitis
 
 172. A 30-year-old man complains of a carious cavity in a lower left tooth. Objectively, tooth 34 has a deep carious cavity that at one point communicates with the pulp chamber. Probing of the cavity floor is painless, while percussion of the tooth is slightly painful. Thermal stimuli provoke no response. On the gums, there is a fistula in the projection of the root apex of tooth 34. Make the provisional diagnosis:
 a. Chronic granulating periodontitis
@@ -1204,10 +1204,10 @@ e. Chronic fibrous periodontitis
 
 173. After extraction of tooth 46, a 41-year-old man noticed a dark defect on the distal contact surface of tooth 45. The defect is limited to the enamel, has blurred margins and dark brown color. The affected tissue crumbles when probed. Make the diagnosis:
 a. Chronic initial caries, Black class IV
-b. Chronic superficial caries, Black class IV
+b. Chronic median caries, Black class IV
 c. Chronic superficial caries, Black class II
 d. Chronic initial caries, Black class II
-e. Chronic median caries, Black class IV
+e. Chronic superficial caries, Black class IV
 
 174. During the treatment of acute diffuse pulpitis of tooth 16, a few minutes after receiving conduction anesthesia, the patient became anxious, flushed hot, and developed chest pain. Objectively, the patient developed problematic breathing, profuse sweating, hyperemic skin, vomiting, loss of consciousness, and convulsions. What is the most likely diagnosis in this case?
 a. Hypoglycemic coma
@@ -1217,18 +1217,18 @@ d. Syncope
 e. Collapse
 
 175. A 42-year-old man, a teacher, came to a dentist to have a denture made for him. Objectively, his upper front teeth exhibit a mobility of the III degree. It is planned to make him a direct denture. How soon after the tooth extraction should such dentures be installed?
-a. In one month
-b. In one day
-c. In one week
+a. In one day
+b. In three days
+c. In one month
 *d. Immediately after the extraction
-e. In three days
+e. In one week
 
 176. A 35-year-old man complains of pain and mobility in his upper jaw when he closes his mouth. The condition developed after an injury received on the day before, when he had been beaten by an unknown person. Objectively, palpation detects bilateral mobility of the maxillary alveolar process; the Malevich sign (cracked pot sound) is positive. X-ray shows the fracture line in the area of the inferior wall of the piriform aperture and zygomaticoalveolar crests. The transparency of the maxillary sinuses is decreased. What is the most likely diagnosis in this case?
-a. Le Fort I maxillary fracture (inferior)
-b. Nasal fracture
-c. Le Fort II maxillary fracture (median)
-d. Le Fort III maxillary fracture (superior)
-e. Displaced zygomatic fracture
+a. Le Fort III maxillary fracture (superior)
+b. Displaced zygomatic fracture
+c. Nasal fracture
+*d. Le Fort I maxillary fracture (inferior)
+e. Le Fort II maxillary fracture (median)
 
 177. A patient from a psychiatric clinic was referred to a dentist for treatment. After the examination she was diagnosed with acute median caries of tooth 16 (Black's class I). The patient has problems with communication and is afraid of injections. The doctor decided to use the ART technique. What filling material should be used in this case?
 a. Microfilled composite
@@ -1253,10 +1253,10 @@ e. Murrain
 
 180. A 49-year-old man came to a dentist with complaints of his gums bleeding when he eats solid foods or brushes his teeth. The complaints arose several months ago. Objectively, his maxillary and mandibular gingiva is congestively hyperemic, epithelial attachment loss is 2-3 mm. X-ray shows uneven resorption of the alveolar processes of the jaws up to 1/3 of the dental root length. Make the diagnosis.
 a. Generalized parodontitis, I degree, exacerbation
-b. Generalized parodontitis, II degree, exacerbation
-*c. Generalized parodontitis, I degree, chronic course
-d. Generalized parodontitis, initial stage
-e. Generalized parodontitis, II degree, chronic course
+b. Generalized parodontitis, II degree, chronic course
+c. Generalized parodontitis, II degree, exacerbation
+d. Generalized parodontitis, I degree, chronic course
+e. Generalized parodontitis, initial stage
 
 181. A 27-year-old woman complains of an aesthetical defect in the area of her upper central incisors. She was diagnosed with chronic deep caries, Black class IV. Aesthetic restoration of teeth 11 and 21 is planned. What material has optimal combination of strength and aesthetical properties?
 a. Macrofilled composites
@@ -1294,11 +1294,11 @@ d. Acute odontogenic osteomyelitis
 e. Pericoronitis
 
 186. An 18-year-old boy came to a dentist with complaints of a sharp pain in his upper tooth. The pain appeared after an injury one week ago and sharply intensifies when he bites on this tooth. After using additional examination methods, the diagnosis was established: acute traumatic periodontitis of tooth 21. What would be the doctor's tactics in this case?
-a. Conservative treatment, closed method
-b. Conservative treatment, open method
-c. Monitoring of the tooth condition for the next 6 months
-d. Extraction of tooth 21
-e. Conservative-surgical treatment
+a. Conservative treatment, open method
+b. Extraction of tooth 21
+c. Conservative-surgical treatment
+*d. Conservative treatment, closed method
+e. Monitoring of the tooth condition for the next 6 months
 
 187. Parents of a 4-year-old child complain of a discolored upper front teeth in their child. Objectively, white spots were detected on the vestibular surfaces of teeth 52, 51, 61 and 62 in their cervical areas. The enamel above the spots has lost its luster and is rough when probed. What treatment tactics would be optimal in this case?
 a. -
@@ -1336,11 +1336,11 @@ d. 8 AU - 168 AU
 *e. 6 AU - 126 AU
 
 192. An 18-year-old girl needs consultation of the dentist regarding a neoplasm that appeared in the frontal area of her face. On the frontal area there is a pink-red semicircular spot on her skin 3-4 cm in size, with clear margins. When pressed, the skin in the affected area discolors and becomes pale. As soon as the pressing stops, the skin again assumes its pink-red color. When the patient bows her head, the spot darkens and enlarges in volume; when the patient lifts her head, the spot gradually returns to its initial pink-red color. Make the diagnosis:
-a. Lymphangioma
-b. Cavernous hemangioma
-*c. Capillary hemangioma
-d. Birthmark (nevus)
-e. Neurofibromatosis
+a. Neurofibromatosis
+b. Lymphangioma
+c. Birthmark (nevus)
+d. Cavernous hemangioma
+*e. Capillary hemangioma
 
 193. A removable partial laminar denture for the upper jaw is being made for the patient. The central occlusion is determined and fixed. What stage is next?
 a. Determining the edges of the base
@@ -1371,11 +1371,11 @@ d. Glass-ionomer cement
 e. Zinc eugenol material and gutta-percha
 
 197. A 25-year-old woman complains of an intense pain in her upper jaw. The pain increases when she eats hot food or drinks hot beverages, while cold liquid relieves the pain. Objectively, in tooth 24 there is a carious cavity filled with softened dentin. Probing of the cavity floor is sharply painful, percussion is positive. Electric pulp test - 50 microamperes. What method of treatment would be the most advisable?
-a. Devital amputation
+a. Devital extirpation
 b. Vital amputation
-c. Devital extirpation
-*d. Vital extirpation
-e. Biological method
+c. Biological method
+d. Devital amputation
+*e. Vital extirpation
 
 198. A 51-year-old woman has been diagnosed with chronic interstitial parotitis of the right parotid salivary gland, a clinically manifested stage. What changes will be detected by X-ray during sialography in this case?
 a. Clearly demarkated filling defect in the acini and ducts of the gland
@@ -1476,11 +1476,11 @@ d. Splint with an inclined plane
 e. Port splint
 
 212. A 31-year-old man complains of pain in the upper jaw and mobility of the upper teeth. He has a history of bloody discharge periodically appearing from the right half of his nose. Objectively, his right upper teeth are mobile. X-ray shows homogeneous darkening of the right maxillary sinus and destruction of the medial wall bone that resembles "melted sugar". What is the provisional diagnosis in this case?
-a. Specific maxillary sinusitis
-b. Chronic maxillary osteomyelitis
-c. Maxillary osteosarcoma
-d. Maxillary ameloblastoma
-*e. Maxillary cancer
+*a. Maxillary cancer
+b. Maxillary osteosarcoma
+c. Maxillary ameloblastoma
+d. Chronic maxillary osteomyelitis
+e. Specific maxillary sinusitis
 
 213. A 25-year-old man complains of brief pain attacks in response to sweet foods in one of his lower teeth and food retention in a carious cavity. Objectively, on the masticatory surface of tooth 36 there is a carious cavity within the parapulpar dentin. The dentin is soft. The carious cavity does not communicate with the dental cavity, probing of its floor is painful. Percussion of tooth 36 and palpation of gingival mucosa in the projection of root apex are painless. Thermal stimuli cause pain that quickly stops after the simulus is removed. What is the most likely diagnosis?
 a. Chronic deep caries
@@ -1490,11 +1490,11 @@ c. Acute median caries
 e. Chronic fibrous pulpitis
 
 214. A man presents with clinical signs that resemble acute herpetic stomatitis. This diagnosis will be confirmed, if cytology detects the presence of the following cells:
-a. Atypical mononuclear cells
-b. Tzanck cells
-*c. Multinucleated giant cells
-d. Niemann-Pick cells
-e. Gaucher cells
+a. Niemann-Pick cells
+b. Gaucher cells
+c. Multinucleated giant cells
+d. Tzanck cells
+e. Atypical mononuclear cells
 
 215. Parents of a 9-year-old child came to the dentist complaining that their child presents with enlarged cervical lymph nodes on the right. During examination palpation revealed the lymph nodes in the right submandibular, cervical, supraclavicular, and infraclavicular areas to be enlarged up to 2-2.5 cm in diameter, painless, non-matted together, and non-fused to the skin (resemble ''potatoes in a sack''). The parents note rapid fatigability and night sweats in their child. What additional examinations should the child be referred for?
 a. CT of the cervical spine
@@ -1560,11 +1560,11 @@ d. Beak-shaped crown forceps without  spikes
 e. S-shaped right-sided forceps
 
 224. Vestibular surfaces of the upper and lower incisors of a 27-year-old patient are affected by destructive form of fluorosis. What construction of a denture will provide the maximum aesthetic effect with minimum invasion?
-a. Porcelain-fused-to-metal crowns
-b. -
-c. Ceramic crowns
-*d. Ceramic veneers
-e. Plastic crowns
+a. -
+b. Ceramic crowns
+*c. Ceramic veneers
+d. Plastic crowns
+e. Porcelain-fused-to-metal crowns
 
 225. A man came to a dentist with complaints of a painless tumor-like formation on his left lower jaw. Palpation detects Dupuytren's sign. The crown of tooth 36 has a deep carious cavity. In the area of the rooth apices of tooth 36, X-ray shows an area of bone destruction 2x2 cm in size with clear margins. What is the most likely diagnosis in this case?
 a. Follicular cyst of the lower jaw
@@ -1609,11 +1609,11 @@ d. Median rhomboid glossitis
 e. Fissured tongue
 
 231. A 43-year-old patient complains of a sharp pulsing pain in the area of the right upper jaw. The pain appeared three days ago. Objectively, an inflamed round infiltration can be palpated on the vestibular surface of gingival mucosa of tooth 26, closer to the gingival margin. The tooth is intact, with II degree mobility. Its horizontal and vertical percussion is painful. Periodontal pockets are 4-5 mm deep. What is the most likely diagnosis?
-a. Acute serous periodontitis
-*b. Periodontal abscess
-c. Exacerbation of chronic periodontitis
-d. Maxillary periostitis
-e. Acute suppurative periodontitis
+a. Acute suppurative periodontitis
+b. Maxillary periostitis
+*c. Periodontal abscess
+d. Acute serous periodontitis
+e. Exacerbation of chronic periodontitis
 
 232. What medical establishment provides dental and prosthodontic (making of splints, appliances, and dentures) treatment for those who received maxillofacial injuries on the battlefield?
 a. Separate medical battalion
@@ -1623,11 +1623,11 @@ d. Specialized surgical field hospital
 e. Separate medical platoon
 
 233. A 34-year-old man presents with persisting dull pain in his tooth, which aggravates on biting. One week ago the tooth was treated for deep caries. Objectively on the masticatory surface of tooth 36 there is a filling, percussion is painful, there is a supracontact observed in the area of 36. X-ray shows unchanged periodontium. What mistake was made when tooth 36 was filled?
-a. Insulation layer exceeds borders of the dentinoenamel junction
-b. High filling
-c. Filling without insulation layer
-d. Filling without medicinal substance sealed inside
-e. Gingival attachment is disturbed
+a. Filling without medicinal substance sealed inside
+b. Insulation layer exceeds borders of the dentinoenamel junction
+c. Gingival attachment is disturbed
+d. High filling
+e. Filling without insulation layer
 
 234. A 29-year-old man with diabetes mellitus developed a short-term agitation after injecting 30 IU of insulin, after which he lost his consciousness. What emergency condition has likely developed in this case?
 a. Hyperglycemic coma
@@ -1665,11 +1665,11 @@ d. Gingivotomy
 *e. Closed curettage
 
 239. A 2.5-year-old child is registered for regular check-ups with the orthodontist. The I stage of physiogical occlusion development corresponds with eruption of the following group of temporary teeth:
-a. Front teeth
-b. Temporary canines
-c. Temporary lateral incisors
-d. Temporary molars
-e. Temporary central incisors
+a. Temporary molars
+b. Temporary lateral incisors
+c. Temporary canines
+d. Temporary central incisors
+e. Front teeth
 
 240. A 40-year-old woman came to a dentist to have dentures made for her teeth 12 and 13. These teeth are pink and were previously treated. After examination, a porcelain-fused-to-metal design of crowns was selected. No contraindications were found for the use of such dentures by the patient. What material must be used to obtain a working cast?
 *a. Speedex
@@ -1728,10 +1728,10 @@ d. Generalized periodontitis, early stage, chronic development
 e. Generalized periodontitis, stage I, chronic development
 
 248. A porcelain-fused-to-metal dental bridge is being made for a 31-year-old woman. Vital teeth 33, 36, and 37 will function as the abutment teeth. The teeth preparation is planned to be done under anesthesia. What type of anesthesia will be the most effective in this case?
-a. Intraligamentary
-b. Conduction (tuberal and palatal)
-*c. Conduction (torusal)
-d. Application
+a. Conduction (tuberal and palatal)
+*b. Conduction (torusal)
+c. Application
+d. Intraligamentary
 e. Infiltration
 
 249. During the administration of a conduction anesthesia for a 15-year-old child, the child developed complaints of a hoarseness, heavy respirations, and enlarged lips and tongue. Objectively, there is an edema of the lips and tongue that is displaced posteriorly, the respirations are frequent and difficult, the voice is hoarse. What is the likely diagnosis?
@@ -1770,11 +1770,11 @@ d. Unilateral infraorbital and palatal anesthesia
 e. Unilateral central anesthesia
 
 254. Preventive examination of a 20-year-old young woman by a dentist detected multiple chalk-like spots on the approximal surfaces and in the pericervical regions of her upper and lower premolars. The lesions are somewhat symmetrical. Objectively, the size of the spots is several millimeters. When the spots are dried, enamel there has no luster. Probing is painless, the surface is smooth. The dentist used vital staining of the dental hard tissues as an additional study. What is the purpose of this method?
-a. Assessment of the caries spread
-b. Measuring the depth of the hard tissue damage
-*c. Caries diagnostics
-d. Measuring the activity of the process
-e. Hygiene assessment
+a. Measuring the activity of the process
+*b. Caries diagnostics
+c. Hygiene assessment
+d. Measuring the depth of the hard tissue damage
+e. Assessment of the caries spread
 
 255. A 69-year-old woman complains of dry mouth and burning pain in her oral cavity. For the last 2 years she has been using removable laminar dentures. The mucosa of the hard palate and tongue dorsum is bright red, hyperemic, and edematous. Within the prosthetic bed there is a small amount of easily removable gray-white plaque. What medicines are used for the etiotropic treatment of this disease?
 a. Antiprotozoal agents
@@ -1784,11 +1784,11 @@ c. Antibiotics
 e. Anti-inflammatory agents
 
 256. A 42-year-old woman complains of swelling and purulent discharge from a fistula in the left parotid region and limited mouth opening. Objectively, her face is asymmetrical due to an infiltration in the left parotid region. The infiltration is cyanotic, has ''wooden'' density, and contains fistulas that produce crumbs of yellowish pus. Make the provisional diagnosis:
-a. Odontogenic subcutaneous granuloma
-b. Adenophlegmon
-c. Herzenberg's mumps
-d. Actinomycosis
-e. Tuberculosis
+a. Herzenberg's mumps
+*b. Actinomycosis
+c. Odontogenic subcutaneous granuloma
+d. Tuberculosis
+e. Adenophlegmon
 
 257. One week ago a patient received removable dentures for the upper and lower jaws. During a follow-up visit to the dentist the patient complains of accidental cheek-biting and pain. Objectively he presents with hyperemia, edema, ulceration of the buccal mucosa along the line of teeth closure in the area of the artificial molars. What is the likely cause of this condition?
 a. Incorrectly measured height of the occlusion
@@ -1848,10 +1848,10 @@ d. Manganotti's abrasive precancerous cheilitis
 
 265. A 14-year-old boy complains of a rash in his oral cavity and on the lips. The rash appeared after a long-term antibiotic therapy. Objectively, there are painful erosions with a gray coating on the hyperemic mucosa of the oral cavity and hemorrhagic scabs on the lips. Maculo-papular rash is observed on the skin of the flexor surfaces of the forearms. What group of drugs should be chosen for etiotropic treatment of this disease?
 a. Antifungal drugs
-b. Keratoplastics
-c. Antiviral drugs
-d. Anti-inflammatory drugs
-*e. Antihistamines
+b. Antiviral drugs
+*c. Antihistamines
+d. Keratoplastics
+e. Anti-inflammatory drugs
 
 266. A white non-glossy spot was detected on the masticatory surface of tooth 36 of an 18-year-old patient. What additional method of examination should be used to make the diagnosis?
 a. Electric pulp testing
@@ -1862,17 +1862,17 @@ e. Measuring hygiene indices
 
 267. Parents of a 5-year-old child came to the dentist for sanation of the child's oral cavity. Objectively on the masticatory surfaces of teeth 54, 64, 74, 75, and 85 there are carious cavities within the softened mantle dentin. The child is anxious and misbehaves. What treatment tactics would be optimal in this case?
 a. Deep fluoridation
-b. Preventive filling
-c. Invasive sealing
-*d. ART technique
+*b. ART technique
+c. Preventive filling
+d. Invasive sealing
 e. Impregnation treatment
 
 268. A 44-year-old man came to the dental polyclinic to have a denture made for him. He complains of problematic chewing and aesthetical defects. Objectively teeth 14, 15, and 22 are missing. According to Agapov, the loss of masticatory efficiency in this case is:
-*a. 18%
-b. 16%
-c. 20%
+a. 9%
+b. 20%
+*c. 18%
 d. 12%
-e. 9%
+e. 16%
 
 269. A 70-year-old man came to a dental orthopedist complaining of all his teeth missing. Objectively, he has a slight uniform atrophy of the mandibular alveolar process that is covered with a moderately pliable mucosa. What type of edentulous jaw according to the Keller's classification is it, as indicated by these characteristics?
 a. Fourth
@@ -1917,16 +1917,16 @@ c. Valve asphyxia
 e. Stenotic asphyxia
 
 275. A 20-year-old woman complains of pain in the area of tooth 38. The pain increases during swallowing and opening her mouth wide. Objectively, the crown of tooth 38 is partially covered in mucosa, from under which a purulent exudate is being discharged. Palpation is painful. The mucosa over tooth 38 is hyperemic and swollen. Make the provisional diagnosis:
-a. Acute suppurative periostitis
-b. Acute ulcerative pericoronitis
+*a. Acute suppurative pericoronitis
+b. Acute serous periostitis
 c. Acute catarrhal pericoronitis
-d. Acute serous periostitis
-*e. Acute suppurative pericoronitis
+d. Acute ulcerative pericoronitis
+e. Acute suppurative periostitis
 
 276. What causes formation of Hunter-Schreger bands on longitudinal sections of enamel?
-a. Non-homogeneous arrangement of enamel bundles
+a. Mineralization of interprismatic spaces
 *b. Alternation of longitudinal and transverse sections of enamel prisms
-c. Mineralization of interprismatic spaces
+c. Non-homogeneous arrangement of enamel bundles
 d. Cyclic disturbances in the formation of enamel prisms
 e. Non-homogeneous mineralization of enamel prisms
 
@@ -1939,10 +1939,10 @@ e. Necrotizing ulcerative stomatitis (Vincent stomatitis)
 
 278. A 46-year-old man was diagnosed with horizontal generalized form of pathological tooth wear, complicated with the occlusion height decreased by 10 mm. To restore the occlusion height, it is planned to make a plastic mouthguard for this patient. What is the maximum acceptable single separation of the upper and lower dentition?
 a. 1-2 mm
-b. 4-6 mm
-c. 3-4 mm
-d. 0.5-1 mm
-e. 9-10 mm
+b. 3-4 mm
+c. 0.5-1 mm
+d. 9-10 mm
+*e. 4-6 mm
 
 279. At the dentist's office, a patient diagnosed with exacerbation of chronic periodontitis of tooth 14 undergoes a typical tooth extraction. What stage precedes the application of forceps?
 a. Fixation
@@ -1966,11 +1966,11 @@ d. Semi-retention of teeth 23 and 24
 e. Distal position of tooth 23
 
 282. During teeth preparation without anesthesia, a 33-year-old patient suddenly developed dizziness, weakness, and nausea. Objectively, the patient presents with sudden facial pallor, slightly cyanotic lips, cold sticky sweat, and blood pressure of 80/50 mm Hg. What emergency condition developed in this case?
-a. Unconsciousness
-b. Hypertensive crisis
-*c. Collapse
-d. Myocardial infarction
-e. Angina pectoris
+*a. Collapse
+b. Angina pectoris
+c. Myocardial infarction
+d. Unconsciousness
+e. Hypertensive crisis
 
 283. A 61-year-old woman came to a dentist complaining that the majority of her upper and lower teeth are mobile. The dentist needs to make diagnostic dental casts. What impression material would be optimal in this case for obtaining impressions?
 *a. Alginate
@@ -2106,11 +2106,11 @@ c. No less than once every 2 weeks
 e. No less than once a year
 
 302. A 29-year-old man complains of pain in the oral cavity, inability to eat, and a fever of 38°С. According to the patient's medical history, several days ago the patient had acute food poisoning. Objectively, the complexion is pale, hypersalivation is observed, there are sharply painful ulcers with a dirty-gray coating on the mucosa of the lips, cheeks, gums, and floor of the mouth. Regional lymph nodes are enlarged and painful to palpation. What is the most likely diagnosis in this case?
-a. Acantholytic pemphigus
-b. Sutton's stomatitis
-*c. Vincent's necrotizing ulcerative stomatitis
-d. Erythema multiforme exudativum
-e. Miliary ulcerative tuberculosis
+a. Miliary ulcerative tuberculosis
+b. Acantholytic pemphigus
+c. Erythema multiforme exudativum
+*d. Vincent's necrotizing ulcerative stomatitis
+e. Sutton's stomatitis
 
 303. A 46-year-old man is undergoing endodontic treatment of tooth 26 due to exacerbation of chronic periodontitis. X-ray shows significant obliteration of buccal root canals of tooth 26. What chemical solutions should be used during the mechanical widening of root canals in this case?
 *a. EDTA and sodium hypochlorite
@@ -2142,10 +2142,10 @@ e. Chronic hypertrophic gingivitis
 
 307. What anatomical landmarks are used to locate the mandibular foramen, when administering mandibular anesthesia intraorally in a 6-year-old child?
 a. 10 mm below the masticatory surface of the last lower molar
-b. 10 mm above the masticatory surface of the last lower molar
-c. 6 mm above the masticatory surface of the last lower molar
-d. 5 mm below the level of the lower alveolar ridge
-*e. At the level of the masticatory surface of a lower temporary molar
+b. 5 mm below the level of the lower alveolar ridge
+c. At the level of the masticatory surface of a lower temporary molar
+d. 10 mm above the masticatory surface of the last lower molar
+e. 6 mm above the masticatory surface of the last lower molar
 
 308. A dentist has witnessed a car accident and had to provide emergency aid for bleeding from the femoral artery - applying a tourniquet. What is the maximum time for a tourniquet to be left on?
 a. 3 hours in winter, 3.5 hours in summer
@@ -2225,11 +2225,11 @@ d. Reducing the width of the crowns
 e. Deepening the fissures on the crowns
 
 319. A 32-year-old man complains of a moderate periodical dull aching pain in the left temporomandibular joint. He notes stiffness in the left temporomandibular joint and limited mouth opening at the end of the day. X-ray shows a joint space narrowing in the left temporomandibular joint. What is the most likely diagnosis?
-a. Chronic arthritis of the left temporomandibular joint
+a. Pain dysfunction syndrome of the left temporomandibular joint
 b. Arthrosis of the left temporomandibular joint
-c. Pain dysfunction syndrome of the left temporomandibular joint
+c. Ankylosis of the left temporomandibular joint
 d. Acute arthritis of the left temporomandibular joint
-e. Ankylosis of the left temporomandibular joint
+*e. Chronic arthritis of the left temporomandibular joint
 
 320. A 7-year-old practically healthy child was undergoing the carious cavity preparation of tooth 46 due to acute median caries. During this procedure the mesio-buccal pulp horn was accidentally exposed. What treatment would be optimal in this case?
 *a. Biological approach
@@ -2274,11 +2274,11 @@ d. Porcelain-fused-to-metal crowns with abutment implants in place of teeth 36 a
 e. Removable partial laminar denture for the lower jaw
 
 326. A partial removable laminar denture is to be made for the upper jaw of a 53-year-old man. He has teeth 16, 15, 23, 24, and 27. What type of clasp (clammer) fixation would be optimal in this case?
-a. Linear transverse fixation
+a. Linear diagonal fixation
 b. Linear sagittal fixation
-c. Point fixation
-d. Linear diagonal fixation
-e. Plane fixation
+c. Linear transverse fixation
+*d. Plane fixation
+e. Point fixation
 
 327. A 12-year-old boy complains of a pain and trauma of the buccal tissues on the right. The trauma was received in a car accident. 27 hours after the trauma, he went to a doctor and requested help. Objectively, his general condition is moderately severe, the face is asymmetrical due to a swelling and a skin injury of the cheek. The wound is 2.5х1.5х1 cm, with smooth gaping margins that are covered in a gray-white coating. The patient was diagnosed with an incised wound of the right cheek. What type of surgical debridement should be performed in this case?
 *a. Delayed primary
@@ -2288,10 +2288,10 @@ d. Late primary
 e. Primary
 
 328. A 40-year-old man came to a dental clinic with complaints of bleeding, edematous, and hyperemic gums and missing lateral teeth on his lower jaw. A complex treatment is planned for this man, along with making removable dentures. What method of functional diagnostics is used to assess the condition of the periodontal vessels?
-*a. Rheoparodontography
-b. Myography
-c. Masticatiography
-d. X-ray
+a. Myography
+b. Masticatiography
+c. X-ray
+*d. Rheoparodontography
 e. Galvanometry
 
 329. Complete removable laminar dentures are being made for a patient. Objectively, the alveolar processes of the jaws are mildly atrophied, the mucosa is moderately pliable. Anatomical impressions were obtained. What is the next clinical stage of denture-making?
@@ -2302,11 +2302,11 @@ d. Making individual impression trays
 e. Checking the wax models of the dentures
 
 330. A 16-year-old girl came to a dentist with complaints of a carious cavity in her upper right tooth that accumulates food debris. Examination revealed a carious cavity with a wide opening in tooth 14. The dentin of the cavity floor and walls is dense and pigmented. Electric pulp testing - 4 microamperes. During the treatment, a pulp horn was accidentally exposed. What doctor's tactics would be optimal in this case?
-a. Tooth extraction
-b. Vital amputation of the pulp
-c. Application of odontotropic paste
-d. Application of mummifying paste
-e. Vital extirpation of the pulp
+a. Application of mummifying paste
+*b. Application of odontotropic paste
+c. Vital extirpation of the pulp
+d. Vital amputation of the pulp
+e. Tooth extraction
 
 331. A 49-year-old man has been hospitalized into the maxillofacial department in a severe condition with the diagnosis of phlegmon of the mouth floor with the purulent process spreading to the neck. While lying on the operating table, the patient developed signs of asphyxia. What measures should be taken first in this case?
 a. Perform fixation of the tongue
@@ -2330,11 +2330,11 @@ d. The root canal is lavaged with antidote, the tooth remains uncovered
 e. Dentin dressing is removed, electrophoresis with antidote along the mucogingival fold is prescribed
 
 334. A 38-year-old man came to the dentist. After history-taking and examination  he was found to have exacerbated generalized periodontitis of the II degree with periodontal pockets 3-5 mm deep. After the local factors were removed and anti-inflammatory treatment was provided to the patient, it is necessary to remove the periodontal pockets. What method should be applied in this case?
-a. Gingivectomy
+*a. Curettage
 b. Vestibuloplasty
-c. Gingivotomy
-d. Flap surgery
-*e. Curettage
+c. Flap surgery
+d. Gingivotomy
+e. Gingivectomy
 
 335. A 46-year-old man came to a dental clinic for a preventive examination. Objectively, his upper front teeth overlap his lower teeth by 3 mm. In the central occlusion, the mesial buccal cusp of the upper first molars is located between the mesial and distal buccal cusps of the lower first molars. What type of bite is it?
 a. Oblique
@@ -2407,11 +2407,11 @@ d. Atopic cheilitis
 e. Allergic contact cheilitis
 
 345. A 47-year-old man complains of pain in the throat on the left that intensifies during talking and swallowing, reduced mouth opening, and generally feeling unwell. Objectively, the face is symmetrical, mouth opening is limited, the jaw cannot be moved to the right. The mucosa in the area of the left pterygomandibular fold and tooth 38 is hyperemic and painful. A painful infiltrate is palpable on the inner surface of the left gonial angle. What diagnosis can be suspected in this case?
-a. Phlegmon of the left parapharyngeal space
-b. Peritonsillar abscess
-c. Abscess of the lingual sulcus on the left
+a. Abscess of the lingual sulcus on the left
+b. Phlegmon of the left parapharyngeal space
+c. Acute purulent pericoronitis in the area of tooth 38
 *d. Phlegmon of the left pterygomandibular space
-e. Acute purulent pericoronitis in the area of tooth 38
+e. Peritonsillar abscess
 
 346. A woman came to a dentist with complaints of a formation on her face. Objectively, on the cheek there is a painless hemispherical tumor-like formation up to 1 cm in size. On palpation, the formation is dense-elastic, mobile, has a smooth surface, and is fused to the skin surface in one point at its center. Make the provisional diagnosis:
 a. Lipoma
@@ -2442,18 +2442,18 @@ d. Contact dermatitis
 e. Bronchial asthma attack
 
 350. A 10-year-old child complains of persisting throbbing pain in tooth 36, which appeared one day ago. Hot stimulus aggravates the pain, while cold mitigates it slightly.  Objectively on the masticatory and medial surfaces of tooth 36 there is a deep carious cavity non-communicating with the dental cavity. Probing of the cavity bottom and percussion are painful. X-ray shows no pathologic changes of the periodontium. What treatment method shold be chosen in this case?
-a. Vital amputation
-b. Vital extirpation
-c. Conservative treatment
-d. Devital amputation
+a. Conservative treatment
+*b. Vital extirpation
+c. Devital amputation
+d. Vital amputation
 e. Devital extirpation
 
 351. A 14-year-old child complains of bleeding and pain in the lower right molar during eating. Objectively, on the mesial and masticatory surfaces of tooth 46 there is a carious cavity filled with red tissue. Its superficial probing resuts in pain and moderate bleeding, while deeper probing causes sharp pain. Tooth percussion is painless. Make the provisional diagnosis:
-a. Chronic gangrenous pulpitis
-b. Chronic papillitis
-c. Chronic granulating periodontitis
-d. Chronic hypertrophic pulpitis
-e. Chronic fibrous pulpitis
+a. Chronic granulating periodontitis
+*b. Chronic hypertrophic pulpitis
+c. Chronic fibrous pulpitis
+d. Chronic gangrenous pulpitis
+e. Chronic papillitis
 
 352. A 47-year-old woman complains of an itching sensation in her gums and increased teeth sensitivity to thermal stimuli. Objectively, the roots of most of her teeth are exposed to 1/3 of their length, the gums are pale pink, no periodontal pockets. X-ray shows osteosclerosis of the alveolar process bone tissue, disturbed intactness of the lamina dura on the apices of the interdental septa. The patient was diagnosed with initial periodontosis. What should be prescribed in this case for local treatment of the systemic dental hyperesthesia?
 *a. Desensitizers
@@ -2463,11 +2463,11 @@ d. Anesthetics
 e. Antiseptics
 
 353. The mother of a 4-year-old girl complains that her child has fever of 39^oC, cough, and runny nose. Examination of the oral cavity detects punctate whitish spots that resemble splashes of lime on the hyperemic buccal mucosa in the area of the molars. Palpation of the affected areas detects a mucosal unevenness. Regional lymph nodes are enlarged. What is the provisional diagnosis in this case?
-a. Measles
+a. Acute herpetic stomatitis
 b. Infectious mononucleosis
-c. Varicella
-d. Erythema multiforme exudativum
-e. Acute herpetic stomatitis
+c. Erythema multiforme exudativum
+*d. Measles
+e. Varicella
 
 354. A 30-year-old woman complains of pain in the area of an incised cheek wound. She received a domestic injury 4 days ago, but did not seek medical aid. Objectively, the healing occurs by granulation tissue gradually filling the pus-filled wound cavity with its subsequent epithelization and scar formation. What type of healing is it?
 a. Primary intention healing
@@ -2519,18 +2519,18 @@ d. Non-steroidal anti-inflammatory drugs
 e. Corticosteroids
 
 361. A 63-year-old man came to a dentist complaining of a painless formation with a wide base (up to 2 cm) on the skin of his left cheek. In the center of the formation, there is a crater-like depression in its base, filled with keratinized masses. The formation appeared 4 months ago. Regional lymph nodes are not enlarged. What is the provisional diagnosis in this case?
-a. Fibroma
-*b. Keratoacanthoma
+a. Melanoma
+b. Fibroma
 c. Cutaneous horn
-d. Melanoma
-e. Atheroma
+d. Atheroma
+e. Keratoacanthoma
 
 362. A 24-year-old man needs to have his tooth 47 extracted due to exacerbation of chronic periodontitis. What is the optimal method of peripheral conduction anesthesia in this case?
-a. Mental anesthesia
-b. Torusal anesthesia
+a. Infiltration anesthesia
+*b. Torusal anesthesia
 c. Extraoral mandibular anesthesia
 d. Plexus anesthesia
-e. Infiltration anesthesia
+e. Mental anesthesia
 
 363. A 27-year-old man presents with missing crown of 11. Objectively teeth 21 and 12 are intact; intraoral spot film X-ray shows the root of 11 to be filled to the apex, no changes in the periapical tissues, no pathologic mobility. What construction of the denture should be recommended for this patient?
 a. Remove the root of 11 and perform implantation
@@ -2575,32 +2575,32 @@ d. Lip abscess
 *e. Retention cyst of the lip
 
 369. After extraction of tooth 27 the dental surgeon suspected that the maxillary sinus was perforated. To clarify this provisional diagnosis the doctor desided to conduct an oronasal communication test (Valsalva maneuver). What manipulations are necessary for this test?
-a. Pinch the nostrils together to occlude the patient's nose and ask the patient to blow through the mouth, while observing the socket of 27
-b. Ask the patient to blow through the nose, while observing the socket of 27
-c. Ask the patient to blow through the mouth, while observing the socket of 27
-d. Pinch the nostrils together to occlude the patient's nose and ask the patient to blow through the nose, while observing the socket of 27
-e. Ask the patient to inhale through the nose, pinch the nostrils together, and exhale through the mouth
+a. Ask the patient to blow through the mouth, while observing the socket of 27
+*b. Pinch the nostrils together to occlude the patient's nose and ask the patient to blow through the nose, while observing the socket of 27
+c. Ask the patient to inhale through the nose, pinch the nostrils together, and exhale through the mouth
+d. Ask the patient to blow through the nose, while observing the socket of 27
+e. Pinch the nostrils together to occlude the patient's nose and ask the patient to blow through the mouth, while observing the socket of 27
 
 370. A 65-year-old patient complains of poor mandibular fixation of the clasp (bugel) denture that was made one month ago. Objectively, teeth 33, 32, 31, 41, 42, 43, 46 are preserved, the denture balances when one of ist sides is pressed. At what stage of making the clasp denture did a mistake occur?
 *a. Casting the frame
-b. Obtaining the impressions
+b. Modeling the clasps (clammers)
 c. Determining the centric occlusion
 d. Performing parallelometry
-e. Modeling the clasps (clammers)
+e. Obtaining the impressions
 
 371. A 49-year-old man came to a dentist with complaints of an aesthetic defect, speech disorders, and problems with eating. Objectively, his teeth 13, 12, 11, 21, 22 and 23 are missing, while teeth 17, 16, 15, 14, 24, 25, 26 and 27 are intact, but have a pathological mobility of the I-II degree. The lower dentition is preserved. Generalized periodontitis of the I degree, chronic progression, is observed. What denture can be used to eliminate the defect in the frontal maxillary region and stabilize the remaining teeth?
-a. Crown splint for the lateral teeth and a  partial removable laminar denture
-*b. Clasp (bugel) denture with continuous  clammers
-c. Partial removable laminar denture
-d. Clasp (bugel) denture with telescopic fixation system
-e. Clasp (bugel) denture with beam  fixation system
+a. Clasp (bugel) denture with telescopic fixation system
+b. Clasp (bugel) denture with beam  fixation system
+c. Crown splint for the lateral teeth and a  partial removable laminar denture
+d. Clasp (bugel) denture with continuous  clammers
+e. Partial removable laminar denture
 
 372. A 45-year-old woman came to a dentist with complaints of bad breath and gums that bleed when she brushes her teeth. Objectively, she has a significant amount of hard and soft dental plaque; her gums are dough-like, they have a cyanotic tinge and bleed when probed. X-ray shows resorption of the cortical plate at the apices of the interalveolar septa. What is the most likely diagnosis in this case?
-*a. Generalized periodontitis, initial stage,  chronic progression
+a. Generalized periodontitis, I degree,  chronic progression
 b. Chronic catarrhal gingivitis
-c. Generalized periodontitis, I degree,  chronic progression
-d. Generalized periodontitis, I degree,  exacerbated progression
-e. Generalized periodontitis, initial stage,  acute progression
+c. Generalized periodontitis, initial stage,  acute progression
+*d. Generalized periodontitis, initial stage,  chronic progression
+e. Generalized periodontitis, I degree,  exacerbated progression
 
 373. A patient is diagnosed with mandibular ameloblastoma. What type of surgery is recommended for this patient?
 a. Only conservative treatment
@@ -2631,18 +2631,18 @@ c. Collapse
 e. Heart failure
 
 377. An 18-year-old young man complains of tooth sensitivity in his lower left jaw when eating sweet food. Examination shows enamel defects in the fissures on the masticatory surface of tooth 37. The enamel there is dull white and fragile when (chips off) probed. Make the diagnosis:
-a. Chronic superficial caries of tooth 37
+*a. Acute superficial caries of tooth 37
 b. Chronic median caries of tooth 37
-*c. Acute superficial caries of tooth 37
-d. Acute initial caries of tooth 37
-e. Chronic initial caries of tooth 37
+c. Chronic initial caries of tooth 37
+d. Chronic superficial caries of tooth 37
+e. Acute initial caries of tooth 37
 
 378. A 70-year-old man has edentulous maxilla. Objectively maxillary tuberosity and alveolar processes are completely atrophied; palatine vault is flat, its mucosal layer is moderately pliant. In this case the patient's atrophic edentulous maxilla can be classified as:
-a. Schroeder class II
-b. Keller class III
-c. -
-d. Keller class II
-*e. Schroeder class III
+*a. Schroeder class III
+b. -
+c. Schroeder class II
+d. Keller class III
+e. Keller class II
 
 379. A 5-year-old girl was diagnosed with exacerbation of chronic periodontitis of tooth 75. Objectively, her face is symmetrical, percussion of tooth 75 is painful. The child suffers from chronic glomerulonephritis. Determine the treatment tactics for this case:
 a. Endodontic treatment of tooth 75
@@ -2688,23 +2688,23 @@ e. Lymphangitis
 
 385. A 60-year-old woman complains of pain in her ears and in the area of her temporomandibular joint and her teeth clacking when she talks. Her removable complete dentures were made two weeks ago. Objectively, her nasolabial folds are smoothed out, her masticatory muscles are strained. What tactics shoud be chosen by a dental orthopedist in this case?
 a. Correct the occlusal surface of the upper denture
-b. Make a new denture for the upper jaw
-c. Correct the occlusal surface of the lower denture
-d. Correct the occlusal surfaces of the both dentures
-*e. Make new dentures
+b. Correct the occlusal surfaces of the both dentures
+*c. Make new dentures
+d. Correct the occlusal surface of the lower denture
+e. Make a new denture for the upper jaw
 
 386. A 35-year-old woman, who works as a teacher, came to an orthopedic dentistry clinic with complaints of an aesthetical defect, inability to bite food, and problematic articulation. Objectively, her teeth 12, 11, 21, and 22 are missing due to an injury, while teeth 13 and 23 are stable and intact, with painless percussion. What anesthesia should be provided for this group of teeth before their preparation for the making of a porcelain-fused-to-metal dental bridge?
-a. Topical anesthesia
-b. Tuberal anesthesia
-c. Spongy anesthesia
-d. Central conduction anesthesia
-*e. Infiltration anesthesia
+a. Central conduction anesthesia
+b. Topical anesthesia
+c. Tuberal anesthesia
+*d. Infiltration anesthesia
+e. Spongy anesthesia
 
 387. A 34-year-old man underwent a surgical lancing of an odontogenic phlegmon in the left pterygomandibular space. He presents with further deterioration of his general condition, his body temperature increased to mbox{39-40^oC) Objectively, there are edema and crepitation in the jugular fossa and retrosternal pain that intensifies when the patient's chest is being percussed, during passive movements of the trachea, or when the patient's heels are percussed while the patient is in a horizontal position. What complication has most likely occurred in this case?
 a. Phlegmon of the mouth floor
-*b. Anterior mediastinitis
+b. Phlegmon of the parapharyngeal space
 c. Thrombosis of the cavernous sinus
-d. Phlegmon of the parapharyngeal space
+d. Anterior mediastinitis
 e. Posterior mediastinitis
 
 388. A 7-year-old girl complains of a neoplasm on her lower lip. The neoplasm appeared 3 months ago and has been slowly growing since then. Objectively on the mucosa of the lower right lip there is a round neoplasm 0.5-1 cm in diameter. It protrudes from the mucosa, has smooth surface, and its clear bluish content is visible through its walls. On palpation it is painless and elastic. Make the clinical diagnosis:
@@ -2715,11 +2715,11 @@ d. Fibroma of the lower lip
 *e. Retention cyst of the lower lip
 
 389. A 22-year-old man came to a dentist with complaints of increased salivation and a sharp pain in the oral cavity during eating and talking. He notes the acute onset of the disease that occurred after an overexposure to cold, high body temperature (39,5^oC), general weakness, and headache. He has a history of chronic tonsillitis and is allergic to certain medicines. On examination his skin is pale. On the dorsal surface of his hands there are bluish-pink rashes with a hemorrhagic crust in the center. Vermilion border of the lips is swollen and covered in hemorrhagic crusts. Regional lymph nodes are enlarged, painful, and mobile. Make the provisional diagnosis:
-a. Stevens-Johnson syndrome
+a. Erythema multiforme exudativum
 b. Acantholytic pemphigus
-c. Drug-induced stomatitis
-d. Erythema multiforme exudativum
-e. Acute herpetic stomatitis
+c. Acute herpetic stomatitis
+d. Stevens-Johnson syndrome
+e. Drug-induced stomatitis
 
 390. A 16-year-old girl came to a dental orthodontist with complaints of a loosened bracket on tooth 12. The bracket system was installed one week ago. Intraoral examination detects residual fixation material on tooth 12, the bracket is displaced and remains attached to the arch due to the ligature. What is the main active element of the bracket system?
 a. Metal ligature
@@ -2729,11 +2729,11 @@ d. Orthodontic archwire
 e. Bracket
 
 391. A 25-year-old woman complains of acute and prolonged pain attacks in the area of her right lower jaw. The pain attacks can be provoked by various stimuli, pain also occurs spontaneously at night and radiates into the right ear. After a clinical examination, a diagnosis of acute diffuse pulpitis of tooth 46 was established. What is the most common route of infection spreading into the pulp?
-*a. From the carious cavity along the dentinal tubules
+a. Through the branching delta of the root canal
 b. Lymphogenous infection through the root apex
 c. In retrograde, through the apical foramen
-d. Through the branching delta of the root canal
-e. Hematogenous infection through the root apex
+d. Hematogenous infection through the root apex
+e. From the carious cavity along the dentinal tubules
 
 392. A 60-year-old man came to a dentist with complaints of pain in his right temporomandibular joint when he opens his mouth. During external examination, the joint must be palpated. Where should the index fingers be placed to diagnose the distal displacement of the articular head?
 a. On the posterior wall of the external acoustic meatus
@@ -2778,17 +2778,17 @@ d. Respiratory muscles
 e. Tongue muscles
 
 398. A 24-year-old man has a painless oval neoplasm with a smooth surface on his upper neck, on the anterior margin of the sternocleidomastoid muscle. The neoplasm is 2x3.5 cm in size, dense-elastic, with limited mobility, not fused to the skin. Puncture has yielded a yellow liquid with cholesterol crystals. Make the provisional diagnosis:
-*a. Lateral cervical cyst
-b. Median cervical cyst
-c. Chronic lymphadenitis
-d. Cyst of the submandibular salivary gland
-e. Dermoid cervical cyst
+a. Median cervical cyst
+b. Cyst of the submandibular salivary gland
+*c. Lateral cervical cyst
+d. Dermoid cervical cyst
+e. Chronic lymphadenitis
 
 399. A 30-year-old man came to the dental orthopedist's office. He complains of an included defect of the lower dentition. On examination there are no pathologies of periodontal tissues. It is planned to make a dental bridge for this patient. What should be the ratio of the summary coefficient of masticatory efficiency of abutment teeth to the summary coefficient of masticatory efficiency of  lost teeth?
-a. 1:2
-b. 1:1.5
-c. 1:0.8
-d. 1:1
+a. 1:0.8
+b. 1:1
+c. 1:2
+d. 1:1.5
 e. 1:2.5
 
 400. A 60-year-old man with completely edentulous upper and lower jaws complains of pain in his lower right jaw. The pain developed after an injury on the day before. Objectively, the lower jaw is slightly swollen in its right mental region, the mouth opening is not restricted. X-ray shows a right-sided non-displaced mandibular fracture in the area of the mental foramen. What splint must be used in this case?
@@ -2820,10 +2820,10 @@ c. Lymphoma
 e. Adenoma
 
 404. A 32-year-old man has been hospitalized ith the following diagnosis: displaced open traumatic right-sided angle fracture of the mandible. What is the typical direction of the larger fragment displacement in such cases?
-*a. Downwards, backwards, and towards the fracture
-b. Upwards, forwards, and away from the fracture
-c. Upwards, backwards, and towards the fracture
-d. Upwards, forwards, and towards the fracture
+a. Upwards, forwards, and away from the fracture
+b. Upwards, backwards, and towards the fracture
+c. Upwards, forwards, and towards the fracture
+*d. Downwards, backwards, and towards the fracture
 e. Downwards, backwards, and away from the fracture
 
 405. A 29-year-old man came to a dentist with complaints of an aesthetic defect in the form of a pigmented spot on his upper front tooth. Objectively, tooth 21 is slightly rotated along its axis and has a brown spot with clear boundaries on its mesial contact surface. The surface of the spot is slightly rough when probed. Thermal stimuli provoke no pain response. What is the most likely diagnosis in this case?
@@ -2953,18 +2953,18 @@ d. Acute herpetic stomatitis
 *e. Stevens-Johnson syndrome
 
 423. During Eschler-Bittner test the profile of a 12-year-old girl with posterior occlusion has shown some improvement. Specify the condition that resulted in the development of posterior occlusion in this patient:
-a. Maxillary underdevelopment
+a. Mandibular underdevelopment and maxillary overdevelopment
 *b. Mandibular underdevelopment
-c. Mandibular overdevelopment
-d. Maxillary overdevelopment
-e. Mandibular underdevelopment and maxillary overdevelopment
+c. Maxillary overdevelopment
+d. Mandibular overdevelopment
+e. Maxillary underdevelopment
 
 424. Mother and her 11-year-old daughter came to the medical station. According to the mother her daughter has fallen when playing outdoors. The doctor determined the patient to have an isolated mechanical injury of soft tissues in her cheek with damaged skin. Make the diagnosis:
 a. Contusion
 b. Hematoma
-*c. Abrasion
-d. Wound
-e. Bruice
+c. Bruice
+*d. Abrasion
+e. Wound
 
 425. A 6-year-old child was referred for extraction of the temporary lower central incisors due to changes in the occlusion. The teeth exhibit the III degree of mobility. What type of anesthesia would be optimal in this case?
 a. Intraosseous anesthesia
@@ -3004,8 +3004,8 @@ d. With retention loops
 430. Complete removable dentures are being made for the upper and lower jaws of a 67-year-old patient. To place the artificial teeth correctly, the movements of the lower jaw were recorded. What is the average angle of the sagittal joint path?
 a. 110°
 *b. 33°
-c. 17°
-d. 63°
+c. 63°
+d. 17°
 e. 12°
 
 431. The parents of a 5-month-old boy came to a dentist complaining that their child frequently cries, refuses to eat, has an increased body temperature of 37.3°С and his gums became red. Examination detected brightly hyperemic and edematous gums in the frontal area of the lower jaw, with bluish spots. What is the likely cause of the gingival inflammation in this case?
@@ -3044,18 +3044,18 @@ d. Acute median caries
 e. Cuneiform defect
 
 436. The parents of a 7-year-old girl brought her to a dentist for oral cavity sanation. Examination detected a small carious cavity with a narrow opening in the limited area of a fissure in her tooth 46. The probe catches in the softened mantle dentin. Choose the optimal treatment tactics in this case.
-a. Invasive sealing
-b. Deep fluoridation
-c. Non-invasive sealing
-d. Impregnation method
-e. Preventive filling
+a. Impregnation method
+b. Non-invasive sealing
+c. Deep fluoridation
+*d. Preventive filling
+e. Invasive sealing
 
 437. A man complains of gingival pain in his upper left jaw and bleeding that occurs when he brushes his teeth or eats solid food. Objectively on the upper jaw he wears a swaged-soldered metal bridge with 14 and 16 as abutment teeth. The crown edge is pushed under the gingival margin by 0.3 mm. Intermediate part is closely fitted to the gums. The mucosa is hyperemic, swollen, interdental papillae are smoothed out; touching mucosa with a dental instrument provokes bleeding. What medical tactics should the dentist choose in the first place?
-a. Refer the patient for clinical blood test
-b. Refer the patient for cosultation with the dental therapist
+a. Remove the dental bridge
+b. Refer the patient for clinical blood test
 c. Refer the patient for X-ray
-d. Make metal-fused-to-porcelain dental bridge
-e. Remove the dental bridge
+d. Refer the patient for cosultation with the dental therapist
+e. Make metal-fused-to-porcelain dental bridge
 
 438. A 12-year-old child complains of high body temperature of 39.7^oC, enlarged lymph nodes, sore throat, runny nose, and cough. Objectively, acute catarrhal stomatitis is observed in the oral cavity, some of the palatine tonsils have a yellow-gray coating that crumbles and can be easily removed. The cervical, occipital, and submandibular lymph nodes are enlarged, mobile, and slightly painful. Laboratory blood testing shows leuko-, lympho-, and monocytosis and atypical mononuclear cells. What is the causative agent of this disease?
 a. Loeffler bacillus
@@ -3290,10 +3290,10 @@ d. Double jaw splint with hook loops and  mandibulomaxillary elastic extension
 
 471. A 42-year-old man came to a dentist with complaints of a swelling on his left cheek and skin redness. Objectively, on the skin of his left cheek there is an inflammatory infiltrate 2.5x1.5 cm in size with clear margins. The skin over the infiltrate is sharply thinned-out, cyanotic, and glossy. On the oral mucosa along the mucogingival fold in the area of tooth 37, a band can be palpated. The band is connected to the lesion focus on the patient's cheek. Tooth 37 underwent a volumetric restoration. Make the provisional diagnosis:
 a. Buccal phlegmon
-b. Buccal lymphadenitis
-c. Buccal carbuncle
-d. Buccal furuncle
-*e. Subcutaneous migrating granuloma
+b. Subcutaneous migrating granuloma
+c. Buccal lymphadenitis
+d. Buccal carbuncle
+e. Buccal furuncle
 
 472. A 32-year-old man was diagnosed with chronic fibrous pulpitis of tooth 27. Vital extirpation is chosen as the treatment method. Amide anesthetic is to be used for tuberal and palatal anesthesia. What anesthetic solution needs to be administered in this case?
 a. 10% lidocaine
@@ -3359,11 +3359,11 @@ d. Checking the denture construction
 e. Obtaining the functional impressions
 
 481. An 8-year-old girl complains of tooth 21 discoloration and pain response to hot stimulus. Several months ago tooth 21 was treated for acute diffuse pulpitis by means of vital amputation. Objectively tooth 21 is filled, percussion is painless. X-ray shows the rooth to be formed by 2/3, cortical plate of the tooth socket remains intact in the area of root radix. What material should be used for root canal filling in this case?
-*a. Calcium hydroxide paste
-b. Zinc phosphate cement
-c. Resorcinol-formalin paste
-d. -
-e. Glass ionomer cement
+a. Zinc phosphate cement
+b. -
+c. Glass ionomer cement
+*d. Calcium hydroxide paste
+e. Resorcinol-formalin paste
 
 482. An 18-year-old girl, having returned from a summer vacation, developed complaints of a mild pain in the lips, her lips are dry and peeling. Objectively, her lower lip is bright-red, its red border is dry and covered in small silvery-white scales. What is the most likely diagnosis?
 a. Glandular glandularis
@@ -3415,18 +3415,18 @@ d. Frenulectomy
 e. Uranostaphyloplasty
 
 489. A 28-year-old woman complains of dull pain when biting on tooth 16. Upon examination she was diagnosed with exacerbation of chronic periodontitis. She is prescribed extaction of tooth 16. What forceps should be used for tooth extraction in this case?
-a. Beak-shaped non-crushing forceps
-b. Beak-shaped curved forceps
-*c. S-shaped right forceps
+a. Beak-shaped curved forceps
+b. S-shaped right forceps
+c. Beak-shaped non-crushing forceps
 d. Straight forceps
 e. S-shaped left forceps
 
 490. A 30-year-old patient is diagnosed with acute suppurative odontogenic periostitis of the upper left jaw originating from tooth 23. The crown of 23 on the left is destroyed with caries by 1/3. Teeth 22 and 24 are intact. Spot-film X-ray shows widening of the periodontal fissure of 23. What treatment would be the most advisable in this case?
-a. Extraction of the causative tooth, physiotherapy
-b. Extraction of the causative tooth, periosteotomy
+*a. Periosteotomy and pharmacotherapy followed by treatment of the causative tooth
+b. -
 c. Extraction of the causative tooth, pharmacotherapy
-d. -
-e. Periosteotomy and pharmacotherapy followed by treatment of the causative tooth
+d. Extraction of the causative tooth, physiotherapy
+e. Extraction of the causative tooth, periosteotomy
 
 491. A 32-year-old man complains of a swelling in his left mandibular angle. Objectively, in his lower jaw at the level of missing tooth 38 there is a bone thickening. The alveolar mucosa is unchanged. Palpation is painless. Regional lymph nodes are not enlarged. X-ray shows a round focus of lucency in the bone tissue. The focus is 3.5 cm in diameter with clear smooth margins and a rim of sclerosed tissue on its periphery. The crown part of impacted tooth 38 is facing the cavity within this focus of lucency. What is the most likely diagnosis in this case?
 a. Radicular cyst
@@ -3436,11 +3436,11 @@ d. Follicular cyst
 e. Adamantinoma
 
 492. A 46-year-old man, a teacher, complains of lower teeth mobility that impedes the process of biting. Objectively the dentition is uninterrupted, front teeth demonstrate the II degree of mobility. X-ray shows straight and filled root canals of 32, 31, 41, and 42. What appliance will stabilize front teeth while retaining their aesthetic appearance?
-a. Cap splint
-b. Removable segmented splint for the front teeth
-c. Splint with embrasure clasps
-d. Semicrown splint
-*e. Mamlok's dental splint
+a. Splint with embrasure clasps
+*b. Mamlok's dental splint
+c. Cap splint
+d. Removable segmented splint for the front teeth
+e. Semicrown splint
 
 493. During examination of a 17-year-old patient, a targeted intraoral X-ray of the frontal region of the maxilla shows a round area of homogeneous rarefaction of bone tissue with clear borders, 2 cm in size. In the projection of the rarefaction, the roots of the intact central upper incisors with preserved periodontal fissures are located. Make the provisional diagnosis.
 a. Nasoalveolar cyst
@@ -3499,11 +3499,11 @@ d. Congenital complete left-sided non-union of the upper lip
 e. Oblique non-union of the face
 
 501. A 25-year-old correspondent complains of involuntary paroxysmal pain in his left temple. The pain occurs spontaneously in the evening. Sometimes the pain occurs, when he tilts his head or during the takeoff of an aircraft. Objectively, all his teeth are intact; the necks of teeth 24 and 36 are exposed. Percussion of tooth 24 is mildly painful. X-ray of tooth 24 detects an induration of dentin-like density in the central part of the coronary cavity. This formation is 0.5x0.5 mm in size. What method of treatment would you suggest?
-*a. Vital extirpation of the pulp of tooth 24
-b. Vital amputation of tooth 24
-c. Reminalization therapy of the cervical  areas of teeth 24 and 36
-d. Electrophoresis with potassium iodide in the projection of the apex of tooth 24
-e. A course of novocaine (procaine)  blockade with vitamin B_1
+a. Reminalization therapy of the cervical  areas of teeth 24 and 36
+b. Electrophoresis with potassium iodide in the projection of the apex of tooth 24
+c. A course of novocaine (procaine)  blockade with vitamin B_1
+*d. Vital extirpation of the pulp of tooth 24
+e. Vital amputation of tooth 24
 
 502. Removable partial dentures for both jaws are being made for a 60-year-old man. The patient has a history of chronic angular stomatitis. When making his dentures, special attention should be paid to the:
 a. Oral cavity sanation
@@ -3541,11 +3541,11 @@ d. Removal of the crown pulp and preservation of the root pulp vitality
 e. Pulp extirpation from the accessible root canals and its mummification in the tooth canals that are difficult to access
 
 507. A 54-year-old man developed a pustule on the skin of his chin. The pustule rapidly progressed into a hard and sharply painful infiltration 3x3.5 cm in size. The skin over the infiltration is bluish-red. In its center there are three necrotic foci surrounding the hair follicles. Palpation detects enlarged and painful submental lymph nodes. The body temperature is 38.5^oC) Make the provisional diagnosis:
-a. Furuncle
-*b. Carbuncle
-c. Festering atheroma
-d. Allergic dermatitis
-e. Erysipelas
+a. Allergic dermatitis
+b. Furuncle
+*c. Carbuncle
+d. Erysipelas
+e. Festering atheroma
 
 508. A 62-year-old man came to the dentist for extraction of tooth 44. During examination the patient suddenly fell unconscious. His respiration and pulse were slow. The head was bowed, the elbows and wrists were flexed, the legs were stretched, the jaws were clenching convulsively. After that the patient developed clonic convulsions and started frothing at the mouth. The pupils were dilated and unresponsive to light. After 1.5 minutes after the onset of the seizure the patient's muscles relaxed. His consciousness is clouded. Make the diagnosis:
 *a. Epileptic seizure
@@ -3590,11 +3590,11 @@ d. Rapid cooling of the cuvette after plastic polymerization
 e. Using plastic with an expired expiration date
 
 514. During the extraction of tooth 37, the dentist accidentally pushed the root into the perimandibular soft tissues. The root is located under the alveolar mucosa and can be clearly palpated with a finger. What are the doctor's tactics in this case?
-a. Remove the root through the tooth socket
-*b. Dissect the soft tissues over the root and  remove it
-c. Leave the root in the soft tissues
-d. Remove the root through a  submandibular surgical access
-e. Refer the patient for X-ray imaging to  determine further tactics
+a. Dissect the soft tissues over the root and  remove it
+b. Remove the root through a  submandibular surgical access
+c. Remove the root through the tooth socket
+d. Refer the patient for X-ray imaging to  determine further tactics
+e. Leave the root in the soft tissues
 
 515. A 63-year-old man came to a dentist with complaints of missing lower lateral teeth. Objectively, his teeth 35, 36, 37, 38, 45, 46, 47, and 48 are missing. Orthopantomogram shows resorption of the alveolar processes that amounts to 1/3 of the height of interdental septa in the area of the remaining teeth. What dental orthopedic appliance would be optimal in this case?
 *a. Clasp (bugel) denture with a multi-link clasp (clammer)
@@ -3619,10 +3619,10 @@ e. Acute diffuse suppurative pulpitis
 
 518. The parents of a 10-year-old girl came to a dental orthodontist complaining that their child has an aesthetic defect. The girl has a history of formula feeding and had been using a pacifier for a long time. Objectively, her face is symmetrical, but disproportionate due to the shortening of its lower third, the chin is slanted back. The bite is transitional, there is a contact between the cusps of the corresponding first permanent molars and canines, the sagittal fissure is 7 mm, the upper incisors overlap the lower ones by more than 1/2 of the crown height. During the Eschler-Bittner test, the child's appearance improves. What orthodontic appliance should be used to treat this occlusal pathology?
 a. Bruckl appliance
-b. Frankel functional regulator, type III
-c. Schwartz appliance
-d. Bracket system
-e. Kraus plate
+*b. Schwartz appliance
+c. Kraus plate
+d. Frankel functional regulator, type III
+e. Bracket system
 
 519. A 16-year-old girl came to an orthodontist with complaints about aesthetical defects. Objectively, there is a vestibular inclination of her upper and lower incisors and canines with a slight overlap of the lower teeth by the upper teeth; in the lateral regions the teeth ratio is neutral. What type of bite is it characteristic of?
 *a. Biprognathic
@@ -3695,18 +3695,18 @@ d. Erythema multiforme exudativum
 e. Duhring's dermatitis herpetiformis
 
 529. A 28-year-old man has received a hit to the chin. He complains of pain in the right side of his face. Examination shows asymmetrical face due to tissue swelling in the upper right parotid area, mouth opening is painful, limited, the jaw is displaced to the right, right-sided crossbite is observed. Make the provisional diagnosis:
-a. Displaced traumatic double fracture of the body of the mandible
-b. Displaced traumatic mental fracture of the mandible
-c. Displaced traumatic unilateral fracture of the body of the mandible
+a. Displaced traumatic central fracture of the mandible
+b. Displaced traumatic unilateral fracture of the body of the mandible
+c. Displaced traumatic double fracture of the body of the mandible
 d. Displaced traumatic fracture of the cervix of the mandibular articular process
-e. Displaced traumatic central fracture of the mandible
+e. Displaced traumatic mental fracture of the mandible
 
 530. A 38-year-old man has undergone the first stage of a two-stage dental implant installation in the area of his tooth 45. At this stage, the root part of the implant was installed. What minimum period must pass before the second stage of the procedure can be performed?
-*a. 3-4 months
-b. 1-2 months
-c. 7-8 months
-d. 5-6 months
-e. 10-12 months
+a. 5-6 months
+b. 10-12 months
+*c. 3-4 months
+d. 7-8 months
+e. 1-2 months
 
 531. A 36-year-old woman needs a dental prosthesis. Objectively there is a carious cavity on the mesial masticatory surface of tooth 46, interdental contact is disturbed. Dental inlay is to be made for this patient. According to Black's classification of dental caries this cavity is class:
 a. 5
@@ -3716,18 +3716,18 @@ d. 2
 e. 3
 
 532. A 68-year-old man has removable partial dentures made for him. At the stage of checking the denture construction, occlusal contact in the lateral areas is cusp-to-cusp and frontal area has sagittal fissure. What mistake was made by the doctor?
-a. Prothetic plane is designed incorrectly
-b. Height of centric occlusion is understated
-c. Height of centric occlusion is overstated
-d. Anterior occlusion is fixed
+a. Anterior occlusion is fixed
+b. Height of centric occlusion is overstated
+c. Prothetic plane is designed incorrectly
+d. Height of centric occlusion is understated
 e. Lateral occlusion is fixed
 
 533. A 48-year-old man came to a dentist complaining of acute short-term toothache provoked by thermal, mechanical, and chemical stimuli. After stimulation stops, the pain ceases immediately. Examination of tooth 36 reveals a deep carious cavity (Black's class V) with a narrow opening, filled with a large amount of softened dentin. Probing of the cavity floor is painful. The carious cavity and the dental cavity do not communicate. Percussion of tooth 36 is painless. Electric pulp testing - 11 microamperes. What is the most likely diagnosis in this case?
-a. Chronic gangrenous pulpitis
+a. Chronic fibrous pulpitis
 b. Pulpal hyperemia
-c. Chronic fibrous pulpitis
-d. Acute limited pulpitis
-*e. Acute deep caries
+c. Acute limited pulpitis
+*d. Acute deep caries
+e. Chronic gangrenous pulpitis
 
 534. A child with unilateral nonunion of the upper lip underwent Limberg cheiloplasty. What is normally the optimal period for the surgical treatment of an upper lip nonunion?
 a. The first days after birth
@@ -3737,11 +3737,11 @@ d. 1-1.5 years
 e. 6-8 months
 
 535. A 30-year-old man complains of aching toothache that radiates to the ear and intensifies when he eats hot or cold foods. Previously, spontaneous night pain was observed in this tooth. Objectively, tooth 37 has a deep carious cavity on its masticatory surface. The carious cavity communicates with the dental cavity at one point. The response to probing at the communication point and to cold stimuli is sharply painful, with pain not subsiding for a long time. Electric pulp testing - 55 microamperes. What is the most likely diagnosis in this case?
-a. Exacerbation of chronic periodontitis
-b. Acute purulent pulpitis
+a. Acute purulent pulpitis
+b. Acute diffuse pulpitis
 c. Chronic concrementous pulpitis
-*d. Exacerbation of chronic pulpitis
-e. Acute diffuse pulpitis
+d. Exacerbation of chronic pulpitis
+e. Exacerbation of chronic periodontitis
 
 536. A 39-year-old woman developed Quincke's edema at the dentist's office. The signs of asphyxia are intensifying. What must the dentist do to prevent stenotic asphyxia in this case?
 a. Administer desensitizers
@@ -3779,11 +3779,11 @@ c. Multiple
 e. Single
 
 541. A patient has been diagnosed with a unilateral linear fracture in the area of the gonial angle. Immobilization was carried out by applying a two-jaw dental wire splint with hook loops and an interjaw elastic band. The fracture is healing without complications. After what period of time should the splint be removed?
-a. 2 weeks
-b. 10 days
-c. 7 days
+a. 10 days
+*b. 3 weeks
+c. 2 weeks
 d. 1 month
-*e. 3 weeks
+e. 7 days
 
 542. A 5-year-old child presents with infantile swallow pattern. What structural element must be present in the orthodontic appliance for correction of this pathology?
 a. Labial bandages
@@ -3807,18 +3807,18 @@ d. Phenomenon of relative tooth-alveolar lengthening
 e. Castaigne syndrome
 
 545. A 54-year-old woman complains of pain and clicking in her temporomandibular joint during movements of the lower jaw. This condition has been observed for several years. Objectively, her face is symmetrical, the mouth opens with a slight mandibular displacement to the left. The dentition is intact. What type of X-ray examination would be most informative for diagnosis-making in this case?
-a. Orthopantomography
-b. Teleradiography
-c. Electromyography
-*d. Computed tomography of the  temporomandibular joint
-e. Axiography
+*a. Computed tomography of the  temporomandibular joint
+b. Axiography
+c. Teleradiography
+d. Electromyography
+e. Orthopantomography
 
 546. A 42-year-old man complains of sharp pain and creaking in his right temporomandibular joint and a burning sensation in the area of the right external auditory meatus. Objectively, the face is symmetrical, the bite is orthognathic, the movements of the lower jaw are stair-like, with short-term blocking moments in the joint and acute pain. During intraoral palpation of the areas of the lateral pterygoid muscles, the patient feels pain on the right. In the tomograms, no changes were detected in the contours of the bone structure of the articular surfaces. What is the most likely diagnosis in this case?
-a. Deforming arthrosis
-*b. Neuromuscular syndrome
-c. Rheumatoid arthritis
-d. Acute post-traumatic arthritis
-e. Ankylosis
+a. Ankylosis
+b. Deforming arthrosis
+c. Acute post-traumatic arthritis
+d. Rheumatoid arthritis
+*e. Neuromuscular syndrome
 
 547. What shape does the upper dental arch have in the permanent dentition?
 a. Parabola
@@ -3828,11 +3828,11 @@ d. Trapezoid
 e. Semicircle
 
 548. An 8-year-old boy complains of toothache during eating. Objectively, the proximal surface of tooth 55 has a deep carious cavity that communicates with the dental cavity. Probing of the communication point  is sharply painful. Moderate bleeding is observed. Tooth percussion is painless. What paste must be applied during the first visit to a dentist?
-a. Paraformaldehyde
+a. Calcium-containing
 b. Resorcinol-formaldehyde
-c. Calcium-containing
-d. Thymol
-e. Arsenic
+c. Arsenic
+*d. Paraformaldehyde
+e. Thymol
 
 549. A clasp (bugel) denture for the lower jaw is being made for a 47-year-old woman. Objectively, the abutment teeth are intact, the crowns are tall. When checking the denture frame, the width of the arch needs to be estimated. What is the optimal width of the denture arch?
 a. 1.0-1.5 mm
@@ -3940,11 +3940,11 @@ d. Mandibular sequestrectomy
 e. Extraction of teeth 36 and 37
 
 564. A 40-year-old man came to a dentist with complaints of tooth mobility, pain and gingival bleeding that occurs when he brushes his teeth. Objectively, the roots of teeth 13, 12, 11, 47, 46, 45, 35, 36 and 37 are exposed by over 2/3; they have the mobility of the III-IV degree. It is planned to extract the mobile teeth in the front area. What are the terms for making an immediate denture?
-a. Make the dentures in three months after the teeth extraction
-b. Make the dentures on the day after the teeth extraction
-c. Make the dentures in a month after the teeth extraction
-d. Make the dentures in ten days after the teeth extraction
-*e. Make the dentures before the teeth extraction and fix the dentures immediately after the extraction
+a. Make the dentures before the teeth extraction and fix the dentures immediately after the extraction
+b. Make the dentures in ten days after the teeth extraction
+c. Make the dentures in three months after the teeth extraction
+d. Make the dentures in a month after the teeth extraction
+e. Make the dentures on the day after the teeth extraction
 
 565. A 27-year-old woman came to the dentist for the purpose of oral cavity sanation. After anesthesia, she started complaining of dizziness, ringing in her ears, dimming vision, and general weakness. Objectively, her skin is pale and covered in cold sweat. Her pulse is 94/min., of low volume and pressure. Her blood pressure is 96/60 mm Hg. She had a brief episode of unconsciousness that lasted 30 seconds. What urgent condition developed in this woman?
 a. Hypertensive crisis
@@ -3989,25 +3989,25 @@ d. Non-invasive sealing of fissures
 e. Filling of small pericervical cavities
 
 571. A 45-year-old man came to a dentist with complaints of pain and bleeding in the area of his upper right teeth. Objectively, on the contact surfaces of teeth 16 and 17 there are dental restorations of unsatisfactory quality, the contact point of the teeth is not restored, the gingival papilla between teeth 16 and 17 is edematous, hyperemic, and bleeds when probed. X-ray shows resorption of the interalveolar septum in the area of teeth 16 and 17 by 1/3 of their root length. What is the most likely diagnosis in this case?
-a. Acute catarrhal gingivitis
+a. Chronic catarrhal gingivitis
 *b. Localized periodontitis
-c. Chronic catarrhal gingivitis
-d. Generalized periodontitis, degree I
-e. Chronic hypertrophic gingivitis, degree I
+c. Acute catarrhal gingivitis
+d. Chronic hypertrophic gingivitis, degree I
+e. Generalized periodontitis, degree I
 
 572. A 32-year-old man was diagnosed with ulcerative gingivitis. After processing the patient's oral cavity with an antiseptic, the doctor applied anesthesia and removed dental plaque and necrotic coating. Final part of the medical appointment is the application of gingival dressing. What etiotropic drug should this dressing contain?
-a. Terrilytin
-b. Metronidazole
-c. Pimafucin (Natamycin)
-d. Contrykal (Aprotinin)
+a. Pimafucin (Natamycin)
+b. Contrykal (Aprotinin)
+c. Metronidazole
+d. Terrilytin
 e. Methyluracil
 
 573. A 48-year-old man complains of a tumor-like formation on the hard palate. Examination detected a semi-spherical protrusion with clear margins in the anterior portion of the palate. Teeth 11 and 21 are intact. X-ray shows a homogeneous focus of bone tissue rarefaction. The focus is 3.5x2.5 cm and has clear margins. Against the background of rarefied bone tissue there are projections of intact teeth 11 and 21; periodontal fissure is visible. Make the provisional diagnosis:
-a. Follicular cyst of the maxilla
-b. Maxillary ameloblastoma
-c. Giant-cell tumor of the maxilla
-d. Radicular cyst of the maxilla
-*e. Nasopalatine duct cyst
+*a. Nasopalatine duct cyst
+b. Radicular cyst of the maxilla
+c. Maxillary ameloblastoma
+d. Giant-cell tumor of the maxilla
+e. Follicular cyst of the maxilla
 
 574. A patient is indicated extraction of tooth 46, the crown of which is completely destroyed, its distal and mesial roots are separated at the point of bifurcation. What forceps should be used for the tooth extraction in this case?
 a. Beak-shaped non-converging forceps
@@ -4024,24 +4024,24 @@ d. Herpes simplex virus
 e. Hemolytic streptococcus
 
 576. To make the external prosthesis for a 62-year-old man it is necessary to obtain a Hippocrates facial moulage of this patient. What impression material should be used?
-a. Repin
-b. Dentafol
-c. Stens
-d. Stomaflex
-e. Plaster
+a. Dentafol
+b. Repin
+c. Stomaflex
+d. Plaster
+e. Stens
 
 577. A dental bridge needs to be made for the lower jaw of a 48-year-old man,  with teeth 45 and 47 used as an abutment. Objectively, tooth 47 is distally inclined (diverges). What surface of tooth 47 must be filed down more during the preparation of abutment teeth?
-a. Lingual
-*b. Distal
-c. Buccal
-d. Masticatory
-e. Mesial
+a. Buccal
+b. Mesial
+*c. Distal
+d. Lingual
+e. Masticatory
 
 578. A regular check-up has detected crowded teeth on the front lower jaw of a 15-year-old boy. The gums in this area are slightly edematous and hyperemic with a cyanotic tint. The gingival margin has a torusal thickening. Dental calculus is observed on the teeth. The Schiller-Pisarev test is positive. X-ray shows that in the front lower jaw the contours of the cortical plate are fuzzy on the apices of the interdental septa, though the cortical plate itself is intact. Make the diagnosis:
-a. Desquamative gingivitis
-b. Acute ulcerative gingivitis
-c. Chronic hypertrophic gingivitis
-d. Acute catarrhal gingivitis
+a. Chronic hypertrophic gingivitis
+b. Acute catarrhal gingivitis
+c. Desquamative gingivitis
+d. Acute ulcerative gingivitis
 *e. Chronic catarrhal gingivitis
 
 579. A group of experts conducts epidemiologic investigation of certain age groups by severity of signs of periodontal damage and their need for treatment. What index allows to study these criteria?
@@ -4059,11 +4059,11 @@ d. Frontosagittal
 e. Parasagittal
 
 581. A dentist treats chronic gangrenous pulpitis of tooth 47 in a 28-year-old man. What results of electric pulp testing confirmed the diagnosis of chronic gangrenous pulpitis?
-a. Electric pulp testing - 110 microamperes
+a. Electric pulp testing - 2-6 microamperes
 b. Electric pulp testing - 20 microamperes
-c. Electric pulp testing - 10-12  microamperes
-*d. Electric pulp testing - 60 microamperes
-e. Electric pulp testing - 2-6 microamperes
+*c. Electric pulp testing - 60 microamperes
+d. Electric pulp testing - 110 microamperes
+e. Electric pulp testing - 10-12  microamperes
 
 582. 9.5-year-old child complains of destruction of an upper right lateral tooth. Objectively, the crown part of tooth 16 is destroyed and its dental cavity is exposed. Probing at the level of root canal entrances is slightly painful and provokes intensive hemorrhage. Percussion of the tooth is painless. Alveolar mucosa in the projection of the roots of tooth 16 has a fistula. Make the diagnosis:
 a. Chronic fibrous periodontitis
@@ -4073,11 +4073,11 @@ c. Chronic gangrenous pulpitis
 e. Chronic granulomatous periodontitis
 
 583. Partial removable laminar dentures are being made for the upper and lower jaws of a 59-year-old man. The stage of determining the central occlusion was completed. What laboratory stage will be next?
-a. Making final casts
-b. Teeth placement
-c. Making wax bite rims
-*d. Making plaster impressions in an occluder
-e. Making plaster impressions in a cuvette
+a. Making wax bite rims
+b. Making plaster impressions in a cuvette
+c. Making final casts
+d. Teeth placement
+*e. Making plaster impressions in an occluder
 
 584. Examination of the oral cavity of a 4-year-old boy by a dentist revealed four teeth with initial caries and two teeth treated for caries. What is the level of caries intensity in the child?
 a. Low
@@ -4115,11 +4115,11 @@ d. Chronic diffuse osteomyelitis of the  gonial angle and mandibular ramus
 e. Herzenberg parotitis
 
 589. A 50-year-old man complains to a dentist of pain and creaking in his left temporomandibular joint when eating, especially solid foods. After the irritation is removed, the pain gradually subsides in 20-30 minutes. In the morning there is no pain. Objectively, the patient chews food mainly on the left side. X-ray of the left temporomandibular joint shows narrowing of the joint space. Make the diagnosis:
-a. Pain dysfunction of the  temporomandibular joint
-b. Arthrosis of the left temporomandibular joint
-*c. Chronic arthritis of the left  temporomandibular joint
-d. Acute arthritis of the left  temporomandibular joint
-e. Ankylosis of the left temporomandibular joint
+a. Chronic arthritis of the left  temporomandibular joint
+b. Pain dysfunction of the  temporomandibular joint
+c. Ankylosis of the left temporomandibular joint
+d. Arthrosis of the left temporomandibular joint
+e. Acute arthritis of the left  temporomandibular joint
 
 590. A full removable denture for the lower jaw is being made for a 65-year-old man. Currently, the individual tray is being fitted in the patient's oral cavity. When the patient swallows saliva, the tray falls off. In what area should its edge be shortened in this case?
 a. From canine to canine on the vestibular side
@@ -4136,18 +4136,18 @@ d. Physiotherapy
 e. Pocket curettage
 
 592. The parents of a 10-year-old boy complain of a slight deformity in the area of the child's gonial angles and nocturnal pain attacks observed for the last several months. Examination reveals facial asymmetry caused by increased volume of the bone in the area of the gonial angles. The formations are dense, tubercular, and painless to paplation. X-ray shows uneven thinning of the cortical layer with spherical and oval areas of lucency, resembling a honeycomb and separated by dense bony septa. There is no clear border between the lesion and the healthy bone. What is the provisional diagnosis in this case?
-a. Odontoma
-*b. Fibrous dysplasia
-c. Osteoid osteoma
-d. Osteosarcoma
-e. Ameloblastoma
+a. Fibrous dysplasia
+b. Osteoid osteoma
+c. Osteosarcoma
+d. Ameloblastoma
+e. Odontoma
 
 593. Examination of a 5-year-old child by a dentist detected multiple bright-yellow chalky dots that affect the enamel of most upper and lower teeth of the child. When dried, the spots becomes matte-colored and glossy. Treatment with 2% methylene blue solution produces no staining. The child lives in an area, where water fluorine content is 2.0 mg/L. What is the provisional diagnosis in this case?
 *a. Dental fluorosis
-b. Systemic enamel hypoplasia
-c. Amelogenesis imperfecta
-d. Dentinogenesis imperfecta
-e. Marble disease
+b. Amelogenesis imperfecta
+c. Systemic enamel hypoplasia
+d. Marble disease
+e. Dentinogenesis imperfecta
 
 594. A 24-year-old patient came to the dentist complaining of chalky lesions on the front teeth. Objectively teeth 13, 12, 11, 21, 22, and 23 present with chalky lesions separated by areas of healthy unchanged enamel. Lesion surface is coarse;  there is no response to thermal stimuli. Childhood years of the patient were spent in the area with fluorine level of 1.8 mg/L in drinking water. Make the diagnosis:
 *a. Endemic fluorosis
@@ -4158,10 +4158,10 @@ e. Chronic superficial caries
 
 595. A 16-year-old boy came to a dentist with complaints of frequent injuries to the inner surface of his lower lip during his boxing training. Examination revealed a reverse overlap of his front teeth. It is recommended to make him a boxing mouthguard from <<Elastoplast>>. For what jaw should such a gear be made in this case?
 a. Mandibular dentition
-b. Maxillary dentition, maxillary alveolar  process, and hard palate
+*b. Mandibular dentition and mandibular  alveolar process
 c. Maxillary dentition
 d. Both maxillary and mandibular dentition
-*e. Mandibular dentition and mandibular  alveolar process
+e. Maxillary dentition, maxillary alveolar  process, and hard palate
 
 596. A dentist makes a dental bridge for the lower jaw of a 45-year-old man due to missing teeth 44 and 45. Anesthesia was provided before preparing the abutment teeth. A few minutes after receiving anesthesia, the patient complained of dizziness and feeling unwell. Objectively, his skin is pale, he has broken out in cold sweat, his limbs are cold, the pulse is thready, the muscles are atonic, the patient is conscious but apathetic. Blood pressure - 80/40 mm Hg. What emergency condition has likely developed in this case?
 a. Acute cerebrovascular accident
@@ -4178,11 +4178,11 @@ c. Shock
 e. Anaphylactic shock
 
 598. A dentist diagnosed chronic gangrenous pulpitis of tooth 36 in an 11-year-old girl. Choose the optimal drug for antiseptic treatment of root canals in this case.
-a. Furacilin (Nitrofural)
+*a. Sodium hypochlorite
 b. Hydrogen peroxide
-c. Ethyl alcohol
-d. Aethonium
-*e. Sodium hypochlorite
+c. Aethonium
+d. Ethyl alcohol
+e. Furacilin (Nitrofural)
 
 599. A 55-year-old man complains of heartburn and unpleasant sensations in his tongue. The patient has been suffering from gastritis with low acidity for approximately 5 years. What changes in the tongue are the most likely to be detected in this patient?
 *a. Atrophied and smoothed out lingual papillae
@@ -4199,11 +4199,11 @@ d. Acute purulent periodontitis
 e. Acute purulent periostitis
 
 601. What are diamond dental burs with red markings used for in dentistry?
-a. Finishing composite fillings
-b. Quick removal of dental tissues
+a. Universal application
+b. Finishing composite fillings
 c. Opening carious cavities
-d. Preliminary polishing of composite fillings
-e. Universal application
+*d. Preliminary polishing of composite fillings
+e. Quick removal of dental tissues
 
 602. A 28-year-old woman complains of a cavity in her lower left lateral tooth. Objective examination detects a mesio-occlusal-distal (MOD) defect of hard tissues of tooth 36. X-ray shows that tooth 36 is vital, no changes were detected in the periapical tissues. The anatomical and functional integrity of the tooth is being restored by making an inlay using an indirect method. During the first visit, the doctor prepared the dental cavity. What stage of denture-making is next?
 a. Inlay casting
@@ -4228,10 +4228,10 @@ d. Compomer
 
 605. A child was bitten in the area of the upper lip by the family's dog. What aid must be provided first in this case?
 a. Administer an anesthetic solution
-b. Apply a tourniquet
+b. Administer anti-tetanus serum
 c. Apply a sterile gauze pad
-*d. Wash the wound with a 10% solution of household soap with water
-e. Administer anti-tetanus serum
+d. Apply a tourniquet
+*e. Wash the wound with a 10% solution of household soap with water
 
 606. The parents of an 8-year-old girl brought her to a dental orthodontist for a preventive examination. Objectively, her lower lip protrudes, the shape of her upper dentition is trapezoidal, while the lower dentition is normal. Between the upper and lower front teeth there is a sagittal gap 2 mm wide, the closure of the first permanent molars is Angle's class III. What dental appliance can be used to treat this occlusion pathology?
 a. Muhlemann propulsor
@@ -4290,11 +4290,11 @@ d. Collapse
 e. Traumatic shock
 
 614. A 56-year-old man complains of swelling and pain  in his right parotid area. The swelling was noticed 5-6 months ago. Objectively right-sided paresis of the facial muscles can be determined. Palpation reveals there a modrately painful tuberous tumor fused with surrounding tissues. In the center of the tumor there is an area of softening. Submandibular and cervical lymph nodes on the right are enlarged and dense. The mouth can be opened without restriction. There is no saliva outflow from the opening of the right parotid gland. What provisional diagnosis can be made?
-*a. Adenocarcinoma of the right parotid gland
-b. Mixed tumor of the right parotid gland
-c. Chronic lymphadenitis of the right parotid area
-d. Chronic non-epidemic parotitis
-e. Actinomycosis of the right parotid gland
+a. Mixed tumor of the right parotid gland
+b. Actinomycosis of the right parotid gland
+c. Chronic non-epidemic parotitis
+d. Chronic lymphadenitis of the right parotid area
+*e. Adenocarcinoma of the right parotid gland
 
 615. A 42-year-old woman with diabetes mellitus developed weakness, palpitations, agitation, hand tremors, and dimming vision after physical exertion. A few minutes later she lost her consciousness. Objectively, her skin is pale, moist, with normal turgor. The pulse is 88/min., rhythmic, of satisfactory volume. Blood pressure - 130/75 mm Hg. The respiration is vesicular. The eyeball tonus remains unchanged. The muscle tone is increased, hyperreflexia is observed. What is the most likely diagnosis in this case?
 a. Ketoacidotic coma
@@ -4312,10 +4312,10 @@ e. Neutrophilic right shift, increased ESR
 
 617. The mother of a 3-year-old girl brought her to a dentist with complaints of destruction of the child's front teeth. Objectively, teeth 51, 52, 54, 61, 62, 65, 71, 72, 74, 75, 81, 82, 85 are affected by caries of superficial and medium depth and varying localization. Additional examination methods allowed diagnosing the child with multiple caries. What treatment method should be chosen in this case?
 a. Preparation and filling using zinc phosphate cements
-b. Preparation and filling using glass ionomer cements
-c. Preparation and filling using photopolymer materials
+*b. Silver impregnation
+c. Preparation and filling using glass ionomer cements
 d. Deep fluoridation of enamel
-*e. Silver impregnation
+e. Preparation and filling using photopolymer materials
 
 618. A 65-year-old woman came to a dentist complaining of a mildly painful ulcer on the mucosa of her tongue. The ulcer appeared 2-3 weeks ago. The woman has a history of chronic circulatory failure. On the lateral surface of the tongue, examination detects a shallow ulcer up to 1 cm in diameter, covered in a gray-white coating and moderately painful to palpation. The color of the surrounding mucosa is unchanged. The oral cavity is sanated. What type of ulcer is likely in this case?
 a. Cancerous ulcer
@@ -4332,11 +4332,11 @@ d. Chronic median caries
 e. Acute deep caries
 
 620. The parents of a 5-year-old child complain of the destruction of the child's lower lateral teeth on the left. Objectively, the contact surfaces of teeth 74 and 75 have carious cavities within the pigmented softened mantle dentin. The response to cold stimuli is painful and brief. Make the provisional diagnosis.
-a. Acute median caries
-b. Pulpal hyperemia
-c. Chronic deep caries
-d. Chronic fibrous pulpitis
-e. Chronic median caries
+a. Pulpal hyperemia
+b. Chronic deep caries
+*c. Acute median caries
+d. Chronic median caries
+e. Chronic fibrous pulpitis
 
 621. A 32-year-old man has metallic inlay made for him. The denture is being made for tooth 36 with Black's class I carious cavity. What surfaces of the inlay should be filed down and polished before fixing the denture?
 a. Lateral surfaces
@@ -4403,10 +4403,10 @@ e. Conduction anesthesia
 
 630. A 17-year-old young man came to a dentist with complaints of significant gingival bleeding that occurs when he brushes his teeth. The doctor noted that walking is problematic for this patient because of pain in his knees and ankle joints. The patient's medical history informs that the pain is associated with hemorrhages into the joints - hemarthroses; the bleeding when he brushes his teeth has been observed since childhood. What diagnosis can be suspected in this case?
 a. Thrombocytopenic purpura
-b. Rheumatoid polyarthritis
-*c. Hemophilia
+b. Hemophilia
+c. Acute leukemia
 d. Post-traumatic arthritis
-e. Acute leukemia
+e. Rheumatoid polyarthritis
 
 631. On the second day after the fixation of partial laminar dentures, the patient complained of a burning sensation in the oral cavity and an unpleasant taste when using the dentures. Examination detects hyperemic mucosa and hypersalivation. According to the patient's history, before the new dentures were made, the patient had been using removable dentures for 5 years and had no such complaints back then. What is the most likely cause of the patient's complaints?
 a. Mechanical injury of the mucosa by the denture base
@@ -4451,11 +4451,11 @@ d. Periostotomy
 *e. Resection of the root apex of tooth 12
 
 637. Examination of the oral cavity of a 12-year-old child revealed a carious cavity on the medial contact surface of tooth 46. The cavity is located within the mantle dentin, its walls and floor are pigmented and dense. Thermal stimuli provoke no response. Preparation of tooth 46 is painful in the area of dentinoenamel junction. The decay-missing-filled index is DMF+df=2. What filling material will be optimal in this case?
-a. Zinc phosphate cement
-b. Silicophosphate cement
-c. Amalgam
-d. Glass-ionomer cement
-e. Photopolymer composite
+a. Amalgam
+b. Glass-ionomer cement
+c. Zinc phosphate cement
+d. Silicophosphate cement
+*e. Photopolymer composite
 
 638. A 20-year-old young woman complains of pain and marked bleeding in her gums when she brushes her teeth and eats even soft food. Objectively her gingival mucosa is swollen, hyperemic and bleeds even on the slightest touch. The teeth are covered with moderate amount of soft dental plaque. What toothpaste should be recommended to this patient as a part of complex treatment of her condition?
 a. Herbal toothpaste
@@ -4543,31 +4543,31 @@ e. Flat leukoplakia
 
 650. A 40-year-old man presents with a medial defect of the hard palate 2x3 cm in size. Dentition is intact. What type of obturator would be optimal in this case?
 a. Ilina-Markosian obturator
-b. Floating obturator
-*c. Palatal plate
-d. Pomerantseva-Urbanska obturator
+*b. Palatal plate
+c. Pomerantseva-Urbanska obturator
+d. Floating obturator
 e. Plate prosthesis with obturator
 
 651. Preventive examination of a 7-year-old child revealed a carious cavity with overhanging enamel within the limited area of a fissure in tooth 36. The probe catches in the softened dentin. In the other areas, the enamel on the edges of the fissures is glossy and dense. A dentist plans to fill the carious lesion of tooth 36. What tactics should be chosen regarding the intact areas of the fissure?
-a. Processing the tooth with an antiseptic solution
-*b. Non-invasive sealing
+a. Application of fluoride varnishes
+b. Processing the tooth with an antiseptic solution
 c. Application of calcium-containing gels
-d. Invasive sealing
-e. Application of fluoride varnishes
+d. Non-invasive sealing
+e. Invasive sealing
 
 652. A 28-year-old man is referred for oral cavity sanation. On examination there is a filling on the masticatory surface of tooth 17, percussion is painless. Mucosa in the root apex projection of 17 is cyanotic, vasoparesis symptom is positive. X-ray shows foci of bone tissue destruction with fuzzy margins in the area of root apices, root canals are not filled. What is the most likely diagnosis?
-a. Radicular cyst
-b. Chronic granulomatous periodontitis
-c. Chronic fibrous pulpitis
-d. Chronic fibrous periodontitis
-*e. Chronic granulating periodontitis
+a. Chronic fibrous periodontitis
+b. Chronic fibrous pulpitis
+c. Radicular cyst
+*d. Chronic granulating periodontitis
+e. Chronic granulomatous periodontitis
 
 653. A 25-year-old man complains of a dull pain in the area of his lower right second molar. This tooth was treated for pulpitis one day ago. The carious cavity has a temporary filling. Objectively, X-ray of tooth 47 shows a perforation in the area of root bifurcation within the bone tissue. The root canals are filled and there are no pathologic changes in the periapical tissues. The depth of dentogingival probing in the bifurcation area is normal. What treatment method would be optimal in this case?
-a. Perforation closure with glass-ionomer cement
-b. Crown lengthening
-c. Perforation closure with MTA
-d. Tooth extraction
-e. Tooth replantation
+a. Crown lengthening
+*b. Perforation closure with MTA
+c. Perforation closure with glass-ionomer cement
+d. Tooth replantation
+e. Tooth extraction
 
 654. An adolescent complains of reduced and painful mouth opening, difficulties when eating, and swelling in the left mandibular angle that developed after tooth 37 was extracted 3 days ago. Objectively the face is asymmetric due to soft tissue swelling in the area of the left mandibular angle. Mouth opening is painful and reduced to 2.0 cm. Disturbed occlusion is observed. Palpation of the left mandibular angle is painful, the tissues are soft, bone crepitus is detected. ''Indirect load to the chin'' symptom is positive in the area of the left mandibular angle. The socket of the extracted tooth is packed with iodoform gauze. What is the most likely diagnosis?
 a. Mandibular periostitis on the left
@@ -4591,24 +4591,24 @@ d. Bilateral temporomandibular joint dislocation
 *e. Right temporomandibular joint dislocation
 
 657. Six months ago a 40-year-old man had his tooth 26 extracted; afterwards his oral cavity and maxillary sinus became communicating and the patient developed the first signs of maxillary sinusitis. What surgical procedure should be performed in this case?
-a. Fistula packing with Iodoform gauze
-*b. Maxillary sinusotomy with simultaneous plastic surgery for repair of the fistula
-c. Caldwell-Luc surgery
-d. Fistula plication
-e. Osteotomy of the alveolar process
+a. Fistula plication
+b. Fistula packing with Iodoform gauze
+c. Osteotomy of the alveolar process
+d. Caldwell-Luc surgery
+*e. Maxillary sinusotomy with simultaneous plastic surgery for repair of the fistula
 
 658. A 15-year-old patient complains of bleeding gums and pain during eating. These signs have been observed for the last year. Objectively the interdental papillae in the area of teeth 31, 32, 33, 41, 42, and 43 are enlarged and cover the tooth crowns by 1/2 of their height. The gums present with bright-red granulations and are painful on palpation. Mineralized dental plaque is observed on the teeth. X-ray shows no changes of the alveolar process. What is the most likely diagnosis?
 *a. Hypertrophic gingivitis
 b. Ulcerative gingivitis
 c. Catarrhal gingivitis
-d. Localized periodontitis
-e. Generalized periodontitis
+d. Generalized periodontitis
+e. Localized periodontitis
 
 659. A 27-year-old woman needs a denture. Objectively, her tooth 15 is missing, while teeth 14 and 16 are intact. What denture is preferable in this case?
-a. Porcelain-fused-to-metal dental bridge
-*b. Adhesive dental bridge
-c. Partial removable laminar denture
-d. Clasp (bugel) denture
+a. Clasp (bugel) denture
+b. Partial removable laminar denture
+c. Porcelain-fused-to-metal dental bridge
+*d. Adhesive dental bridge
 e. Swaged dental bridge
 
 660. During regular check-up a 6.5-year-old child presents with carious cavity on the distal proximal surface of 65 within mantle dentin. Cavity walls and bottom are pigmented, dense, painless on probing; there is no response to cold stimulus; percussion is painless. During tooth preparation there is tenderness at the level of dentinoenamel junction. What is the most likely diagnosis?
@@ -4682,11 +4682,11 @@ d. Chronic recurrent herpes
 e. Actinic cheilitis, exudative form
 
 670. What is the angle of the transverse articular path in a fixed (average) anatomical articulator?
-a. 33°
-b. 45°
-c. 17°
-d. 110°
-e. 12°
+a. 45°
+b. 110°
+c. 12°
+*d. 17°
+e. 33°
 
 671. An 11-year-old child presents with protrusion of the upper front teeth, there are tremata and diastema between the child's teeth. What apparatus can be used for treatment of this pathology?
 a. Brukle
@@ -4696,11 +4696,11 @@ d. Mershon
 e. Osadchy
 
 672. A dental bridge is being made for a 43-year-old man. Anesthesia was provided before the preparation of the abutment teeth. Two minutes later, the patient suddenly paled, broke out in cold sweat, his limbs became cold and cyanotic, he developed rapid thready pulse and muscle weakness, his blood pressure became 80/50 mm Hg. The patient is conscious but apathetic. What emergency condition has likely developed in this case?
-a. Hypoglycemic coma
-b. Acute cerebrovascular accident
-*c. Collapse
-d. Anaphylactic shock
-e. Epileptic seizure
+a. Epileptic seizure
+*b. Collapse
+c. Anaphylactic shock
+d. Hypoglycemic coma
+e. Acute cerebrovascular accident
 
 673. A person has a unilateral linear fracture in the area of the gonial angle. Immobilization was performed by applying a two-jaw dental ligature splint with anchoring loops and intermaxillary traction. Healing progresses without complications. When is it the time to remove the splint?
 a. In 10 days
@@ -4726,16 +4726,16 @@ e. Scarlet fever
 676. Removable complete dentures are being made for a 70-year-old man with completely edentulous jaws and marked progenia. What artificial teeth are not placed in such dentures?
 a. First premolars on the lower jaw
 *b. Second premolars on the upper jaw
-c. Second molars on the upper jaw
+c. Second molars on the lower jaw
 d. Second premolars on the lower jaw
-e. Second molars on the lower jaw
+e. Second molars on the upper jaw
 
 677. A 28-year-old man came to the maxillofacial surgery department. He complains of a cutaneous neoplasm in his right submandibular region. The neoplasm appeared approximately 2 years ago. In the process of shaving, the neoplasm was frequently injured. He was diagnosed with papilloma. In the neoplastic area, examination shows an ulcer against the background of hyperemic skin. What tactics should the dental surgeon choose?
-*a. Prevention of malignant transformation of the papilloma. Removal of the papilloma
-b. Removal of the papilloma and postoperative radiation therapy
+a. Anti-inflammatory therapy followed by observation
+b. Anti-inflammatory therapy followed by removal of the papilloma
 c. Antibacterial and anti-inflammatory therapy, observation
-d. Anti-inflammatory therapy followed by removal of the papilloma
-e. Anti-inflammatory therapy followed by observation
+*d. Prevention of malignant transformation of the papilloma. Removal of the papilloma
+e. Removal of the papilloma and postoperative radiation therapy
 
 678. A 10-year-old child complains of pain, dryness, enlargement, and peeling of the lips. Exaination detected hyperemic labial mucosa and enlarged lips; when the lips are pulled taut, secretion resembling ''dewdrops'' is being produced from minor salivary glands. What is the most likely provisional diagnosis?
 *a. Cheilitis glandularis
@@ -4801,11 +4801,11 @@ c. 1 year
 e. 1.5 years
 
 687. A 42-year-old woman came to a dentist. The doctor noted that her respiration became deep and noisy. Objectively, she presents with pallor, dry skin and mucosa, decreased skin turgor, soft eyeballs, weak pupillary response to light, deep and loud breathing, acetone smell from the mouth, weak pulse (70/min.), and blood pressure of 80/40 mm Hg. The patient has a history of diabetes mellitus. What emergency condition did she develop in this case?
-a. Epileptic seizure
-*b. Hyperglycemic coma
-c. Acute myocardial infarction
+*a. Hyperglycemic coma
+b. Acute myocardial infarction
+c. Bronchial asthma attack
 d. Hypoglycemic coma
-e. Bronchial asthma attack
+e. Epileptic seizure
 
 688. Preventive examination of a 6.5-year-old child revealed a carious cavity with a narrow entrance in the distolingual groove on the masticatory surface of tooth 46. The cavity floor is localized within the softened mantle dentin. Other areas of the fissure are intact. The dentist has chosen the method of preventive filling. What tactics is advisable regarding the intact areas of the fissure?
 a. Applications with calcium-containing gels
@@ -4815,11 +4815,11 @@ d. Applications with fluoride-containing lacquers
 e. Applications with antiseptic lacquers
 
 689. A 45-year-old man came to a dental clinic to have dentures made for him. Objectively, his lower teeth 36, 35, 34, 31,41, 44, 45, and 47 are missing. The abutment teeth are stable, their roots are not exposed. Teeth 46 and 37 have low clinical crowns, their cusps and equator are not well-defined. What denture design would be optimal in this case?
-a. -
-b. Partial removable laminar denture
-c. Arch denture with abutment and  retaining clasps
+*a. Arch denture with telescopic crowns
+b. Arch denture with abutment and  retaining clasps
+c. -
 d. Swaged-soldered dental bridge
-e. Arch denture with telescopic crowns
+e. Partial removable laminar denture
 
 690. A 5-year-old girl has a round soft elastic neoplasm up to 2 cm in diameter on the front surface of her neck on the midline. The neoplasm is painless to palpation and moves upwards during swallowing. This formation has been slowly growing over the course of the last 2 years. Make the provisional diagnosis.
 a. Retention cyst of a sublingual salivary gland
@@ -4850,18 +4850,18 @@ c. Gold alloy of 900 millesimal fineness
 e. ''PD-250'' alloy  (silver palladium alloy)
 
 694. A 34-year-old woman complains of a short-lasting pain response to thermal stimuli in teeth 34 and 35. Objectively, the surfaces of teeth 34 and 35 are intact; the contat surfaces cannot be examined due to tight placement of the teeth. What examination method would be the most informative in this case, if the presence of a carious cavity is suspected?
-a. Probing
-b. Tomography
-c. Diagnostic X-ray
-d. Percussion
-e. Electric pulp testing
+a. Percussion
+b. Probing
+c. Electric pulp testing
+d. Tomography
+*e. Diagnostic X-ray
 
 695. A 10-year-old child is referred by the orthodontist for extraction of tooth 53. Objectively the crown of 53 is retained, the tooth is immobile. X-ray of tooth 53 shows root resorption by less than 1/3. Choose the best instrument for extraction of tooth 53:
-*a. Straight crown forceps
+a. Crown forceps with S-shaped handles
 b. Beak-shaped root forceps
-c. Crown forceps with S-shaped handles
-d. Straight elevator
-e. Root bayonet forceps
+c. Straight elevator
+d. Root bayonet forceps
+*e. Straight crown forceps
 
 696. A 28-year-old man has received a trauma of the mental region. X-ray shows a bilateral mental fracture of the lower jaw. In what direction will the displacement of the lesser fragment occur?
 a. -
@@ -4885,11 +4885,11 @@ d. Intravenous anesthesia
 e. Topical anesthesia
 
 699. A 35-year-old man suffers from localized periodontitis of the front teeth on his lower jaw. Objectively on the upper jaw his dentition is uninterrupted, while on the lower jaw teeth 48, 47, 46, 45, 35, 36, 37, 38 are missing, other teeth present with mobility of the II degree, tremata, and diastema. What tactics should a prosthodontist choose in this case?
-*a. Orthodontic treatment followed by splinting and prosthesis-making
-b. Splinting of the mobile teeth followed by prosthesis-making
+a. Restore the height of the occlusion with a  clasp-retained (bugel) denture
+b. Restore the height of the occlusion with a partial removable laminar denture
 c. Temporary splinting of the teeth on the lower jaw
-d. Restore the height of the occlusion with a partial removable laminar denture
-e. Restore the height of the occlusion with a  clasp-retained (bugel) denture
+*d. Orthodontic treatment followed by splinting and prosthesis-making
+e. Splinting of the mobile teeth followed by prosthesis-making
 
 700. A 27-year-old pregnant woman came to the surgical dentistry department with complaints of acute pain in the area of her tooth 48. Her tooth 48 needs to be extracted. Her gestation period is 22 weeks, no allergies. What anesthetic is usually the drug of choice for pregnant women?
 a. Lidocaine
@@ -4899,11 +4899,11 @@ c. Prilocaine
 e. Mepivacaine
 
 701. During dental procedures, a mbox{50-year-old man developed burning retrosternal pain, dyspnea, and acute general weakness. Three doses of nitroglycerin had no positive effect. Objectively, his skin is pale, his blood pressure is 90/60 mm Hg, the pulse is thready, the heart sounds are weakened and rhythmic. What is the most likely diagnosis in this case?
-a. Acute cerebrovascular accident
-b. Angina pectoris attack
-c. Anaphylactic shock
-*d. Acute myocardial infarction
-e. Fainting
+a. Anaphylactic shock
+b. Acute myocardial infarction
+c. Fainting
+d. Acute cerebrovascular accident
+e. Angina pectoris attack
 
 702. A 22-year-old woman came to a dentist for preventive examination of her oral cavity. Examination detected a defect of hard dental tissues in the cervical area of tooth 22 within its mantle dentin. The dentin is dense and pigmented. Percussion and probing provoke no response. What is the most likely diagnosis in this case?
 a. Cuneiform defect
@@ -4969,10 +4969,10 @@ d. Depth of the wound
 e. Location of masticatory muscles
 
 711. A 35-year-old woman complains of marked pain, a submucosal nodule that appeared on the vestibular surface of the lower jaw in the area of her teeth 44 and 45, and lower lip numbness on one side. The first complaints developed after a surgery in this area. Palpation detects a limited painful nodule approximately 1 cm in diameter. The nodule is dense, elastic, with a smooth round surface. Its overlying mucosa is unchanged. What is the provisional diagnosis in this case?
-a. Lipoma
-b. Fibroma
-*c. Traumatic neuroma
-d. Papilloma
+a. Traumatic neuroma
+b. Lipoma
+c. Papilloma
+d. Fibroma
 e. Epulis
 
 712. A ceramic dental bridge is being made for a 38-year-old man. Vital teeth 33 and 35 are used as the abutment in this case. The patient is at the stage of tooth preparation. What type of anesthesia should he be provided?
@@ -4983,11 +4983,11 @@ d. Topical anesthesia
 e. Infiltration anesthesia
 
 713. A patient undergoes endodontic treatment of tooth 11. The doctor has performed instrumental treatment of the root canal. The method of warm vertical condensation of gutta-percha was chosen for the canal sealing. What instrument must be used for the filler condensing in this case?
-a. Root needle
-b. Spreader
-c. Gutta-percha condenser
-d. Plugger
-e. K-file
+a. Gutta-percha condenser
+b. Root needle
+c. Plugger
+d. K-file
+e. Spreader
 
 714. Due to lack of timely specialized treatment a 44-year-old man presents with incorrectly healed displaced mandibular fracture. Objectively the lower jaw narrows sharply, vestibular cusps of the lower teeth contact with oral cusps of the upper teeth. The patient declined surgical treatment. What treatment tactics should be chosen by the dentist in this case?
 a. Correct the malocclusion via instrumental surgical method
@@ -5011,11 +5011,11 @@ c. Decreased activity of the inflammatory process in the periodontal tissues
 e. Decreased level of the body's sensitization
 
 717. The mother of a 3-year-old boy complains of an increase in his body temperature to 39^oC, sharply painful small wounds in his mouth, and excessive salivation. Objectively, the gums are hyperemic, edematous, and bleeding. On the hard palate and mucosa of the cheeks and lips, there are numerous small oval erosions up to 2 mm in diameter with whitish coating. Regional lymph nodes are enlarged, soft-elastic, and painful on palpation. What is the most likely diagnosis in this case?
-a. Erythema multiforme exudativum
-b. Chickenpox
-c. Necrotizing ulcerative gingivitis
-d. Acute candidal stomatitis
-*e. Acute herpetic stomatitis
+*a. Acute herpetic stomatitis
+b. Necrotizing ulcerative gingivitis
+c. Acute candidal stomatitis
+d. Erythema multiforme exudativum
+e. Chickenpox
 
 718. A 51-year-old woman came to a clinic with complaints of multiple burns caused by hot steam. Objectively, the skin of her nose, frontal, buccal, and mental regions is brightly hyperemic, edematous, and sharply painful. Her regional lymph nodes are unchanged and painless. Name the degree of burns in this case:
 a. ІІІa
@@ -5032,10 +5032,10 @@ d. Acute necropurulent alveolitis
 e. Neuritis of the alveolar nerve
 
 720. A 56-year-old man has an oval erosion with a deep red smooth surface on the vermillion border of the lower lip between the angle of the mouth and the midline. The surface of the erosion has bloody scabs that are difficult to remove. Their removal causes a slight bleeding. Slight trauma of the erosion in a place without scabs causes no bleeding. What type of lower lip precancer is it?
-a. Manganotti's abrasive precancerous  cheilitis
+a. Circumscribed precancerous  hyperkeratosis of the vermillion border
 b. Lupus erythematosus
 c. Bowen's disease
-d. Circumscribed precancerous  hyperkeratosis of the vermillion border
+*d. Manganotti's abrasive precancerous  cheilitis
 e. Actinic cheilitis
 
 721. A 44-year-old man came to a dentist for sanation of the oral cavity. Objectively, the crown of his tooth 17 is completely destroyed. Having conducted additional examinations, the dentist made the following diagnosis: chronic fibrous periodontitis of tooth 17. Extraction of tooth 17 is indicated in this case. What type of conduction anesthesia should be used for the tooth extraction in this case?
@@ -5055,8 +5055,8 @@ e. Hyperglycemic coma
 723. A 13-year-old child complains of acute pain in an upper tooth. The pain intensifies during biting on this tooth. Objectively, the distal surface of tooth 16 has a deep carious cavity that does not communicate with the dental cavity. Thermal stimuli and probing are painless. Tooth percussion is sharply painful. The tooth has the I degree mobility. The mucosa in the projection of the roots of tooth 16 is hyperemic and edematous. After necrectomy, the dental cavity was opened and purulent exudate was obtained. X-ray detects no changes. What provisional diagnosis can be made in this case?
 a. Acute serous periodontitis
 b. Acute circumscribed pulpitis
-*c. Acute purulent periodontitis
-d. Acute purulent pulpitis
+c. Acute purulent pulpitis
+*d. Acute purulent periodontitis
 e. Exacerbation of chronic periodontitis
 
 724. A 25-year-old man complains of pain in the area of tooth 16, heavy bursting sensation in the right upper jaw, headache, and body temperature of 38^oC) Objectively, the right cheek is swollen, palpation of the maxillary alveolar process is painful, percussion of tooth 16 is painful. Anterior rhinoscopy shows hyperemia and edema of the mucosa in the right nasal passage. The middle nasal passage contains mucopurulent discharge. Make the diagnosis:
@@ -5089,17 +5089,17 @@ e. Monitoring the condition of teeth 11 and 12 for six months
 
 728. A 30-year-old man presents with fresh median mandibular fracture without visible displacement of the fragments. What will be the function of the dental apparatus to be prescribed in this case?
 a. Formation
-b. Replacement
-c. Setting
-d. Directing
+b. Setting
+c. Directing
+d. Replacement
 *e. Fixation
 
 729. A practically healthy 7-year-old child complains of a broken crown of the upper right front tooth and pain in this tooth. Objectively, 1/3 of the crown of tooth 11 is missing, the pulp is exposed in one spot, acutely painful, red, and bleeds when probed. Percussion of the tooth is slightly painful. The trauma was 2 hours ago. What is the optimal treatment method in this case?
-a. Vital extirpation
-b. Devital extirpation
-*c. Biological method
-d. Vital amputation
-e. Devital amputation
+a. Vital amputation
+b. Vital extirpation
+c. Devital amputation
+d. Biological method
+e. Devital extirpation
 
 730. A 42-year-old woman had her tooth 36 extracted 2 months ago. In the left buccal region, she has a dense infiltrate, painful to palpation. Submandibular lymph nodes are enlarged. Teeth 34, 35, and 37 are mobile. The mucosa in the area of the mobile teeth is doughy, cyanotic, and has a fistula. The socket of tooth 36 produces purulent discharge. What is the provisional diagnosis in this case?
 a. Chronic rarefying periostitis
@@ -5130,18 +5130,18 @@ d. Silicate cement
 e. Composite material
 
 734. A 10-year-old girl complains of pain in the area of her upper front teeth, observed when she eats cold food. The pain appeared one month ago after an injury. Examination detects a missing mesial corner of the crown of tooth 21 and a broken off cutting edge of tooth 11 within the mantle dentin. Probing of teeth 11 and 21 is mildly painful, the response to a cold stimulus is painful and brief. Electric pulp testing - 7 microamperes. What filling material should be used in treatment in this case?
-*a. Microhybrid composite
-b. Compomer
-c. Glass ionomer cement
-d. Macro-filled composite
-e. Amalgam
+a. Compomer
+*b. Microhybrid composite
+c. Macro-filled composite
+d. Amalgam
+e. Glass ionomer cement
 
 735. A 6-year-old boy with congenital heart disease (pulmonary artery stenosis) presents with suppurative periostitis of the maxilla. The child needs surgical treatment. What unit should he be referred to?
 a. The out-patient or in-patient unit at the discretion of the child's parents
-b. The out-patient unit, no precautions are necessary
-c. The pediatric maxillofacial unit
-d. The out-patient unit after preliminary cardiological treatment
-e. The cardiology unit
+*b. The pediatric maxillofacial unit
+c. The cardiology unit
+d. The out-patient unit, no precautions are necessary
+e. The out-patient unit after preliminary cardiological treatment
 
 736. A 30-year-old woman complains of mild burning sensation in her lower lip and its dryness. She peels skin scales off with her teeth. She has been presenting with this condition for 10 years. On examination the skin scales are gray and located on the lip from the Klein's line to the center of the vermillion border from angle to angle of the mouth. The scales are firmly attached in the center and are loose on the periphery. Their forcible removal does not result in erosions. What is the most likely diagnosis?
 a. Eczematous cheilitis
@@ -5158,18 +5158,18 @@ d. 0.1-0.2 mm
 e. 2.5-3.0 mm
 
 738. A 45-year-old man complains of a discomfort in his tooth 27 and aching pain when biting on this tooth. He has a history of a gingival fistula that opens after an overexposure to cold. Objectively, the crown of tooth 27 is discolored; there is a filling on its masticatory surface; there is a fistula scar on the mucosa in the area of this tooth. What is the provisional diagnosis in this case?
-a. Chronic fibrous periodontitis
+*a. Chronic granulating periodontitis
 b. Chronic fibrous pulpitis
-*c. Chronic granulating periodontitis
-d. Chronic gangrenous pulpitis
+c. Chronic gangrenous pulpitis
+d. Chronic fibrous periodontitis
 e. Chronic hypertrophic pulpitis
 
 739. A 20-year-old pregnant woman with the term of 22 weeks complains of thermal sensitivity of her upper front teeth. The sensitivity developed one month ago. She was diagnosed with acute initial caries of teeth 12, 11, 21, 22, Black class V. Fedorov-Volodkina hygiene index is 1.8. What treatment tactics would be optimal in this case?
-a. Remineralization therapy and filling of teeth 12, 11, 21, and 22
-b. Professional teeth cleaning, remineralization therapy, and filling of teeth 12, 11, 21, and 22
+*a. Professional teeth cleaning and remineralization therapy
+b. Professional teeth cleaning and filling of teeth 12, 11, 21, and 22
 c. Postpone the treatment until 30 weeks of gestation
-d. Professional teeth cleaning and filling of teeth 12, 11, 21, and 22
-e. Professional teeth cleaning and remineralization therapy
+d. Professional teeth cleaning, remineralization therapy, and filling of teeth 12, 11, 21, and 22
+e. Remineralization therapy and filling of teeth 12, 11, 21, and 22
 
 740. A 43-year-old man complains of an intensifying painful <<redness>> of his face and increasing edema in the area of his cheekbones and eyelashes. The onset of his condition was 10 hours ago, when he received burns during firefighting. Objectively, the mouth opening is painful, the mucosa is not discolored, the skin of the face is very painful to the touch and covered in blisters with clear contents, the depth of the lesion does not reach the subcutaneous adipose tissue. Name the burn degree observed in this patient:
 a. IIIb
@@ -5277,17 +5277,17 @@ d. Vitamin B_1
 e. Vitamin A
 
 755. A doctor has received a removable partial denture from the laboratory. On examination of the denture, the following defect is observed: the denture has a marble-like appearance (white streaks). What mistake has been made by a dental technician, when replacing wax with plastic?
-*a. Non-compliance with the polymerization regimen
-b. Packing during the ''rubber-like'' phase
-c. Excessive monomer
-d. Inadequate stirring of the plastic dough
+a. Packing during the ''rubber-like'' phase
+*b. Non-compliance with the polymerization regimen
+c. Inadequate stirring of the plastic dough
+d. Excessive monomer
 e. Packing during the ''sand-like'' phase
 
 756. A 62-year-old woman complains of intense pain attacks in the area of her left lower jaw that last 1-3 minutes. The pain occurs during talking, washing her face, and touching the skin. Mandibular X-ray shows no destruction of bone tissue. Make the provisional diagnosis:
-a. Facial nerve neuritis
+a. Neuritis of the 3rd branch of the  trigeminal nerve
 b. Neuralgia of the 2nd branch of the  trigeminal nerve
-c. Neuritis of the 3rd branch of the  trigeminal nerve
-*d. Neuralgia of the 3rd branch of the  trigeminal nerve
+*c. Neuralgia of the 3rd branch of the  trigeminal nerve
+d. Facial nerve neuritis
 e. Pterygopalatine ganglionitis
 
 757. A 14-year-old girl came to a dentist with complaints of enlarged interdental papillae in the frontal regions of her upper and lower jaw. Examination shows that the interdental papillae are hyperemic, edematous, cover the crowns to 1/2 of their height, and bleed when touched. What system in this case has a pathology that plays the main role in the etiology of this disease?
@@ -5326,11 +5326,11 @@ d. Paradental cyst
 *e. Residual cyst
 
 762. A 32-year-old man was hit in the face with a blunt object. He lost his consciousness for a short time. The patient complains of dizziness, double vision, and pain in the area of the upper jaw. Objectively, his face is asymmetric because of edema in the infraorbital region, palpation detects a bony "step-off" and pathological mobility along the zygomaticomaxillary suture. What fracture can be suspected in this case?
-a. Le Fort III maxillary fracture
-*b. Le Fort II maxillary fracture
-c. Le Fort I maxillary fracture
-d. Zygomatic fracture
-e. Nasal fracture
+a. Le Fort I maxillary fracture
+b. Zygomatic fracture
+*c. Le Fort II maxillary fracture
+d. Nasal fracture
+e. Le Fort III maxillary fracture
 
 763. A 48-year-old woman complains of problems with chewing, caused by missing teeth. Objectively, her teeth 31, 32, 33, and 41, 42, 43 have tall crowns and the I degree of mobility. The decision was reached to make a clasp denture splint for her. What type of clasps (clammers) will ensure the splinting function of this construction?
 a. Abutment
@@ -5340,18 +5340,18 @@ d. Retaining
 e. Dentoalveolar
 
 764. A 9-year-old boy complains of an incorrect placement of his teeth. Because of his chronic rhinitis, he has been registered for regular check-up by an otolaryngologist since he was four. Objectively, during the examination his mouth is slightly open, the nostrils do not participate in breathing, his upper incisors protrude from under the upper lip. The chin is slanted backwards. The sagittal fissure is 5 mm. What is the etiology of the occlusal pathology in this child?
-a. Sagittal reduction of the upper jaw
-*b. Pathology of the upper respiratory tract
-c. Bad habits
-d. Heredity
-e. Jaw injury
+a. Bad habits
+b. Sagittal reduction of the upper jaw
+c. Heredity
+d. Jaw injury
+*e. Pathology of the upper respiratory tract
 
 765. The parents of a 5-month-old child complain of white plaque in the child's mouth and child's refusal to feed. Objectively, the child's general condition is satisfactory, the body temperature is 37.1^oC) White caseous deposits are detected on the mucosa of the cheeks, lips, and hard palate. The deposits can be easily removed, the underlying mucosa is hyperemic. What additional examination method can confirm the diagnosis in this case?
-a. Cytology
+a. Immunofluorescence
 b. Immunology
-c. Virology
-d. Immunofluorescence
-e. Microbiology
+c. Cytology
+d. Virology
+*e. Microbiology
 
 766. A man with distal bite underwent Eschler-Bittner test for the purpose of differential diagnostics. The shape and profile of his face have notably improved. What type of distal bite is it, according to the test results?
 a. Overdeveloped upper jaw
@@ -5368,18 +5368,18 @@ d. -
 e. Bilateral fracture of the mandibular  ramus
 
 768. A 50-year-old woman complains of pain and creaking in her temporomandibular joint. Objectively there are multiple premature occlusal contacts and localized pathologic tooth wear. The teeth are stable, with exposed cervices; the gingival margin is hyperemic. Selective teeth shaving is planned. How many visits to the dentist are necessary for the full procedure?
-*a. 3-4 visits at one-week intervals
+a. A single visit
 b. 2-3 visits at one-month intervals
 c. 1-2 visits within a year
-d. A single visit
+*d. 3-4 visits at one-week intervals
 e. 2-3 visits at one-day intervals
 
 769. A man came to a dentist with complaints of pain in his left lower jaw and limited mouth opening. Objectively, his mouth opens by 2 cm, the retromolar mucosa on the left is slightly edematous, hyperemic, and painful on palpation. An orthopantomogram shows the dystopia of tooth 38 in the mesiodistal position. What surgery is indicated in this case?
-a. Bicuspidization
-b. Operculectomy
-c. Resection of the dental root apex
-*d. Atypical tooth extraction
-e. Hemisection
+a. Hemisection
+b. Bicuspidization
+c. Operculectomy
+d. Resection of the dental root apex
+*e. Atypical tooth extraction
 
 770. A 63-year-old man complains of fever and multiple painful rashes in his oral cavity and on his face and torso. 3-4 days before the rashes appeared he had noticed a burning sensation followed by sharp shooting pain resembling that which occurs during lumbago. The patient takes cytotoxic drugs for leukemia treatment. On examination there are multiple aphthae located in a row on the vermillion border and labial, lingual, and buccal mucosa on the right. The aphthae have hyperemic borders, they are not fused together and are sharply painful on palpation. The right side of the face presents with erythematous spots, vesicles, and erosions. Make the provisional diagnosis:
 a. Toxic allergic dermatostomatitis
@@ -5410,18 +5410,18 @@ d. Tuberculous ulcer
 *e. Trophic ulcer
 
 774. A 25-year-old man was diagnosed with acute deep caries of tooth 13, Black class V. Photopolymer composite material is planned to be used for aesthetical restoration of tooth 13. What material should be used as a lining for the floor of the carious cavity in this case?
-a. Iodoform paste
-b. Devitalizing paste
+a. Devitalizing paste
+b. Calcium-containing paste
 c. Resorcin-formalin paste
-*d. Calcium-containing paste
-e. Dentin paste
+d. Dentin paste
+e. Iodoform paste
 
 775. A regular check-up of a 7-year-old girl detected chalk-like spots on the vestibular surface of her teeth 11 and 21. The surface of the spots is matt, smooth when probed, and can be stained with methylene blue. What treatment method would be rational in this case?
-*a. Deep fluoridation of teeth 11 and 21
-b. Filling of teeth 11 and 21
-c. Impregnation therapy of teeth 11 and 21
-d. Regular check-ups to monitor the  child's condition
-e. Filing down the defects of teeth 11 and 21
+a. Filing down the defects of teeth 11 and 21
+*b. Deep fluoridation of teeth 11 and 21
+c. Regular check-ups to monitor the  child's condition
+d. Impregnation therapy of teeth 11 and 21
+e. Filling of teeth 11 and 21
 
 776. A patient was diagnosed with cancer of the right parotid gland, T2N2M0. What treatment method should be chosen in this case?
 a. Combined therapy
@@ -5431,11 +5431,11 @@ d. Surgical removal of the lymph node
 e. Surgical removal of the neoplasm
 
 777. When undergoing treatment of acute pulpitis of tooth 35 under infiltration anesthesia, a 26-year-old patient complained of dizziness, tinnitus, and dimming vision. Objectively, the following is observed: pale skin, cold sweat, pulse - 110/min., weak, blood pressure - 90/60 mm Hg, loss of consciousness for one minute. What complication did the patient develop during the treatment?
-a. Hyperglycemic coma
-b. Syncope
-c. Anaphylactic shock
-d. Hypoglycemic coma
-e. Collapse
+a. Anaphylactic shock
+b. Collapse
+c. Hyperglycemic coma
+*d. Syncope
+e. Hypoglycemic coma
 
 778. A 45-year-old man complains of pain and creaking in the area of his temporomandibular joint during lower jaw movements. Objectively, his face is symmetrical, the mouth opens with a slight displacement to the left. The dentition is preserved. To clarify the diagnosis, it is planned to conduct an X-ray of the temporomandibular joint. What type of X-ray scan would be the most informative in this case?
 a. Orthopantomography
@@ -5445,11 +5445,11 @@ c. Teleradiography
 e. Parma X-ray projection
 
 779. A 42-year-old woman complains of sharp pain in her right temporomandibular joint. The pain intensifies during lower jaw movements. Three days ago, she was injured (fell and hit her chin on a hard object). Objectively, her face is symmetrical, the bite is orthognathic, the mouth opening is limited to 2 cm. X-ray shows smooth and straight contours of the bone tissues of the articular surfaces. What is the most likely diagnosis in this case?
-a. Pain dysfunction of the right  temporomandibular joint
-b. Rheumatic arthritis of the  temporomandibular joint
+a. Rheumatic arthritis of the  temporomandibular joint
+b. Pain dysfunction of the right  temporomandibular joint
 c. Ankylosis of the right  temporomandibular joint
-*d. Acute post-traumatic arthritis of the right temporomandibular joint
-e. Right-sided anterior dislocation of the  mandible
+d. Right-sided anterior dislocation of the  mandible
+e. Acute post-traumatic arthritis of the right temporomandibular joint
 
 780. A 36-year-old woman with a pacemaker complains of bleeding gums when she brushes her teeth. Objectively, the gums are stagnantly hyperemic, edematous, with gingival pockets that are 4-5 mm deep; the teeth exhibit the I-II degree mobility and have large amounts of supra- and subgingival calculus. The woman was diagnosed with chronic generalized periodontitis of the II degree. What method of dental plaque removal is contraindicated in this clinical case?
 a. Instrumental
@@ -5480,11 +5480,11 @@ d. Trigeminal neuralgia
 e. -
 
 784. A 48-year-old man complains of gingival overgrowth (''gums cover the teeth''). The patient suffers from epilepsy and takes anticonvulsant agents. Objectively gingival papillae are of normal color, dense, with lumpy surface; they do not bleed on probing and cover the lower front teeth up to their incisal surfaces. What is the most likely diagnosis?
-a. Hypertrophic gingivitis, edematous form, degree II
-b. Hypertrophic gingivitis, edematous form, degree III
-*c. Hypertrophic gingivitis, fibrous form, degree III
-d. Hypertrophic gingivitis, fibrous form, degree II
-e. Gingival fibromatosis
+a. Hypertrophic gingivitis, fibrous form, degree II
+*b. Hypertrophic gingivitis, fibrous form, degree III
+c. Gingival fibromatosis
+d. Hypertrophic gingivitis, edematous form, degree III
+e. Hypertrophic gingivitis, edematous form, degree II
 
 785. A 6-month-old child was diagnosed with bilateral bronchopneumonia and prescribed broad-spectrum antibiotics. The child is formula-fed and presents with maldigestion (dyspepsia). What pathologic changes can occur in the hard dental tissues in this case?
 a. Local hypoplasia
@@ -5501,18 +5501,18 @@ d. Le Fort III maxillary fracture
 *e. Displaced zygomatic fracture
 
 787. An 18-year-old girl complains of pain in her parotid regions and general indisposition. Examination shows bilateral swelling of the parotid regions, painful mouth opening. In the oral cavity, mucosa near the openings of parotid salivary glands is hyperemic and swollen. There are signs of general intoxication: body temperature of 38^oC and myalgia. Make the provisional diagnosis:
-a. Acute suppurative lymphadenitis
-b. Herzenberg pseudoparotitis
-c. Acute non-epidemic parotitis
-*d. Acute epidemic parotitis
-e. Phlegmon of the parotid-masseteric region
+a. Phlegmon of the parotid-masseteric region
+b. Acute epidemic parotitis
+c. Herzenberg pseudoparotitis
+d. Acute suppurative lymphadenitis
+e. Acute non-epidemic parotitis
 
 788. A 12-year-old girl came to a dentist with complaints of spontaneous, paroxysmal pain with short painless intervals. The pain radiates to the temple in the area of her upper right teeth and intensifies at night. The pain first occurred 2 days ago. Objective examination reveals a deep carious cavity in tooth 16, filled with softened dentin. Probing is painful all over the cavity floor. Vertical percussion is slightly painful. The pain intensifies in response to thermal stimuli. Pulp electrical excitability is 15-20 microamperes. What is the most likely diagnosis in this case?
-a. Chronic concrementous pulpitis
+*a. Acute diffuse pulpitis
 b. Acute limited pulpitis
 c. Chronic fibrous pulpitis
-*d. Acute diffuse pulpitis
-e. Acute purulent pulpitis
+d. Acute purulent pulpitis
+e. Chronic concrementous pulpitis
 
 789. A 42-year-old man came to the prosthodontic clinic. He complains of inability to chew his food due to partial loss of teeth. Objectively in the lateral regions teeth 18, 16, 15, 25, 26, 28, 38, 35, 36, 44, 46, 48 are missing. Other teeth present with I-II degrees of mobility. The patient is diagnosed with generalized periodontitis of the II degree. What type of denture would be optimal for this patient?
 a. Metal-based dentures
@@ -5571,18 +5571,18 @@ c. Lymph node biopsy
 e. Microscopy of the coating
 
 797. A complete removable denture is being made for the lower jaw of a 67-year-old man. The individual tray is being adjusted using the Herbst technique. The location of the tray edge in the sublingual region, 1 cm away from the midline, needs to be further specified. What Herbst test must be performed for this purpose?
-a. Opening the mouth slowly
-b. Swallowing
-c. Active movements of facial muscles
-*d. Alternately touching the cheeks with the tongue
+a. Active movements of facial muscles
+*b. Alternately touching the cheeks with the tongue
+c. Opening the mouth slowly
+d. Swallowing
 e. Running the tongue over the vermilion  border of the upper lip
 
 798. A 25-year-old man complains of incorrectly positioned maxillary left central incisor due to trauma sustained 2 months ago. Objectively tooth 21 is rotated around its axis into palatal position. What would be the most advisable treatment method for correction of this defect?
-a. Surgical treatment
+a. Splinting followed by prosthetic treatment
 b. -
-c. Splinting followed by prosthetic treatment
-*d. Orthodontic treatment
-e. Instrumental surgical treatment
+c. Surgical treatment
+d. Instrumental surgical treatment
+*e. Orthodontic treatment
 
 799. A 53-year-old woman complains of pain and clicking in her left temporomandibular joint. Objectively, her face is symmetrical, palpation of the lateral pterygoid muscles is painful on the left. The mouth opening is reduced. Tomography shows smooth bone contours of the joint surfaces. This clinical presentation is characteristic of:
 a. Joint ankylosis
@@ -5620,11 +5620,11 @@ d. Ranula of the sublingual salivary gland
 e. Mandibular osteoma
 
 804. A 37-year-old man complains of facial asymmetry due to an edema of the right parotid-masticatory region, which developed 6 months ago. Palpation detects a painful dense formation without clear margins. The mouth and eye angles are drooping. When the patient tries to puff up his cheeks, the right cheek wavers. What is the provisional diagnosis in this case?
-a. Peripheral paresis of the facial nerve
+*a. Malignant tumor of a parotid salivary  gland
 b. Trigeminal neuralgia
-c. Central paresis of the facial nerve
-d. Phlegmon of the parotid-masticatory  region
-e. Malignant tumor of a parotid salivary  gland
+c. Phlegmon of the parotid-masticatory  region
+d. Peripheral paresis of the facial nerve
+e. Central paresis of the facial nerve
 
 805. A 15-year-old teenager came to a dentist with complaints of swollen upper lip, pain, general weakness, and fever of 38.5^oC) The swelling appeared 3 days ago after bursting a boil. Objectively, the patient has an edema of the upper lip and hyperemic skin. There is a dense infiltrate 1.0x2.0 cm in size. The infiltrate is painful to palpation and has a purulent scab in its center. What is the most likely diagnosis in this case?
 a. Dermoid cyst
@@ -5732,11 +5732,11 @@ d. Rhermann
 e. Trauner
 
 820. What nerve branches are blocked in tuberal anesthesia?
-a. Middle superior alveolar nerves
-*b. Posterior superior alveolar nerves
+*a. Posterior superior alveolar nerves
+b. Branches of the inferior alveolar nerve
 c. Branches of the greater palatine nerve
-d. Branches of the inferior alveolar nerve
-e. Branches of the lesser palatine nerve
+d. Branches of the lesser palatine nerve
+e. Middle superior alveolar nerves
 
 821. After examination, a 34-year-old patient was diagnosed with Melkersson-Rosenthal syndrome. What complex of symptoms is characteristic of this syndrome?
 a. Fissured tongue, atopic cheilitis, trigeminal neuritis
@@ -5837,11 +5837,11 @@ d. Allergic reaction to the components of the base plastic
 e. Incorrect usage of the dentures
 
 835. A 43-year-old man complains of an intense unbearable pain in the area of the upper jaw; his general condition has been disturbed for 5 days. Objectively, his face is asymmetrical due to a swelling of the buccal and zygomatic regions. In the oral cavity, tooth 26 is destroyed, mucosa of the alveolar bone is hyperemic and edematous; there is a cuff-shaped thickening of the alveolar bone in the area of teeth 25, 26, 27; teeth 25, 26, and 27 exhibit I degree mobility. Make the provisional diagnosis:
-a. Odontogenic buccal abscess
-b. Odontogenic zygomatic abscess
-*c. Acute odontogenic maxillary osteomyelitis
-d. Odontogenic palatal abscess
-e. Acute odontogenic maxillary periostitis
+*a. Acute odontogenic maxillary osteomyelitis
+b. Odontogenic buccal abscess
+c. Odontogenic palatal abscess
+d. Acute odontogenic maxillary periostitis
+e. Odontogenic zygomatic abscess
 
 836. A porcelain-fused-to-metal crown for tooth 11 is being made for the patient. The tooth will be left vital. What measures should be taken during treatment to prevent pulpitis in this tooth?
 a. Fluorine preparations
@@ -5872,18 +5872,18 @@ d. Immunological method
 e. Clinical method
 
 840. A 67-year-old woman during an appointment with a dentist complained of an acute vision deterioration, visual snow, nausea, headache, and dizziness. Objectively, the skin of her face is hyperemic, her blood pressure is 200/110 mm Hg, her pulse is rhythmic, 80/min., tense. What is the most likely cause of the patient's condition?
-a. Rupture of an aortic aneurysm
-b. Hypoglycemic coma
-c. Angina pectoris attack
-*d. Hypertensive crisis
-e. Acute cerebrovascular accident
+a. Acute cerebrovascular accident
+b. Rupture of an aortic aneurysm
+*c. Hypertensive crisis
+d. Hypoglycemic coma
+e. Angina pectoris attack
 
 841. The hospital received a 19-year-old patient injured in a landmine explosion with an open displaced mandibular fracture in the area of the left mandibular angle and a contused lacerated wound of the left submandibular area. The patient is in moderately severe condition, pulse is 80/min., blood pressure is 110/80 mm Hg. What anesthesia should be given to the patient for initial surgical d-bridement?
-a. Neuroleptanalgesia
-b. Intravenous anesthesia
+*a. Endotracheal anesthesia
+b. Neuroleptanalgesia
 c. Conduction anesthesia with premedication
-d. Endotracheal anesthesia
-e. Conduction anesthesia
+d. Conduction anesthesia
+e. Intravenous anesthesia
 
 842. A 7-year-old boy during primary examination was found to have a habit of sleeping with his fist under the cheek. What bite anomaly can develop due to this habit?
 a. Mesial bite
@@ -5970,11 +5970,11 @@ d. Preparation and preventive filling
 *e. Fissure sealing
 
 854. A 48-year-old man presents with verruciform, dense, gray-white growths on the buccal mucosa. The growths protrude above the neighbouring tissues and are surrounded by keratinized gray-white spots that cannot be scraped off. Make the provisional diagnosis:
-a. Erythroplasia of Queyrat
-b. Erosive leukoplakia
-c. Papillomatosis
-*d. Verrucous leukoplakia
-e. Bowen's disease
+*a. Verrucous leukoplakia
+b. Papillomatosis
+c. Bowen's disease
+d. Erythroplasia of Queyrat
+e. Erosive leukoplakia
 
 855. A patient complains of a slowly growing neoplasm in the frontal area on the left. The neoplasm is mobile, painless, and fused with the skin. Punctate skin depressions can be observed on its surface. Make the provisional diagnosis:
 *a. Frontal atheroma
@@ -5998,11 +5998,11 @@ c. Stainton-Capdepont syndrome
 e. Osteogenesis imperfecta
 
 858. A 14-year-old girl came to a dentist with complaints of dry mouth and decreased salivation. During examination, her oral mucosa is matte and dry, with areas of whitish deposits. Hyperkeratosis of the excretory ducts of the salivary glands is observed. The skin of her face is pale and rough, her hair is dry, her nails are brittle and have transverse striations. Such symptoms can indicate the lack of a certain vitamin in the body. Name this vitamin.
-*a. А
-b. К
+a. К
+b. B_2
 c. D_3
-d. B_1
-e. B_2
+*d. А
+e. B_1
 
 859. A 34-year-old woman complains of dark brown spots on her upper front teeth. The spots formed approximately 18 months ago. Objectively, the contact surfaces of teeth 22 and 23 have pigmented areas of brown enamel with clear margins. Probing is painless. The surface of the spots is rough, the probe does not catch on it. After drying with a chip-blower, the surface of the spots has lost its luster and become matte. Percussion and thermodiagnostics are painless. Electric pulp testing - 4 microamperes. What is the most likely diagnosis in this case?
 a. Chronic superficial caries
@@ -6012,11 +6012,11 @@ d. Tetracycline teeth
 e. Fluorosis
 
 860. A 20-year-old man complains of a missing upper right tooth and an aesthetic defect. Objectively, tooth 12 is missing, its adjacent teeth are intact, stable, with distinct anatomical shape and tall crowns. The patient has direct occlusion. During the interview, the patient informed the doctor of his congenital heart disease. What denture construction would be optimal in this case?
-a. Porcelain-fused-to-metal dental bridge  with teeth 14 and 13 as the abutment
-b. Plastic dental bridge
-c. Plastic-fused-to-metal dental bridge
-*d. Adgesive dental bridge
-e. Swaged-soldered dental bridge
+a. Swaged-soldered dental bridge
+b. Plastic-fused-to-metal dental bridge
+c. Plastic dental bridge
+d. Porcelain-fused-to-metal dental bridge  with teeth 14 and 13 as the abutment
+*e. Adgesive dental bridge
 
 861. A 37-year-old woman complains of a white formation on the mucosa of her upper lip. The formation was noticed accidentally. Objectively, on the teeth of her lower jaw there are 2 dental bridges, the crown of tooth 21 is half-destroyed, the tooth is untreated. In the projection of tooth 21 on the labial mucosa, there is an irregularly-shaped white plaque 4x9 mm in size with clear margins. The plaque is slightly raised above the mucosa, cannot be scraped off, painless, and without an infiltration in its base. The regional lymph nodes cannot be palpated. Make the diagnosis:
 a. Lichen ruber planus
@@ -6033,18 +6033,18 @@ d. Chronic fibrous pulpitis
 e. Chronic deep caries
 
 863. A 44-year-old patient underwent a surgery to close a soft tissue defect in the submental region using a Filatov stem. Will the sensitivity in the postoperative site be restored?
-a. Tactile sensitivity and partially pain sensitivity will be restored
-b. Sensitivity will not be restored
-*c. Pain sensitivity, tactile sensitivity, and temperature sensitivity will be restored
-d. Only pain sensitivity will be restored
+a. Sensitivity will not be restored
+b. Tactile sensitivity and partially pain sensitivity will be restored
+c. Only pain sensitivity will be restored
+*d. Pain sensitivity, tactile sensitivity, and temperature sensitivity will be restored
 e. Only temperature sensitivity will be restored
 
 864. What drugs are not used for premedication in dentistry?
 a. Antihistamines
 b. Muscarinic antagonists
-c. Analgesics
-*d. Psychostimulants and adaptogens
-e. Sedatives
+*c. Psychostimulants and adaptogens
+d. Sedatives
+e. Analgesics
 
 865. A 34-year-old man with missing teeth that were extracted 6 years ago came to a dentist to have dentures made for him. Objectively, the configuration of his face remains unchanged, the lower jaw has a dentition defect with missing teeth 34, 35, 36, 37. Teeth 24, 25, 26 are vertically displaced by 3.5 mm in relation to the occlusal plane, the alveolar process in this area was enlarged. The necks of the teeth are not exposed. What is the most likely diagnosis in this case?
 a. Dental convergence
@@ -6068,11 +6068,11 @@ d. Actinomycosis
 e. Carbuncle
 
 868. A 15-year-old boy fell from a bicycle and hit his face. He came to a doctor for medical aid. After examination, the doctor established that the patient had a closed mechanical injury of the soft tissues without any visible violation of their anatomical integrity. Make the diagnosis.
-a. Hematoma
-b. Wound
-c. Bruise
-d. Contusion
-e. Abrasion
+a. Bruise
+b. Hematoma
+c. Abrasion
+d. Wound
+*e. Contusion
 
 869. To extract tooth 27, the patient was given tuberal and palatal anesthesia. When the needle was being pulled out from the soft tissues after the palatal anesthesia, the patient developed bleeding. What should be done to stop the bleeding in this case?
 a. Place sutures

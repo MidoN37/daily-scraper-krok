@@ -6,11 +6,11 @@ d. Lymphocytes
 *e. Tissue basophils
 
 2. X-ray of the skull base bones revealed enlarged sella turcica cavity, thinned out anterior clinoid processes, and destruction of various sella turcica regions. This type of bone destruction can be caused by a tumor of the following endocrine gland:
-*a. Hypophysis
+a. Hypophysis
 b. Epiphysis
-c. Adrenal glands
-d. Thyroid
-e. Thymus
+c. Thymus
+d. Adrenal glands
+e. Thyroid
 
 3. A patient with cholelithiasis has fatty colorless stool because of obturation of the biliary tract. What bile component is absent, causing steatorrhea in the patient?
 a. Alkaline phosphatase
@@ -41,14 +41,14 @@ c. V. profunda femoris
 e. V. iliaca externa
 
 7. In Tay-Sachs amaurotic idiocy that has an autosomal recessive pattern of inheritance, irreversible severe disorders of the central nervous system develop, leading to death in early childhood. In this disease, disturbed metabolism of certain substances is observed. Name these substances.
-*a. Lipids
-b. Nucleic acids
-c. Carbohydrates
-d. Minerals
-e. Amino acids
+a. Carbohydrates
+b. Lipids
+c. Nucleic acids
+d. Amino acids
+e. Minerals
 
 8. A woman came to a medical and genetic consultancy requesting to assess the risk of hemophilia in her children. Her husband has hemophilia. History-taking revealed that the woman's family had no cases of hemophilia. What is the risk of this couple giving birth to a child with this disease?
-a. Absent
+*a. Absent
 b. 100%
 c. 75%
 d. 50%
@@ -62,11 +62,11 @@ d. A) cerebri anterior
 e. А. communicans anterior
 
 10. In course of an experiment there has been an increase in the nerve conduction velocity. This may be caused by an increase in the concentration of the following ions that are present in the solution around the cell:
-a. $Ca^{2+$ and $Cl^-$
-b. K⁺ and $Na^+$
-*c. $Na^+$
-d. $Ca^{2+$
-e. K⁺ and $Cl^-$
+a. $Na^+$
+b. $Ca^{2+$ and $Cl^-$
+c. K⁺ and $Cl^-$
+d. K⁺ and $Na^+$
+e. $Ca^{2+$
 
 11. In the removed uterus of a 55-year-old woman, a pathologist has found a dense node in the thick of the myometrium. The node is 5 cm in diameter and has clear boundaries. On section, its tissues are gray-pink and fibrous. Microscopically, the tumor consists of smooth muscle cells that form bundles of varying thickness, which run in different directions, and of layers of connective tissue, hyalinized in some places. What tumor has developed in the patient?
 *a. Fibromyoma
@@ -85,7 +85,7 @@ d. Muscarinic antagonists
 13. Жінка віком 48 років із діагнозом радикуліт скаржиться на сильний больовий синдром. З анамнезу відомо, що проходить лікування з приводу  виразкової хвороби дванадцятипалої кишки. Який селективний блокатор ЦОГ-2 необхідно призначити пацієнтці?
 a. Мітамізол натрію
 b. Індометацин
-c. Целекоксиб
+*c. Целекоксиб
 d. Аспірин
 e. Диклофенак-натрію
 
@@ -120,7 +120,7 @@ e. Initiation, translation, elongation
 18. У семирічної дитини захворювання почалося гостро з гіпертермії, катаральних явищ, проносу. На другому тижні приєдналися порушення дихання, в’ялий параліч нижніх кінцівок, рентгенологічно – двобічна вогнищева пневмонія. Під час аутопсії у передніх рогах спинного мозку виявлено вогнища гліальної реакції довкола загиблих нейронів. Яке захворювання спричинило смерть дитини?
 a. Менінгоенцефаліт
 b. Мієліт
-c. Поліомієліт
+*c. Поліомієліт
 d. Полірадикулоневрит
 e. Менінгіт
 
@@ -139,11 +139,11 @@ c. Nuclei n. accessorii
 e. Nuclei n. vagi
 
 21. A patient has an angina pectoris attack. What myotropic drug with resorptive action can be used to stop the attack?
-*a. Nitroglycerin
-b. Menthol
-c. Anaprilin (Propranolol)
-d. Validol (Menthyl isovalerate)
-e. Nitrosorbide (Isosorbide dinitrate)
+a. Validol (Menthyl isovalerate)
+b. Nitroglycerin
+c. Nitrosorbide (Isosorbide dinitrate)
+d. Menthol
+e. Anaprilin (Propranolol)
 
 22. A child inhaled a button that was later removed from the right main bronchus using a bronchoscope. What bronchial epithelium is most likely to be damaged by such a foreign body?
 a. Transitional epithelium
@@ -195,11 +195,11 @@ d. Decresed respiratory muscle work
 e. Decreased airways resistance
 
 29. In an experiment on an animal, the removal of a section of the cerebral cortex erased the previously developed conditioned reflexes in response to light stimulation. What section of the cortex was removed?
-a. Postcentral gyrus
-b. Temporal lobe
-c. Limbic cortex
-d. Precentral gyrus
-*e. Occipital cortex
+a. Limbic cortex
+b. Occipital cortex
+c. Precentral gyrus
+d. Temporal lobe
+e. Postcentral gyrus
 
 30. In a patient with diabetes mellitus, regeneration processes are reduced and wounds do not heal for a long time. What metabolic changes cause this condition in the patient?
 a. Acidosis
@@ -209,7 +209,7 @@ d. Lipid metabolism disorder
 e. Accumulation of ketone bodies
 
 31. Because of a cerebral hemorrhage, a patient developed impaired speech perception (sensory aphasia). What brain structure is likely to be damaged in this case?
-a. Superior temporal gyrus
+*a. Superior temporal gyrus
 b. Inferior frontal gyrus
 c. Postcentral gyrus
 d. Superior frontal gyrus
@@ -237,11 +237,11 @@ d. Paracetamol
 e. Magnesium sulfate
 
 35. The patient's ECG shows an increased duration of the QRS complex. What is the likely cause of this finding?
-a. Increased atrial and ventricular excitability
-*b. Increased ventricular excitation time
-c. Increased atrial excitation time
-d. Increased atrial excitability
-e. Disturbed conduction in the atrioventricular nodes
+a. Disturbed conduction in the atrioventricular nodes
+b. Increased atrial excitation time
+c. Increased atrial excitability
+d. Increased atrial and ventricular excitability
+e. Increased ventricular excitation time
 
 36. A patient with signs of jaundice has been hospitalized into the surgical department. Normally, bile does not enter the blood stream from the bile capillaries. What ultrastructural features of the hepatocyte structure contribute to this phenomenon?
 a. Microvilli on the surface of the capillaries
@@ -252,7 +252,7 @@ d. No proper wall in bile capillaries
 
 37. Examination of a patient with a hearing impairment shows that the pathological process is localized at the level of the lateral lemniscus formation. At what level does is it normally form in the brain?
 a. Medulla oblongata
-b. Metencephalon (pons)
+*b. Metencephalon (pons)
 c. Mesencephalon
 d. Thoracic spinal cord
 e. Cervical spinal cord
@@ -275,7 +275,7 @@ e. Folic acid
 a. Artery
 b. Muscular vein
 c. Hemocapillary
-d. Non-muscular vein
+*d. Non-muscular vein
 e. Lymphocapillary
 
 41. A 50-year-old man suddenly developed intense palpitations, pain in the heart, acute weakness, increased blood pressure, and an irregular pulse with pulse deficit. ECG shows f-waves instead of a P wave; R-R intervals are irregular. What heart rhythm disorder is observed in the patient?
@@ -301,7 +301,7 @@ d. Malaria
 
 44. Яку функцію виконують келихоподібні клітини одношарового багаторядного війчастого епітелію бронхів ?
 a. Скоротливу
-b. Залозисту
+*b. Залозисту
 c. Камбіальну
 d. Всмоктувальну
 e. Опорну
@@ -377,11 +377,11 @@ d. Autosomal dominant
 e. Autosomal recessive
 
 55. A 24-year-old male decided to run a marathon after being untrained for a long period. The next day he visits his doctor with a chief complaint of severe pain in his thighs and shins. Which of the following is the most likely cause of this condition?
-a. Adenosine diphosphate accumulation in the muscles
-b. ---
-c. Muscle proteins breakdown
-d. Creatinine accumulation in the muscles
-*e. Lactic acid accumulation in the muscles
+a. Creatinine accumulation in the muscles
+b. Adenosine diphosphate accumulation in the muscles
+c. ---
+d. Muscle proteins breakdown
+e. Lactic acid accumulation in the muscles
 
 56. Під час аутопсії тіла чоловіка віком 47 років виявили виразку  по задній стінці шлунка діаметром 3 см, яка проникає у прилеглу до кишки тканину підшлункової залози. У ділянці виразки у підшлунковій залозі та в оточуючій жировій тканині множинні стеатонекрози. Яке ускладнення виразкової хвороби виникло у чоловіка?
 a. Флегмона стінки шлунка
@@ -429,15 +429,15 @@ e. Ovotesticular disorder of sex development
 a. Sinus bradycardia
 b. Sinus arrhythmia
 c. Ciliary arrhythmia
-d. Sinus tachycardia
+*d. Sinus tachycardia
 e. Extrasystole
 
 63. An increase in the circulating blood volume under the influence of aldosterone and antidiuretic hormone leads to the activation of secretion of a certain substance. What substance is it?
 a. Melatonin
-b. Angiotensin II
-*c. Atrial natriuretic peptide
+b. Angiotensinogen
+c. Atrial natriuretic peptide
 d. Renin
-e. Angiotensinogen
+e. Angiotensin II
 
 64. A patient complains of solar radiation intolerance. He has burns on his skin and vision loss. He was provisionally diagnosed with albinism. What amino acid metabolism is disturbed in this patient?
 a. Tryptophan
@@ -468,10 +468,10 @@ d. Fibrinous
 e. Alterative
 
 68. A patient was hospitalized with the provisional diagnosis of coronavirus infection. To diagnose the disease, a serological reaction was performed. This reaction is based on the interaction between an antigen and an antibody that is chemically linked to peroxidase or alkaline phosphatase. What serological reaction was used in this case?
-a. Radioimmunological method
-b. Complement fixation test
-c. Immobilization test
-*d. Enzyme-linked immunosorbent assay (ELISA)
+a. Complement fixation test
+b. Immobilization test
+c. Enzyme-linked immunosorbent assay (ELISA)
+d. Radioimmunological method
 e. Immunofluorescence assay
 
 69. A 65-year-old man with liver cirrhosis developed a significant decrease in blood pressure. What mechanism can be the cause of arterial hypotension in this case?
@@ -482,14 +482,14 @@ d. Reduced synthesis of transport proteins in the liver
 *e. Reduced angiotensinogen synthesis in the liver
 
 70. A patient is diagnosed with acute morphine hydrochloride intoxication. Prescribe an oxidizing agent for gastric lavage:
-a. Chlorhexidine (bi)gluconate
-b. Cerigel
+a. Cerigel
+b. Chlorhexidine (bi)gluconate
 c. Chloramine
-d. Sulfocamphocainum (Procaine + Sulfocamphoric acid)
-*e. Potassium permanganate
+d. Potassium permanganate
+e. Sulfocamphocainum (Procaine + Sulfocamphoric acid)
 
 71. During a pathological childbirth, separation of the pubic bones occurred in the woman. What type of bone junction was damaged in this case?
-a. Symphysis
+*a. Symphysis
 b. Diarthrosis
 c. Synchondrosis
 d. Synostosis
@@ -503,17 +503,17 @@ d. Hydrochlorothiazide (Dichlothiazidum)
 e. Triamterene
 
 73. Liver diseases with insufficient bile supply to the intestine lead to worsening of hemocoagulation. How can this phenomenon be explained?
-a. Thrombocytopenia
+a. Vitamin K deficiency
 b. Iron deficiency
 c. Leukopenia
-d. Erythropenia
-*e. Vitamin K deficiency
+d. Thrombocytopenia
+e. Erythropenia
 
 74. One of the tunics of a hollow organ contains nucleated anastomosing fibers. The fibers consist of cells that form intercalated discs in the contact areas. What tissue forms this tunic of an organ?
-*a. Cross-striated cardiac muscle
-b. Cross-striated skeletal muscle
-c. Dense irregular connective tissue
-d. Smooth muscle
+a. Smooth muscle
+b. Dense irregular connective tissue
+c. Cross-striated skeletal muscle
+d. Cross-striated cardiac muscle
 e. Loose fibrous connective tissue
 
 75. To determine the functional activity of blood corpuscles, a suspension of microorganisms was introduced into the test tube with packed white cells. In this case, the cytoplasm of some cells will contain phagocytized microorganisms. Which of the following cell types will show phagocytized microorganisms?
@@ -525,10 +525,10 @@ e. Lymphocytes and basocytes
 
 76. A 24-year-old man undergoes surgery and during the operation, an organ is excised and sent for histological evaluation. A light microscopic examination reveals the organ encased by thin connective tissue capsule that enters the substance of the lobes to further subdivide the organ into irregular lobular units. Each lobule contains a cluster of follicles filled with colloid. Follicular epithelium consists of low columnar, cuboidal or squamous cells depending on the level of activity of the follicle. Which of the following organs does this tissue most likely belong to?
 a. Parathyroid gland
-b. Thymus
-c. Pancreas
+b. Thyroid gland
+c. Thymus
 d. Parotid gland
-*e. Thyroid gland
+e. Pancreas
 
 77. The Wasserman reaction is markedly positive (++++) in a 30-year-old man. What infectious disease is diagnosed using the Wasserman reaction?
 *a. Syphilis
@@ -570,7 +570,7 @@ a. α-adrenoreceptor antagonists
 b. Calcium channel blockers
 c. Smooth muscle relaxant
 d. Adenosine
-e. Nitrovasodilator
+*e. Nitrovasodilator
 
 83. A blood drop has been put into a test tube with 0.3% solution of NaCl. What will happen to erythrocytes?
 a. Shrinkage
@@ -584,7 +584,7 @@ a. Decrease in hemoglobin level
 b. Glucose-6-phosphate dehydrogenase (G6PD) deficiency
 c. Sickle cell disease
 d. Rh incompatibility
-e. Hyperbilirubinemia
+*e. Hyperbilirubinemia
 
 85. У жінки віком 45 років на шкірі обличчя з'явилося пігментне утворення у вигляді вузлика. Мікроскопічно в біоптаті визначаються поля  веретеноподібних і поліморфних клітин, що містять бурий пігмент,з великою кількістю мітозів. Який патологічний стан виник у пацієнтки?
 *a. Меланома
@@ -595,7 +595,7 @@ e. Дерматофіброма
 
 86. A team of medical students is performing research on phases of cell cycle. During one of the mitotic phases the cell is nearly done dividing, the chromosomes decondense and two nuclei begin to form around them. Which of the following phases most likely takes place in the cell?
 a. ---
-b. Telophase
+*b. Telophase
 c. Prophase
 d. Anaphase
 e. Metaphase
@@ -623,17 +623,17 @@ e. Ovarian insufficiency
 
 90. Які механізми регуляції зумовлюють збільшення частоти серцевих скорочень під час зміни положення тіла з горизонтального у вертикалене?
 a. Катехоламіни
-b. Симпатичні рефлекси і катехоламіни
-c. Умовні симпатичні рефлекси
-d. Умовні та безумовні  симпатичні рефлекси
-*e. Безумовні симпатичні рефлекси
+b. Умовні симпатичні рефлекси
+c. Безумовні симпатичні рефлекси
+d. Симпатичні рефлекси і катехоламіни
+e. Умовні та безумовні  симпатичні рефлекси
 
 91. It has been found out that one of a pesticide components is sodium arsenate that blocks lipoic acid. Which enzyme activity is impaired by this pesticide?
-*a. Pyruvate dehydrogenase complex
-b. Glutathione reductase
-c. Glutathione peroxidase
-d. Microsomal oxidation
-e. Methemoglobin reductase
+a. Methemoglobin reductase
+b. Pyruvate dehydrogenase complex
+c. Microsomal oxidation
+d. Glutathione reductase
+e. Glutathione peroxidase
 
 92. A 37-year-old man is admitted to hospital with mental confusion and disorientation. His wife reports he became more irritable and forgetful in the past year. In addition, she notes that he became a vegan a year ago, and currently, his diet consists of starchy foods like potatoes, corn, and leafy vegetables. GI symptoms include anorexia, diarrhea and vomiting. He has glossitis and skin lesions that appear as vesicles over the extremities. Eczema-like lesions around the mouth, as well as desquamation and roughened skin over the hands are also present. Neurologic examination reveals symmetrical hypesthesia for all types of sensation in both upper and lower extremities in a <<gloves and socks>> distribution. Deficiency in diet of which of the following amino acids is the most likely cause of this condition?
 a. Threonine
@@ -707,13 +707,13 @@ e. Хоани
 
 102. A 50-year-old patient has been hospitalized with signs of a hypertensive crisis. What is associated with a sharp increase in the blood pressure?
 a. Endothelial desquamation
-b. Spasm of arterioles
+*b. Spasm of arterioles
 c. Endothelial dystrophy
 d. Hyalinosis of arterioles
 e. Necrosis of arterioles
 
 103. Цитоскелет клітин складається з мікротрубочок, проміжних філаментів та мікрофіламентів. Який білок у своєму складі містять мікротрубочки?
-a. Тубулін
+*a. Тубулін
 b. Альбумін
 c. G-актин
 d. F-актин
@@ -721,10 +721,10 @@ e. Глобулін
 
 104. During the healing of a wound, a scar made of connective tissue develops in the area of the tissue defect. What cells cause this process?
 a. Melanocytes
-b. Mast cells
-c. Fibrocytes
-*d. Fibroblasts
-e. Macrophages
+b. Macrophages
+c. Mast cells
+d. Fibrocytes
+e. Fibroblasts
 
 105. Autopsy of the body of a 44-year-old man, who died of cardiopulmonary failure, revealed pneumosclerosis, pulmonary emphysema, and hypertrophy of the right ventricle of the heart. Multiple mostly subpleural foci up to 1 cm in diameter are observed in both lungs. Histologically, in the center of the foci there is a zone of necrosis, while on their periphery a border consisting of epithelioid cells and lymphocytes with addition of macrophages and plasma cells is observed. Langhans giant cells are present. A small number of blood capillaries can be detected on the periphery of the lesion foci. What disease is it?
 a. Silicosis
@@ -762,11 +762,11 @@ d. Into the lumbar lymph nodes
 e. Into the superior mesenteric lymph nodes
 
 110. Infectious diseases are treated with antibiotics (streptomycin, erythromycin, chloramphenicol). They inhibit the following stage of protein synthesis:
-a. Replication
-*b. Translation
-c. Splicing
-d. Processing
-e. Transcription
+a. Processing
+b. Transcription
+c. Replication
+d. Translation
+e. Splicing
 
 111. A 40-year-old prisoner died of tuberculosis. Autopsy of the body revealed deformation and diminishing of both lung apices; in the both upper lobes there are multiple cavities with dense walls 2--3 mm thick; in the lower lung lobes there are disseminated foci of caseous necrosis varying from 5 mm to 2 cm in diameter. Diagnose the type of tuberculosis:
 *a. Secondary fibro-cavitary \\ tuberculosis
@@ -798,17 +798,17 @@ e. Very low density lipoproteins
 
 115. Zoliclons (monoclonal antibodies) were used to determine the person's blood group according to the ABO system. Erythrocyte agglutination did not occur with any of the zoliclons. What blood type does this person have?
 a. В (ІІІ)
-b. А (ІІ)
-*c. 0 (І)
-d. АВ (ІV)
-e. ---
+b. ---
+c. АВ (ІV)
+d. 0 (І)
+e. А (ІІ)
 
 116. A woman, who was undergoing treatment for insomnia, was found unconscious. Her respiration is inhibited, she is in a collaptoid state and presents with muscle hypotonia and absence of reflexes. Empty medicine packages were found at the site of the accident. What medicine could have caused such a condition in the patient?
-a. Picamilon
+a. Eleutherococcus tincture
 b. Nialamide
-c. Promedol (Trimeperidine)
-*d. Phenobarbital
-e. Eleutherococcus tincture
+c. Phenobarbital
+d. Picamilon
+e. Promedol (Trimeperidine)
 
 117. Increased levels of angiotensin II have been detected in the blood of a patient with a hypertensive crisis. The pressor effect of angiotensin is associated with the:
 a. Stimulation of vasopressin production
@@ -849,15 +849,15 @@ d. Edwards syndrome
 a. Type IV hypersensitivity (cell-mediated cytotoxicity)
 b. Type I hypersensitivity (anaphylactic)
 c. Type V hypersensitivity (granulomatosis)
-d. Type II hypersensitivity (antibody-dependent)
+*d. Type II hypersensitivity (antibody-dependent)
 e. Type III hypersensitivity (immune complex)
 
 123. The key reaction of fatty acid synthesis is production of malonyl-CoA) What metabolite is the source of malonyl-CoA synthesis?
-a. Acyl-CoA
-b. Malonate
-c. Succinyl-CoA
-d. Citrate
-*e. Acetyl-CoA
+a. Malonate
+b. Succinyl-CoA
+c. Acyl-CoA
+d. Acetyl-CoA
+e. Citrate
 
 124. Histones are small basic proteins, bound to DNA in chromatin. They contain numerous positively charged amino acid residues, which ensures their strong bond with the acidic groups of DNA. Name the most common amino acids in histones.
 a. Glutamic acid, glutamine
@@ -896,13 +896,13 @@ e. Krabbe disease
 
 129. Autopsy of the body of a 14-year-old child who died of pneumonia revealed the following: multiple punctate and spotty hemorrhages in the skin, mucosa, and serous membranes; an enlarged flaccid spleen that is red on section and yields only a small amount of material when scraped; enlarged pale gray mediastinal and retroperitoneal lymph nodes with a slightly pinkish tint on the cross-section; raspberry-red bone marrow in flat and tubular bones. What disease is indicated by the described changes?
 a. Chronic lymphoid leukemia
-b. Acute lymphoblastic leukemia
+*b. Acute lymphoblastic leukemia
 c. Lymphogranulomatosis
 d. Chronic myeloid leukemia
 e. Acute myeloblastic leukemia
 
 130. Яка група організмів має нуклеоїди -  кільцеві  молекули ДНК, що формують хромосоми простої будови (відсутні гістони)?
-a. Бактерії
+*a. Бактерії
 b. Гриби
 c. Віруси
 d. Найпростіші
@@ -953,7 +953,7 @@ d. Гістидин
 137. Six hours have passed since the development of an acute myocardial infarction in the patient. During autopsy of the body, staining was used to identify the area of infarction. What was used to detect the area of necrosis?
 a. Toluidine blue
 b. Methyl violet
-c. Tetrazolium salts
+*c. Tetrazolium salts
 d. Congo red
 e. Picrofuchsin
 
@@ -965,15 +965,15 @@ d. Left circumflex artery
 *e. Posterior interventricular artery
 
 139. У жінки віком 28 років під час лабораторного обстеження в крові виявлено гіперхромію еритроцитів, мегалоцити і мегалобласти. Який вид анемії у пацієнтки?
-a. Залізодефіцитну
-b. Гемолітичну
-c. Гіпопластичну
-d. Постгеморагічну
-*e. В12-фолієводефіцитну
+a. Гіпопластичну
+b. Постгеморагічну
+c. Залізодефіцитну
+d. Гемолітичну
+e. В12-фолієводефіцитну
 
 140. A surgeon suspects inflammation of the Meckel's diverticulum in a 10-year-old child. This condition requires a surgical intervention. What part of the intestine must be inspected to find the diverticulum?
 a. Descending colon
-b. 1 meter of the ileum, starting from the place of its confluence with the large intestine
+*b. 1 meter of the ileum, starting from the place of its confluence with the large intestine
 c. Ascending colon
 d. 20 cm of the ileum, starting from the ileocecal angle
 e. 0.5 meters of jejunum, starting from the ligament of Treitz
@@ -988,9 +988,9 @@ e. Ethanolamine
 142. A 70-year-old-man has suffered a femoral fracture as a result of a fall. What is the most common fracture site in this bone at this age?
 a. Middle part
 b. Condyles
-*c. Neck
+c. Lower third
 d. Upper third
-e. Lower third
+e. Neck
 
 143. A 36-year-old man developed angina pectoris attacks after a case of staphylococcal sepsis. In the left coronary artery, coronary angiography revealed parietal thrombosis without signs of atherosclerosis. In this case, the thrombus formation started because of the damage to the vascular endothelium and the release of:
 a. Adenosine triphosphate
@@ -1015,7 +1015,7 @@ d. Phenylalanine-hydroxylase
 
 146. Autopsy of the body of a 72-year-old woman with rheumatoid arthritis, who died of uremia, revealed enlarged dense pale gray kidneys with shiny sebaceous surface on section. What pathology can be suspected, based on the revealed changes?
 a. Atherosclerotic nephrosclerosis
-b. Renal amyloidosis
+*b. Renal amyloidosis
 c. Contracted granular kidneys
 d. Chronic glomerulonephritis
 e. Chronic pyelonephritis
@@ -1028,11 +1028,11 @@ d. Increased resistance to bacteria and toxins
 *e. Arterial hypotension
 
 148. A 25-year-old man presents to his physician with a 1-week history of fever, sore throat, nausea, and fatigue. His vital signs include: temperature --- 38.5°C, pulse --- 72/min., blood pressure --- 120/70 mm Hg, and respiratory rate --- 17/min. On physical examination, he has bilateral posterior cervical lymphadenopathy, exudates over the palatine tonsil walls with soft palate petechiae, an erythematous macular rash on the trunk and arms, and mild hepatosplenomegaly. This patient most likely has infectious mononucleosis. Which of the following would be the most appropriate diagnostic laboratory test?
-a. Herpes simplex virus isolation
-b. A 4-fold increase in anti-EBV titers
-c. Positive serum IgM antibodies for Herpes simplex virus
-d. A detection of Cytomegalovirus (CMV) antibodies
-*e. Positive serum IgM antibodies for Epstein-Barr virus
+a. A detection of Cytomegalovirus (CMV) antibodies
+b. Positive serum IgM antibodies for Herpes simplex virus
+c. Positive serum IgM antibodies for Epstein-Barr virus
+d. Herpes simplex virus isolation
+e. A 4-fold increase in anti-EBV titers
 
 149. A 78-year-old woman presents to the emergency department for fever and generalized malaise. Her symptoms began several days ago, when she noticed pain with urination and mild blood in her urine. Earlier this morning she experienced chills, flank pain and mild nausea. Her temperature is 38.7°C, blood pressure is 140/80 mm Hg, heart rate is 98/min. Later she dies of unknown cause. At autopsy, her kidney is swollen with punctate abscesses that outlined by a thin red margin (signs of marginal vascular dilation). Microscopic observation reveals a large number of neutrophils. Which of the following is the most likely diagnosis?
 a. Polycystic kidney disease
@@ -1049,11 +1049,11 @@ d. Thyroid-stimulating hormone (TSH)
 *e. Melanocyte-stimulating hormone (MSH)
 
 151. During surgical intervention, an organ is removed from a 34-year-old patient and sent for histologic evaluation. The pathologist examines the slide. The organ is encased in a connective tissue capsule that extends septae into the organ's substance, which is portioned into cortex and medulla. It is richly vascularized and capsular blood vessels penetrate along with the septae. The medulla is fairly homogenous and consists of chromaffin cells, but in the cortex, three concentric zones can be distinguished. Which of the following is the most likely organ?
-a. Thymus
-*b. Adrenal gland
-c. Kidney
+a. Kidney
+b. Thymus
+c. Thyroid gland
 d. Lymph node
-e. Thyroid gland
+e. Adrenal gland
 
 152. During local anesthetization the patient has gone into anaphylactic shock. What drug must be administered to the patient?
 a. Atropine sulfate
@@ -1224,11 +1224,11 @@ d. Lymphogranulomatosis
 e. Bekhterev disease (ankylosing spondylitis)
 
 176. A patient with chronic heart failure developed signs of pulmonary edema. What diuretic must be prescribed to the patient for rapid correction of this complication?
-a. Clopamide
-*b. Furosemide
-c. Diacarb (Acetazolamide)
-d. Spironolactone
-e. Triamzid
+a. Triamzid
+b. Clopamide
+c. Spironolactone
+d. Furosemide
+e. Diacarb (Acetazolamide)
 
 177. A 7-week-old infant is brought to the pediatrician due to feeding difficulty for the last 4 days. She has been drinking very little breast milk and stops feeding as if she is tired, only to start sucking again after a few minutes. On chest auscultation, bilateral wheezing is present. A cardiac murmur starts immediately after the onset of the first heart sound (S1), reaching its maximal intensity at the end of systole, and waning during late diastole. The murmur is best heard over the second intercostal space and radiates to the left clavicle. The first heart sound (S1) is normal, while the second heart sound (S2) is obscured by the murmur. The pediatrician suspects a patent ductus arteriosus. Communication between which of the following arteries is the most likely cause of hemodynamic instability?
 *a. Pulmonary artery and aorta
@@ -1284,7 +1284,7 @@ a. N. obturatorius
 b. N. suralis
 c. N. genitofemoralis
 d. N. ischiadicus
-e. N. femoralis
+*e. N. femoralis
 
 185. During the lunch, a person ate salted herring and potatoes with pickles. After a while, this person became thirsty. This sensation has been caused by impulsation from certain receptors. Name these receptors.
 a. Volume receptors in the hypothalamus
@@ -1301,11 +1301,11 @@ d. Monocytes
 e. Eosinophils
 
 187. A group of researchers aimed to study cardiac physiology found that overstretching of atria in the heart leads to decreased sodium reabsorption in the distal convoluted tubule and increase in glomerular filtration rate. Which of the following is the most likely cause of physiologic effects discovered by researchers?
-a. Aldosterone
-b. Renin
-c. Angiotensin
-*d. Natriuretic peptide
-e. Antidiuretic hormone
+a. Renin
+b. Angiotensin
+c. Antidiuretic hormone
+d. Natriuretic peptide
+e. Aldosterone
 
 188. S aureus can cause various infections - from purulent complications of wounds to pneumonia and sepsis. Why is penicillin therapy of staphylococcal infections not very effective?
 a. Acetylase production by S. aureus
@@ -1378,11 +1378,11 @@ d. Tonsil
 e. Lymph node
 
 198. What happens, when blood pressure and stimulation of baroreceptors and atrial volume receptors are decreased?
-a. Reduced production of aldosterone
-b. Increased production of atrial natriuretic peptide
-*c. Activation of the hypothalamic supraoptic nuclei and production of vasopressin
-d. Vasodilation of the systemic resistance vessels
-e. Reduced production of renin in juxtaglomerular cells
+a. Reduced production of renin in juxtaglomerular cells
+b. Vasodilation of the systemic resistance vessels
+c. Increased production of atrial natriuretic peptide
+d. Activation of the hypothalamic supraoptic nuclei and production of vasopressin
+e. Reduced production of aldosterone
 
 199. A 20-year-old female comes to the clinic after missing her last 2 periods. Her cycles are usually regular, occurring at 28--30 day interval with moderate bleeding and some abdominal discomfort. She also complains of progressively diminishing peripheral vision. Her doctor reveals loss of vision in the lateral halves of both eyes. Involvement of which of the following structures would you most likely expect to be the reason of bitemporal hemianopsia?
 *a. Optic chiasm
@@ -1406,11 +1406,11 @@ c. Systemic lupus erythematosus
 e. Systemic scleroderma
 
 202. A patient needs to be prescribed a wide-spectrum fluoroquinolone agent. Select this drug from the list.
-a. Azlocillin
-b. Amoxicillin
-*c. Ciprofloxacin
+a. Chinoxydin
+b. Ciprofloxacin
+c. Azlocillin
 d. Carbenicillin
-e. Chinoxydin
+e. Amoxicillin
 
 203. A 26-year-old female patient with bronchitis has been administered a broad spectrum antibiotic as a causal treatment drug. Name this drug:
 a. Isoniazid
@@ -1420,11 +1420,11 @@ c. Dexamethasone
 e. Vancomycin
 
 204. Жінка віком 47 років осліпла внаслідок хронічної інфекції зумовленої Chlamidia trachomatis. Для виявлення цитоплазматичних включень, специфічних для цього збудника, було виготовлено мікропрепарат із зішкрібу з кон’юнктиви. Який із нижченаведених методів треба застосувати для його фарбування?
-*a. Романовського-Гімзи
-b. Лефлера
+a. Грама
+b. Романовського-Гімзи
 c. Бурі-Гінса
-d. Грама
-e. Нейссера
+d. Нейссера
+e. Лефлера
 
 205. Дівчинці віком 13 років лікар призначив для лікування мегалобластної анемії препарат, що стимулює перехід мегалобластного типу кровотворення в нормобластний та бере участь у синтезі пурино- і  піримідинових основ, активізує синтез білка, метіоніну. Який препарат призначено пацієнтці?
 a. Гемостимулін
@@ -1434,7 +1434,7 @@ d. Плоди шипшини
 *e. Ціанокобаламін
 
 206. Laboratory study of the blood of a 33-year-old patient revealed erythrocyte agglutination reaction in standard sera of groups I and II. Agglutination reaction was not observed with a group III serum and an anti-rhesus serum. What blood group (taking into account the CDE system) can be transfused to this person, if necessary?
-a. III (B) Rh-
+*a. III (B) Rh-
 b. II (A) Rh-
 c. I (О) Rh+
 d. IV (AB) Rh-
@@ -1445,7 +1445,7 @@ a. Systemic lupus erythematosus.
 b. Rheumatism
 c. Polyarteritis nodosa
 d. Rheumatoid arthritis
-e. Systemic scleroderma
+*e. Systemic scleroderma
 
 208. A 27-year-old parturient woman undergoes a complicated childbirth with impending cervical rupture. What pain relief medicine would be the safest in this case?
 a. Morphine hydrochloride
@@ -1464,7 +1464,7 @@ e. Bacteriological analysis
 210. A 10-year-old child has painful swallowing, neck edema, temperature rise up to 39.0°C, the whole body is covered with bright-red petechial rash. Back of the throat and tonsils are hyperemic, the tongue is crimson-colored. Tonsillar surface is covered with isolated grayish-colored necrosis nidi. What disease is it?
 a. Diphtheria
 b. Measles
-c. Scarlet fever
+*c. Scarlet fever
 d. Influenza
 e. Meningococcal nasopharyngitis
 
@@ -1483,22 +1483,22 @@ c. Ventricular depolarization
 e. Atrioventricular conduction
 
 213. A parenchyma sample was taken from a hematopoietic organ of a patient for diagnostic purposes. The sample contains megakaryocytes. What hematopoietic organ is it?
-a. Thymus
-b. Lymph node
-*c. Red bone marrow
-d. Tonsil
-e. Spleen
+a. Tonsil
+b. Spleen
+c. Thymus
+d. Red bone marrow
+e. Lymph node
 
 214. In an experiment, despiralization of the DNA molecule was disrupted in an animal cell. What processes will primarily stop occurring in this cell?
 a. Processing
-b. Translation
+b. Transcription
 c. Repair
-*d. Transcription
-e. Termination
+d. Termination
+e. Translation
 
 215. Examination shows that the patient's sternocleidomastoid muscle and the upper edge of the trapezius muscle suffer from atrophy. Turning the head into the opposite direction is problematic. What nerve is affected in this case?
 a. Hypoglossal nerve
-b. Accessory nerve
+*b. Accessory nerve
 c. Vagus nerve
 d. Brachial plexus
 e. Intercostal nerve
@@ -1518,25 +1518,25 @@ d. Functional cardiac overload
 e. Intravascular aggregation of blood cells
 
 218. A 60-year old man with a history of hypertension, diabetes and hyperlipidemia had a sudden onset of right-sided weakness. By the time the ambulance arrived, he had difficulty speaking. Unfortunately, the patient died within the next 2 hours and an autopsy was performed immediately. The gross examination of the cerebral left hemisphere showed brain swelling, widened gyri and poorly demarcated gray-white junction. Which of the following is the most likely cause of this patient's death?
-a. Abscess
-*b. Ischemic stroke
-c. Cyst
-d. Tumor
-e. Intracerebral hemorrhage
+a. Cyst
+b. Ischemic stroke
+c. Tumor
+d. Intracerebral hemorrhage
+e. Abscess
 
 219. A 63-year-old man, who has been suffering from chronic fibrous-cavernous pulmonary tuberculosis for 24 years, has been delivered to a nephrology department with uremia. Intravital diagnostic test for amyloid in the kidneys was positive. What amyloidosis is it in this case?
-a. Hereditary (genetic)
-*b. Secondary systemic
+a. Primary systemic
+b. Localized (focal)
 c. Senile
-d. Localized (focal)
-e. Primary systemic
+d. Hereditary (genetic)
+e. Secondary systemic
 
 220. The parents with normal hearing have two daughters and a son, who are congenitally deaf. Their other 5 children are healthy. What is the pattern of deafness inheritance in this case?
 a. X-linked recessive
 b. Autosomal dominant
 c. Y-linked
 d. X-linked dominant
-e. Autosomal recessive
+*e. Autosomal recessive
 
 221. A patient presents with a disturbed process of urea synthesis. It indicates the pathology of the following organ:
 a. Brain
@@ -1554,7 +1554,7 @@ e. Musculus rectus oculi inferior
 
 223. Acute herpetic gingivostomatitis is the most common primary infection caused by herpes simplex virus, type 1. What material should a dentist obtain for the laboratory analysis to confirn this diagnosis?
 a. Sputum
-b. Fluid from the vesicles
+*b. Fluid from the vesicles
 c. Blood
 d. Saliva
 e. Urine
@@ -1567,7 +1567,7 @@ d. Dephosphorylation of the termination factor
 *e. Irreversible modification of an elongation factor
 
 225. What will be observed in a 23-year-old man with untreated type 1 diabetes mellitus?
-a. Acidosis, hyperkalemia
+*a. Acidosis, hyperkalemia
 b. Alkalosis, hyperkalemia
 c. Acidosis, normokalemia
 d. Acidosis, hypokalemia
@@ -1583,7 +1583,7 @@ e. Ginseng tincture
 227. A 6-year-old child has purulent inflammation of the middle ear that was complicated by purulent inflammation of the mastoid cells. Trepanation (dissection) of the mastoid process became necessary. In this case, the surgeon must remember that a certain venous sinus is located close by, to avoid damaging it. Name this sinus.
 a. Transverse sinus
 b. Cavernous sinus
-c. Sigmoid sinus
+*c. Sigmoid sinus
 d. Superior sagittal sinus
 e. Inferior sagittal sinus
 
@@ -1618,7 +1618,7 @@ e. Intensive protein synthesis
 232. A 34-year-old man visits his dentist complaining of toothache. After a dental procedure that involved extraction of several teeth, he develops severe bleeding lasting more than 15 minutes. He has a history of chronic hepatitis C) Which of the following is the most likely cause of prolonged bleeding in this patient?
 a. ---
 b. Hypoalbuminemia
-c. Hypofibrinogenemia
+*c. Hypofibrinogenemia
 d. Hypocalcemia
 e. Thrombocytopenia
 
@@ -1655,7 +1655,7 @@ a. Plasma cells
 b. Suppressor T cells
 c. B lymphocytes
 d. Immunological memory cells
-e. Helper T cells
+*e. Helper T cells
 
 238. Чоловік віком 38 років скаржиться на швидку стомлюваність, у положенні стоячи із закритими очима він похитується, втрачає рівновагу. Тонус скелетних м’язів знижений. Яка з нижченаведених структур мозку, найбільш імовірно, вражена у пацієнта?
 a. Прецентральна звивина кори великих півкуль
@@ -1742,18 +1742,18 @@ d. Mycobacterium tuberculosis
 e. Enterohemorrhagic E) coli
 
 250. During a surgery with administration of an inhalation anesthetic and muscle relaxants, the anesthesiologist noticed a rapid increase in the patient's body temperature that reached 43°C) What pathology did the patient develop?
-*a. Hyperthermic syndrome
-b. Overheating
+a. Overheating
+b. Hyperthermic syndrome
 c. Physical hyperthermia
-d. Traumatic shock
-e. Infection-induced fever
+d. Infection-induced fever
+e. Traumatic shock
 
 251. As a result of a stroke (hemorrhage in the brain), the patient cannot perform voluntary movements of the muscles in the head and neck. Brain examination using the NMR imaging revealed that the hematoma was located in the genu of the internal capsule. What conduction pathway is damaged in this patient?
-a. Fibrae frontopontinus
-b. Fibrae corticospinalis
-c. Fibrae thalamocorticalis
+a. Fibrae thalamocorticalis
+b. Fibrae corticonuclearis
+c. Fibrae frontopontinus
 d. Fibrae corticothalamicus
-*e. Fibrae corticonuclearis
+e. Fibrae corticospinalis
 
 252. A patient with scurvy presents with disturbed processes of proline and lysine hydroxylation in the collagen. What biochemical process is inhibited in this case, causing this disorder?
 a. Peroxidase oxidation of fats
@@ -1791,11 +1791,11 @@ d. Endophytic
 e. Appositional
 
 257. A patient with suspected dysentery was admitted to the infectious diseases department. What diagnostic method can confirm this diagnosis?
-*a. Bacteriological method
+a. Bacteriological method
 b. Microscopy
-c. Allergy testing
-d. Biological method
-e. Serological method
+c. Biological method
+d. Serological method
+e. Allergy testing
 
 258. In the course of an urgent surgery, the vermiform appendix of the patient was excised. The appendix was acutely distended and gray-black throughout its whole length. In the distal segment a defect of the appendix wall was detected, through which a foul-smelling gray-brown substance was being discharged from the appendix lumen. Histological analysis shows necrotization of the appendix wall with hemorrhagic foci; the lumen of the mesenteric artery is filled with a trombus. What type of appendicitis is it?
 a. Chronic
@@ -1834,7 +1834,7 @@ e. Immunofluorescence
 
 263. The father and mother are healthy. Amniocentesis detects that the karyotype of the fetus is 45 Х0. Make the diagnosis.
 a. Edwards syndrome
-b. Turner syndrome
+*b. Turner syndrome
 c. Trisomy X
 d. Cri-du-chat syndrome
 e. Patau syndrome
@@ -1918,24 +1918,24 @@ e. Arteria communicans anterior
 
 275. За умов дії якого ферменту арахідонова кислота (джерело синтезу ейкозаноїдів) вивільняється з фосфоліпідного бішару клітинних мембран?
 a. Циклооксигенази
-b. Фосфоліпази А2
+*b. Фосфоліпази А2
 c. Ліпоксигенази
 d. Фосфоліпази D
 e. Фосфоліпази С
 
 276. Echo-planar imaging is a technique that uses gamma rays for MRI scans.
 a. -
-b. False
+*b. False
 c. -
 d. Not given
 e. True
 
 277. A patient has ascites, his spleen is double the normal size, he has esophageal and rectal varices. Histology of the biopsy material obtained from the liver revealed micronodular cirrhosis. What process has complicated the hepatic cirrhosis in this case?
-*a. Portal hypertension syndrome
-b. Heart failure
-c. Hepatolienal syndrome
+a. Heart failure
+b. Hepatolienal syndrome
+c. Hepatocellular dysfunction
 d. Budd-Chiari syndrome
-e. Hepatocellular dysfunction
+e. Portal hypertension syndrome
 
 278. Яке ускладення виникне у пацієнта з діагнозом цироз печінки і значним зниженням в сироватці крові вмісту альбуміну та глобуліну?
 *a. Набряки
@@ -1956,14 +1956,14 @@ a. Pyruvate
 b. Glycerin
 c. Amino acids
 d. Lactate
-e. Ketone bodies
+*e. Ketone bodies
 
 281. Пацієнтці віком 72 роки, яка хворіє на гіпертонічну хворобу, з метою зниження  АТ було рекомендовано препарат із групи блокаторів кальцієвих каналів. Як проявиться ефект цих ліків на функції міокарда шлуночків?
-a. Збільшенням тривалості реполяризації
-b. Зростанням скоротливості
-c. Збільшенням ЧСС
+a. Збільшенням ЧСС
+b. Зменшенням фази плато
+c. Збільшенням тривалості реполяризації
 d. Ефект буде відсутній
-*e. Зменшенням фази плато
+e. Зростанням скоротливості
 
 282. У чоловіка віком 46 років у лабораторних дослідженнях крові виявлено підвищення активності креатинфосфокінази. Який патологічний стан, найімовірніше, виник у пацієнта?
 a. Ниркова недостатність
@@ -2019,7 +2019,7 @@ a. Капсула
 b. Джгутики
 c. Спори
 d. Цитоплазма
-e. Клітинна стінка
+*e. Клітинна стінка
 
 290. Який препарат належить до групи блокаторів кальцієвих каналів третього покоління?
 a. Лозартан
@@ -2029,11 +2029,11 @@ c. Магнію сульфат
 e. Лізиноприл
 
 291. When ascending to the top of Elbrus, a mountain climber experiences oxygen starvation, dyspnea, palpitations, and numbness of the extremities. What kind of hypoxia has developed in the mountain climber?
-a. Tissue
-b. Cardiac
-c. Hemic
-d. Circulatory
-*e. Hypoxic
+a. Hemic
+b. Hypoxic
+c. Cardiac
+d. Tissue
+e. Circulatory
 
 292. A 55-year-old woman has mitral valve insufficiency and had myocarditis 10 years ago. Currently she has no complaints. Her hemodynamics is within the normal range. What general nosology concept corresponds with this situation?
 a. Compensatory reaction
@@ -2045,7 +2045,7 @@ e. Pathological reaction
 293. A patient at the oncology department has undergone radiation therapy. After that, morphology detected a significant disruption in the process of regeneration of epithelial layer in the small intestine mucosa. What cells of the epithelial membrane are damaged in this case?
 a. Exocrinocytes with acidophilic granulation (Paneth cells)
 b. Endocrine cells
-c. Columnar epitheliocytes without a brush border, located in the crypts
+*c. Columnar epitheliocytes without a brush border, located in the crypts
 d. Goblet exocrinocytes
 e. Columnar epitheliocytes with a brush border
 
@@ -2058,7 +2058,7 @@ e. Urinary bladder
 
 295. Укажіть ефективні умови окисного фосфорилювання.
 a. Доступність АМФ, оксиген, відновлені еквіваленти
-b. Доступність АДФ, оксиген, відновлені еквіваленти
+*b. Доступність АДФ, оксиген, відновлені еквіваленти
 c. Доступність ГДФ, оксиген, відновлені еквіваленти
 d. Доступність АМФ, оксиген, окислені еквіваленти
 e. Доступність АТФ, окислені еквіваленти, вуглекислий газ
@@ -2067,7 +2067,7 @@ e. Доступність АТФ, окислені еквіваленти, ву�
 a. Strophanthin
 b. Sustac forte (Nitroglycerin)
 c. Lidocaine
-d. Anaprilin (Propranolol)
+*d. Anaprilin (Propranolol)
 e. Potassium chloride
 
 297. Blood testing of a patient with jaundice revealed an increase in total bilirubin due to its indirect fraction. Patient's urine and feces have a saturated color. What is the most likely mechanism of these disorders?
@@ -2099,10 +2099,10 @@ d. Alpha/beta-adrenergic agonists
 e. Beta-1-adrenergic agonists
 
 301. A histological specimen of an eyeball shows a biconvex structure, connected to the ciliary body with the fibrous strands of the ciliary zonule and covered on top with a transparent capsule. What structure is it?
-a. Cornea
-*b. Crystalline lens
-c. Vitreous body
-d. Sclera
+a. Vitreous body
+b. Sclera
+c. Cornea
+d. Crystalline lens
 e. Ciliary body
 
 302. A patient with type 1 diabetes mellitus has been prescribed insulin as a substitution therapy. What is the mechanism of action of this drug?
@@ -2130,6 +2130,6 @@ e. ІV
 a. Гальмування серотонінергічних рецепторів
 b. Гальмування холінергічних рецепторів
 c. Активація Д2-дофамінових рецепторів
-d. Активація опіатних рецепторів
+*d. Активація опіатних рецепторів
 e. Гальмування гістамінергічних рецепторів
 
