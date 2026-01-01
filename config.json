@@ -10,6 +10,7 @@
     "Krok 2 Medicine (EN).txt",
     "Krok 2 Pharmacy (EN).txt",
     "Krok 2 Public health (EN) (від 2026 року).txt",
+    "Krok 2 Stomatology (EN) (від 2026 року).txt",
     "Krok 2 Stomatology (EN).txt",
     "ЄДКІ Бакалаври Екстрена медицина (від 2026 року).txt",
     "ЄДКІ Бакалаври Медсестринство (EN) (від 2026 року).txt",
@@ -198,8 +199,9 @@
     "Krok 1 Medicine (EN) (від 2026 року).txt": "meden26",
     "Krok 1 Medicine (EN) (booklets).txt": "medenbook",
     "КРОК 1 Medicine (EN) (від 2026 року).txt": "12345",
-    "Krok 2 Medicine (EN) (від 2026 року).txt": "meden2new"
+    "Krok 2 Medicine (EN) (від 2026 року).txt": "meden2new",
+    "Krok 2 Stomatology (EN) (від 2026 року).txt": "12345"
   },
   "active_folder": "Merged/TXT",
-  "last_updated": "31-12-2025 (Master Database)"
+  "last_updated": "01-01-2026 (Master Database)"
 }

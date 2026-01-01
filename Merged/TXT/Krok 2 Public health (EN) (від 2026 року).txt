@@ -1,275 +1,275 @@
 1. The quality and safety of potable water based on its chemical composition depends on its content of individual chemical elements. What chemical element can cause water-induced intoxication in consumers?
 a. Calcium
 b. Manganese
-*c. Lead
-d. Iron
-e. Aluminum
+c. Aluminum
+*d. Lead
+e. Iron
 
 2. In one of the regions of Ukraine, the spread of a contagious animal disease within a short period of time, significantly exceeding the usual incidence of this disease in this territory, was registered. Such an adverse event can be classified as:
-*a. Epizooty
-b. Accident
-c. Disaster
-d. Epiphytoty
-e. Epidemic
+a. Disaster
+b. Epiphytoty
+c. Accident
+d. Epidemic
+*e. Epizooty
 
 3. At a factory, the workshop doctor notes that the labor productivity of the group of workers, who abuse alcohol and are heavy smokers, has significantly decreased. A decrease in labor productivity in an industrial environment belongs to the following type of social losses:
-a. Legal and regulatory
+a. Social
 b. Exogenous
-c. Medical and biological
-d. Social
-*e. Economic
+c. Legal and regulatory
+*d. Economic
+e. Medical and biological
 
 4. In a certain region, the infant mortality rate for the reporting period was 13.8 cases per 1000 newborns, while in another region this rate was 12.4. What statistical method should be used to compare these values?
-a. Correlation analysis
+a. Standardization of intensity values
 b. Dynamic analysis
-*c. Standardization
-d. Standardization of intensity values
-e. Determining the reliability of the difference between the values
+c. Determining the reliability of the difference between the values
+d. Correlation analysis
+*e. Standardization
 
 5. Due to difficult weather conditions, a truck and a bus collided on the highway. As a result of the traffic accident, 6 people died, 20 people were injured. To what type, depending on the nature of the origin, does this situation belong?
-*a. Emergency situation of man-made nature
-b. A natural emergency
-c. This situation is not emergency
-d. A military emergency
-e. An emergency situation of a social nature
+a. This situation is not emergency
+*b. Emergency situation of man-made nature
+c. A military emergency
+d. An emergency situation of a social nature
+e. A natural emergency
 
 6. Insufficient physical activity is one of the important risk factors that cause death globally. The World Health Organization has developed Global Physical Activity Guidelines for Health. Define the recommended duration of moderate-intensity physical activity for the adult population in the age group 18-64 years during the week.
-a. Not less than 90 minutes
-b. -
-*c. Not less than 150 minutes
-d. Not less than 120 minutes
+*a. Not less than 150 minutes
+b. Not less than 120 minutes
+c. Not less than 90 minutes
+d. -
 e. Not less than 60 minutes
 
 7. A family doctor assesses the health status of the patients who are at risk of developing diseases of the cardiovascular system. What scale is used to calculate the total risk of developing a fatal cardiovascular disease?
-a. STATA
-b. ASIST
-c. МАВР
+a. ASIST
+b. МАВР
+c. STATA
 *d. SCORE
 e. EPIC
 
 8. What value can be assessed using the National Health Accounts (NHA)?
 *a. Expenses
-b. Income
-c. Price
-d. Cost
-e. -
+b. Cost
+c. -
+d. Income
+e. Price
 
 9. A patient visited a family practice doctor with complaints of gastrointestinal tract disorders. Collecting the medical history, the doctor established that the patient does not engage in physical activity, since adolescence his diet has been dominated by an average of 500 g of carbohydrates per day, the patient consumes 60 g of protein, and only 30 g of fat per day. What group of negative determinants is determined in this patient?
-a. Social and economic
+a. Hereditary
 *b. Behavioral
 c. Food
-d. Biological
-e. Hereditary
+d. Social and economic
+e. Biological
 
 10. The health of a man with diabetes mellitus has significantly deteriorated and he developed complications. After a course of treatment at a hospital, he was sent to a local health resort. What type of healthcare measures is it?
-a. Morbidity screening
-b. Morbidity monitoring
-c. Secondary prevention
-d. Primary prevention
+a. Morbidity monitoring
+b. Secondary prevention
+c. Primary prevention
+d. Morbidity screening
 *e. Tertiary prevention
 
 11. What main population groups are subject to mandatory HIV testing?
-*a. Blood donors
-b. Commercial sex workers
-c. Persons with non-traditional sexual orientation
-d. Persons in contact with HIV/AIDS patients
-e. Persons with drug addiction
+a. Persons with non-traditional sexual orientation
+b. Persons in contact with HIV/AIDS patients
+c. Persons with drug addiction
+d. Commercial sex workers
+*e. Blood donors
 
 12. The World Health Organization (WHO) provides Ukraine with instructions and methodological recommendations on introduction of modern treatment technologies, on reforming the national healthcare system, and on introduction of new methods and forms of disease prevention. What function is performed by WHO in this case?
-a. Motivation
-b. Intermediary function
-c. Planning
-*d. Scientific support
-e. Organization
+a. Planning
+*b. Scientific support
+c. Motivation
+d. Organization
+e. Intermediary function
 
 13. A regional public health center decided to conduct a survey among the population about the effect of territorial risk factors on the level of health. What criterion allows excluding certain persons from the sample used in this study?
-a. Lack of official employment for over a year
-b. Lack of higher education
-c. No signed declaration with a family doctor
+*a. Living at the territory of the studied region for less than one year
+b. Lack of official employment for over a year
+c. Lack of higher education
 d. Failure to attend healthcare facilities for a year
-*e. Living at the territory of the studied region for less than one year
+e. No signed declaration with a family doctor
 
 14. The number of immigrants in Ukraine (foreigners with residence permits) is 250000 people, among which 75200 foreigners have temporary residence permits. They are mostly foreign students, who study in Ukraine for 5-6 years. What type of migration is it, based on its duration?
 a. Pendulum
-b. Seasonal
-c. Permanent
-*d. Temporary
-e. Internal
+*b. Temporary
+c. Seasonal
+d. Internal
+e. Permanent
 
 15. 230 men living in the countryside work at a metallurgical plant in a large industrial city, who spend 2 hours a day travelling to and from the plant. Determine what kind of migration the workers make in terms of duration.
-a. Seasonal
-*b. Pendular
-c. Industrial
+*a. Pendular
+b. Constant
+c. Seasonal
 d. Daily
-e. Constant
+e. Industrial
 
 16. A population of 46,500 people permanently lives on the territory of the united community, of which: 7,500 are children under the age of 14; 26,500 are people aged 15 to 49, and the rest are 50 and older. What type of age structure of the population is typical for this community?
-*a. Regressive
-b. Progressive
-c. Dynamic
-d. Stationary
+a. Dynamic
+*b. Regressive
+c. Stationary
+d. Progressive
 e. Static
 
 17. Changes in the structure of mortality over the past 5 years are being studied. Which of the methods should be used to visualize the data in this case?
-a. Forest diagram (forest plot)
-b. Kaplan-Meier curve
-*c. Inside column chart
-d. ROC curve
-e. Dendrogram (tree diagram)
+a. Kaplan-Meier curve
+*b. Inside column chart
+c. Dendrogram (tree diagram)
+d. Forest diagram (forest plot)
+e. ROC curve
 
 18. During internship in Africa, a doctor was providing care for Ebola fever patients. After completing the internship and returning home, 21 days later, the doctor was diagnosed with Ebola hemorrhagic fever. What measures should be taken in this case by the head physician of the healthcare facility?
-a. Prescribe immunoglobulin to the personnel who were in contact with the sick doctor
-b. Isolate for 3 days all department personnel who were in direct contact with the sick doctor
-*c. Isolate for 21 days all department personnel who were in direct contact with the sick doctor
-d. Isolate for 10 days all department personnel who were in direct contact with the sick doctor
-e. Prescribe immunomodulators for prevention
+a. Isolate for 3 days all department personnel who were in direct contact with the sick doctor
+b. Isolate for 10 days all department personnel who were in direct contact with the sick doctor
+c. Prescribe immunomodulators for prevention
+d. Prescribe immunoglobulin to the personnel who were in contact with the sick doctor
+*e. Isolate for 21 days all department personnel who were in direct contact with the sick doctor
 
 19. What management approaches are needed to combat health inequalities?
-a. Impact on environmental determinants
-b. Impact on psychological determinants
+a. -
+*b. Impact on social determinants
 c. Impact on behavioral determinants
-*d. Impact on social determinants
-e. -
+d. Impact on psychological determinants
+e. Impact on environmental determinants
 
 20. The study of population birth rates is necessary for creating the system of epidemiologic monitoring of the demographic status of the population and ensuring its functioning. What accounting document is a source of information for studying fertility rates?
-a. Delivery record
-*b. Medical birth certificate
-c. Birth certificate
+*a. Medical birth certificate
+b. Birth certificate
+c. Maternity record
 d. Neonatal record
-e. Maternity record
+e. Delivery record
 
 21. The Ishikawa diagram, known as the "Fishbone Diagram", is one of the seven main tools for measuring, evaluating, controlling and improving the quality of production processes, including in the medical field. What questions can be solved by constructing this diagram in the process of solving the problem?
 a. Demonstrates the vector of production processes in the institution
 b. Demonstrates the success of production processes in the institution
-*c. It helps to establish cause and effect (causal) relationships
+c. Illustrates the activities of the institution
 d. Allows you to determine the trends of changes in the spread of diseases
-e. Illustrates the activities of the institution
+*e. It helps to establish cause and effect (causal) relationships
 
 22. Based on the results of the monitoring, environmental data and population health data were collected throughout a year. What method of statistical data processing should be used to assess the degree to which environmental factors have an effect on the health of the population?
-a. Calculation of relative and average values
-b. Time series analysis
-c. Standardization method
+a. Standardization method
+b. Calculation of relative and average values
+c. A method of assessing the reliability of differences
 *d. Correlation analysis
-e. A method of assessing the reliability of differences
+e. Time series analysis
 
 23. A public health specialist was instructed to form a target group for vaccination against papillomavirus infection. Which population category should be primarily included in the specified target group?
-a. Persons with a detected virus
-b. Pregnant women
-c. Children up to 1 year
-*d. Teenage girls
-e. Teenage boys
+a. Teenage boys
+b. Persons with a detected virus
+*c. Teenage girls
+d. Children up to 1 year
+e. Pregnant women
 
 24. What is a mandatory component of emergency preparedness in healthcare?
-a. Monitoring the situation
-b. Information exchange
-c. Conducting research
-*d. Making or revising the action plan for emergency situations
-e. Consulting
+*a. Making or revising the action plan for emergency situations
+b. Monitoring the situation
+c. Information exchange
+d. Consulting
+e. Conducting research
 
 25. Potentially dangerous factors increase the likelihood of disease development, progression and adverse outcome. Indicate which factors are exogenous uncontrollable.
-*a. Solar radiation, geological features of the soil
-b. Age, gender
-c. Pollution of water, soil, air
-d. The state of medical care of the population
-e. Arterial hypertension, increased level of glucose in the blood
+a. Age, gender
+b. Pollution of water, soil, air
+c. The state of medical care of the population
+d. Arterial hypertension, increased level of glucose in the blood
+*e. Solar radiation, geological features of the soil
 
 26. Educational work brings significant results in persuading people to give up their bad habits, such as smoking. What type of marketing is it?
-a. Synchromarketing
-b. Conversion marketing
+*a. Counter-marketing
+b. Synchromarketing
 c. Remarketing
-*d. Counter-marketing
+d. Conversion marketing
 e. Demarketing
 
 27. In the team of the health care institution, it is customary to be late for work, there are cases of inconsistency in the actions of employees, there is a lack of clarity regarding the control of the actions of subordinates by the manager. Specify the management style in this situation.
-a. -
+*a. Liberal
 b. Combined
-c. Authoritarian
-d. Democratic
-*e. Liberal
-
-28. Define which of the listed persons is subject to the preservation of medical secrecy?
-*a. Treating doctor
-b. A member of the patient's family
-c. A close relative of the patient
-d. Patient
+c. Democratic
+d. Authoritarian
 e. -
 
+28. Define which of the listed persons is subject to the preservation of medical secrecy?
+a. A close relative of the patient
+b. A member of the patient's family
+*c. Treating doctor
+d. -
+e. Patient
+
 29. In one of the regions, an increased incidence of melanoma is observed. To reduce it, the analysis of risk factors for the development of melanoma, including the external factors, was carried out. What factor is considered to be a physical carcinogen?
-*a. Ultraviolet radiation
-b. Electromagnetic field
-c. Electric current
-d. Ultrasonic waves
-e. Infrared radiation
+a. Electromagnetic field
+b. Ultrasonic waves
+c. Infrared radiation
+d. Electric current
+*e. Ultraviolet radiation
 
 30. A 45-year-old man came to the family doctor, who studied the patient's medical history and determined that the patient was affected by controllable endogenous risk factors. What factors are controllable endogenous?
-a. Age, gender
+a. Medical errors, heredity
 *b. Arterial hypertension, dyslipidosis
-c. Medical errors, heredity
-d. Climate, natural conditions
-e. Environmental conditions, lifestyle
+c. Climate, natural conditions
+d. Environmental conditions, lifestyle
+e. Age, gender
 
 31. A public healthcare specialist develops measures to reduce the impact of risk factors on community health. What type of nutrition unites the following group of factors: insufficient daily consumption of fruits and vegetables, lack of control over the content of fats and carbohydrates in food products, excessive intake of salt and sugar?
-a. Specialized nutrition
-b. Rational nutrition
-c. Fitness nutrition
-d. Adequate nutrition
-*e. Irrational nutrition
+a. Fitness nutrition
+b. Adequate nutrition
+*c. Irrational nutrition
+d. Specialized nutrition
+e. Rational nutrition
 
 32. A regional healthcare department analyzes the infant mortality rate in the region and determines what portion of it results from preventable causes, associated with deficiencies in the organization of healthcare for children. What value reflects it most accurately?
-*a. Proportion of neonatal mortality in total infant mortality
-b. Mortality rate of children under one year of age
-c. Perinatal mortality rate per different periods of time
-d. Infant mortality rate per one calendar month
-e. Proportion of postnatal mortality in total infant mortality
+a. Perinatal mortality rate per different periods of time
+b. Infant mortality rate per one calendar month
+c. Mortality rate of children under one year of age
+d. Proportion of postnatal mortality in total infant mortality
+*e. Proportion of neonatal mortality in total infant mortality
 
 33. During the assessment of the academic performance of unemployed university students and those who combine studying with work, it was determined that the average score of unemployed students was 8.7±0.09, while working students had the average score of 6.8±0.05. What coefficient (criterion) should be calculated to assess the significance of the difference in the results in this case?
-a. Kolmogorov-Smirnov test
-*b. Probability coefficient (Student's t-test)
-c. Correspondence criterion (chi^2 test)
-d. Sign test (Z-test)
+*a. Probability coefficient (Student's t-test)
+b. Sign test (Z-test)
+c. Kolmogorov-Smirnov test
+d. Correspondence criterion (chi^2 test)
 e. Wilcoxon T-test
 
 34. Due to the significant prevalence of obesity and excess body weight among the population of the region, it was decided to develop informational materials on rational nutrition. What is the recommended limit of consumption in the structure of the energy value of the food ration should be included in these materials?
-a. -
-*b. Fat up to 30%
+*a. Fat up to 30%
+b. Protein up to 10%
 c. Fiber up to 40%
-d. Protein up to 10%
-e. Carbohydrates up to 50%
+d. Carbohydrates up to 50%
+e. -
 
 35. During the sociological research, a survey of a certain category of the population was conducted regarding their awareness of behavioral risk factors for developing non-infectious diseases. Select a behavioral risk factor from the list.
-a. Income level
-b. Psychological environment in the team
-c. Environmental pollution
-*d. Insufficient amount of vegetables and fruits in the diet
-e. Age and gender
+a. Psychological environment in the team
+b. Environmental pollution
+*c. Insufficient amount of vegetables and fruits in the diet
+d. Age and gender
+e. Income level
 
 36. The Human Development Index is an integral indicator, calculated annually for international comparison and measurement of the standard of living, literacy, education, and longevity as the main characteristics of the human potential at the studied territory. During its calculation, 3 types of indicators are taken into account. What indicator is used to calculate the Human Potential Index?
-a. Quality of life
-b. Living conditions
-*c. Predicted life expectancy of the country's population
-d. Lifestyle
-e. Real income of the population
+*a. Predicted life expectancy of the country's population
+b. Lifestyle
+c. Living conditions
+d. Real income of the population
+e. Quality of life
 
 37. A research is being conducted to assess the impact of smoking on systolic blood pressure (SBP). Two homogeneous samples of 100 people each were selected, the first group - smokers, the second - non-smokers. What statistical test should be used to assess the reliability of the differences in the obtained results, if the distribution of SBP values differs from normal?
-a. Student's criterion for independent samples
-b. Wilcoxon's t-test
-c. -
-*d. Mann-Whitney U-test
-e. Student's test for related samples
+a. -
+b. Student's criterion for independent samples
+c. Student's test for related samples
+d. Wilcoxon's t-test
+*e. Mann-Whitney U-test
 
 38. A general physician, who is a family doctor, has analyzed the age structure of his clients and was surprised by the fact that elderly people made up for the highest percentage (35%). What morbidity characteristic must a doctor take into account, when providing medical care for the elderly?
-a. Increased morbidity, with diseases typically having a mild course
-*b. Numerous long-term chronic diseases
-c. Numerous uncomplicated diseases
-d. Seasonal nature of the diseases
-e. Increased acute infectious diseases morbidity
+*a. Numerous long-term chronic diseases
+b. Increased morbidity, with diseases typically having a mild course
+c. Seasonal nature of the diseases
+d. Increased acute infectious diseases morbidity
+e. Numerous uncomplicated diseases
 
 39. In order to assess the demographic situation in the region, a public health specialist was instructed to determine the levels of birth, death and natural growth for the past year. What indicators should be used to determine the specified levels?
 a. Visibility
-b. Correlation
-*c. Intensive
+*b. Intensive
+c. Standardization
 d. Extensive
-e. Standardization
+e. Correlation
 
 40. As a result of an emergency situation in one of the regions of Ukraine, over 100 people were injured and normal living conditions of over 10000 people were disrupted for more than 3 days. What is the level of the emergency?
 a. Local level
@@ -279,772 +279,772 @@ d. Regional level
 e. International level
 
 41. In order to optimize the system of tuberculosis prevention measures and increase their efficiency, group interviews (6-8 people) were conducted with family doctors of various general practice - family medicine clinics to determine and discuss their opinion on this issue. What qualitative research method was used?
-a. Сross-sectional research
-b. Cohort research
-c. Case-control
+a. Cohort research
+b. Case-control
+c. Сross-sectional research
 *d. Focus group
 e. Longitudinal research
 
 42. Identify the resources that can be additionally used to achieve an acceptable level of health of the world population in accordance with the Alma-Ata Declaration of WHO.
 a. World resources spent on tourism development
-b. World resources spent on the development of countries' medicine
+*b. World resources spent on weapons and military conflicts
 c. -
-*d. World resources spent on weapons and military conflicts
-e. Resources of countries aimed at economic development
+d. Resources of countries aimed at economic development
+e. World resources spent on the development of countries' medicine
 
 43. Due to the significant spread among the population of the territorial community of chronic diseases of the cardiovascular system, the management decided to prepare a communication strategy for the primary prevention of chronic non-infectious diseases. What should be the first step in the preparation and implementation of this strategy?
-a. Selection of target groups
-b. Selection of channels and implementation mechanisms
-c. Program planning
+a. Program planning
+*b. Assessment of the situation
+c. Selection of target groups
 d. Definition of goals
-*e. Assessment of the situation
+e. Selection of channels and implementation mechanisms
 
 44. "City Polyclinic" Municipal Non-commercial Enterprise has submitted its application for accreditation to the Main Accreditation Commission. What document must be considered by the Commission within 2 months from the date of the submission of the application to determine step-by-step its compliance with the list of the requirements, provided by the established procedure?
-a. Three-year accreditation certificate
-b. General characteristics of the healthcare facility service area
-*c. Results of the institution's self-analysis regarding the quality of the healthcare provided
-d. Report on the medical services provided at the healthcare facility service area (Form 12)
-e. Facility equipment list
+a. General characteristics of the healthcare facility service area
+b. Report on the medical services provided at the healthcare facility service area (Form 12)
+c. Facility equipment list
+*d. Results of the institution's self-analysis regarding the quality of the healthcare provided
+e. Three-year accreditation certificate
 
 45. A public association participates in the project competition, the goal of which is to reduce the burden of non-communicable diseases, prevent premature mortality, and increase the life expectancy of the population. What should be taken into account first, when making a communication plan?
 a. Population size
-b. Demographic situation
-c. Prevalence of diseases
-*d. Target audience
-e. Amount of expenses
+b. Amount of expenses
+c. Demographic situation
+d. Prevalence of diseases
+*e. Target audience
 
 46. A study of the impact of additional psychotherapeutic methods on the treatment of patients with anxiety disorders was conducted. Forty people with anxiety disorders were included in the study. In addition to drug therapy, all patients were treated with stress-relieving psychotherapy sessions twice a week for three months. Which of the answer options describes this research design?
-a. Case-control
-b. Crosswise
-c. Cohort
-d. Randomized clinical
-*e. A series of cases
+a. Randomized clinical
+b. Cohort
+c. Case-control
+*d. A series of cases
+e. Crosswise
 
 47. Define the international document that states that health cannot be achieved without primary health care, which must be available to everybody.
-a. WHO Framework Convention on Tobacco Control
+a. International medical and sanitary regulations
 *b. WHO Alma-Ata Declaration
-c. Ottawa Charter
-d. Declaration of Helsinki on health in all policies
-e. International medical and sanitary regulations
+c. Declaration of Helsinki on health in all policies
+d. WHO Framework Convention on Tobacco Control
+e. Ottawa Charter
 
 48. A special study conducted among young people has detected a correlation between the incidence of arterial hypertension and a history of a craniocerebral injury. The calculated correlation coefficient is +0.85. What is the strength and direction of this correlation?
-a. No correlation
-b. Medium-strength inverse correlation
-*c. Strong direct correlation
-d. Medium-strength direct correlation
-e. Strong inverse correlation
+a. Medium-strength inverse correlation
+b. Medium-strength direct correlation
+c. No correlation
+d. Strong inverse correlation
+*e. Strong direct correlation
 
 49. A 59-year-old man smokes up to 8-9 cigarettes a day for a long time and is overweight. After significant physical exertion, he suddenly developed a headache, dizziness, and short-term loss of consciousness. He cannot pronounce words clearly and cannot raise his right hand or move his right leg. What disease can be suspected in this man?
-a. Depression
+a. Acute tonsillitis
 *b. Cerebral stroke
-c. Myocardial infarction
-d. Acute tonsillitis
-e. Hypertensive crisis
+c. Hypertensive crisis
+d. Myocardial infarction
+e. Depression
 
 50. During the visit, the doctor, having the data on the lifestyle of a 37-year-old patient, noted that the patient's body was being affected by various groups of risk factors. What is the proportion of a person's lifestyle within the structure of risk factors that affect the health of the population?
-a. 30%
-*b. 50%
-c. 40%
+a. 40%
+b. 30%
+c. 10%
 d. 20%
-e. 10%
+*e. 50%
 
 51. During the last 5 years, there has been a constant increase in the incidence of diphtheria among the population of the community. What preventive measures should be planned and organized in the community in order to stabilize the incidence rates?
-a. Medical prevention of diphtheria
-b. Detection of diphtheria carriers
-c. Treatment of patients with diphtheria
-*d. Diphtheria vaccination
-e. Treatment of contacts
+*a. Diphtheria vaccination
+b. Medical prevention of diphtheria
+c. Treatment of contacts
+d. Treatment of patients with diphtheria
+e. Detection of diphtheria carriers
 
 52. In two regions with a similar population structure, the integrated health parameters were close in value for a long time. However, in recent years the differences in the prevalence of diseases appeared and are increasing in these territories, leading to the search for their causes, in particular, medical and demographic causes. What data are necessary to assess the natural movement of the population?
-a. Specific fertility rate, net reproduction rate
+a. Infant mortality
 *b. Birth rate, mortality rate, natural increase
 c. Disease-specific mortality, average life expectancy
-d. Total mortality, gross reproduction rate
-e. Infant mortality
+d. Specific fertility rate, net reproduction rate
+e. Total mortality, gross reproduction rate
 
 53. What are the main objects of epidemiological monotoring in case of an anthrax epidemic?
-a. Sources of water supply
-b. Organizations providing the population with sanitary and hygienic services
-*c. Farms, livestock farms
-d. Food storage warehouses, granaries
-e. Treatment and prevention facilities
+a. Treatment and prevention facilities
+b. Food storage warehouses, granaries
+c. Sources of water supply
+d. Organizations providing the population with sanitary and hygienic services
+*e. Farms, livestock farms
 
 54. In one of the city districts, a statistical research was organized to study the incidence of myocardial infarction in the outpatient department of a local hospital. Each resident of the district who attended the hospital was considered to be an object of research. What type of statistical research will be used in this case?
-a. Combined research
-*b. Continuous observation
-c. Monographic description
-d. Selective observation
-e. Bulk analysis
+*a. Continuous observation
+b. Selective observation
+c. Bulk analysis
+d. Combined research
+e. Monographic description
 
 55. A public health specialist, at the request of a family doctor, conducted informational and explanatory work with the aim of involving the population in a screening examination for the presence of cardiovascular diseases. During the conversation, the specialist helped determine the body mass index (BMI) of those present, the indicators of which were in the range of 18.5-28.9 kg/m^2. Individuals with which BMI indicators were recommended to consult a family doctor for an examination regarding the presence of a risk factor for cardiovascular diseases?
-a. 23.0-24.9 kg/m^2
-b. 18.5-19.9 kg/m^2
-c. 20.0-22.9 kg/m^2
-*d. 25.0-28.9 kg/m^2
-e. -
+a. 18.5-19.9 kg/m^2
+*b. 25.0-28.9 kg/m^2
+c. -
+d. 20.0-22.9 kg/m^2
+e. 23.0-24.9 kg/m^2
 
 56. As a result of prolonged heavy rains in the territory of the region, the protective dam was destroyed. As a result of the emergency situation, several settlements were flooded in two districts of this region, 67 people were injured, and 3 residents died. 271 residential buildings were flooded, in which about 1,000 residents lived. Determine the level of a natural emergency.
-a. Object
+*a. Regional
 b. State
 c. World
 d. Local
-*e. Regional
+e. Object
 
 57. To assess the nature and trends of the HIV/AIDS epidemics, the clinic at the Institute of Epidemiology and Infectious Diseases has implemented in-depth epidemiological surveillance that includes a serological component among different population groups. What type of epidemiological surveillance is being used in this case?
-a. Biological factor-oriented surveillance
-*b. Sentinel surveillance
-c. Demographic surveillance
-d. Risk factor-oriented surveillance
-e. Disease outbreak-oriented surveillance
+a. Disease outbreak-oriented surveillance
+b. Demographic surveillance
+c. Risk factor-oriented surveillance
+d. Biological factor-oriented surveillance
+*e. Sentinel surveillance
 
 58. It is being studied how the use of new treatment tactics will affect the survival of patients, in comparison with the standard method. Which method should be used to visually compare patient survival in both groups?
-a. Sector diagram
-b. Forest diagram (forest plot)
-c. Radial diagram
-*d. Kaplan-Meier curve
-e. ROC curve
+a. Radial diagram
+b. Sector diagram
+c. ROC curve
+d. Forest diagram (forest plot)
+*e. Kaplan-Meier curve
 
 59. What type of research studies long-term the health of one population of individuals using for this purpose repeated recording of certain parameters at set intervals to determine the dynamics of their changes and their mutual influence?
-*a. Longitudinal study
-b. Operations research
+a. Cohort study
+*b. Longitudinal study
 c. Trend analysis
-d. Cohort study
+d. Operations research
 e. Repeated measures design
 
 60. When studying how health inequality manifests among the population of various regions, differences were detected in the impact that individual factors have on the people's health. What factors cause health inequality?
-a. Behavioral
-*b. Economical
-c. Biological
-d. Climatic
+a. Climatic
+b. Biological
+*c. Economical
+d. Behavioral
 e. -
 
 61. In a developing country, an improvement of the population's standard of living is observed as a result of the implementation of an effective interregional national program. Name the main parameter of the country's economic development that is the most comprehensive indicator of the total volume of goods and services produced over a certain period of time and characterizes the state of the country's economy.
-a. Gross national product (GNP)
-b. State investments
-*c. Gross domestic product (GDP)
-d. Primary income balance
-e. Gross private domestic investments (GPDI)
+*a. Gross domestic product (GDP)
+b. Gross national product (GNP)
+c. State investments
+d. Gross private domestic investments (GPDI)
+e. Primary income balance
 
 62. The correlation between the level of blood glucose and the level of systolic blood pressure is studied. Which of the methods should be used to visualize the data in this case?
-a. Dendrogram (tree diagram)
+a. ROC curve
 b. Forest diagram (forest plot)
 c. Kaplan-Meier curve
-d. ROC curve
-*e. Scatter diagram
+*d. Scatter diagram
+e. Dendrogram (tree diagram)
 
 63. A research of the impact of smoking on the occurrence of lung cancer is being conducted. For this, two groups were selected: the participants of the first are smokers, the participants of the second are non-smokers. For a long time, cases of the researched disease will be recorded in the participants of the study. At the end of the observation period, the necessary statistical indicators are calculated and conclusions are drawn about the effect of the factor on the result. What research design is described?
-a. Clinical experiment
-b. Ecological
-c. Description of the case series
-d. Case-control
-*e. Cohort
+a. Description of the case series
+*b. Cohort
+c. Case-control
+d. Ecological
+e. Clinical experiment
 
 64. After receiving distressing news, a man developed general weakness, a feeling of lack of air, anxiety, and an intense burning pain in his cardiac region that radiated into his left arm and shoulder blade. What pathological condition has likely developed in this man?
-a. Alcohol poisoning
-*b. Myocardial infarction
-c. Depression
-d. Hypertensive crisis
-e. Stroke
+*a. Myocardial infarction
+b. Stroke
+c. Alcohol poisoning
+d. Depression
+e. Hypertensive crisis
 
 65. Potentially dangerous factors increase the likelihood of disease development, progression and adverse outcome. Indicate which factors belong to endogenous uncontrollable ones.
-a. Pollution of water, soil, air
-*b. Age, gender
-c. Solar radiation, geological features of the soil
-d. The state of medical care of the population
-e. Arterial hypertension, high blood sugar
+a. Arterial hypertension, high blood sugar
+b. Solar radiation, geological features of the soil
+*c. Age, gender
+d. Pollution of water, soil, air
+e. The state of medical care of the population
 
 66. The age structure of the population has a significant effect on the population health and determines the need for healthcare services. What is characteristic of the age structure of the population of Ukraine?
-a. Larger proportion of children and elderly people
-b. Smaller proportion of elderly people and larger proportion of young people
+a. Smaller proportion of children and elderly people
+b. Larger proportion of children and elderly people
 c. Larger proportion of young people and working people
-d. Smaller proportion of children and elderly people
+d. Smaller proportion of elderly people and larger proportion of young people
 *e. Larger proportion of elderly people and smaller proportion of young people
 
 67. A pilot study of the effectiveness of the new drug, in comparison with the standard one, is being conducted. The researcher found a statistically significant difference between the effects of the drugs, which was confirmed in further studies. How can you describe the conclusions made by the researcher in this case?
 a. The null hypothesis is incorrectly accepted
-b. The alternative hypothesis is incorrectly accepted
-c. The null hypothesis is accepted correctly
-d. -
-*e. The alternative hypothesis is accepted correctly
+b. -
+*c. The alternative hypothesis is accepted correctly
+d. The null hypothesis is accepted correctly
+e. The alternative hypothesis is incorrectly accepted
 
 68. In a certain region, the stroke-induced mortality rate is increasing. The situation requires an assessment of the effectiveness of inpatient neurological departments at the regional hospitals. What will be the unit of observation in this case?
-a. Equipping inpatient neurological departments with diagnostic equipment
-b. Timely referral to an inpatient neurological department
-*c. An inpatient neurological department
-d. Staffing of inpatient departments by neurologists
-e. Providing the population with beds at neurological profile departments
+*a. An inpatient neurological department
+b. Equipping inpatient neurological departments with diagnostic equipment
+c. Staffing of inpatient departments by neurologists
+d. Providing the population with beds at neurological profile departments
+e. Timely referral to an inpatient neurological department
 
 69. A 29-year-old pregnant woman with the gestation period of 35 weeks was registered for regular check-ups due to insulin-dependent type 1 diabetes mellitus complicated by nephropathy. The patient developed severe eclampsia. Intensive therapy was carried out in the inpatient department of the maternity hospital, but it was ineffective and the patient died. What type of mortality is it?
-*a. Maternal mortality
-b. Early neonatal mortality
-c. Perinatal mortality
-d. Total mortality
-e. Neonatal mortality
+a. Neonatal mortality
+b. Total mortality
+c. Early neonatal mortality
+*d. Maternal mortality
+e. Perinatal mortality
 
 70. The head of unit invited to the meeting the most authoritative employees with the purpose of discussing possible options for the work schedule in the summer period. Specify the style of management in the given situation.
-a. Authoritarian
-*b. Democratic
-c. Liberal
-d. Combined
-e. -
+a. -
+b. Authoritarian
+c. Combined
+d. Liberal
+*e. Democratic
 
 71. Determine the most effective method of prevention at the individual level, based on the values of the contribution to the risk of developing noninfectional diseases of each type of determinant.
-a. Make a declaration with a family doctor in the best family outpatient clinic in the city
-*b. Leading a healthy lifestyle
-c. Re-register for service at a private healthcare facility
-d. Moving to live in more favorable region from an ecological point of view
+a. Re-register for service at a private healthcare facility
+b. Moving to live in more favorable region from an ecological point of view
+c. Make a declaration with a family doctor in the best family outpatient clinic in the city
+*d. Leading a healthy lifestyle
 e. Have a full medical examination every year
 
 72. To check the hypotensive effect of the drug, 100 people with arterial hypertension, who were prescribed this drug, were selected. To assess the statistical significance of the results, the value of systolic blood pressure (SBP) before the start of treatment and one week after the start will be compared. What statistical method should be used if the distribution of SBP values is different from normal?
 a. Student's test for related samples
-b. -
-c. Student's criterion for independent samples
-d. Mann-Whitney U-test
-*e. Wilcoxon's t-test
+b. Mann-Whitney U-test
+c. -
+*d. Wilcoxon's t-test
+e. Student's criterion for independent samples
 
 73. Representatives of a non-governmental organization have decided to hold an advocacy campaign to reduce the prevalence of non-communicable diseases among the community residents. How should this intervention begin according to the principles of advocacy?
-*a. Analysis of local needs and people's demands
-b. Analysis of the target audience
-c. Analysis of the unmanageable risk factors
-d. Analysis of the impact on the manageable risk factors
-e. Analysis of the regulatory framework
+a. Analysis of the target audience
+b. Analysis of the regulatory framework
+*c. Analysis of local needs and people's demands
+d. Analysis of the unmanageable risk factors
+e. Analysis of the impact on the manageable risk factors
 
 74. The patient consulted a family doctor. During the appointment, the doctor held an educational conversation with her about the principles of a rational balanced diet, alcohol consumption, and recommended physical activity. Indicate what type of prevention was carried out in this case?
-a. -
-b. Tertiary
-c. Secondary
-d. Populational
+a. Tertiary
+b. -
+c. Populational
+d. Secondary
 *e. Primary
 
 75. The territory of the port in the vicinity of an accident that occurred with a tanker and resulted in the spill of toxic chemical industry waste is being constantly monitored by the service for elimination of the consequences of the accident. The persons injured during the accident were hospitalized. The healthy population of the port, living within the 3 km zone from the water line, was moved to other areas. The delivery of water, food, and warm clothes was organized. The chemical substances are being degassed at the disaster site, dead fish and animals are being collected. Morbidity of the population is within the range of seasonal fluctuations. What is the nature of this emergency situation?
-a. Military
-b. Sociopolitical
-c. Natural
-d. Political
-*e. Technogenic
+a. Natural
+*b. Technogenic
+c. Sociopolitical
+d. Military
+e. Political
 
 76. A 35-year-old woman came to the family doctor. Her anthropometric measurements are as follows: body mass index - 18.2 kg/m^2, waist circumference - 75 cm. Give an estimate of her body mass index and her risk of developing a cardiovascular pathology.
 a. Insufficient weight, increased risk of developing a cardiovascular pathology
-b. Insufficient weight, high risk of developing a cardiovascular pathology
-c. Normal body weight, low risk of developing a cardiovascular pathology
-d. Excess weight, low risk of developing a cardiovascular pathology
-*e. Insufficient weight, low risk of developing a cardiovascular pathology
+*b. Insufficient weight, low risk of developing a cardiovascular pathology
+c. Excess weight, low risk of developing a cardiovascular pathology
+d. Normal body weight, low risk of developing a cardiovascular pathology
+e. Insufficient weight, high risk of developing a cardiovascular pathology
 
 77. As a result of the economic crisis, a 45-year-old man lost his job, has only occasional part-time income, later got divorced and started abusing alcohol, which had a negative effect on his health. What characterizes his current situation?
-a. Traditions, everyday life
-*b. Lifestyle
+a. Quality of life
+b. Traditions, everyday life
 c. Standard of living
-d. Quality of life
-e. The way of life
+d. The way of life
+*e. Lifestyle
 
 78. Oncological pathology plays a major role in the structure of total morbidity and mortality of the population. What is the most significant risk factor for the development of cancer?
-a. Excess body weight
+a. Measles virus
 b. Aging
 c. Stress
 *d. Smoking tobacco
-e. Measles virus
+e. Excess body weight
 
 79. What infectious disease is not included in the "List of nosological forms of infectious diseases of international significance"?
-a. Smallpox (variola)
-b. COVID-19
-c. Malaria
-*d. Measles
-e. Cholera
+a. Cholera
+*b. Measles
+c. Smallpox (variola)
+d. COVID-19
+e. Malaria
 
 80. According to the data of the State Statistics Service of the country, it was established that 83% of healthcare workers are women. Among doctors, the share of women is 62% of the total number, middle medical personnel - 94%. According to the national census, the number of male doctors was 57,600, female doctors - 99,300, female nurses - 294,000, male nurses - 19,000. Describe the state of the country's medical industry most accurately, taking into account the gender aspect.
-a. There are signs of gender imbalance
-b. Vertical segregation is defined
-*c. There is gender imbalance and sectoral gender segregation
-d. Only sectoral gender segregation is defined
+a. Only sectoral gender segregation is defined
+*b. There is gender imbalance and sectoral gender segregation
+c. There are signs of gender imbalance
+d. Vertical segregation is defined
 e. -
 
 81. The mother of a 10-year-old girl has brought her to a doctor to assess the child's health. The doctor explains that the health of a person depends on various determinants. Among them, biological factors play an important role. What belongs to biological factors?
-a. Physical activity, lifestyle
-b. Heredity, physical development, hypodynamia
+a. Genetic factor, level of sexual maturity, large family
+b. Physical activity, lifestyle
 *c. Heredity, body type, level of sexual maturity, age
-d. Genetic factor, level of sexual maturity, large family
+d. Heredity, physical development, hypodynamia
 e. Growth rate, mother's health, one-parent family
 
 82. What effect does a developed healthcare services market have on the increase of life expectancy, improvement of health, and preservation of the nation's gene pool?
-a. Improvement
-b. Direct
-*c. Indirect
-d. Detrimental
-e. No effect
+a. No effect
+*b. Indirect
+c. Direct
+d. Improvement
+e. Detrimental
 
 83. The region is characterized by a high incidence of endemic goiter. What food products should be recommended to the population for use in order to prevent the occurrence of this disease?
 a. Milk and dairy products
-b. Vegetables and fruits
-*c. Fish and seafood
-d. Cereal products
-e. Meat and meat products
+*b. Fish and seafood
+c. Vegetables and fruits
+d. Meat and meat products
+e. Cereal products
 
 84. A young woman lives near a 100-kilometer zone around an active nuclear power plant and smokes one pack of cigarettes daily. She is worried about her risk of cancer. What would primarily reduce the risk of cancer in this case?
-a. Undergoing annually an occult blood test
-b. Annual mammography
-c. Annual examination by a gynecologist
-d. Moving to different location
-*e. Quitting smoking
+a. Annual examination by a gynecologist
+b. Undergoing annually an occult blood test
+c. Moving to different location
+*d. Quitting smoking
+e. Annual mammography
 
 85. In the industrial zone of a city, a study of emissions to air caused by the local factories was conducted. At the same time, the doctors employed at the workshops of these factories studied the obstructive bronchitis and bronchial asthma morbidity in the workers. What parameter allows establishing a connection between these phenomena?
-a. Ratio criterion
-*b. Correlation coefficient
-c. Coefficient of variation
-d. Student's criterion
-e. Standardized rate
+*a. Correlation coefficient
+b. Student's criterion
+c. Ratio criterion
+d. Standardized rate
+e. Coefficient of variation
 
 86. To identify the health inequality among the population, a decision was made to study the social gradient. What does the social gradient in health mean?
-a. No correlation between the level of health and the level of income
+a. Correlation or absence of correlation between the level of health and the level of income could not be determined
 *b. The level of health is in direct correlation with the level of income
 c. -
-d. Correlation or absence of correlation between the level of health and the level of income could not be determined
-e. The level of health is in inverse correlation with the level of income
+d. The level of health is in inverse correlation with the level of income
+e. No correlation between the level of health and the level of income
 
 87. What is characteristic of a blind study?
-a. The collected data are processed at the trial site
-b. Neither the patient nor the doctor knows what treatment the patient is receiving
-*c. The doctor knows and the patient does not know what treatment the patient is receiving
-d. All participants (doctors, patients, organizers) know what drug is used in treatment of a specific patient
-e. The collected data are processed not at the trial site, but by an independent party
+*a. The doctor knows and the patient does not know what treatment the patient is receiving
+b. The collected data are processed not at the trial site, but by an independent party
+c. All participants (doctors, patients, organizers) know what drug is used in treatment of a specific patient
+d. Neither the patient nor the doctor knows what treatment the patient is receiving
+e. The collected data are processed at the trial site
 
 88. Residents of Zakarpattia Region have been experiencing iodine deficiency and the spread of diseases related to it for many years. What is the name of this phenomenon?
 a. Cluster
 b. Pandemic
-*c. Endemic
-d. Disease outbreak
+c. Disease outbreak
+*d. Endemic
 e. Epidemic
 
 89. A private ophthalmology clinic has decreased the prices for its healthcare services and goods, resulting in an increased purchasing power of the population. What quantitative parameter reflects the quantitative changes in the amount of proposed goods and services in response to their changed price?
-a. Summation
-b. Capitation
-c. Elasticity of supply
-*d. Coefficient of elasticity of supply
+a. Elasticity of supply
+b. Summation
+*c. Coefficient of elasticity of supply
+d. Capitation
 e. Elasticity of demand
 
 90. A researcher was comparing the effectiveness of a new method of treating hypertension using a placebo in an experimental group consisting of 10 people and a control group, also consisting of 10 people. What is the most likely cause that the obtained results were statistically unreliable (P>0.05)?
-a. Insignificant relative difference of the values
-b. Short duration of treatment
-c. Heterogeneous groups
-*d. Small number of observations
-e. Insignificant absolute difference of the values
+*a. Small number of observations
+b. Heterogeneous groups
+c. Insignificant absolute difference of the values
+d. Insignificant relative difference of the values
+e. Short duration of treatment
 
 91. Indicate how much time healthy adults of all ages should be physically active according to WHO recommendations.
-*a. 30 or more minutes a day
+a. 180 or more minutes a day
 b. 3 hours every other day
 c. 2 hours every day
-d. 15-20 minutes a day
-e. 180 or more minutes a day
+*d. 30 or more minutes a day
+e. 15-20 minutes a day
 
 92. A public health specialist was invited to hold an informative session for high school students on safe sex life. What contraceptive methods should be emphasized during the class to prevent the spread of sexually transmitted infections among young people?
-a. Intrauterine spirals
-b. Spermicides
-c. Hormonal pills
-d. Postcoital contraceptives
-*e. Condoms
+*a. Condoms
+b. Postcoital contraceptives
+c. Spermicides
+d. Hormonal pills
+e. Intrauterine spirals
 
 93. A public health specialist was commissioned to conduct an analysis of the incidence of HIV infection over a 10-year period. What type of graphic image is the most appropriate to use for high-quality visualization of statistical data?
 a. Scatter diagram
-b. Card diagram
-*c. Line diagram
-d. Pie chart
-e. Radial diagram
+b. Radial diagram
+c. Card diagram
+*d. Line diagram
+e. Pie chart
 
 94. When studying the effect of passive smoking on the lung cancer morbidity in the population, it was determined that the odds ratio was 1.0. What conclusion would be correct in this case?
-a. Reduced risk - the frequency of exposure to the factor was higher in the group of patients than in the group of healthy people
-b. Increased risk - the frequency of exposure to the factor was higher in the group of healthy people than in the group of patients
-c. Increased risk - the frequency of exposure to the factor was higher in the group of patients than in the group of healthy people
-d. Reduced risk - the frequency of exposure to the factor was higher in the group of healthy people than in the group of patients
-*e. No effect - the frequency of exposure to the factor was the same in the group of patients and in the group of healthy people
+*a. No effect - the frequency of exposure to the factor was the same in the group of patients and in the group of healthy people
+b. Reduced risk - the frequency of exposure to the factor was higher in the group of healthy people than in the group of patients
+c. Increased risk - the frequency of exposure to the factor was higher in the group of healthy people than in the group of patients
+d. Reduced risk - the frequency of exposure to the factor was higher in the group of patients than in the group of healthy people
+e. Increased risk - the frequency of exposure to the factor was higher in the group of patients than in the group of healthy people
 
 95. New Zealand has declared a state of emergency after Cyclone Gabrielle has caused widespread flooding, mudslides, and huge ocean waves and forced the people to evacuate. As a result of the cataclysms, 225 thousand residents of New Zealand were left without electricity, the roads were closed. What type of emergency is it?
-a. Social
-b. Societal
-c. Technogenic
-*d. Natural
-e. Military
+a. Technogenic
+*b. Natural
+c. Military
+d. Societal
+e. Social
 
 96. The emergency (urgent) medical aid station of the city received a call about a significant traffic accident. As a result of the accident, 2 cars collided and the bus overturned. At the time of the call, there is information about 15 victims with injuries of various degrees of severity. What is the optimal number of emergency (ambulance) medical teams that should be sent to the scene?
-a. 5 emergency medical aid teams
-*b. 9 emergency medical aid teams
-c. 12 emergency medical aid teams
-d. 15 emergency medical aid teams
-e. 6 emergency medical aid teams
+*a. 9 emergency medical aid teams
+b. 15 emergency medical aid teams
+c. 6 emergency medical aid teams
+d. 5 emergency medical aid teams
+e. 12 emergency medical aid teams
 
 97. The Human Development Index is an integral indicator of the social progress in different countries of the world. It combines population's health, education, and standard of living. What health parameter is a component of the Human Development Index?
-*a. Average life expectancy
-b. Total morbidity of the population
-c. Mortality rate of the population
-d. Disability index of the population
-e. Morbidity that involves the main socially significant diseases
+a. Total morbidity of the population
+b. Morbidity that involves the main socially significant diseases
+c. Disability index of the population
+d. Mortality rate of the population
+*e. Average life expectancy
 
 98. A pharmaceutical company conducts a clinical trial of a new drug with human participation. All individuals who expressed a desire to participate in the study were properly informed about the nature and significance of the clinical trial, the effects and risks, after which they were asked to sign a document confirming this informed voluntary decision. What document is it about?
 a. Information sheet
-*b. Informed consent
-c. Research contract
-d. Research agreement
-e. Clinical agreement
+b. Research agreement
+c. Clinical agreement
+*d. Informed consent
+e. Research contract
 
 99. What is the first stage of developing health promotion programs?
-a. Goal setting
-*b. Needs assessment
-c. Development of the assessment and monitoring system
-d. -
-e. Intervention design
+a. Development of the assessment and monitoring system
+b. Intervention design
+c. -
+*d. Needs assessment
+e. Goal setting
 
 100. Because of the modern rhythm of life, people often complain of sleep disturbances and insufficient sleep duration. What is the optimal duration of sleep that ensures the health of a person?
-a. 9-10 hours
-*b. 7-8 hours
-c. 4-5 hours
-d. 10-11 hours
-e. 5-6 hours
+a. 10-11 hours
+b. 4-5 hours
+c. 5-6 hours
+d. 9-10 hours
+*e. 7-8 hours
 
 101. What legal document regulates the protection of the population in emergency situations?
 a. Law of Ukraine "On the protection of the population from infectious diseases"
-b. Fundamentals of Ukrainian legislation on healthcare
+b. Law of Ukraine "On environmental protection"
 c. Law of Ukraine "On ensuring sanitary and epidemic safety of the population"
-d. Law of Ukraine "On environmental protection"
+d. Fundamentals of Ukrainian legislation on healthcare
 *e. Code of civil protection of the population
 
 102. Choose the correct characteristic of the indicator of average salt consumption by residents of Ukraine, which is 12.6 g per day, according to the results of the STEPS study conducted in 2019.
 a. It does not exceed the maximum allowable norms of the content of microelements in the daily diet
-b. It is a relatively low indicator for ensuring the necessary amount of trace elements in the daily diet
+b. It is a normal (historically and culturally determined) level of salt consumption for residents of this region
 *c. It is more than two times higher than the norm recommended by WHO
-d. It is more than three times higher than the norm recommended by WHO
-e. It is a normal (historically and culturally determined) level of salt consumption for residents of this region
+d. It is a relatively low indicator for ensuring the necessary amount of trace elements in the daily diet
+e. It is more than three times higher than the norm recommended by WHO
 
 103. What is the purpose of the DALY index?
-a. To assess the quality of life of the population
-b. To measure the impact of morbidity on a certain nosology in the region
-*c. To quantify the total burden of diseases, injuries, and risk factors
-d. To determine the years of life lost due to disability
-e. To determine the causes of child mortality
+a. To determine the years of life lost due to disability
+b. To assess the quality of life of the population
+c. To determine the causes of child mortality
+*d. To quantify the total burden of diseases, injuries, and risk factors
+e. To measure the impact of morbidity on a certain nosology in the region
 
 104. A high-quality, balanced diet promotes good health, reduces the risk of unhealthy weight gain and the development of non-infectious diseases. Indicate the recommended daily intake of vegetables and fruits for adults by the World Health Organization.
 a. At least 300 grams
-b. At least 200 grams
+b. At least 500 grams
 *c. At least 400 grams
-d. -
-e. At least 500 grams
+d. At least 200 grams
+e. -
 
 105. The Center for Public Health of Ukraine proposed creating a national program named "Healthy Lifestyle". What state authority should consider the concept of such a state target program and make a decision on its approval?
-a. The Ministry of Health of Ukraine
-b. Healthcare self-governance authorities
+a. Healthcare self-governance authorities
+*b. The Cabinet of Ministers of Ukraine
 c. The Parliament of Ukraine
-*d. The Cabinet of Ministers of Ukraine
-e. The Constitutional Court of Ukraine
+d. The Constitutional Court of Ukraine
+e. The Ministry of Health of Ukraine
 
 106. A research of the impact of smoking on the occurrence of lung cancer is being conducted. For this, population-level data on the number of smokers and the number of lung cancer cases in 50 cities were obtained. Then the correlation coefficient between the phenomena was calculated and appropriate conclusions were drawn. What research design is described?
-a. Case-control
+a. Clinical experiment
 b. Description of the case series
 c. Cohort
-d. Clinical experiment
-*e. Ecological
+*d. Ecological
+e. Case-control
 
 107. When conducting a meta-analysis, it is studied how much the researched indicator fluctuates in different studies. Which method should be used to visualize the fluctuations and average the data in this case?
-*a. Forest diagram (forest plot)
-b. ROC curve
-c. Radial diagram
-d. Sector diagram
-e. Kaplan-Meier curve
+a. ROC curve
+b. Radial diagram
+c. Sector diagram
+d. Kaplan-Meier curve
+*e. Forest diagram (forest plot)
 
 108. During the examination of a 55-year-old woman, the presence of the following risk factors was established: heavy hereditary anamnesis; infertility; postmenopausal obesity; alcohol consumption; smoking. What is the primary management action for this patient?
-a. Poll
-b. Referral for a rapid HIV-test
-*c. Referral to mammography
-d. Referral to sanatorium-resort treatment
-e. Referral to inpatient treatment
+a. Referral to sanatorium-resort treatment
+*b. Referral to mammography
+c. Referral to inpatient treatment
+d. Referral for a rapid HIV-test
+e. Poll
 
 109. Performance metrics of a new diagnostic test are evaluated. Which of the methods should be used to visualize the data in this case?
-a. Radial diagram
-b. Sector diagram
+*a. ROC curve
+b. Forest diagram (forest plot)
 c. Kaplan-Meier curve
-*d. ROC curve
-e. Forest diagram (forest plot)
+d. Sector diagram
+e. Radial diagram
 
 110. A certain method of pharmacoeconomic analysis is used to assess and compare alternatives, when clinical and preventive effectiveness of medical technologies, programs, and pharmaceuticals are identical (same), as well as when medical products or preventive and medical technologies with the same therapeutic effect have different forms of administering or are used in different conditions. Name this method of analysis.
-a. Cost-benefit
-b. Cost-effectiveness
+a. Cost-utility
+b. Cost-benefit
 *c. Cost minimization
-d. Cost-utility
-e. Total cost of illness
+d. Total cost of illness
+e. Cost-effectiveness
 
 111. An emergency situation occurred in the primary medical care facility during the realization of professional duties: a nurse stuck herself with a needle after performing a venipuncture on a patient with a potential positive HIV status. After conducting emergency post-exposure prophylaxis, the nurse is recommended to start a 28-day course of antiretroviral therapy (ART). During what period from the moment of the emergency situation is it advisable to start the specified course of ART in order to prevent HIV infection?
-a. 92 hours
-*b. 72 hours
-c. 96 hours
+a. 96 hours
+b. 92 hours
+c. 80 hours
 d. 120 hours
-e. 80 hours
+*e. 72 hours
 
 112. A study of the effectiveness of the arterial hypertension treatment using a new drug in comparison with traditional therapy was conducted. The study participants were 3000 people. They were divided into two identical groups, taking into account the participants' age, sex, stage of the disease, etc. One group was receiving treatment with the new drug, while the other was receiving traditional therapy and was designated to be the control group. The trial participants did not know which therapy they were receiving. What type of study was used in this case?
-a. Prospective cohort study
-*b. Blind controlled randomized study
-c. Cross-sectional study
-d. Double-blind controlled randomized study
+a. Double-blind controlled randomized study
+b. Cross-sectional study
+c. Prospective cohort study
+*d. Blind controlled randomized study
 e. Case-control study
 
 113. A program for the prevention of injuries and its consequences is being implemented in the community. Which target group of the population needs to implement measures of tertiary prevention of traffic and domestic injuries?
-a. Employees of enterprises
-b. Pedestrians
-*c. Persons with consequences of injuries
-d. Drivers of vehicles
-e. General population
+a. Pedestrians
+*b. Persons with consequences of injuries
+c. General population
+d. Employees of enterprises
+e. Drivers of vehicles
 
 114. Due to an outbreak of hepatitis A in a nearby settlement, a public health specialist was instructed to develop a plan of measures to prevent this disease in the community. What specific preventive measures should be included in the plan?
 *a. Active immunoprophylaxis using inactivated vaccines
-b. Screening of the population for the presence of the hepatitis A virus
-c. Control over compliance with norms at public catering facilities
-d. Sanitary and educational work among the population regarding the ways of infection
+b. Control over compliance with norms at public catering facilities
+c. Sanitary and educational work among the population regarding the ways of infection
+d. Screening of the population for the presence of the hepatitis A virus
 e. -
 
 115. A certain population group (without ischemic heart disease) was monitored for 5 years in order to identify new cases of this disease, caused by endo- and exogenous factors. What type of epidemiological study was used in this case?
-a. Cross-sectional study
-*b. Prospective study
-c. Case-control study
+a. Experimental study
+b. Case-control study
+c. Cross-sectional study
 d. Descriptive study
-e. Experimental study
+*e. Prospective study
 
 116. The general director of the communal non-profit enterprise "City Hospital" held a meeting with the hospital staff. At this meeting, reports on the results of the hospital's work and evaluation of the quality of medical services for the previous year were heard, and the work program for the next year was presented. What function of the manager is presented?
-a. Adjustment
+a. Organization
 b. Leadership
-c. Control
-*d. Planning
-e. Organization
+c. Adjustment
+d. Control
+*e. Planning
 
 117. A doctor is correcting the behavior of an obese patient, adjusting the patient's diet to reduce the body weight and prevent the development of diabetes mellitus. What type of prevention is it?
-a. Primary prevention
-b. Tertiary prevention
-*c. Secondary prevention
-d. Group prevention
-e. Individual prevention
+a. Group prevention
+b. Individual prevention
+c. Tertiary prevention
+*d. Secondary prevention
+e. Primary prevention
 
 118. What type of epidemiological surveillance is the conduct of an integrated biobehavioral study among people who use drugs by injection?
-a. Routine
-b. Passive
-*c. Observant
-d. First generation
-e. Retrospective
+a. First generation
+b. Routine
+c. Retrospective
+d. Passive
+*e. Observant
 
 119. According to the law of Ukraine "On measures to prevent and reduce the use of tobacco products and their harmful effects on the health of the population" adopted in 2009, the city has raised prices for tobacco products, smoking was prohibited in public places, visual information was placed on the streets of the city, and awareness campaign has been carried out to inform the people about the harmful effect of smoking. What level of strategic planning was used the development of this project?
-*a. Municipal
+a. Interregional
 b. Regional
-c. National
-d. Interregional
-e. International
+c. International
+*d. Municipal
+e. National
 
 120. Soil is an environment that can cause the spread of infectious diseases among the population. What infectious disease can affect a person after a contact with contaminated soil?
-a. Hepatitis A
+*a. Botulism
 b. Leptospirosis
 c. Salmonellosis
-d. Tuberculosis
-*e. Botulism
+d. Hepatitis A
+e. Tuberculosis
 
 121. To create the most representative sample, it is recommended to select research participants randomly. Name the process of randomly selecting participants and dividing them into experimental and control groups.
-a. Delimitation
-b. Selection
-c. Normal distribution
-*d. Randomization
+*a. Randomization
+b. Normal distribution
+c. Delimitation
+d. Selection
 e. Sorting
 
 122. When assessing the relationship between age and obesity, a direct medium-strength correlation is observed. Within what range should the value of the correlation coefficient be located?
-a. From (-0.30) to (-0.99)
-*b. From (+0.30) to (+0.69)
-c. From (-0.70) to (-0.99)
-d. From (-0.70) to (+0.70)
-e. From (+0.70) to (+0.99)
+*a. From (+0.30) to (+0.69)
+b. From (-0.70) to (+0.70)
+c. From (+0.70) to (+0.99)
+d. From (-0.30) to (-0.99)
+e. From (-0.70) to (-0.99)
 
 123. The Population Vaccination Control Department calculates the need for vaccines required for vaccination of children under one year of age according to the Vaccination Calendar for the coming year. What demographic value must be used in these calculations?
-a. Population size
+*a. Number of newborns
 b. Natural population growth
-*c. Number of newborns
+c. Population size
 d. The number of vaccinated people last year
 e. The number of vaccination refusals per year
 
 124. Today, in connection with the emergency situation that arose due to the destruction of the Kakhovska HPP, the flooding of large areas, and the migration of the population, there is a threat of the spread of infectious diseases common to humans and animals. Define one of these diseases.
-a. Hepatitis B
-*b. Leptospirosis
-c. Cholera
-d. Tuberculosis
-e. HIV-infection
+a. HIV-infection
+b. Cholera
+*c. Leptospirosis
+d. Hepatitis B
+e. Tuberculosis
 
 125. The maximum benefit for the health of young children is achieved by following all recommendations regarding physical activity and duration of sleep during the day. Specify the duration of sleep recommended by the World Health Organization for children 3-4 years old.
-a. 7-10 hours
-b. 12-15 hours
-*c. 10-13 hours
+a. 8-11 hours
+*b. 10-13 hours
+c. 7-10 hours
 d. -
-e. 8-11 hours
+e. 12-15 hours
 
 126. The diabetic patient's blood glucose indications for the past 2 weeks ranged from 7 to 7.4 mmol/L, except for two measurements of 19 and 21 mmol/L during the last episode of ketoacidosis. Taking into account this data set, which of the presented metrics would be most significantly affected by these 2 additional extreme values?
 a. The third quartile
-b. Median
+*b. Arithmetic mean
 c. Mode
-*d. Arithmetic mean
+d. Median
 e. First quartile
 
 127. A system in which the money followed the patient, who had the right to freely choose a doctor; the doctor received a fee for the number of patients treated, as well as an increased fee for certain categories of patients, such as children or the elderly, as well as residents of poor areas; the treatment of inpatients was carried out at the expense of the funds allocated to the doctor, so the doctor was interested in preventive measures, because the less sick the patients were, the more money he had left. What system is characterized by the above description?
-a. Semashko systems
-b. George's systems
-c. Bismarck systems
-d. Thatcher systems
-*e. Beveridge systems
+*a. Beveridge systems
+b. Thatcher systems
+c. George's systems
+d. Semashko systems
+e. Bismarck systems
 
 128. A community has decided to make an annual plan for the secondary prevention of chronic non-infectious diseases. What measures should be included in such a plan for the community's residents?
-a. Intensifying informational and educational work that promotes a healthy lifestyle
+*a. Organizing screening for detection of arterial hypertension
 b. Organizing rehabilitation after a myocardial infarction
-*c. Organizing screening for detection of arterial hypertension
-d. Providing information about rational nutrition
+c. Providing information about rational nutrition
+d. Intensifying informational and educational work that promotes a healthy lifestyle
 e. Carrying out tuberculin diagnostics
 
 129. In a separate area, a regional public health program for combating non-communicable diseases has been developed. Determine the structure that has the right to approve the draft concept of the regional program.
-*a. The executive committee of the regional or local council
-b. Ministry of Health of Ukraine
+a. Verkhovna Rada of Ukraine
+b. Public Health Center of the Ministry of Health of Ukraine
 c. WHO
-d. Public Health Center of the Ministry of Health of Ukraine
-e. Verkhovna Rada of Ukraine
+*d. The executive committee of the regional or local council
+e. Ministry of Health of Ukraine
 
 130. A spontaneous burial of the remains of sheep was discovered on the territory of the Sumy region. According to the results of the examination, it was established that the death was related to anthrax in the animals. To what type, depending on the nature of the origin, does this emergency belong?
 a. -
 *b. Natural
-c. Military
-d. Technogenic
-e. Social
+c. Technogenic
+d. Social
+e. Military
 
 131. A patient came to the family doctor (with whom the declaration has been signed) complaining of pain in the lumbar region. After a thorough examination, the doctor decided to refer the patient to a nephrologist. Who among the healthcare workers has access to the personalized patient data (all patient data contained in the declaration and - after the introduction of electronic prescriptions and electronic medical records - medical information and appointments), stored within the electronic healthcare system?
-a. Any medical worker at the healthcare facility
-b. Only the doctor, with whom the declaration has been signed
-*c. Only the doctor, with whom the declaration has been signed, and the doctor, to whom the patient was referred
-d. Only the doctor, to whom the patient was referred
+*a. Only the doctor, with whom the declaration has been signed, and the doctor, to whom the patient was referred
+b. Any medical worker at the healthcare facility
+c. Only the doctor, to whom the patient was referred
+d. Only the doctor, with whom the declaration has been signed
 e. Only the patient can decide, who may be granted access
 
 132. Scientific studies (A) I. Robbins, 1980) identified four groups of leading determinants that have an effect on the health of the population. What ratio was established by the author of the research between different groups of leading health determinants?
 a. Lifestyle - 35%; genetics - 20%; environment - 15%; healthcare - 25%
 b. Lifestyle - 45%; genetics - 25%; environment - 25%; healthcare - 5%
 c. Lifestyle - 40%; genetics - 10%; environment - 30%; healthcare - 20%
-d. Lifestyle - 30%; genetics - 20%; environment - 20%; healthcare - 30%
-*e. Lifestyle - 50%; genetics - 20%; environment - 20%; healthcare - 10%
+*d. Lifestyle - 50%; genetics - 20%; environment - 20%; healthcare - 10%
+e. Lifestyle - 30%; genetics - 20%; environment - 20%; healthcare - 30%
 
 133. Historically, social insurance funds were receiving two-thirds of their contributions directly from workers and one-third from employers. These funds were used to pay for treatment, pensions, and unemployment benefits. Later, these funds turned into hospital funds, and then into insurance companies. What system uses such a mechanism for the formation of social insurance funds?
-a. George
-b. Semashko
-*c. Bismarck
-d. Beveridge
-e. Thatcher
+a. Semashko
+b. George
+c. Thatcher
+*d. Bismarck
+e. Beveridge
 
 134. During the earthquake, a large number of high-rise buildings were destroyed, fires broke out in some places, and a huge number of victims, including the dead, appeared. Emergency (ambulance) medical aid and disaster medicine teams provided emergency medical aid in conditions of shortage of personnel and resources, dividing the victims into certain groups depending on the condition, medical indications and the urgency of the need for evacuation. What is the name of the process of distribution of victims according to such principles?
-a. Emergency sorting
-*b. Medical triage
+*a. Medical triage
+b. Emergency sorting
 c. Medical grouping
-d. Distribution of patients
-e. Medical evacuation
+d. Medical evacuation
+e. Distribution of patients
 
 135. A research of the impact of smoking on the occurrence of lung cancer is being conducted. For this, two groups of people were selected: participants of the first group have a history of lung cancer, participants of the second do not. After that, they find out which of the participants was affected by the factor, and who was not. Then the necessary statistical indicators are calculated and conclusions are drawn about the influence of the factor on the result. What research design is described?
-a. Ecological
+*a. Case-control
 b. Description of the case series
-c. Cohort
-d. Clinical experiment
-*e. Case-control
+c. Clinical experiment
+d. Cohort
+e. Ecological
 
 136. A primary healthcare facility has purchased a system for measuring glycosylated hemoglobin, which makes it possible to detect occult diabetes mellitus (prediabetes) and allows developing a diabetes prevention program for each patient. Who needs to undergo such screening?
 a. All men
-*b. Pregnant women
-c. All women
-d. Newborn children
-e. All teenagers from 15 to 18 years of age
+b. Newborn children
+*c. Pregnant women
+d. All teenagers from 15 to 18 years of age
+e. All women
 
 137. Seasonal fluctuations in the incidence of SARS during the year are being researched. Which method should be used to visualize the data in this case?
 a. Forest diagram (forest plot)
-*b. Radial diagram
-c. Sector diagram
-d. ROC curve
+b. Sector diagram
+c. ROC curve
+*d. Radial diagram
 e. Kaplan-Meier curve
 
 138. Identify the main international document that ensures the right to the highest attainable standard of health.
-a. Constitution of Ukraine
-b. The UN Convention on the Elimination of All Forms of Discrimination against Women
+a. Ottawa Charter
+*b. Constitution of the World Health Organization
 c. WHO Alma-Ata Declaration
-*d. Constitution of the World Health Organization
-e. Ottawa Charter
+d. Constitution of Ukraine
+e. The UN Convention on the Elimination of All Forms of Discrimination against Women
 
 139. The commission of the territorial community on improvement recorded the unsatisfactory living conditions of the citizens of a certain settlement. To which group of determinants does this factor belong?
-a. Genetic
-b. Behavioral
+*a. Social and economic
+b. Ecological
 c. Access to medical services
-*d. Social and economic
-e. Ecological
+d. Behavioral
+e. Genetic
 
 140. The state takes anti-epidemic measures, directly influencing the epidemic process and reducing the infectious morbidity, which subsequently leads to the elimination of the epidemic course of some infectious diseases. One such anti-epidemic measure is immunoprophylaxis. However, no means of immunoprophylaxis currently exist for the following disease:
 a. Pertussis
-b. Rubella
+b. Epidemic parotitis
 c. Measles
-*d. Shigellosis
-e. Epidemic parotitis
+d. Rubella
+*e. Shigellosis
 
 141. An official of the state supervision (control) body for compliance with the requirements of sanitary legislation in the relevant field has the right to make a decision on the temporary suspension of production and/or circulation of products, performance of work, provision of services that pose a threat to human health and/or life. Please indicate the maximum period of temporary suspension of production and/or circulation of products, performance of works, provision of services that pose a threat to human health and/or life.
-a. For a period of no more than 10 working days
-b. For a period of no more than 1 year
-*c. For a period of no more than 10 calendar days
-d. For a period of no more than 30 calendar days
+*a. For a period of no more than 10 calendar days
+b. For a period of no more than 30 calendar days
+c. For a period of no more than 1 year
+d. For a period of no more than 10 working days
 e. For a period of no more than 3 years
 
 142. There are no international health and sanitary regulations drawn up for the following type of socially dangerous phenomena:
-*a. International spread of terrorism
-b. International spread of diseases
+a. Fighting diseases
+*b. International spread of terrorism
 c. Response measures to the spread of diseases taken at the level of public healthcare, corresponding to the health risks among the population, and limited by them
-d. Protection against the spread of diseases
-e. Fighting diseases
+d. International spread of diseases
+e. Protection against the spread of diseases
 
 143. Over the last year, a large number of cases of HIV infection at the fourth stage (AIDS stage) have been detected among the population in the community, which significantly exceeds the number of people at other stages. This situation indicates insufficient organization of which process?
-*a. Involvement in voluntary HIV counseling and testing
-b. Monitoring the condition of patients with HIV-infection
-c. Treatment of persons with an established diagnosis of HIV-infection
-d. Informational and educational work on infection among young people
-e. Involvement in pre-contact prevention of HIV-infection
+a. Involvement in pre-contact prevention of HIV-infection
+b. Informational and educational work on infection among young people
+c. Monitoring the condition of patients with HIV-infection
+*d. Involvement in voluntary HIV counseling and testing
+e. Treatment of persons with an established diagnosis of HIV-infection
 
 144. The mean height of a sample of first-year students is 170 cm with a standard deviation of 8 cm. Define what additional data you need to know to calculate a confidence interval for the mean height of first-year students.
-a. The data provided in the condition are sufficient, additional ones are not required
-b. The number of 1st-year students with a height of 170 cm
-c. Number of students of all courses
-d. Number of all 1st year students
-*e. The number of students of the researched sample
+a. Number of all 1st year students
+b. Number of students of all courses
+c. The number of 1st-year students with a height of 170 cm
+*d. The number of students of the researched sample
+e. The data provided in the condition are sufficient, additional ones are not required
 
 145. In 2022, a decrease in the level of vaccination of children according to the vaccination calendar was registered in the region, in connection with which it was decided to organize a program to support immunoprophylaxis in society. What should be the first step to establish effective immunoprophylaxis support among the population of the region?
-a. Involvement of mass media
-b. Conducting informational and educational work among parents
-*c. Carrying out a situational analysis in the region
-d. Establishing friendly relations with the population
-e. Improving the qualifications of healthcare workers
+a. Conducting informational and educational work among parents
+*b. Carrying out a situational analysis in the region
+c. Establishing friendly relations with the population
+d. Improving the qualifications of healthcare workers
+e. Involvement of mass media
 
 146. The structure of primary morbidity in the region is being researched. Which method should be used to visualize the data in this case?
-a. ROC curve
-b. Kaplan-Meier curve
+*a. Sector diagram
+b. ROC curve
 c. Forest diagram (forest plot)
-*d. Sector diagram
-e. Radial diagram
+d. Radial diagram
+e. Kaplan-Meier curve
 
 147. What management strategy is determined as the main policy of the World Health Organization in the field of public health in the ХХІ century?
-a. Development of governmental administration
+*a. Interdisciplinary collaboration
 b. The leading role of local administrations
 c. Work of the Ministry of Health
 d. Improving the management of the healthcare system
-*e. Interdisciplinary collaboration
+e. Development of governmental administration
 
 148. A 48-year-old patient, who lives in the area affected by the Chornobyl Nuclear Power Plant accident, came to a doctor with complaints of nausea, vomiting, headache, fever, and gastrointestinal disorders. What group of risk factors had the greatest impact on the patient's health?
-a. Physiological factors
-b. Lifestyle
+a. Lifestyle
+*b. Environment
 c. Healthcare quality
 d. Genetic factors
-*e. Environment
+e. Physiological factors
 
 149. Creation and maintenance of the epidemiological surveillance system that monitors the demographic status of the population requires the study of mortality rates by age, gender, and cause of death. What accounting document is a source of information for studying mortality rates?
-a. Death certificate
-*b. Medical death certificate
-c. Medical history
-d. Extract from a death register
-e. Outpatient medical record
+a. Extract from a death register
+b. Medical history
+c. Outpatient medical record
+*d. Medical death certificate
+e. Death certificate
 
 150. In one of the regions of Ukraine, the spread of a contagious plant disease, significantly exceeding the usual incidence of this disease in this territory, was registered. Such an adverse event can be classified as:
-a. Accident
-b. Epizooty
-c. Epidemic
+*a. Epiphytoty
+b. Epidemic
+c. Accident
 d. Disaster
-*e. Epiphytoty
+e. Epizooty
 

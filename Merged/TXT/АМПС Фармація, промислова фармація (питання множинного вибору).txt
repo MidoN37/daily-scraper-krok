@@ -1,6 +1,6 @@
 1. What pharmacological effect of diazepam allows using it in the treatment of neuroses?
 a. Antipyretic
-b. Anxiolytic
+*b. Anxiolytic
 c. Diuretic
 d. Antidepressant
 e. Analgesic
@@ -29,23 +29,23 @@ e. Aminocaproic acid
 5. Which one of the listed compounds belongs to conjugated dienes?
 a. СН_2=СН-СН_2-СН=СН_2
 b. CH_2=C=CH_2
-c. СН_2=СН-СН=СН-СН_3
+*c. СН_2=СН-СН=СН-СН_3
 d. CH_2=CH-C(CH_3)_2-CH=CH_2
 e. СН_2=С=СН-СН_2-СН_3
 
 6. When harvesting herbal raw material of calendula and chamomile, their inflorescences are being collected. What type of inflorescence is it?
-a. Flat capitulum
+*a. Flat capitulum
 b. Umbel
 c. Spike
 d. Corymb
 e. Round capitulum
 
 7. Первинні та вторинні нітроалкани є таутомерними сполуками. Яка таутомерія характерна для них?
-a. Азольна
-b. Аміно-імінна
-c. Кето-енольна
-*d. Аци-нітротаутомерія
-e. Лактам-лактимна
+a. Кето-енольна
+b. Лактам-лактимна
+c. Азольна
+d. Аци-нітротаутомерія
+e. Аміно-імінна
 
 8. What reaction occurs according to the free-radical (SR) mechanism?
 a. $СН_3CH_2OH+HСl$
@@ -62,14 +62,14 @@ d. Biological method
 e. Bacteriological method
 
 10. Thiocyanatometric titration method requires secondary standard solution of potassium thiocyanate that is standardized with standard solution of:
-*a. Silver nitrate
+a. Iron (II) sulfate
 b. Copper (II) nitrate
-c. Iron (II) sulfate
-d. Sulfuric acid
-e. Hydrochloric acid
+c. Silver nitrate
+d. Hydrochloric acid
+e. Sulfuric acid
 
 11. The therapeutic properties of activated charcoal are due to its large specific surface area. Name the phenomenon, when gas absorption occurs only at the surface of a solid object:
-a. Adsorption
+*a. Adsorption
 b. Recuperation
 c. Desorption
 d. Adhesion
@@ -83,14 +83,14 @@ d. Йодометрії
 e. Меркуриметрії
 
 13. A child had been administered antidiphtheric serum. What resistance was formed in the child?
-a. Primary
-b. Pathologic
-c. Physiological
-d. Active
-*e. Passive
+a. Physiological
+b. Passive
+c. Pathologic
+d. Primary
+e. Active
 
 14. What indicator is used, when sodium carbonate is being quantified in the preparation by means of acid-base titration?
-a. Methyl orange
+*a. Methyl orange
 b. Methylene blue
 c. Diphenylamine
 d. Ferroin
@@ -104,11 +104,11 @@ c. 1.5 times
 e. 5 times
 
 16. Isotonicity is one of the requirements for infusion solutions. What aqueous salt solution is used in clinical practice as an isotonic solution?
-a. 0.9% solution of MgCl_2
-b. 10% solution of NaCl
-c. 4.5-5.0% glucose solution
-*d. 0.85-0.90% solution of NaCl
-e. 10% solution of CaCl_2
+a. 10% solution of CaCl_2
+b. 4.5-5.0% glucose solution
+c. 0.9% solution of MgCl_2
+d. 0.85-0.90% solution of NaCl
+e. 10% solution of NaCl
 
 17. There are certain patterns of chemical and biological processes occurring with the drug in the body. Reduced absorption of tetracycline when it is co-administered with antacids is an example of:
 a. Pharmacodynamic incompatibility
@@ -133,7 +133,7 @@ e. Arctium lappa
 
 20. Microscopy of the smears obtained from the coating on the patient's tonsils was stained according to the Neisser technique. The staining revealed thin yellow bacilli with dark blue grains at their ends, arranged in the form of the Roman numeral V. What pathology can be suspected based on the results of microscopy?
 a. Tuberculosis
-b. Diphtheria
+*b. Diphtheria
 c. Influenza
 d. Measles
 e. Pertussis
@@ -162,29 +162,29 @@ e. Discovering antigenic determinants of the main antigens of the pathogen
 24. What type of cardiac arrhythmia occurs as a result of simultaneous disruption of excitability and conduction functions?
 a. Atrioventricular block
 b. Sinus tachycardia
-c. Atrial fibrillation
+*c. Atrial fibrillation
 d. Extrasystole
 e. Respiratory arrhythmia
 
 25. A patient suffers from intense cough with production of viscous sputum. What drug can thin the sputum and facilitate expectoration?
-a. Glaucine
-b. Butamirate
+a. Acetylcysteine
+b. Prenoxdiazine
 c. Codeine phosphate
-*d. Acetylcysteine
-e. Prenoxdiazine
+d. Glaucine
+e. Butamirate
 
 26. What tissue can be characterized by permeable cells located within the root of the primary structure?
 a. Mesodermis
 b. Central axial cylinder
-c. Endodermis
+*c. Endodermis
 d. Exodermis
 e. Pericycle
 
 27. The mechanism of action of hormones depends on their chemical nature. What hormones can penetrate the membrane and bind with intracellular receptors?
-*a. Steroid and thyroid hormones
-b. Oxytocin and vasopressin
-c. Tropic hormones
-d. Insulin and glucagon
+a. Oxytocin and vasopressin
+b. Tropic hormones
+c. Insulin and glucagon
+d. Steroid and thyroid hormones
 e. Catecholamines
 
 28. A study of the microbiological purity of tablet formulations is conducted on the production site. After cultivating samples on mannitol salt agar, golden-yellow colonies grow up. Microscopic examination of colonies establishes the presence of gram-positive bacteria of spherical shape, located in clusters; microorganisms has the ability to coagulate the plasma. The pure culture of which of the following bacteria is discovered?
@@ -203,13 +203,13 @@ e. Delayed-type hypersensitivity
 
 30. Який механізм інгібіторної дії неостигміну (прозерину)?
 a. Ковалентне зв'язування з субстратом ферменту
-b. Ковалентне зв’язування поза активним центром фермента
-c. Денатурація фермента
-*d. Конкуренція з ацетилхоліном за активний центр фермента
-e. Окиснення іона заліза в активном у центрі фермента
+b. Денатурація фермента
+c. Ковалентне зв’язування поза активним центром фермента
+d. Окиснення іона заліза в активном у центрі фермента
+e. Конкуренція з ацетилхоліном за активний центр фермента
 
 31. A benzimidazole derivative, omeprazole, has been prescribed to a patient with a duodenal ulcer accompanied by an increased secretion of gastric juice. What is the mechanism of action of this drug?
-a. Irreversible blockade of $H^+$, K⁺ -ATPase
+*a. Irreversible blockade of $H^+$, K⁺ -ATPase
 b. Blockade of M1-cholinergic receptors
 c. Stimulation of $H^+$, K⁺ -ATPase
 d. Stimulation of H2-histamine receptors
@@ -223,11 +223,11 @@ d. Protozoa
 e. Bacteria
 
 33. Microscopy shows that basidia with basidiospores are formed on the hymenium. What division do these fungi belong to?
-a. Lychenophyta
-b. Ascomycota
-c. Zygomycota
-*d. Basidiomycota
-e. Chytridiomycota
+a. Zygomycota
+b. Lychenophyta
+c. Basidiomycota
+d. Chytridiomycota
+e. Ascomycota
 
 34. The type of bacterial respiration is of great importance for the growth and reproduction of bacteria. Some species are unable to reproduce in the presence of oxygen and use sulfate respiration. What are these microorganisms called?
 a. Macroaerophiles
@@ -253,7 +253,7 @@ e. Inhibitor has no effect on the enzyme's affinity for its substrate
 37. Який спосіб титрування використовують, якщо до розчину досліджуваної речовини додають точно виміряний надлишок допоміжного титранта?
 a. Пряме титрування
 b. Будь-яке титрування
-c. Титрування за залишком
+*c. Титрування за залишком
 d. Неводне титрування
 e. Замісникове титрування
 
@@ -272,18 +272,18 @@ d. Arterial hypotension
 *e. Portal hypertension
 
 40. Early-flowering rhizomatous ephemeroids include: Tussilago farfara, Convallaria majalis, and:
-a. Allium cepa
-b. Carum carvi
+a. Carum carvi
+b. Adonis vernalis
 c. Thymus serpyllum
-d. Chamomilla recutita
-*e. Adonis vernalis
+d. Allium cepa
+e. Chamomilla recutita
 
 41. What is the mechanism of action of beta-lactam antibiotics?
 a. Inhibition of cytoplasmic \\ membrane synthesis
 b. Disruption of DNA synthesis
 c. Inhibition of DNA gyrase
-d. Inhibition of protein synthesis \\ in ribosomes
-*e. Inhibition of cell wall synthesis
+d. Inhibition of cell wall synthesis
+e. Inhibition of protein synthesis \\ in ribosomes
 
 42. To obtain exotoxins of some microorganisms, these microorganisms are inoculated into liquid nutrient medium, where microbial cultivation occurs and toxins are produced. At a certain stage it is necessary to remove the microbial cells from the medium, that is, to separate the toxins from microbes. What method should be applied in this case?
 *a. Bacteria-excluding filters
@@ -307,10 +307,10 @@ d. Adsorbability
 e. Polarization
 
 45. What family of viruses has a unique reverse transcriptase enzyme?
-a. Picornaviruses
-b. Togaviruses
-*c. Retroviruses
-d. Reoviruses
+a. Reoviruses
+b. Picornaviruses
+c. Togaviruses
+d. Retroviruses
 e. Flaviviruses
 
 46. A man has undergone a course of radiotherapy and chemotherapy. The drug complex included 5-fluorodeoxyuridine that is an inhibitor of thymidylate synthase. This drug blocks the synthesis of a certain substance. What substance is it?
@@ -321,7 +321,7 @@ d. mRNA
 e. rRNA
 
 47. Name the ability of high-molecular compounds to prevent precipitation of lyophobic sols and deposition of cholesterol plaques on the vessel walls:
-a. Colloid protection
+*a. Colloid protection
 b. Coacervation
 c. Sedimentation
 d. Coagulation
@@ -335,25 +335,25 @@ d. $HNO_3$
 e. $CH_3COOH$
 
 49. During bacteriology of the feces of a patient with diarrhea, a pure culture of rod-shaped, slightly bent microorganisms was isolated. In the microslide, these microorganisms resemble schools of fish. Their inoculation on alkaline media (alkaline peptone water) results in formation of a blue-tinted film after 6 hours. What pathogen has such properties?
-a. Vibrio cholerae
+*a. Vibrio cholerae
 b. Mycobacteria
 c. Escherichia coli
 d. Salmonellae
 e. Spirochetes
 
 50. Rhizome of a species belonging to the Asteraceae family is polycephalous, succulent, has lysigenous cavities, accumulates inulin. Such underground organ is characterisic of:
-a. Hyoscyamus niger
-b. Digitalis grandiflora
+a. Helianthus annuus
+b. Inula helenium
 c. Sorbus aucuparia
-d. Helianthus annuus
-*e. Inula helenium
+d. Hyoscyamus niger
+e. Digitalis grandiflora
 
 51. До якого виду хроматогафії відносять метод газорідинної хроматографії?
 a. Афінної
-*b. Розподільної
-c. Адсорбційної
-d. Іоннобмінної
-e. Гель-хроматографії
+b. Іоннобмінної
+c. Гель-хроматографії
+d. Адсорбційної
+e. Розподільної
 
 52. The second stage of detoxification involves joining certain chemical compounds with functional groups of toxins. Select one such compound:
 a. Cholesterol
@@ -399,7 +399,7 @@ d. Bisacodyl
 
 58. A woman, who works at a factory that produces phenylhydrazine, came to a hospital with complaints of general weakness, dizziness, and drowsiness. Her blood has signs of anemia with high levels of reticulocytosis, anisocytosis, and poikilocytosis; isolated normocytes are present in the woman's blood. What type of anemia is it?
 a. Aplastic anemia
-b. Hemolytic anemia
+*b. Hemolytic anemia
 c. Metaplastic anemia
 d. Iron-deficiency anemia
 e. Protein-deficiency anemia
@@ -419,7 +419,7 @@ d. Isotonic coefficient
 e. Concentration
 
 61. In the roots of primary structure, the nutrient reserves are stored in the:
-a. Mesodermis
+*a. Mesodermis
 b. Pericycle
 c. Exodermis
 d. Central axial cylinder
@@ -435,7 +435,7 @@ e. $[Ag_2(NH_3)_3]Cl$
 63. A human is immune to the plague of cattle and dogs. What type of immunity is it?
 a. Natural active
 b. Natural passive
-c. Innate
+*c. Innate
 d. Artificial passive
 e. Artificial active
 
@@ -454,11 +454,11 @@ d. $А$
 e. $В_1$
 
 66. During harvesting of a herbal raw material (belladonna), the plants had burns and patches of withering and rot. What microorganisms cause this kind of damage in plants?
-a. Viruses
-b. Microfungi
-*c. Mycoplasma
+a. Mycoplasma
+b. Protozoa
+c. Viruses
 d. Viroids
-e. Protozoa
+e. Microfungi
 
 67. During the assessment of air purity in an aseptic unit of a phamacy, sedimentation analysis resulted in growth of small colonies with areas of hemolysis. What medium was used for inoculation in this case?
 a. Endo agar
@@ -468,18 +468,18 @@ d. Levine formulation (eosin methylene blue agar)
 *e. Blood agar
 
 68. To preserve valuable varietal qualities of peppermint, the optimal method of its propagation was chosen. What method is it?
-a. Leaf cuttings
-b. Parts of the tuber
-c. Germinated seeds
-*d. Parts of the rhizome
-e. Plantlets
+a. Parts of the rhizome
+b. Leaf cuttings
+c. Plantlets
+d. Parts of the tuber
+e. Germinated seeds
 
 69. People, who were indoors during a fire, suffer from a carbon monoxide poisoning. What type of hypoxia is observed in such cases?
 a. Hypoxic hypoxia
 b. Respiratory hypoxia
 c. Tissue hypoxia
 d. Circulatory hypoxia
-e. Hemic hypoxia
+*e. Hemic hypoxia
 
 70. What type of fruit is characteristic of Atropa belladonna?
 a. Hesperidium
@@ -493,7 +493,7 @@ a. Adipinates
 b. Succinates
 c. Malonates
 d. Urates
-e. Oxalates
+*e. Oxalates
 
 72. What cation of the third analytical group can be precipitated using the group reagent H_2SO_4 only in the presence of ethanol (binds water and concentrates the solution)?
 a. K^+
@@ -510,11 +510,11 @@ d. Зниження осмотичного тиску крові
 e. Зниження гідростатичного тиску крові
 
 74. What can be used to distinguish formic acid from acetic acid?
-*a. $[Ag(NH_3)_2]OH$
-b. $Br_2 (H_2O)$
-c. $H_2SO_4$
-d. $NaOH$
-e. $NaHCO_3$
+a. $NaOH$
+b. $NaHCO_3$
+c. $Br_2 (H_2O)$
+d. $H_2SO_4$
+e. $[Ag(NH_3)_2]OH$
 
 75. In the course of an experiment in the mesenteric vein of a toad a trombus was created with a crystal of common salt. What processes occurred during the first stage of trombus formation?
 a. Production of thrombin
@@ -545,7 +545,7 @@ d. Gibbs energy
 e. Helmholtz energy
 
 79. What drug inhibits cholesterol synthesis in the liver?
-a. Atorvastatin
+*a. Atorvastatin
 b. Раrmidinum
 c. Fenofibrate
 d. Colestipol
@@ -587,11 +587,11 @@ d. Cholinergic receptors blockade in the sympathetic ganglia
 *e. $H_2$-histamine receptors blockade
 
 85. A woman with hypertension came to a doctor complaining of dry cough that developed against the background of her therapy. What antihypertensive drug was she taking?
-a. Nifedipine
+a. Lisinopril
 b. Atenolol
-c. Dichlothiazide (Hydrochlorothiazide)
-*d. Lisinopril
-e. Furosemide
+c. Furosemide
+d. Nifedipine
+e. Dichlothiazide (Hydrochlorothiazide)
 
 86. In cases of severe pancreatitis, physicians usually prescribe the drugs that help prevent pancreatic autolysis. These drugs inhibit the following type of enzymes:
 a. Lipases
@@ -643,14 +643,14 @@ d. Potassium
 e. Calcium
 
 93. Osmotic pressure is an important characteristic of biological fluids. Semipermeable membranes are necessary for penetration of solvent molecules. What substance cannot be used as a semipermeable membrane?
-a. Glass
+*a. Glass
 b. Gelatine
 c. Parchment
 d. Biological membrane
 e. Collodion film
 
 94. In common corn (Zea mays), male spikelets are gathered in an apical panicle and female flowering spikelets form dense axillary spadices. What type of plant is Zea mays?
-a. Monoecious
+*a. Monoecious
 b. Dioecious
 c. Polyecious
 d. Monandrous
@@ -685,11 +685,11 @@ c. Peripheral
 e. Central
 
 99. In medical practice barbiturates are used as sleeping pills. These substances act similar to rothenone and are inhibitors of tissue respiration. The mechanism of their action takes place on the enzymatic level. Which of the following enzymes do these substances inhibit?
-a. Adenosine triphosphate synthetase
-b. Succinate dehydrogenase
-c. Cytochrome C reductase
-*d. NADH-coenzyme Q reductase
-e. Cytochrome oxidase
+a. Cytochrome oxidase
+b. Adenosine triphosphate synthetase
+c. Succinate dehydrogenase
+d. NADH-coenzyme Q reductase
+e. Cytochrome C reductase
 
 100. Для представників якої родини характерні такі ознаки: плівчасті прилистки зростаються в розтруб, плід псевдомонокарпний горіхоподібний?
 a. Rosaceae
@@ -700,10 +700,10 @@ e. Lamiaceae
 
 101. In snake venom there is a substance that causes erythrocyte hemolysis when it is introduced into a human organism. Blood test revealed a large amount of lysolecithin (lysophosphatidylcholine). What enzyme leads to accumulating lysolecithin in blood?
 a. Neuraminidase
-*b. Phospholipase A2
+b. Phospholipase A2
 c. Phospholipase A1
-d. Phospholipase D
-e. Phospholipase C
+d. Phospholipase C
+e. Phospholipase D
 
 102. What drug should not be prescribed for the treatment of arterial hypertension in a patient with gout?
 a. Atenolol
@@ -713,11 +713,11 @@ d. Cozaar (Losartan)
 *e. Hydrochlorothiazide
 
 103. What common property of cation compounds $Al^{3+$, $Zn^{2+$, $Cr^{3+$, $Sn^{2+$ unites them within the IV analytical group (acid-base classification)?
-a. Insolubility of salts in water
+a. Solubility of hydroxides in an excess ammonia solution
 b. Good solubility of some salts
 c. Solubility of hydroxides in acids
-d. Solubility of hydroxides in an excess ammonia solution
-*e. Amphotericity of hydroxides
+d. Amphotericity of hydroxides
+e. Insolubility of salts in water
 
 104. Under conditions of prolonged intoxication, a significant decrease in the activity of aminoacyl-tRNA synthetases can be observed. What metabolic process is disrupted in this case?
 a. RNA processing
@@ -731,7 +731,7 @@ a. Insulin
 b. Prednisolone
 c. L-thyroxine
 d. Progesterone
-e. Oxytocin
+*e. Oxytocin
 
 106. What pair of compounds can be classified as functional group isomers?
 *a. Propanal and propanone
@@ -748,11 +748,11 @@ d. Vitamin $B2$
 e. Biotin
 
 108. What is the vapor pressure of a liquid at its boiling point?
-a. Equal to saturated vapor pressure at 273 K
+a. Equal to atmospheric pressure
 b. Maximum
-c. Minimum
+c. Equal to saturated vapor pressure at 273 K
 d. Equal to saturated vapor pressure at room temperature
-*e. Equal to atmospheric pressure
+e. Minimum
 
 109. During the analysis of the cations that belong to the fourth analytical group (acid-base classification), their processing with a group reagent makes it possible not only to separate, but also to identify the following ions:
 a. Al(III) ions
@@ -763,10 +763,10 @@ e. Sn(IV) ions
 
 110. Який препарат із групи психотропних засобів блокує дофамінові рецептори?
 a. Анальгін (метамізол натрію)
-*b. Аміназин (хлорпромазин)
-c. Кофеїн-бензоат натрію
-d. Діазепам
-e. Амітриптилін
+b. Кофеїн-бензоат натрію
+c. Амітриптилін
+d. Аміназин (хлорпромазин)
+e. Діазепам
 
 111. Proteins are the catalysts of biochemical processes. What type of homogeneous catalysis includes the processes with their participation?
 a. Gas-phase homogeneous catalysis
@@ -777,24 +777,24 @@ e. Redox catalysis
 
 112. Water samples were received by a bacteriological laboratory for determining their coli index. What is the coli index?
 a. Number of coliphages in 1 liter of water
-b. Number of Escherichia coli in 1 liter of water
+*b. Number of Escherichia coli in 1 liter of water
 c. Number of pseudomonads in 1 liter of water
 d. Number of staphylococci in 1 liter of water
 e. Number of enterococci in 1 liter of water
 
 113. $СН_3-СН_2-ОН$ and $СН_3-О-СН_3$ are a pair of compounds that can be classified as isomers of the following type:
 a. Mirror (optical) isomers
-b. Geometric (cis-trans) isomers
+b. Functional group isomers
 c. Tautomers
-*d. Functional group isomers
+d. Geometric (cis-trans) isomers
 e. Carbon chain isomers
 
 114. The student is studying a plant organ with radial symmetry, unlimited growth and positive geotropism. It provides nourishment, vegetative reproduction and plant fastening in the soil. Which of the following is described?
-a. Rhizome
-b. Stem
-*c. Root
-d. Seed
-e. Leaf
+a. Root
+b. Leaf
+c. Stem
+d. Rhizome
+e. Seed
 
 115. A drug solution sterilized by means of boiling was tested for sterility. Inoculation on Kitt-Tarozzi medium revealed clostridia. Clostridia survived the boiling because they are:
 a. Prototrophic
@@ -804,11 +804,11 @@ c. Thermophilic
 e. Anaerobic
 
 116. Який патогенез розвитку цукрового діабету 1-го типу?
-a. Інсулінорезистентність жирової тканини
-b. Гіперпродукція кортизолу
-c. Гіперпродукція глюкагону
-*d. Аутоімунне ушкодження В-клітин
-e. Гіперпродукція соматотропіну
+a. Аутоімунне ушкодження В-клітин
+b. Гіперпродукція глюкагону
+c. Гіперпродукція соматотропіну
+d. Інсулінорезистентність жирової тканини
+e. Гіперпродукція кортизолу
 
 117. Для яких систем характерна седиментація?
 a. Розчинів ВМР
@@ -820,7 +820,7 @@ e. Розчинів неелектролітів
 118. A person has been stung by a bee. The stung area developed redness and edema. What is the main mechanism of edema development?
 a. Disturbed lymphatic efflux
 b. Increased hydrostatic blood pressure
-c. Increased permeability of the \\ capillaries
+*c. Increased permeability of the \\ capillaries
 d. Decreased oncotic blood pressure
 e. Decreased osmotic blood pressure
 
@@ -840,22 +840,22 @@ e. Juniperus galbuli
 
 121. Elevated levels of ketone bodies were detected in the blood of a patient with diabetes mellitus. Ketone bodies are synthesized from the following compound:
 a. Malate
-b. Succinate
-c. Lactate
-*d. Acetyl-CoA
-e. Glucose
+b. Glucose
+c. Succinate
+d. Acetyl-CoA
+e. Lactate
 
 122. Який механізм передачі захворювання епідемічного висипного тифу?
-*a. Трансмісивний
-b. Повітряно-крапельний
-c. Парентеральний
-d. Фекально-оральний
+a. Повітряно-крапельний
+b. Фекально-оральний
+c. Трансмісивний
+d. Парентеральний
 e. Вертикальний
 
 123. During photosynthesis within plant cell chloroplasts there is short-term retained starch being produced, which rapidly hydrolyzes into glucose. This starch is called:
-*a. Primary
+a. Secondary
 b. Reserve
-c. Secondary
+c. Primary
 d. Resistant
 e. Transitory
 
@@ -881,11 +881,11 @@ d. $K_4[Fe(CN_6)]$
 *e. Tollens reagent
 
 127. Interferons are natural antiviral and antitumor agents. What is their mechanism of action?
-a. Protein synthesis increase
-b. Replication activation
-*c. Protein synthesis depression
-d. Repair activation
-e. Transcription activation
+a. Repair activation
+b. Protein synthesis increase
+c. Transcription activation
+d. Replication activation
+e. Protein synthesis depression
 
 128. Select the halogenated antiseptic that would be preferable for a child to pack in the first aid kit, when going to a summer camp:
 a. Brilliant green
@@ -895,7 +895,7 @@ d. Copper sulfate
 e. Methylene blue
 
 129. Streptomycin like other aminoglycosides, by binding to the 30S subunit of ribosomes, prevents the attachment of formylmethionyl-tRNA) What process is being disrupted as a result of this effect?
-a. Translation initiation
+*a. Translation initiation
 b. Transcription initiation
 c. Transcription termination
 d. Replication initiation
@@ -916,11 +916,11 @@ c. Starch
 e. Silica gel
 
 132. When a galvanic cell operates under standard conditions, the chemical energy of the redox process transforms into the following type of energy:
-a. Thermal energy
-*b. Electrical energy
-c. Nuclear energy
+a. Electrical energy
+b. Electromagnetic energy
+c. Thermal energy
 d. Mechanical energy
-e. Electromagnetic energy
+e. Nuclear energy
 
 133. In E) coli cells, the synthesis of pyrimidine nucleotides occurs according to the scheme of the metabolic pathway: $CO_2 + NH_3$ + 2ATP> S1> S2> UTP> CTP. When CTP concentration in the cell increases, the synthesis of pyrimidine nucleotides stops. What type of regulation is described here?
 a. Partial proteolysis
@@ -938,10 +938,10 @@ d. Hydrochloric acid
 
 135. Reaction of sodium ions with potassium hexahydroxoantimonate (V) in a neutral medium produces precipitate. Specify the color of this precipitate:
 a. Green
-b. Blue
-*c. White
-d. Red
-e. Yellow
+b. White
+c. Red
+d. Yellow
+e. Blue
 
 136. A man has a nitrate poisoning. What type of hypoxia will develop in this case?
 a. Respiratory hypoxia
@@ -1000,7 +1000,7 @@ c. Strophanthin K
 e. Digitoxin
 
 144. До якого класу сполук належить Цитохром Р450?
-a. Гемопротеїн
+*a. Гемопротеїн
 b. Флавопротеїн
 c. Піридинопротеїн
 d. Нуклеопротеїн
@@ -1011,7 +1011,7 @@ a. Pancreas
 b. Lungs
 c. Heart
 d. Kidneys
-e. Liver
+*e. Liver
 
 146. Який препарат належить до групи антихолінестеразних засобів?
 *a. Прозерин (неостигмін)
@@ -1021,11 +1021,11 @@ d. Дитилін (суксаметонію хлорид)
 e. Дипіроксим
 
 147. What cation can be detected with Chugaiev's agent (Dimethylglyoxime)?
-a. $Co^{2+$
-b. K⁺
-c. $Mn^{2+$
-*d. $Ni^{2+$
-e. $Ca^{2+$
+a. $Ca^{2+$
+b. $Ni^{2+$
+c. K⁺
+d. $Mn^{2+$
+e. $Co^{2+$
 
 148. A man developed agranulocytosis after pneumonia treatment with sulfonamides. Antibodies to neutrophils were detected in the patient's blood. This pathology belongs to the following type of allergic reactions:
 a. Cell-mediated
@@ -1058,14 +1058,14 @@ e. Quinhydrone electrode
 152. У чоловіка з діагнозом: цукровий діабет виявили такі показники артеріальної крові: рН крові – 7,25, рСО2 – 37 мм рт. ст., SВ – 19,5 ммоль/л, ВВ – 39 ммоль/л, ВЕ – (-7) ммоль/л, кетонові тіла крові – 1,9 ммоль/л, титраційна кислотність сечі – 50 ммоль/добу. Яке порушення кислотно-основного стану у пацієнта?
 a. Змішаний алкалоз
 b. Газовий алкалоз
-c. Метаболічний ацидоз
+*c. Метаболічний ацидоз
 d. Змішаний ацидоз
 e. Газовий ацидоз
 
 153. In redox titrimetry, the indicators that are added to the reaction system respond to the changes in the:
 a. Degree of ionization of the substance being analyzed
 b. Ionic strength of the solution
-c. Redox potential of the system
+*c. Redox potential of the system
 d. Concentration of hydrogen ions
 e. Concentration of hydroxyl ions
 
@@ -1113,10 +1113,10 @@ e. Концентрації електроліту
 
 160. Preventive examination revealed an enlargement of the patient's thyroid gland, exophthalmos, high body temperature, and an elevated heart rate of 110/min. What hormone levels should be measured in the patient's blood in this case?
 a. Insulin
-b. Cortisol
-c. Glucagon
-d. Testosterone
-*e. Thyroxine
+b. Glucagon
+c. Cortisol
+d. Thyroxine
+e. Testosterone
 
 161. A 55-year-old man came to a doctor with complaints of acute pain in his big toes. Meat and wine remain permanently in his diet. The doctor suspects gout. What substance must be measured in the patient's blood to confirm this diagnosis?
 *a. Uric acid
@@ -1126,11 +1126,11 @@ d. Urea
 e. Bilirubin
 
 162. Cultivated annual plant with glands and indumentum has alternate obovate leaves and flat capitulum inflorescences with orange pseudoligulate ray florets and yellow tubular disc florets. Specify this plant.
-a. Echinacea purpurea
-b. Artemisia absinthium
-*c. Calendula officinalis
-d. Centaurea cyanus
-e. Arctium lappa
+a. Calendula officinalis
+b. Echinacea purpurea
+c. Artemisia absinthium
+d. Arctium lappa
+e. Centaurea cyanus
 
 163. A patient with gout has been prescribed allopurinol. What is the mechanism of action of this drug?
 a. Inhibition of COX-2 enzyme
@@ -1144,7 +1144,7 @@ a. Flagella
 b. Cilia
 c. Inclusions
 d. Capsule
-e. Spores
+*e. Spores
 
 165. The patient, who suffers from rheumatoid arthritis and concomitant duodenal ulcer should be prescribed a non-steroidal anti-inflammatory drug. What drug is most suitable in this case?
 a. Metamizole
@@ -1161,11 +1161,11 @@ d. General
 *e. Specific passive
 
 167. В яких структурах рослинних клітин накопичується вторинний крохмаль?
-*a. Амілопластах
-b. Протеопластах
-c. Вакуолях
-d. Олеопластах
-e. Мітохондріях
+a. Вакуолях
+b. Мітохондріях
+c. Протеопластах
+d. Амілопластах
+e. Олеопластах
 
 168. A 10-year-old child has height of 178 cm and body mass of 67 kg. These presentations are caused by the functional disturbance of the:
 a. Thyroid gland
@@ -1184,7 +1184,7 @@ e. Panicle
 170. What substances can be determined by means of substitution titration using the iodometric method?
 a. Strong reducing agents
 b. Unsaturated hydrocarbons
-c. Strong oxidizing agents
+*c. Strong oxidizing agents
 d. Weak reducing agents
 e. Saturated hydrocarbons
 
@@ -1220,7 +1220,7 @@ d. AlCl_3
 a. Benzene
 b. Amyl alcohol
 c. Distilled water
-d. Ethyl alcohol
+*d. Ethyl alcohol
 e. Chloroform
 
 176. За яким механізмом відбувається приєднання Br_2 до пропену?
@@ -1246,7 +1246,7 @@ e. Послідовні
 
 179. Який пігмент утворюється в реакції окиснення гему?
 a. Уробіліноген
-b. Білівердин
+*b. Білівердин
 c. Хлорофіл
 d. Каротин
 e. Стеркобіліноген
@@ -1259,7 +1259,7 @@ c. Internal energy and volume
 e. Entropy and volume
 
 181. The biological study of spores and pollen revealed tetrahedral spores with a semi-circular base and reticular surface in the pollen. There spores belong to:
-a. Lycopodiophyta
+*a. Lycopodiophyta
 b. Bryophyta
 c. Pinophyta
 d. Polypodiophyta
@@ -1273,11 +1273,11 @@ d. Tubulopathy
 e. Renal colic
 
 183. Which of the listed species of medicinal plants is considered to be a weed?
-a. Convallaria majalis
-b. Salvia officinalis
-*c. Plantago major
-d. Papaver somniferum
-e. Mentha piperita
+a. Plantago major
+b. Convallaria majalis
+c. Salvia officinalis
+d. Mentha piperita
+e. Papaver somniferum
 
 184. What reagents produce a reaction that follows the free radical (SR) mechanism?
 *a. Ethane and chlorine in the light
@@ -1303,12 +1303,12 @@ e. Adjuvant
 187. Pastes are used in medicine to treat skin diseases. What type of disperse systems are they?
 a. Emulsions
 b. Foams
-c. Suspensions
+*c. Suspensions
 d. Aerosols
 e. Powders
 
 188. After a physical exertion, a patient developed an angina pectoris attack caused by myocardial ischemia. What definition most accurately describes the concept of ischemia?
-a. Discrepancy between the blood supply to the tissues and the need for it
+*a. Discrepancy between the blood supply to the tissues and the need for it
 b. Decreased erythrocyte count in the blood
 c. Increased oxygen delivery to tissues
 d. Oxygen deficiency in the circulatory system
@@ -1346,22 +1346,22 @@ e. Calcium channel blockade
 a. Gamma globulin
 b. Ceruloplasmin
 c. Transferrin
-d. Prothrombin
+*d. Prothrombin
 e. Albumin
 
 194. To what electrode will the protein particle move during electrophoresis, if its isoelectric point is 4.0 and the pH of the solution is 5.0?
-a. To the anode
+*a. To the anode
 b. To the cathode
 c. First to the anode, and then to the cathode
 d. First to the cathode, and then to the anode
 e. There will be no movement
 
 195. A dissected flower has numerous stamens that are united by the stamen filaments into several bundles. What is this type of androecium?
-a. Monadelphous
-b. Diadelphous
-c. Tetradynamous
-d. Didynamous
-*e. Polyadelphous
+a. Tetradynamous
+b. Polyadelphous
+c. Didynamous
+d. Monadelphous
+e. Diadelphous
 
 196. The method consisting in removal of low-molecular impurities from colloidal systems and high-molecular compound solutions by semipermeable membrane diffusion is called:
 a. Ultrafiltration
@@ -1399,32 +1399,32 @@ d. Cortical fibers
 e. Xylem fibers
 
 201. Serology is the leading method of syphilis diagnostics. What test is used to diagnose this disease?
-a. Wassermann test
+*a. Wassermann test
 b. Wright test
 c. Gruber test
 d. Widal test
 e. Haddelson test
 
 202. A dry-heat box is used for sterilization of various materials and instruments in a bacteriological laboratory. This sterilization method can be applied to the following objects:
-*a. Glass test tubes
-b. Physiological solution
-c. Rubber gloves
-d. Wire inoculating loops
-e. Simple nutrient medium
+a. Physiological solution
+b. Rubber gloves
+c. Simple nutrient medium
+d. Glass test tubes
+e. Wire inoculating loops
 
 203. A patient has been warned that the medicine prescribed to him can cause a cough. Name this medicine:
-a. Metoprolol
-*b. Lisinopril
+a. Lisinopril
+b. Clophelin (Clonidine)
 c. Phenyhydin (Nifedipine)
-d. Dichlothiazide (Hydrochlorothiazide)
-e. Clophelin (Clonidine)
+d. Metoprolol
+e. Dichlothiazide (Hydrochlorothiazide)
 
 204. What enzyme allows for synthesys of various genes from template RNA to DNA in genetic engineering (this enzyme catalyzes the process observed in RNA-viruses)?
-*a. Reverse transcriptase
-b. Endonuclease
-c. DNA-ligase
-d. Helicase
-e. Exonuclease
+a. Helicase
+b. DNA-ligase
+c. Reverse transcriptase
+d. Exonuclease
+e. Endonuclease
 
 205. What drug is a non-selective beta-blocker?
 *a. Anaprilin (Propranolol)
@@ -1505,7 +1505,7 @@ d. Jelly
 
 216. In the patient, a gallstone lodged in the common bile duct has blocked the flow of bile into the intestine. What digestive process will be disturbed in this case?
 a. Absorption of proteins
-b. Digestion of fats
+*b. Digestion of fats
 c. Digestion of carbohydrates
 d. Digestion of proteins
 e. Absorption of carbohydrates
@@ -1520,7 +1520,7 @@ e. Анаприлін
 218. Hyperlipemia can be observed in 2--3 hours after eating fatty food. 9 hours later lipid content normalizes again. How can this condition be characterized?
 a. Transport hyperlipemia
 b. Hyperplastic obesity
-c. Alimentary hyperlipemia
+*c. Alimentary hyperlipemia
 d. Hypertrophic obesity
 e. Retention hyperlipemia
 
