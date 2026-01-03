@@ -6,11 +6,11 @@ d. Antidepressant
 e. Analgesic
 
 2. An elderly patient suffers from constipation caused by colon hypotonia. What drug should be prescribed?
-a. Sodium sulfate
+a. Castor oil
 b. Novocainamide (Procainamide)
-c. Atropine sulfate
-d. Castor oil
-*e. Bisacodyl
+c. Sodium sulfate
+d. Bisacodyl
+e. Atropine sulfate
 
 3. What solution is used to determine the mass-volume fraction of ammonia in a solution?
 a. Iodine solution
@@ -20,11 +20,11 @@ d. Sodium hydroxide solution
 e. Potassium permanganate solution
 
 4. A patient with an acute myocardial infarction had been receiving heparin as a component of complex therapy. After a time, the patient developed hematuria. What drug is indicated as an antidote to heparin?
-a. Fibrinogen
+a. Aminocaproic acid
 b. Neodicoumarin (ethyl biscoumacetate)
-*c. Protamine sulfate
+c. Fibrinogen
 d. Vicasol (Menadione)
-e. Aminocaproic acid
+e. Protamine sulfate
 
 5. Which one of the listed compounds belongs to conjugated dienes?
 a. СН_2=СН-СН_2-СН=СН_2
@@ -55,11 +55,11 @@ c. $С_6Н_6+Сl_2$
 e. $СН_3–CH_3+O_2$
 
 9. The presence of antibodies to HIV has been established in the analyzed serum by means of enzyme-linked immunosorbent assay. What method or reaction must be used to confirm the diagnosis of AIDS?
-a. Immunofluorescence
-*b. Immunoblotting
-c. Virological method
-d. Biological method
-e. Bacteriological method
+a. Immunoblotting
+b. Biological method
+c. Immunofluorescence
+d. Bacteriological method
+e. Virological method
 
 10. Thiocyanatometric titration method requires secondary standard solution of potassium thiocyanate that is standardized with standard solution of:
 a. Iron (II) sulfate
@@ -77,7 +77,7 @@ e. Cohesion
 
 12. Яким методом здійснюють кількісне визначення вісмуту в препараті?
 a. Меркуриметрії
-b. Комплексонометрії
+*b. Комплексонометрії
 c. Йодометрії
 d. Перманганатометрії
 e. Аргентометрії
@@ -97,11 +97,11 @@ d. Ferroin
 e. Murexide
 
 15. According to Van't Hoff rule, when the temperature is raised by 10 degrees, the reaction rate increases by:
-a. 10 times
-b. Temperature does not affect reaction rate
-c. 1.5 times
-*d. 2--4 times
-e. 5 times
+a. Temperature does not affect reaction rate
+b. 2--4 times
+c. 5 times
+d. 1.5 times
+e. 10 times
 
 16. Isotonicity is one of the requirements for infusion solutions. What aqueous salt solution is used in clinical practice as an isotonic solution?
 a. 10% solution of CaCl_2
@@ -129,7 +129,7 @@ a. Chamomilla recutita
 b. Arctium lappa
 c. Bidens tripartita
 d. Calendula officinalis
-e. Artemisia absinthium
+*e. Artemisia absinthium
 
 20. Microscopy of the smears obtained from the coating on the patient's tonsils was stained according to the Neisser technique. The staining revealed thin yellow bacilli with dark blue grains at their ends, arranged in the form of the Roman numeral V. What pathology can be suspected based on the results of microscopy?
 a. Tuberculosis
@@ -146,14 +146,14 @@ d. 8
 e. 2
 
 22. Having examined the patient, the doctor made a diagnosis of tick-borne encephalitis. What is the route of transmission of this disease?
-a. Vertical
-b. Airborne-droplet
-c. Parenteral
-d. Fecal-oral
-*e. Vector-borne
+a. Vector-borne
+b. Vertical
+c. Fecal-oral
+d. Airborne-droplet
+e. Parenteral
 
 23. In the process of creating vaccines, pathogens of infectious diseases are being attenuated. What is the essence of the attenuation process?
-a. Artificial reduction of virulent properties of pathogens
+*a. Artificial reduction of virulent properties of pathogens
 b. Reduction of immunogenicity of the pathogen
 c. Discovering antigenic determinants of the main antigens of the pathogen
 d. Inactivation of pathogens while preserving the antigenic structure of cells
@@ -188,10 +188,10 @@ c. Insulin and glucagon
 e. Catecholamines
 
 28. A study of the microbiological purity of tablet formulations is conducted on the production site. After cultivating samples on mannitol salt agar, golden-yellow colonies grow up. Microscopic examination of colonies establishes the presence of gram-positive bacteria of spherical shape, located in clusters; microorganisms has the ability to coagulate the plasma. The pure culture of which of the following bacteria is discovered?
-a. Staphylococcus epidermidis
-*b. Staphylococcus aureus
-c. Enterobacteriaceae
-d. Pseudomonas aeruginosa
+a. Enterobacteriaceae
+b. Staphylococcus aureus
+c. Pseudomonas aeruginosa
+d. Staphylococcus epidermidis
 e. Staphylococcus saprophyticus
 
 29. One hour after a child took polyvitamins in the dosage form of a syrup, the child developed a markedly itching urticaria-type rash all over the body. What type of allergic response can be characterized by this sign?
@@ -199,7 +199,7 @@ a. Cytotoxic
 b. Autoallergic
 c. Delayed-type hypersensitivity
 d. Immune complex
-e. Anaphylactic
+*e. Anaphylactic
 
 30. Який механізм інгібіторної дії неостигміну (прозерину)?
 a. Ковалентне зв'язування з субстратом ферменту
@@ -219,7 +219,7 @@ e. Blockade of H2-histamine receptors
 a. Fungi
 b. Bacteria
 c. Protozoa
-d. Viruses
+*d. Viruses
 e. Rickettsia
 
 33. Microscopy shows that basidia with basidiospores are formed on the hymenium. What division do these fungi belong to?
@@ -230,11 +230,11 @@ d. Chytridiomycota
 e. Ascomycota
 
 34. The type of bacterial respiration is of great importance for the growth and reproduction of bacteria. Some species are unable to reproduce in the presence of oxygen and use sulfate respiration. What are these microorganisms called?
-a. Macroaerophiles
-b. Microaerophiles
-c. Obligate aerobes
-d. Facultative anaerobes
-*e. Obligate anaerobes
+a. Obligate aerobes
+b. Facultative anaerobes
+c. Obligate anaerobes
+d. Microaerophiles
+e. Macroaerophiles
 
 35. The main mechanism of ammonia neutralization in the body is the biosynthesis of urea. The cycle of urea synthesis begins with the formation of a certain high-energy compound. What high-energy compound is it?
 *a. Carbamoyl phosphate
@@ -247,7 +247,7 @@ e. Fumaric acid
 a. Inhibitor has no effect on the enzyme's affinity for its substrate
 b. Inhibitor forms strong covalent bonds with the active site of the enzyme
 c. Inhibitor is a structural analogue of the enzyme
-d. Inhibitor is a structural analogue of the substrate
+*d. Inhibitor is a structural analogue of the substrate
 e. Inhibition degree does not depend on the substrate concentration
 
 37. Який спосіб титрування використовують, якщо до розчину досліджуваної речовини додають точно виміряний надлишок допоміжного титранта?
@@ -265,11 +265,11 @@ d. Pasteurization
 e. Filtration
 
 39. A 53-year-old person has been admitted into the gastroenterology department with complaints of dyspeptic disorders and melena. Objectively, the patient has splenomegaly, ascites, and dilated superficial veins of the anterior abdominal wall. What syndrome can be characterized by these signs?
-a. Suprahepatic jaundice
-b. Cholemia
-c. Acholia
-d. Arterial hypotension
-*e. Portal hypertension
+a. Arterial hypotension
+b. Suprahepatic jaundice
+c. Cholemia
+d. Acholia
+e. Portal hypertension
 
 40. Early-flowering rhizomatous ephemeroids include: Tussilago farfara, Convallaria majalis, and:
 a. Carum carvi
@@ -286,15 +286,15 @@ c. Inhibition of DNA gyrase
 e. Inhibition of protein synthesis \\ in ribosomes
 
 42. To obtain exotoxins of some microorganisms, these microorganisms are inoculated into liquid nutrient medium, where microbial cultivation occurs and toxins are produced. At a certain stage it is necessary to remove the microbial cells from the medium, that is, to separate the toxins from microbes. What method should be applied in this case?
-*a. Bacteria-excluding filters
+a. Ultraviolet irradiation
 b. Disinfectants (chloramine)
 c. Autoclaving
-d. Boiling
-e. Ultraviolet irradiation
+d. Bacteria-excluding filters
+e. Boiling
 
 43. A doctor has prescribed a nonsteroidal anti-inflammatory drug to relieve inflammation and pain syndrome. Name this drug:
 a. Fentanyl
-b. Diclofenac sodium
+*b. Diclofenac sodium
 c. Paracetamol
 d. Glibenclamide
 e. Loratadine
@@ -328,11 +328,11 @@ d. Coagulation
 e. Thixotropy
 
 48. The third analitycal group of cations (acid-base classification) includes  $Ca^{2+$, $Sr^{2+$, $Ba^{2+$. What acid can function as a precipitator agent (group reagent) for these cations?
-a. $HCI$
-b. $HCIO_4$
-*c. $H_2SO_4$
-d. $HNO_3$
-e. $CH_3COOH$
+a. $H_2SO_4$
+b. $CH_3COOH$
+c. $HNO_3$
+d. $HCI$
+e. $HCIO_4$
 
 49. During bacteriology of the feces of a patient with diarrhea, a pure culture of rod-shaped, slightly bent microorganisms was isolated. In the microslide, these microorganisms resemble schools of fish. Their inoculation on alkaline media (alkaline peptone water) results in formation of a blue-tinted film after 6 hours. What pathogen has such properties?
 *a. Vibrio cholerae
@@ -356,11 +356,11 @@ d. Адсорбційної
 *e. Розподільної
 
 52. The second stage of detoxification involves joining certain chemical compounds with functional groups of toxins. Select one such compound:
-a. Cholesterol
-b. Higher fatty acids
-c. Pyruvate
-*d. Glucuronic acid
-e. Glucose
+a. Glucuronic acid
+b. Glucose
+c. Cholesterol
+d. Higher fatty acids
+e. Pyruvate
 
 53. For the symptomatic treatment of diarrhea, the doctor prescribed the patient a drug that inhibits intestinal peristalsis after making sure that the patient's diarrhea was of non-infectious origin. What drug was prescribed in this case?
 a. Mannitol
@@ -372,30 +372,30 @@ e. Dexamethasone
 54. The bacterial culture obtained from a patient does not grow when exposed to oxygen. Conditions suitable for bacterial culture growth can be created in:
 a. Pasteur oven
 b. Oxidative medium
-c. Serum-supplemented medium
-*d. Anaerobic culture jar
+c. Anaerobic culture jar
+d. Serum-supplemented medium
 e. Krotov apparatus
 
 55. A patient demonstrates symmetrical dermatitis on the palms. A doctor made a diagnosis of pellagra. What vitamin deficiency can result in such symptoms?
-a. Cobalamin
-b. Folic acid
-c. Ascorbic acid
-*d. Nicotinic acid
+a. Ascorbic acid
+b. Nicotinic acid
+c. Folic acid
+d. Cobalamin
 e. Cholecalciferol
 
 56. Which of the listed plants is a bush with imparipinnate leaves, decussate leaf arrangement, and juicy black fruits?
-a. Ledum palustre
+a. Sambucus nigra
 b. Arctostaphylos uva-ursi
-c. Urtica dioica
-*d. Sambucus nigra
-e. Chelidonium majus
+c. Ledum palustre
+d. Chelidonium majus
+e. Urtica dioica
 
 57. What drug should be prescribed to a patient with bronchospasm?
-a. Vicasol (Menadione)
-b. Oxytocin
-c. Insulin
-d. Bisacodyl
-*e. Salbutamol
+a. Salbutamol
+b. Insulin
+c. Vicasol (Menadione)
+d. Oxytocin
+e. Bisacodyl
 
 58. A woman, who works at a factory that produces phenylhydrazine, came to a hospital with complaints of general weakness, dizziness, and drowsiness. Her blood has signs of anemia with high levels of reticulocytosis, anisocytosis, and poikilocytosis; isolated normocytes are present in the woman's blood. What type of anemia is it?
 a. Aplastic anemia
@@ -406,17 +406,17 @@ e. Protein-deficiency anemia
 
 59. An analytical chemist performs a qualitative analysis of cations that belong to the sixth analytical group. If nickel ions are processed with Chugaiev's reagent (dimethylglyoxime), a colored compound is produced. What is the color of the resulting compound?
 a. Violet
-b. Red
+*b. Red
 c. Yellow
 d. Blue
 e. Green
 
 60. What parameter takes into account the deviation of the properties of a real solution from an ideal one?
-*a. Activity
-b. Fugacity
-c. Degree of dissociation
-d. Isotonic coefficient
-e. Concentration
+a. Concentration
+b. Activity
+c. Fugacity
+d. Degree of dissociation
+e. Isotonic coefficient
 
 61. In the roots of primary structure, the nutrient reserves are stored in the:
 *a. Mesodermis
@@ -426,11 +426,11 @@ d. Central axial cylinder
 e. Endodermis
 
 62. In order to carry out the silver cations identification, HCl was added to the solution. Later, the formed solution was followed by adding  the solution of ammonia. Specify which of the below-mentioned compounds are formed in such case?
-a. $[Ag(NH_3)_3]Cl$
-b. AgOH
-c. $AgCl$
-*d. $[Ag(NH_3)_2]Cl$
-e. $[Ag_2(NH_3)_3]Cl$
+a. $[Ag(NH_3)_2]Cl$
+b. $AgCl$
+c. $[Ag_2(NH_3)_3]Cl$
+d. $[Ag(NH_3)_3]Cl$
+e. AgOH
 
 63. A human is immune to the plague of cattle and dogs. What type of immunity is it?
 a. Natural active
@@ -464,7 +464,7 @@ e. Microfungi
 a. Levine formulation (eosin methylene blue agar)
 b. Egg-yolk salt agar
 c. Endo agar
-d. Blood agar
+*d. Blood agar
 e. Ploskirev agar
 
 68. To preserve valuable varietal qualities of peppermint, the optimal method of its propagation was chosen. What method is it?
@@ -484,7 +484,7 @@ d. Circulatory hypoxia
 70. What type of fruit is characteristic of Atropa belladonna?
 a. Silique
 b. Legume
-c. Berry
+*c. Berry
 d. Hesperidium
 e. Capsule
 
@@ -496,17 +496,17 @@ d. Urates
 *e. Oxalates
 
 72. What cation of the third analytical group can be precipitated using the group reagent H_2SO_4 only in the presence of ethanol (binds water and concentrates the solution)?
-a. K^+
-*b. Са^2+
-c. Na^+
-d. Sr^2+
+a. Sr^2+
+b. Na^+
+c. Са^2+
+d. K^+
 e. Ba^2+
 
 73. Який із патогенетичних факторів відіграє провідну роль у розвитку набряків у пацієнтів після тривалого голодування?
-a. Підвищення онкотичного тиску в тканинах
-b. Підвищення осмотичного тиску інтерстиціальної рідини
-*c. Зниження онкотичного тиску крові
-d. Зниження осмотичного тиску крові
+a. Зниження онкотичного тиску крові
+b. Підвищення онкотичного тиску в тканинах
+c. Зниження осмотичного тиску крові
+d. Підвищення осмотичного тиску інтерстиціальної рідини
 e. Зниження гідростатичного тиску крові
 
 74. What can be used to distinguish formic acid from acetic acid?
@@ -518,7 +518,7 @@ d. $H_2SO_4$
 
 75. In the course of an experiment in the mesenteric vein of a toad a trombus was created with a crystal of common salt. What processes occurred during the first stage of trombus formation?
 a. Production of fibrin monomer
-b. Adhesion, aggregation, agglutination of platelets
+*b. Adhesion, aggregation, agglutination of platelets
 c. Production of thrombin
 d. Production of fibrin polymer
 e. Production of active thromboplastin
@@ -531,10 +531,10 @@ d. Anthracene
 e. Benzene
 
 77. Caffeine is one of the alkaloids contained in tea and coffee. Caffeine is contraindicated in case of:
-a. Migraine
-*b. Essential hypertension
-c. Depression of nervous activity
-d. Hypotension
+a. Essential hypertension
+b. Hypotension
+c. Migraine
+d. Depression of nervous activity
 e. Addiction
 
 78. Synthesis of a medicinal substance occurs in an isolated system. What is a direction criterion of spontaneous processes?
@@ -552,7 +552,7 @@ d. Colestipol
 e. Probucol
 
 80. A patient with gingivitis was prescribed oral cavity irrigation with 0.02% potassium permanganate solution. What group of antiseptics does this drug belong to?
-a. Oxidants
+*a. Oxidants
 b. Detergents
 c. Nitrofurans
 d. Alcohols
@@ -573,10 +573,10 @@ d. Mannose
 e. Arabinose
 
 83. A patient, who has been suffering from chronic glomerulonephritis for the last 4 years, presents with a large amount of protein (4g/L) that appeared in the urinalysis. The levels of triglycerides and cholesterol increased in the patient's blood. What syndrome has complicated the course of the main disease in this case?
-a. Toxic
+a. Hypertensive
 b. Asthenic
-c. Hypertensive
-*d. Nephrotic
+c. Toxic
+d. Nephrotic
 e. Inflammatory
 
 84. A patient, who was prescribed famotidine for peptic ulcer disease, came to a pharmacy. What mechanism underlies the action of this medicine?
@@ -609,21 +609,21 @@ e. Saucer-shaped
 
 88. What titrimetric method of analysis uses both external and internal indicators?
 a. Argentometry
-b. Permanganatometry
-c. Complexonometry
-*d. Nitritometry
-e. Alkalimetry
+b. Alkalimetry
+c. Permanganatometry
+d. Nitritometry
+e. Complexonometry
 
 89. In medicine and pharmacy, such phenomena as adsorption, wetting, adhesion, etc. can be observed. What are they called?
 a. Physico-chemical phenomena
 b. Electrokinetic phenomena
-c. Superficial phenomena
+*c. Superficial phenomena
 d. Optical phenomena
 e. Molecular-kinetic phenomena
 
 90. After the examination, the patient was diagnosed with typhus. What is the route of transmission of this disease?
 a. Vertical transmission
-b. Vector-borne transmission
+*b. Vector-borne transmission
 c. Parenteral transmission
 d. Fecal-oral transmission
 e. Airborne droplet transmission
@@ -657,25 +657,25 @@ d. Monandrous
 e. Unisexual
 
 95. A patient complains of loss of appetite, weight loss, weakness, and abdominal pain. Laboratory blood test shows the following: Hb --- 90 g/L; erythrocytes --- $2.0 · 10^{12$/L; color index --- 1.4. B₁₂ deficiency anemia has been diagnosed. What substance is deficient in this patient, causing the anemia?
-*a. Castle factor
-b. Hydrochloric acid
-c. Pepsin
-d. Secretin
-e. Renin
+a. Pepsin
+b. Secretin
+c. Castle factor
+d. Renin
+e. Hydrochloric acid
 
 96. In what pair of substances the both of them form a precipitate of metallic silver when Tollens reagent is added (during heating)?
 a. Propanol and formic acid
-b. Propanal and formic acid
+*b. Propanal and formic acid
 c. Propanal and acetic acid
 d. Acetic acid and formic acid
 e. Ethanol and formic acid
 
 97. A patient has been diagnosed with acute pancreatitis. For diagnostic purposes, it is necessary to measure the activity of a certain enzyme in the patient's blood. What enzyme is it?
-a. Lactate dehydrogenase
-b. Pepsin
-*c. Amylase
-d. Creatine kinase
-e. Aldolase
+a. Amylase
+b. Creatine kinase
+c. Aldolase
+d. Pepsin
+e. Lactate dehydrogenase
 
 98. The patient is presented  to the hospital with the phenomena of growing respiratory failure. He has clinical signs of bilateral subtotal pneumonia. The clinical diagnosis is confirmed by X-ray examination. What type of respiratory failure does this patient most likely have?
 a. Thoracic diaphragm
@@ -695,7 +695,7 @@ e. Cytochrome C reductase
 a. Brassicaceae
 b. Lamiaceae
 c. Rosaceae
-d. Polygonaceae
+*d. Polygonaceae
 e. Fabaceae
 
 101. In snake venom there is a substance that causes erythrocyte hemolysis when it is introduced into a human organism. Blood test revealed a large amount of lysolecithin (lysophosphatidylcholine). What enzyme leads to accumulating lysolecithin in blood?
@@ -708,9 +708,9 @@ e. Phospholipase D
 102. What drug should not be prescribed for the treatment of arterial hypertension in a patient with gout?
 a. Atenolol
 b. Amlodipine
-c. Enalapril
-d. Cozaar (Losartan)
-*e. Hydrochlorothiazide
+c. Cozaar (Losartan)
+d. Hydrochlorothiazide
+e. Enalapril
 
 103. What common property of cation compounds $Al^{3+$, $Zn^{2+$, $Cr^{3+$, $Sn^{2+$ unites them within the IV analytical group (acid-base classification)?
 a. Solubility of hydroxides in an excess ammonia solution
@@ -736,7 +736,7 @@ d. Progesterone
 106. What pair of compounds can be classified as functional group isomers?
 a. Pentene-1 and pentene-2
 b. Benzene and methylbenzene
-c. Propanal and propanone
+*c. Propanal and propanone
 d. Hexane and cyclohexane
 e. Butane and isobutane
 
@@ -773,7 +773,7 @@ a. Coordination catalysis
 b. Gas-phase homogeneous catalysis
 c. Acid-base catalysis
 d. Redox catalysis
-e. Enzyme catalysis
+*e. Enzyme catalysis
 
 112. Water samples were received by a bacteriological laboratory for determining their coli index. What is the coli index?
 a. Number of coliphages in 1 liter of water
@@ -828,7 +828,7 @@ e. Decreased osmotic blood pressure
 a. Альмагель
 b. Алохол
 c. Омепразол
-d. Фамотидин
+*d. Фамотидин
 e. Гастроцепін
 
 120. Gastric herbal tea contains oval brown lignified "cones" up to 1.5 cm long, which are:
@@ -860,11 +860,11 @@ d. Resistant
 e. Transitory
 
 124. Surfactants are compounds that lower the surface tension (or interfacial tension) between two liquids, between a gas and a liquid, or between a liquid and a solid. Which of the following substances exhibits the properties of a surfactant at the air-water interface?
-a. ---
-b. HCl
-c. Urea
-*d. Valeric acid
-e. $NaOH$
+a. HCl
+b. $NaOH$
+c. ---
+d. Urea
+e. Valeric acid
 
 125. A patient with Cushing syndrome has persistent hyper- \\ glycemia and glucosuria. In this case, increased synthesis and secretion of a certain hormone can be observed. What hormone is it?
 *a. Cortisol
@@ -889,10 +889,10 @@ d. Replication activation
 
 128. Select the halogenated antiseptic that would be preferable for a child to pack in the first aid kit, when going to a summer camp:
 a. Brilliant green
-b. Formaldehyde solution
-*c. Iodine alcoholic solution
-d. Copper sulfate
-e. Methylene blue
+b. Copper sulfate
+c. Iodine alcoholic solution
+d. Methylene blue
+e. Formaldehyde solution
 
 129. Streptomycin like other aminoglycosides, by binding to the 30S subunit of ribosomes, prevents the attachment of formylmethionyl-tRNA) What process is being disrupted as a result of this effect?
 *a. Translation initiation
@@ -902,11 +902,11 @@ d. Replication initiation
 e. Translation termination
 
 130. To determine the qualitative content of a drug, a sample of the analyte solution was processed with 2M solution of HCl. A white precipitate, soluble in aqueous ammonia solution, was formed. This analytical effect indicates the presence of the following cations:
-a. Mercury(I) cations
+a. Silver(I) cations
 b. Mercury(II) cations
 c. Lead(II) cations
-*d. Silver(I) cations
-e. Tin(II) cations
+d. Tin(II) cations
+e. Mercury(I) cations
 
 131. What adsorbent is used as a suspension to relieve the intoxication caused by alkaloid poisoning?
 a. Bentonite
@@ -923,7 +923,7 @@ d. Mechanical energy
 e. Nuclear energy
 
 133. In E) coli cells, the synthesis of pyrimidine nucleotides occurs according to the scheme of the metabolic pathway: $CO_2 + NH_3$ + 2ATP> S1> S2> UTP> CTP. When CTP concentration in the cell increases, the synthesis of pyrimidine nucleotides stops. What type of regulation is described here?
-a. Allosteric regulation
+*a. Allosteric regulation
 b. Enzyme molecule phosphorylation
 c. Attachment of inhibitor proteins
 d. Partial proteolysis
@@ -932,7 +932,7 @@ e. Detachment of inhibitor proteins
 134. An analytical chemist conducts a qualitative analysis of cations of the second group. What reagent can be used to separate lead chloride from chlorides of other cations of the second group?
 a. Hydrochloric acid
 b. Sodium hydroxide
-c. Hot water
+*c. Hot water
 d. Sodium chloride
 e. Ammonia
 
@@ -962,21 +962,21 @@ a. Stenotic
 b. Biot
 c. Gasping
 d. Cheyne-Stokes
-e. Kussmaul
+*e. Kussmaul
 
 139. What transformation is accompanied by an increase in entropy?
 a. N_2(gas) + O_2(gas) = 2NO(gas)
-b. NH_4-NO_2-(solid) = N_2(gas) + 2H_2O(gas)
+*b. NH_4-NO_2-(solid) = N_2(gas) + 2H_2O(gas)
 c. С_2H_2(gas) + H_2(gas) = С_2Н_4(gas)
 d. 2Н_2S (gas) + 3О_2(gas) = 2SO_2(gas) + 2H_2O(gas)
 e. CaO(solid) + CO_2(gas) = CaCO_3(solid)
 
 140. What cations belong to the IV analytical group according to the acid-base classification?
 a. Calcium, strontium, barium, potassium, bismuth
-b. Silver, lead, nickel, potassium, barium, bismuth
-*c. Aluminum, zinc, chromium(II), tin(II), tin(IV), arsenic(III), arsenic(V)
+b. Aluminum, zinc, chromium(II), tin(II), tin(IV), arsenic(III), arsenic(V)
+c. Sodium, potassium, ammonium, silver, lead
 d. Magnesium, calcium, strontium, barium
-e. Sodium, potassium, ammonium, silver, lead
+e. Silver, lead, nickel, potassium, barium, bismuth
 
 141. Preparations of colloid silver -- Protargol (silver proteinate) and Collargol (colloid silver) -- contain proteine compounds besides their active substance. What is the function of proteins in these preparations?
 a. Decreased side effects
@@ -986,7 +986,7 @@ d. Improved preparation technology
 e. Increased storage time
 
 142. What value determines the degree to which foreign ions can influence the potential of an ion-selective electrode?
-a. Selectivity coefficient
+*a. Selectivity coefficient
 b. Activity coefficient
 c. Osmotic coefficient
 d. Electrical conductivity \\ coefficient
@@ -1014,11 +1014,11 @@ d. Kidneys
 *e. Liver
 
 146. Який препарат належить до групи антихолінестеразних засобів?
-*a. Прозерин (неостигмін)
-b. Ацетилхолін
-c. Ізонітрозин
-d. Дитилін (суксаметонію хлорид)
-e. Дипіроксим
+a. Ацетилхолін
+b. Прозерин (неостигмін)
+c. Дитилін (суксаметонію хлорид)
+d. Дипіроксим
+e. Ізонітрозин
 
 147. What cation can be detected with Chugaiev's agent (Dimethylglyoxime)?
 a. $Ca^{2+$
@@ -1070,11 +1070,11 @@ d. Concentration of hydrogen ions
 e. Concentration of hydroxyl ions
 
 154. The fruit is a bright-red juicy follicetum with a sweet-sour taste. Its seeds are kidney-shaped and smell similar to lemon. Such fruits belong to:
-*a. Schisandra chinensis
+a. Citrus limon
 b. Malus domestica
-c. Viburnum opulus
-d. Sorbus aucuparia
-e. Citrus limon
+c. Sorbus aucuparia
+d. Schisandra chinensis
+e. Viburnum opulus
 
 155. A patient with signs of mercury poisoning has been delivered into an admission room. What antidote should be prescribed in this case?
 *a. Unithiol
@@ -1088,7 +1088,7 @@ a. Sodium nitroprusside test
 b. Ninhydrin test
 c. Xanthoproteic test
 d. Lead acetate test
-e. Biuret test
+*e. Biuret test
 
 157. What physico-chemical method is used to determine the pH of solutions for injections?
 a. Amperometry
@@ -1098,18 +1098,18 @@ d. Electrolysis
 e. Polarography
 
 158. To stop a fever, the patient was prescribed a centrally acting non-narcotic analgesic that, unlike the other drugs in this group, has relatively weak anti-inflammatory effect. What drug is it?
-a. Paracetamol
+*a. Paracetamol
 b. Indomethacin
 c. Aspirin
 d. Analgin (Metamizole)
 e. Nurofen (Ibuprofen)
 
 159. Від якого показника залежть коагулююча здатність електроліту?
-*a. Заряду іона-коагулятора
-b. Об’єму золю
-c. Ступеня дисперсності золю
-d. Густини золю
-e. Концентрації електроліту
+a. Густини золю
+b. Заряду іона-коагулятора
+c. Об’єму золю
+d. Концентрації електроліту
+e. Ступеня дисперсності золю
 
 160. Preventive examination revealed an enlargement of the patient's thyroid gland, exophthalmos, high body temperature, and an elevated heart rate of 110/min. What hormone levels should be measured in the patient's blood in this case?
 a. Insulin
@@ -1134,7 +1134,7 @@ e. Centaurea cyanus
 
 163. A patient with gout has been prescribed allopurinol. What is the mechanism of action of this drug?
 a. Inhibition of COX-2 enzyme
-b. Inhibition of xanthine oxidase enzyme, inhibition of uric acid synthesis
+*b. Inhibition of xanthine oxidase enzyme, inhibition of uric acid synthesis
 c. Activation of microsomal oxidation in the liver
 d. Intensification of uric acid excretion by the kidneys
 e. Stimulation of uric acid breakdown
@@ -1148,17 +1148,17 @@ d. Capsule
 
 165. The patient, who suffers from rheumatoid arthritis and concomitant duodenal ulcer should be prescribed a non-steroidal anti-inflammatory drug. What drug is most suitable in this case?
 a. Metamizole
-*b. Celecoxib
-c. Diclofenac sodium
-d. Paracetamol
+b. Paracetamol
+c. Celecoxib
+d. Diclofenac sodium
 e. Acetylsalicylic acid
 
 166. Various types of immunobiological agents are used for immunoprophylaxis of infectious diseases. What type of prophylaxis involves the use of immune sera and gamma globulins?
-a. Specific active
-b. Immunotropic
-c. Non-specific
-d. General
-*e. Specific passive
+a. General
+b. Specific passive
+c. Specific active
+d. Non-specific
+e. Immunotropic
 
 167. В яких структурах рослинних клітин накопичується вторинний крохмаль?
 a. Вакуолях
@@ -1168,7 +1168,7 @@ c. Протеопластах
 e. Олеопластах
 
 168. A 10-year-old child has height of 178 cm and body mass of 67 kg. These presentations are caused by the functional disturbance of the:
-a. Pituitary gland
+*a. Pituitary gland
 b. Adrenal glands
 c. Gonads
 d. Thyroid gland
@@ -1178,7 +1178,7 @@ e. Parathyroid glands
 a. Panicle
 b. Capitulum
 c. Spadix
-d. Spike
+*d. Spike
 e. Thyrse
 
 170. What substances can be determined by means of substitution titration using the iodometric method?
@@ -1190,7 +1190,7 @@ e. Saturated hydrocarbons
 
 171. What type of indicators is used in the acid-base method of quantitative analysis?
 a. Chemiluminescent indicators
-b. pH indicators
+*b. pH indicators
 c. Redox indicators
 d. Metallochromic indicators
 e. Adsorption indicators
@@ -1199,7 +1199,7 @@ e. Adsorption indicators
 a. Tetraploid
 b. Triploid
 c. Polyploid
-d. Haploid
+*d. Haploid
 e. Diploid
 
 173. Cosmetic cream against mimic wrinkles contains "vitamin Q10" --- ubiquinone. What is the metabolic role of this vitamin-like substance?
@@ -1210,7 +1210,7 @@ d. It regulates differentiation of epithelial cells
 *e. It is a component of the mitochondrial respiratory chain
 
 174. Select a nucleophile among the particles and molecules given below.
-a. ddotNH_3
+*a. ddotNH_3
 b. H^+
 c. AlCl_3
 d. NO_2^+
@@ -1225,7 +1225,7 @@ e. Chloroform
 
 176. За яким механізмом відбувається приєднання Br_2 до пропену?
 a. S_N
-b. А_Е
+*b. А_Е
 c. S_E
 d. S_R
 e. A_N
@@ -1252,11 +1252,11 @@ d. Каротин
 e. Стеркобіліноген
 
 180. Helmholtz energy is the direction criterion of an arbitrary process at a constant:
-a. Entropy and pressure
-b. Temperature and pressure
+a. Temperature and volume
+b. Entropy and volume
 c. Internal energy and volume
-*d. Temperature and volume
-e. Entropy and volume
+d. Entropy and pressure
+e. Temperature and pressure
 
 181. The biological study of spores and pollen revealed tetrahedral spores with a semi-circular base and reticular surface in the pollen. There spores belong to:
 *a. Lycopodiophyta
@@ -1269,7 +1269,7 @@ e. Equisetiphyta
 a. Tubulopathy
 b. Acute renal failure
 c. Nephrotic syndrome
-d. Uremia
+*d. Uremia
 e. Renal colic
 
 183. Which of the listed species of medicinal plants is considered to be a weed?
@@ -1284,18 +1284,18 @@ a. Ethanol and hydrogen chloride
 b. Benzene and chlorine in the presence of $AlCl_3$
 c. Ethane and oxygen
 d. Ethylene and chlorine
-e. Ethane and chlorine in the light
+*e. Ethane and chlorine in the light
 
 185. After eating strawberries, a child developed itchy red spots on the skin (urticaria). What type of leukocytosis would be detected in this child?
 a. Monocytic
 b. Basophilic
 c. Neutrophilic
-d. Eosinophilic
+*d. Eosinophilic
 e. Lymphocytic
 
 186. For tetanus prevention, a toxin that has been neutralized with formalin (0.4%) at the temperature of 39°C for four weeks is used. What kind of preparation is it?
 a. Antitoxic serum
-b. Anatoxin
+*b. Anatoxin
 c. Inactivated vaccine
 d. Immunoglobulin
 e. Adjuvant
@@ -1329,7 +1329,7 @@ d. Combustion
 e. Neutralization
 
 191. During examination it appeared that the patient's sclera and oral mucosa are icteric. What biochemical blood value can be expected to be increased?
-a. Bilirubin
+*a. Bilirubin
 b. Amylase
 c. Albumin
 d. Cholesterol
@@ -1364,11 +1364,11 @@ d. Monadelphous
 e. Diadelphous
 
 196. The method consisting in removal of low-molecular impurities from colloidal systems and high-molecular compound solutions by semipermeable membrane diffusion is called:
-a. Ultrafiltration
-b. Decantation
-c. Compensatory dialysis
+a. Decantation
+b. Dialysis
+c. Ultrafiltration
 d. Electrodialysis
-*e. Dialysis
+e. Compensatory dialysis
 
 197. Pathogenic bacteria in the human body can form structures that protect them from phagocytosis. Name these structures.
 a. Mesosomes
@@ -1427,11 +1427,11 @@ d. Exonuclease
 e. Endonuclease
 
 205. What drug is a non-selective beta-blocker?
-*a. Anaprilin (Propranolol)
-b. Adrenaline hydrochloride
+a. Metoprolol
+b. Prozerin (Neostigmine)
 c. Atropine
-d. Prozerin (Neostigmine)
-e. Metoprolol
+d. Adrenaline hydrochloride
+e. Anaprilin (Propranolol)
 
 206. Sulfanilamides contain a primary aromatic amino group in their structure. What method is used for quantitative determination of these compounds?
 a. Permanganatometry
@@ -1455,39 +1455,39 @@ c. Sodium thiosulfate solution
 e. Potassium permanganate solution
 
 209. A 50-year-old patient in a poor condition was presented to the hospital. Objectively, the skin and visible mucous membranes are cyanotic, arterial blood saturation --- 88%, NiBP --- 90/60 mm Hg, pulse is 117 per minute, respiratory rate is 22 per minute. From the history it is known that the patient suffers from chronic heart failure. Which of the following types of hypoxia is most likely to develop in this case?
-a. Hypoxic
-b. Hemic
-c. Tissue
+a. Tissue
+b. Hypoxic
+c. Circulatory
 d. Anemic
-*e. Circulatory
+e. Hemic
 
 210. Який вид лікарських речовин належить до групи бур'янів?
-a. Mentha piperita
-b. Convallaria majalis
-*c. Plantago major
-d. Papaver somniferum
+a. Convallaria majalis
+b. Mentha piperita
+c. Papaver somniferum
+d. Plantago major
 e. Salvia officinalis
 
 211. Glycyrrhiza glabra L., a valuable medicinal plant, is widely used in official and folk medicine. What part of the plant is harvested?
-a. Inflorescences
-*b. Roots with rhizomes
-c. Leaves
-d. Seeds
-e. Grass
+a. Seeds
+b. Leaves
+c. Roots with rhizomes
+d. Grass
+e. Inflorescences
 
 212. A patient developed neuritis of the facial nerve after five months of tuberculosis treatment. What drug has caused this side effect?
 a. Ceftriaxone
 b. Para-aminosalicylate sodium
 c. Rifampicin
 d. Benzylpenicillin sodium
-e. Isoniazid
+*e. Isoniazid
 
 213. A patient presents with hypoxia. What metabolic process activates when oxygen supply is insufficient?
 a. Tricarboxylic acid cycle
 b. Oxidative decarboxylation of keto acids
 c. Pentose-phosphate pathway
 d. Urea cycle
-e. Anaerobic glycolysis
+*e. Anaerobic glycolysis
 
 214. To assess the bacterial contamination of the soil, where humans or animals are the source of contamination, the presence of sanitary indicator microorganisms must be determined. What microorganism indicates old fecal contamination of the soil?
 a. Streptococcus faecalis

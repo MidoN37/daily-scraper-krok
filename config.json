@@ -56,6 +56,7 @@
     "Крок 2 Лабораторна діагностика (UA).txt",
     "Крок 2 Медицина (UA) (від 2026 року).txt",
     "Крок 2 Медицина (UA).txt",
+    "Крок 2 Медична психологія (UA) (від 2026 року).txt",
     "Крок 2 Медична психологія (UA).txt",
     "Крок 2 Педіатрія (UA) (від 2026 року).txt",
     "Крок 2 Педіатрія (UA).txt",
@@ -200,8 +201,9 @@
     "Krok 1 Medicine (EN) (booklets).txt": "medenbook",
     "КРОК 1 Medicine (EN) (від 2026 року).txt": "12345",
     "Krok 2 Medicine (EN) (від 2026 року).txt": "meden2new",
-    "Krok 2 Stomatology (EN) (від 2026 року).txt": "12345"
+    "Krok 2 Stomatology (EN) (від 2026 року).txt": "12345",
+    "Крок 2 Медична психологія (UA) (від 2026 року).txt": "12345"
   },
   "active_folder": "Merged/TXT",
-  "last_updated": "02-01-2026 (Master Database)"
+  "last_updated": "03-01-2026 (Master Database)"
 }
